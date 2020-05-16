@@ -19,7 +19,13 @@ const PostSchema = mongoose.Schema({
         type: String,
         required: true
     },
-    origin: {
+    originCity: {
+        type: String,       
+    },
+    originState: {
+        type: String,
+    },
+    originCountry: {
         type: String,
     },
     startDate: {
