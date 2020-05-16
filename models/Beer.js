@@ -12,11 +12,14 @@ const PostSchema = mongoose.Schema({
     type: {
         type: String,
     },
+    ingredients: {
+        type: String,
+    },
     brewer: {
         type: String,
         required: true
     },
-    founded: {
+    started: {
         type: Date,
         default: Date.now
     }
