@@ -10,17 +10,17 @@ const cors = require('cors');
 require('dotenv/config');
 
 // Requiring routes
-const postsRoute = require('./routes/beer.js');
-const postsRoute = require('./routes/cider.js');
-const postsRoute = require('./routes/mead.js');
-const postsRoute = require('./routes/vodka.js');
-const postsRoute = require('./routes/whiskey.js');
-const postsRoute = require('./routes/gin.js');
-const postsRoute = require('./routes/brandy.js');
-const postsRoute = require('./routes/rum.js');
-const postsRoute = require('./routes/tequila.js');
-const postsRoute = require('./routes/absinthe.js');
-const postsRoute = require('./routes/everclear.js');
+const beerRoute = require('./routes/beer.js');
+const ciderRoute = require('./routes/cider.js');
+const meadRoute = require('./routes/mead.js');
+const vodkaRoute = require('./routes/vodka.js');
+const whiskeyRoute = require('./routes/whiskey.js');
+const ginRoute = require('./routes/gin.js');
+const brandyRoute = require('./routes/brandy.js');
+const rumRoute = require('./routes/rum.js');
+const tequilaRoute = require('./routes/tequila.js');
+const absintheRoute = require('./routes/absinthe.js');
+const everclearRoute = require('./routes/everclear.js');
 
 const app = express();
 // app.use(cors());      <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
@@ -34,12 +34,17 @@ app.use('/vodka', vodkaRoute);
 app.use('/whiskey', whiskeyRoute);
 app.use('/gin', ginRoute);
 app.use('/brandy', brandyRoute);
-app.use('/rum', rumrRoute);
+app.use('/rum', rumRoute);
 app.use('/tequila', tequilaRoute);
 app.use('/absinthe', absintheRoute);
 app.use('/everclear', everclearRoute);
 
-postsRoute.get('/beer', (req, res) => {
+app.get('/', (req, res) => {
+    res.send("THIS IS THE HOME PAGE!");
+})
+
+beerRoute.get('/beer', (req, res) => {
+    console.log("BEER PAGE");
     res.send("We are on beer");
 })
 
@@ -49,4 +54,5 @@ mongoose.connect(
     console.log("connection to db works!");
 });
 
+// Start listening to port 3000
 app.listen(3000);
