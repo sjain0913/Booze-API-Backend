@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Post = require('../models/Post');
+const Whiskey = require('../models/Whiskey');
 
 // ROUTES
 // to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
@@ -8,7 +8,7 @@ const Post = require('../models/Post');
 // gets back all the posts
 router.get('/', async (req, res) => {
     try{
-        const posts = await Post.find();
+        const posts = await Whiskey.find();
         res.json(posts);
     } catch(e) {
         res.json({message: e});
@@ -17,7 +17,7 @@ router.get('/', async (req, res) => {
 
 // submits a post
 router.post('/', async(req, res) => {
-    const post = new Post({
+    const post = new Whiskey({
         title: req.body.title,
         description: req.body.description
     });
@@ -33,7 +33,7 @@ router.post('/', async(req, res) => {
 // get specific post
 router.get('/:postID', async (req,res) => {
     try{
-        const post = await Post.findById(req.params.postID);
+        const post = await Whiskey.findById(req.params.postID);
         res.json(post);
     } catch(e) {
         res.json({message: e});
@@ -44,7 +44,7 @@ router.get('/:postID', async (req,res) => {
 // delete a post
 router.delete('/:postID', async (req,res) => {
     try{
-        const removedPost = await Post.remove({_id: req.params.postID});
+        const removedPost = await Whiskey.remove({_id: req.params.postID});
         res.json(removedPost);
     } catch(e) {
         res.json({message: e});
@@ -54,7 +54,7 @@ router.delete('/:postID', async (req,res) => {
 // update a post
 router.patch('/:postID', async (req,res) => {
     try {
-        const updatedPost = await Post.updateOne(
+        const updatedPost = await Whiskey.updateOne(
             {_id: req.params.postID},
             {$set: {title: req.body.title}}
             );
