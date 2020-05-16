@@ -43,15 +43,10 @@ app.get('/', (req, res) => {
     res.send("THIS IS THE HOME PAGE!");
 })
 
-beerRoute.get('/beer', (req, res) => {
-    console.log("BEER PAGE");
-    res.send("We are on beer");
-})
-
 // Check if connected to MongoDB
 mongoose.connect(
     process.env.DB_CONNECTION, () => {
-    console.log("connection to db works!");
+    console.log("Connection to MongoDB works!");
 });
 
 // Start listening to port 3000

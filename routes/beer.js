@@ -8,22 +8,22 @@ const Beer = require('../models/Beer');
 // gets back all the posts
 router.get('/', async (req, res) => {
     try{
-        const posts = await Beer.find();
-        res.json(posts);
+        const beers = await Beer.find();
+        res.json(beers);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// submits a beer
 router.post('/', async(req, res) => {
-    const post = new Beer({
+    const beer = new Beer({
         title: req.body.title,
         description: req.body.description
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedBeer = await post.save();
+        res.json(savedBeer);
     } catch(e) {
         res.json({message: e});
     }
@@ -31,34 +31,34 @@ router.post('/', async(req, res) => {
 });
 
 // get specific post
-router.get('/:postID', async (req,res) => {
+router.get('/:beerID', async (req,res) => {
     try{
-        const post = await Beer.findById(req.params.postID);
-        res.json(post);
+        const beer = await Beer.findById(req.params.beerID);
+        res.json(beer);
     } catch(e) {
         res.json({message: e});
     }
 
 });
 
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// delete a beer
+router.delete('/:beerID', async (req,res) => {
     try{
-        const removedPost = await Beer.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedBeer = await Beer.remove({_id: req.params.beerID});
+        res.json(removedBeer);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// update a beer
+router.patch('/:beerID', async (req,res) => {
     try {
-        const updatedPost = await Beer.updateOne(
-            {_id: req.params.postID},
+        const updatedBeer = await Beer.updateOne(
+            {_id: req.params.beerID},
             {$set: {title: req.body.title}}
             );
-        res.json(updatedPost);
+        res.json(updatedBeer);
     } catch(e) {
         res.json({message: e});
     }
