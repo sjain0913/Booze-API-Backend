@@ -22,7 +22,7 @@ const PostSchema = mongoose.Schema({
     origin: {
         type: String,
     },
-    started: {
+    startDate: {
         type: Date,
         default: Date.now
     }
