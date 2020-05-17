@@ -2,10 +2,8 @@ const express = require('express');
 const router = express.Router();
 const Beer = require('../models/Beer');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// gets back all the beers
 router.get('/', async (req, res) => {
     try{
         const beers = await Beer.find();
@@ -14,6 +12,18 @@ router.get('/', async (req, res) => {
         res.json({message: e});
     }
 })
+
+// get specific beer by ID
+router.get('/:beerID', async (req,res) => {
+    try{
+        const beer = await Beer.findById(req.params.beerID);
+        res.json(beer);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// get
 
 // submits a beer
 router.post('/', async(req, res) => {
@@ -30,16 +40,7 @@ router.post('/', async(req, res) => {
 
 });
 
-// get specific post
-router.get('/:beerID', async (req,res) => {
-    try{
-        const beer = await Beer.findById(req.params.beerID);
-        res.json(beer);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
 
 // delete a beer
 router.delete('/:beerID', async (req,res) => {
