@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const PostSchema = mongoose.Schema({
+const BeerSchema = mongoose.Schema({
     name: {
         type: String,
         required: true,
@@ -9,7 +9,7 @@ const PostSchema = mongoose.Schema({
     concentration: {
         type: Number,
         required: true,
-        default: 100
+        default: 0
     },
     type: {
         type: String,
@@ -17,26 +17,36 @@ const PostSchema = mongoose.Schema({
         default: "Not Defined"
     },
     ingredients: {
-        type: String
+        type: String,
+        default: "Not Defined"
     },
     brewer: {
         type: String,
         required: true,
         default: "Not Defined"
     },
-    originCity: {
-        type: String,       
-    },
-    originState: {
+    origin: {
         type: String,
-    },
-    originCountry: {
-        type: String,
+        default: "Not Defined"  
     },
     startDate: {
         type: Date,
         default: Date.now
+    },
+    nutrition: {
+        type: Map,
+        of: Number,
+        default: {
+            calories: 0,
+            protein: 0,
+            carb: 0,
+            fat: 0,
+            cholestrol: 0,
+            sodium: 0,
+            sugar: 0
+        }
     }
+
 });
 
-module.exports = mongoose.model('Posts', PostSchema);
+module.exports = mongoose.model('Beer', BeerSchema);
