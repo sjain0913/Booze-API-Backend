@@ -1,4 +1,4 @@
-// Link: http://localhost:3000/posts
+// Link: http://localhost:3000/
 
 // Requiring modules
 const express = require('express');
@@ -28,19 +28,23 @@ app.use(bodyParser.json());
 
 // Routes
 app.use('/beer', beerRoute);
-app.use('/cider', ciderRoute);
-app.use('/mead', meadRoute);
-app.use('/vodka', vodkaRoute);
-app.use('/whiskey', whiskeyRoute);
-app.use('/gin', ginRoute);
-app.use('/brandy', brandyRoute);
-app.use('/rum', rumRoute);
-app.use('/tequila', tequilaRoute);
-app.use('/absinthe', absintheRoute);
-app.use('/everclear', everclearRoute);
+app.use('/api/cider', ciderRoute);
+app.use('/api/mead', meadRoute);
+app.use('/api/vodka', vodkaRoute);
+app.use('/api/whiskey', whiskeyRoute);
+app.use('/api/gin', ginRoute);
+app.use('/api/brandy', brandyRoute);
+app.use('/api/rum', rumRoute);
+app.use('/api/tequila', tequilaRoute);
+app.use('/api/absinthe', absintheRoute);
+app.use('/api/everclear', everclearRoute);
 
 app.get('/', (req, res) => {
-    res.send("THIS IS THE HOME PAGE!");
+    res.send("THIS IS THE APP PAGE!");
+})
+
+app.get('/api', (req, res) => {
+    res.send("THIS IS THE API PAGE!");
 })
 
 // Check if connected to MongoDB

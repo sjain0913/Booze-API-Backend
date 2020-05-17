@@ -17,21 +17,17 @@ const BeerSchema = mongoose.Schema({
         default: "Not Defined"
     },
     ingredients: {
-        type: String
+        type: String,
+        default: "Not Defined"
     },
     brewer: {
         type: String,
         required: true,
         default: "Not Defined"
     },
-    originCity: {
-        type: String,       
-    },
-    originState: {
+    origin: {
         type: String,
-    },
-    originCountry: {
-        type: String,
+        default: "Not Defined"  
     },
     startDate: {
         type: Date,
