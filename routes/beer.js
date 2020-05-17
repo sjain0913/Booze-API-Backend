@@ -3,8 +3,8 @@ const router = express.Router();
 const Beer = require('../models/Beer');
 
 // GETS
-// gets back all the beers
-router.get('/', async (req, res) => {
+// GET1: gets back all the beers
+router.get('/api', async (req, res) => {
     try{
         const beers = await Beer.find();
         res.json(beers);
@@ -13,7 +13,7 @@ router.get('/', async (req, res) => {
     }
 })
 
-// get specific beer by ID
+// GET2: get specific beer by ID
 router.get('/:beerID', async (req,res) => {
     try{
         const beer = await Beer.findById(req.params.beerID);
@@ -23,9 +23,8 @@ router.get('/:beerID', async (req,res) => {
     }
 });
 
-// get
-
-// submits a beer
+// POSTS
+// POST1: submits a beer
 router.post('/', async(req, res) => {
     const beer = new Beer({
         title: req.body.title,
@@ -41,8 +40,8 @@ router.post('/', async(req, res) => {
 });
 
 
-
-// delete a beer
+// DELETES
+// DELETE1: delete a beer
 router.delete('/:beerID', async (req,res) => {
     try{
         const removedBeer = await Beer.remove({_id: req.params.beerID});
@@ -52,7 +51,8 @@ router.delete('/:beerID', async (req,res) => {
     }
 })
 
-// update a beer
+// PATCHES
+// PATCH1: update a beer
 router.patch('/:beerID', async (req,res) => {
     try {
         const updatedBeer = await Beer.updateOne(
