@@ -27,7 +27,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Routes
-app.use('/beer', beerRoute);
+app.use('/api/beer', beerRoute);
 app.use('/api/cider', ciderRoute);
 app.use('/api/mead', meadRoute);
 app.use('/api/vodka', vodkaRoute);
@@ -45,10 +45,6 @@ app.get('/', (req, res) => {
 
 app.get('/api', (req, res) => {
     res.send("THIS IS THE API PAGE!");
-})
-
-app.get('/beer', (req, res) => {
-    res.send("beer page")
 })
 
 // Check if connected to MongoDB
