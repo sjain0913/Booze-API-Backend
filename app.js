@@ -47,6 +47,10 @@ app.get('/api', (req, res) => {
     res.send("THIS IS THE API PAGE!");
 })
 
+app.get('/beer', (req, res) => {
+    res.send("beer page")
+})
+
 // Check if connected to MongoDB
 mongoose.connect(
     process.env.DB_CONNECTION, () => {
