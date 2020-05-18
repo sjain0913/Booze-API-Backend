@@ -7,6 +7,9 @@ mongoose.set('useNewUrlParser', true);
 mongoose.set('useUnifiedTopology', true);
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const passport = require('passport');
+const BasicStrategy = require('passport-http').BasicStrategy;
+const bcryptjs = require('bcryptjs');
 require('dotenv/config');
 
 // Requiring routes
@@ -27,7 +30,7 @@ const app = express();
 app.use(bodyParser.json());
 
 // Routes
-app.use('/beer', beerRoute);
+app.use('/api/beer', beerRoute);
 app.use('/api/cider', ciderRoute);
 app.use('/api/mead', meadRoute);
 app.use('/api/vodka', vodkaRoute);
@@ -45,10 +48,6 @@ app.get('/', (req, res) => {
 
 app.get('/api', (req, res) => {
     res.send("THIS IS THE API PAGE!");
-})
-
-app.get('/beer', (req, res) => {
-    res.send("beer page")
 })
 
 // Check if connected to MongoDB
