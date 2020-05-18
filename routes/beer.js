@@ -6,8 +6,8 @@ const Beer = require('../models/Beer');
 // GET1: gets back all the beers
 router.get('/', async (req, res) => {
     try {
-        const beers = await Beer.find();
-        res.json(beers);
+        const allBeer = await Beer.find();
+        res.json(allBeers);
     } catch(e) {
         res.json({message: e});
     }
@@ -56,7 +56,7 @@ router.delete('/:beerID', async (req,res) => {
 // PATCH1: update a beer
 router.patch('/:beerID', async (req,res) => {
     try {
-        const updatedBeer = await Beer.updateOne(
+        const updatedBeer = await Beer.findOneAndUpdate(
             {_id: req.params.beerID},
             {$set: {name: req.body.name}}
             );

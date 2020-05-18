@@ -7,6 +7,9 @@ mongoose.set('useNewUrlParser', true);
 mongoose.set('useUnifiedTopology', true);
 const bodyParser = require('body-parser');
 const cors = require('cors');
+const passport = require('passport');
+const BasicStrategy = require('passport-http').BasicStrategy;
+const bcryptjs = require('bcryptjs');
 require('dotenv/config');
 
 // Requiring routes
