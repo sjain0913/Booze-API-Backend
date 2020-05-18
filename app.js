@@ -13,7 +13,7 @@ require('dotenv/config');
 
 // Requiring routes
 const beerRoute = require('./routes/beer.js');
-const beerScraper = require('./scrapers/beerScraper.js')
+const beerScraper = require('./scrapers/beerScraper.js');
 const ciderRoute = require('./routes/cider.js');
 const meadRoute = require('./routes/mead.js');
 const vodkaRoute = require('./routes/vodka.js');
