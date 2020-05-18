@@ -6,7 +6,7 @@ const Beer = require('../models/Beer');
 // GET1: gets back all the beers
 router.get('/', async (req, res) => {
     try {
-        const allBeer = await Beer.find();
+        const allBeers = await Beer.find();
         res.json(allBeers);
     } catch(e) {
         res.json({message: e});
@@ -43,7 +43,7 @@ router.post('/', async(req, res) => {
 
 // DELETES
 // DELETE1: delete a beer
-router.delete('/:beerID', async (req,res) => {
+router.delete('/:beerID',  async (req,res) => {
     try{
         const removedBeer = await Beer.remove({_id: req.params.beerID});
         res.json(removedBeer);

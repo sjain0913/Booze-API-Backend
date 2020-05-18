@@ -46,7 +46,6 @@ const BeerSchema = mongoose.Schema({
             sugar: 0
         }
     }
-
 });
 
-module.exports = mongoose.model('Beer', BeerSchema);
+module.exports = mongoose.model('Beer', BeerSchema, 'Beer');

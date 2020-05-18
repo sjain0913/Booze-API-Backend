@@ -8,8 +8,7 @@ mongoose.set('useUnifiedTopology', true);
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const passport = require('passport');
-const BasicStrategy = require('passport-http').BasicStrategy;
-const bcryptjs = require('bcryptjs');
+
 require('dotenv/config');
 
 // Requiring routes
@@ -43,11 +42,7 @@ app.use('/api/absinthe', absintheRoute);
 app.use('/api/everclear', everclearRoute);
 
 app.get('/', (req, res) => {
-    res.send("THIS IS THE APP PAGE!");
-})
-
-app.get('/api', (req, res) => {
-    res.send("THIS IS THE API PAGE!");
+    res.send("Please use /api/...");
 })
 
 // Check if connected to MongoDB
