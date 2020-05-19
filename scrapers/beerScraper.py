@@ -4,13 +4,13 @@ import json
 
 scraper = cloudscraper.create_scraper()
 
-for pageNumber in range(1,134):
+for pageNumber in range(1,411):
     f = open('beerURL.txt', 'a')
     print("Working on Page " + str(pageNumber) + " !")
     if pageNumber == 1:
-        page = scraper.get("https://drizly.com/beer/ale/ipa/c15")
+        page = scraper.get("https://drizly.com/beer/c2")
     else:
-        page = scraper.get("https://drizly.com/beer/ale/ipa/c15/" + "page" + str(pageNumber))
+        page = scraper.get("https://drizly.com/beer/c2/" + "page" + str(pageNumber))
     soup = BeautifulSoup(page.content, 'html.parser')
     occurences = soup.find_all('div', attrs={'data-integration-name':'react-component'})
     for occurence in range(len(occurences)):
