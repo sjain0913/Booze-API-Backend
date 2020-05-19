@@ -3,26 +3,31 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+import pickle
 import time
 
 driverPath = "C://Users//Sam//Documents//chromedriver.exe"
-
-driver = webdriver.Chrome(driverPath)
-driver.maximize_window()
+caps = webdriver.ChromeOptions()
+caps.add_argument('start-maximized')
+driver = webdriver.Chrome(driverPath, chrome_options=caps)
 driver.get("https://drizly.com/beer/ale/ipa/c15")
-assert "Drizly" in driver.title
+# assert "Drizly" in driver.title
 
-f = open("beer.txt", "w")
+# f = open("beer.txt", "w")
 delay = 20
+time.sleep(delay)
+# pickle.dump(driver.get_cookies() , open("cookies.pkl","wb"))
+# try:
+#     myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CLASS_NAME, 'CatalogItemCard__ProductName___4KWmV')))
+#     print("Page is ready!")
+# except (TimeoutException):
+#     print("ur internet ass")
 
-try:
-    myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.CLASS_NAME, 'CatalogItemCard__ProductName___4KWmV')))
-    print("Page is ready!")
-except (TimeoutException):
-    print("ur internet ass")
-
-time.sleep(10)
-driver.find_element_by_class_name("CatalogItemCard__ProductName___4KWmV").click()
+# time.sleep(10)
+# ad = driver.find_element_by_class_name("top_bar_modals-4 top_bar_modals-2")
+# wait = WebDriverWait(driver, delay)
+# wait.until(EC.invisibility_of_element_located(ad))
+# driver.find_element_by_class_name("CatalogItemCard__ProductName___4KWmV").click()
 
 # for element in range(len(elements)):
 #     info = {"Name": "", "ABV": "", "Category": "", "IBU": "", "brewer": "", "Region": "", "Calories": "", "Carbs": ""}
@@ -38,4 +43,4 @@ driver.find_element_by_class_name("CatalogItemCard__ProductName___4KWmV").click(
     #f.write(info)
     #driver.back()
 
-f.close()            
+# f.close()           
