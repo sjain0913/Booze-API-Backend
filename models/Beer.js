@@ -16,9 +16,9 @@ const BeerSchema = mongoose.Schema({
         required: true,
         default: "Not Defined"
     },
-    ingredients: {
-        type: String,
-        default: "Not Defined"
+    IBU: {
+        type: Number,
+        default: 0
     },
     brewer: {
         type: String,
@@ -29,21 +29,12 @@ const BeerSchema = mongoose.Schema({
         type: String,
         default: "Not Defined"  
     },
-    startDate: {
-        type: Date,
-        default: Date.now
-    },
     nutrition: {
         type: Map,
         of: Number,
         default: {
             calories: 0,
-            protein: 0,
-            carb: 0,
-            fat: 0,
-            cholestrol: 0,
-            sodium: 0,
-            sugar: 0
+            carbohydrates: 0,
         }
     }
 });
