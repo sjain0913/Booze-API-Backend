@@ -2,63 +2,65 @@ const express = require('express');
 const router = express.Router();
 const Vodka = require('../models/Vodka');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// GET1: gets back all the beers
 router.get('/', async (req, res) => {
-    try{
-        const posts = await Vodka.find();
-        res.json(posts);
+    try {
+        const allVodkas = await Vodka.find();
+        res.json(allVodkas);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// GET2: get specific vodka by ID
+router.get('/:vodkaID', async (req,res) => {
+    try {
+        const vodka = await Vodka.findById(req.params.vodkaID);
+        res.json(vodka);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// POSTS
+// POST1: submits a vodka
 router.post('/', async(req, res) => {
-    const post = new Vodka({
-        title: req.body.title,
-        description: req.body.description
+    const vodka = new Vodka({
+        name: req.body.name,
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedBeer = await vodka.save();
+        res.json(savedBeer);
+        //console.log("post worked");
     } catch(e) {
         res.json({message: e});
+        //console.log("post did not work");
     }
 
 });
 
-// get specific post
-router.get('/:postID', async (req,res) => {
-    try{
-        const post = await Vodka.findById(req.params.postID);
-        res.json(post);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
-
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// DELETES
+// DELETE1: delete a vodka
+router.delete('/:beerID',  async (req,res) => {
     try{
-        const removedPost = await Vodka.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedVodka = await Vodka.remove({_id: req.params.beerID});
+        res.json(removedVodka);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// PATCHES
+// PATCH1: update a vodka
+router.patch('/:beerID', async (req,res) => {
     try {
-        const updatedPost = await Vodka.updateOne(
-            {_id: req.params.postID},
-            {$set: {title: req.body.title}}
+        const updatedBeer = await Vodka.findOneAndUpdate(
+            {_id: req.params.beerID},
+            {$set: {name: req.body.name}}
             );
-        res.json(updatedPost);
+        res.json(updatedBeer);
     } catch(e) {
         res.json({message: e});
     }
