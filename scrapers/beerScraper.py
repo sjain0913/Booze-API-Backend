@@ -6,7 +6,7 @@ scraper = cloudscraper.create_scraper()
 
 for pageNumber in range(1,134):
     f = open('beerURL.txt', 'a')
-    print(pageNumber)
+    print("Working on Page " + str(pageNumber) + " !")
     if pageNumber == 1:
         page = scraper.get("https://drizly.com/beer/ale/ipa/c15")
     else:
@@ -26,7 +26,7 @@ for pageNumber in range(1,134):
                     URLSnippet = eachItem = catalog[item]['catalogItem']['clickUrl']
                     URL = "https://drizly.com" + URLSnippet
                     f.write(URL + "\n")
-                except (e):
+                except Exception as e:
                     continue
     f.flush()            
 
