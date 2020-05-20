@@ -16,15 +16,6 @@ const BeerSchema = mongoose.Schema({
         required: true,
         default: "Not Defined"
     },
-    IBU: {
-        type: Number,
-        default: 0
-    },
-    brewer: {
-        type: String,
-        required: true,
-        default: "Not Defined"
-    },
     origin: {
         type: String,
         default: "Not Defined"  
