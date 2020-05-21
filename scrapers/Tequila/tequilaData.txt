@@ -1,0 +1,2660 @@
+Espolòn Tequila Blanco , 40.0 
+Casamigos Blanco , 40.0 
+Patrón Silver Tequila , 40.0 
+Don Julio Blanco , 40.0 
+Jose Cuervo Especial Silver Tequila , 40.0 
+Jose Cuervo Especial Gold , 40.0 
+Hornitos Reposado Tequila , 40.0 
+Don Julio 1942 , 40.0 
+Casamigos Reposado , 40.0 
+Espolòn Tequila Reposado , 40.0 
+1800 Silver Tequila , 40.0 
+El Jimador Silver Tequila , 40.0 
+Hornitos Plata Tequila , 40.0 
+Camarena Silver , 40.0 
+Herradura Silver Tequila , 40.0 
+Clase Azul Reposado Tequila , 40.0 
+Milagro Silver Tequila , 40.0 
+Don Julio Anejo , 40.0 
+Sauza Silver Tequila , 40.0 
+Cazadores Reposado Tequila , 40.0 
+Patrón Reposado , 40.0 
+Espolòn Tequila Añejo , 0.0 
+Olmeca Altos Tequila Plata , 40.0 
+Casamigos Anejo , 40.0 
+Patrón Añejo Tequila , 40.0 
+Cazadores Tequila Blanco , 40.0 
+1800 Reposado Tequila , 40.0 
+Lunazul Blanco Tequila , 40.0 
+El Jimador Reposado Tequila , 40.0 
+1800 Reserva Coconut Tequila , 35.0 
+Exotico Blanco 100% Agave Tequila , 0.0 
+Don Julio Reposado , 40.0 
+Milagro Reposado Tequila , 40.0 
+Corralejo Reposado Tequila , 40.0 
+Sauza Gold Tequila , 40.0 
+Herradura Reposado Tequila , 40.0 
+Camarena Reposado , 40.0 
+Don Julio 70th Anniversary Tequila Anejo , 40.0 
+Margaritaville Silver Tequila , 40.0 
+Teremana Blanco Tequila , 40.0 
+Jose Cuervo Tradicional Silver Tequila , 40.0 
+Dulce Vida Organic Blanco Tequila  , 40.0 
+Tequila Avión Silver , 40.0 
+Casa Dragones Tequila Blanco , 40.0 
+Exotico Reposado 100% Agave Tequila , 40.0 
+Cabo Wabo Blanco , 40.0 
+Clase Azul Plata Tequila , 40.0 
+Mi Campo Blanco , 40.0 
+Casa Noble Crystal Tequila , 40.0 
+Montezuma Silver Tequila , 40.0 
+Dulce Vida Real Lime Tequila , 35.0 
+Lunazul Reposado Tequila , 40.0 
+Hornitos Anejo Tequila , 40.0 
+Corralejo Tequila Blanco , 40.0 
+Jose Cuervo Tradicional Reposado , 40.0 
+Herradura Anejo Tequila , 40.0 
+Sauza Signature Blue Silver Tequila , 40.0 
+Cimarron Blanco Tequila , 40.0 
+Código 1530 Rosa Tequila , 40.0 
+Teremana Reposado Tequila , 40.0 
+Tres Agaves Organic Blanco , 40.0 
+Ghost Tequila , 40.0 
+Tanteo Jalapeño Tequila , 40.0 
+Black Box Tequila , 40.0 
+Maestro Dobel Diamante Tequila , 40.0 
+Gran Centenario Anejo , 40.0 
+Dulce Vida Real Grapefruit Tequila , 35.0 
+La Gritona Reposado Tequila , 40.0 
+Roca Patrón Silver , 45.0 
+Fortaleza Tequila Blanco , 40.0 
+Margaritaville Tequila Gold , 40.0 
+Olmeca Altos Reposado Tequila , 38.0 
+Cabo Wabo Reposado , 40.0 
+Milagro Anejo Tequila , 40.0 
+Mi Campo Reposado , 40.0 
+Dulce Vida Real Pineapple Jalapeño Tequila , 35.0 
+Fortaleza Tequila Reposado , 40.0 
+Gran Centenario Reposado , 40.0 
+Tequila Ocho Plata , 40.0 
+Gran Centenario Plata Tequila , 40.0 
+Código 1530 Blanco , 40.0 
+Herradura Ultra Anejo Tequila , 40.0 
+DeLeon Platinum Tequila , 0.0 
+Corazon Blanco Tequila , 40.0 
+JAJA Blanco Tequila , 40.0 
+Sauza Signature Blue Reposado Tequila , 0.0 
+1800 Reserva Anejo , 40.0 
+Tres Generaciones Anejo Tequila , 40.0 
+Cazadores Tequila Anejo , 40.0 
+Casa Noble Reposado Tequila , 40.0 
+123 Organic Blanco Tequila (Uno) , 40.0 
+21 Seeds Cucumber Jalapeno Blanco Tequila , 35.0 
+Montezuma Aztec Gold Tequila , 40.0 
+El Tesoro Blanco Tequila , 40.0 
+Tequila Avión Reserva 44 , 40.0 
+Corralejo Anejo , 40.0 
+El Tesoro Reposado Tequila , 40.0 
+La Puerta Negra Tequila Blanco , 40.0 
+Libelula Tequila Joven , 40.0 
+Milagro Tequila Barrel Select Reserve Silver , 40.0 
+El Jimador Anejo Tequila , 40.0 
+Hornitos Black Barrel Tequila , 40.0 
+Tres Generaciones Plata Tequila , 40.0 
+Casa Noble Anejo Tequila , 40.0 
+Tequila Avión Reposado , 40.0 
+Suerte Blanco Tequila , 40.0 
+Teqiuila Avión Anejo , 40.0 
+Jose Cuervo Reserva De La Familia Extra Anejo , 40.0 
+Agavero Orange Tequila Liqueur , 32.0 
+Hornitos Cristalino Anejo , 40.0 
+Juarez Silver Tequila , 40.0 
+Tres Agaves Organic Reposado , 40.0 
+Cimarron Reposado Tequila , 40.0 
+Hornitos Lime Shot Tequila , 35.0 
+Monte Alban Silver Tequila , 40.0 
+Grand Mayan Ultra Aged Anejo , 40.0 
+Skinnygirl Sweet'Arita , 0.0 
+Corzo Tequila Anejo , 40.0 
+Corzo Tequila Silver , 40.0 
+El Tesoro Anejo Tequila , 40.0 
+Gran Patrón Platinum , 40.0 
+Juarez White Tequila , 40.0 
+Jose Cuervo Margaritas Classic Lime , 9.95 
+Corazón Reposado Tequila , 40.0 
+Tres Generaciones Reposado Tequila , 40.0 
+Durango White Tequila , 40.0 
+Tequila Ocho Reposado , 40.0 
+Tequila 512 Blanco , 0.0 
+JAJA Reposado Tequila , 40.0 
+Cabo Wabo Añejo , 40.0 
+Patrón Extra Añejo Tequila , 40.0 
+Agavales Blanco , 0.0 
+Maestro Dobel Silver Tequila , 40.0 
+Tequila Partida Blanco , 40.0 
+1921 Tequila Cream , 0.0 
+Qui Platinum Extra Anejo Tequila , 40.0 
+Patrón XO Cafe Dark Cocoa , 30.0 
+Fortaleza Tequila Anejo , 40.0 
+Siete Leguas Tequila Blanco , 40.0 
+Hussong's Reposado Tequila , 40.0 
+Patrón Estate Release , 42.0 
+Old Mexico Blanco Tequila , 40.0 
+Olmeca Altos Anejo Tequila , 40.0 
+100 Anos Reposado Tequila , 40.0 
+El Mayor Tequila Reposado , 40.0 
+Don Julio Double Cask 'Lagavulin' Reposado Tequila , 40.0 
+Volcan de mi Tierra Blanco , 0.0 
+123 Organic Reposado Tequila (Dos) , 40.0 
+Siete Leguas Tequila Reposado , 40.0 
+Código 1530 Reposado , 40.0 
+Mexican Sunrise White Tequila , 0.0 
+DeLeon Tequila Reposado , 40.0 
+Durango Gold Tequila , 40.0 
+21 Seeds Grapefruit Hibiscus Blanco Tequila , 35.0 
+Juarez Gold Tequila , 40.0 
+Monte Alban Reposado Tequila , 40.0 
+El Mayor Tequila Anejo , 40.0 
+Agavero Licor De Tequila , 32.0 
+Pepe Lopez Silver Tequila , 40.0 
+Milagro Tequila Barrel Select Reserve Reposado , 40.0 
+Cincoro Anejo Tequila , 40.0 
+Corzo Tequila Reposado , 40.0 
+Arette Blanco , 38.0 
+LALO Blanco Tequila , 40.0 
+Roca Patrón Reposado , 42.0 
+Pepe Lopez Gold Tequila , 40.0 
+El Mayor Tequila Blanco , 40.0 
+Don Julio Double Cask Reposado Tequila Limited Edition , 0.0 
+Suerte Reposado Tequila , 40.0 
+Lunazul Anejo Tequila , 40.0 
+Pasote Blanco Tequila , 40.0 
+123 Organic Añejo Tequila (Tres) , 40.0 
+Peligroso Silver , 42.0 
+Roca Patrón Añejo Tequila , 0.0 
+Villa One Silver Tequila , 40.0 
+Casa Dragones Tequila Joven , 40.0 
+TC CRAFT TEQUILA Blanco , 40.0 
+Hacienda de Chihuahua Sotol Reposado , 40.0 
+Bribon Blanco Tequila , 40.0 
+Camarena Anejo Tequila , 0.0 
+Dos Artes Extra Anejo , 0.0 
+Mccormick Tequila Low Proof , 20.0 
+Corazón Añejo , 40.0 
+Riazul Tequila Añejo , 40.0 
+Agavales Teq Blanco 100% Agave , 40.0 
+1800 Cristalino Anejo , 40.0 
+Tarantula Azul Tequila , 50.0 
+Los Sundays Coconut Blanco , 35.0 
+Mexican Sunrise Gold Tequila , 0.0 
+Senorita Silver Tequila , 0.0 
+Cenote Blanco Tequila , 40.0 
+Margaritaville Island Lime Teq , 0.0 
+Don Julio Blanco With Lime Press Kit , 0.0 
+La Pinta Pomegranate Tequila , 40.0 
+Grand Mayan Silver Tequila , 40.0 
+Torada Gold Tequila , 44.0 
+VIVA XXXII Joven Tequila , 40.0 
+99 Gold Tequila , 49.5 
+Barcelo Gran Platinum , 37.5 
+Old Mexico Oro Tequila , 40.0 
+Azunia Tequila Reposado , 40.0 
+Dulce Vida Organic Reposado Tequila , 40.0 
+Cincoro Reposado Tequila , 40.0 
+Cincoro Blanco , 40.0 
+Milagro Tequila Barrel Select Reserve Anejo , 40.0 
+100 Anos Blanco Tequila , 40.0 
+Espolòn Tequila Añejo X , 40.0 
+EL Charro Silver Tequila , 40.0 
+Agavales Gold Tequila , 40.0 
+El Jimador Silver Tequila w/ Glasses , 0.0 
+Tanteo Chipotle Tequila , 40.0 
+Senor Pedro Blanco , 40.0 
+1800 Select Silver 100 Proof , 50.0 
+Chamucos Reposado Tequila , 40.0 
+Nosotros Blanco Tequila , 40.0 
+Azteca Azul Plata Tequila , 40.0 
+Cabrito Reposado Tequila , 40.0 
+Giro Silver Tequila , 40.0 
+Cuesta Mesa White Tequila , 40.0 
+Código 1530 Anejo Tequila , 40.0 
+Anza Tequila Blanco , 40.0 
+Del Maguey Santo Domingo Albarradas Mezcal , 49.2 
+Piedra Azul Tequila Blanco , 40.0 
+Sauza 901 Silver Tequila , 40.0 
+Two Fingers Teq White , 40.0 
+Conmemorativo Anejo , 40.0 
+Coa De Jima Blanco Tequila , 40.0 
+Los Sundays Blanco , 40.0 
+Patrón Silver 2019 Limited-Edition , 40.0 
+Don Ramon Reposado Tequila , 40.0 
+Messicano Alteno Silver 100% Agave Tequila , 0.0 
+Siete Leguas Tequila Anejo , 38.0 
+Two Fingers Tequila Gold , 40.0 
+Dulce Vida Organic Blanco Tequila - 100 Proof , 50.0 
+Astral Blanco Tequila , 46.0 
+Red Eye Louie's Vodquila , 40.0 
+El Amo Reposado Premium Tequila , 0.0 
+Maestro Dobel Reposado Tequila , 40.0 
+Cava De Oro Anejo Tequila , 0.0 
+Tequila 512 Reposado , 40.0 
+ArteNOM Selección de 1414 Reposado , 40.0 
+Jose Cuervo Especial Cinnamon Cinge , 35.0 
+Villa One Anejo , 40.0 
+Don Ramon Silver Tequila , 40.0 
+Los Amantes Mezcal Joven , 40.0 
+1800 Silver Tequila Gift Set With Flask , 40.0 
+Loma Azul Reposado , 40.0 
+Piedra Azul Tequila Reposado , 40.0 
+Chamuco Tequila Blanco , 40.0 
+Riazul Tequila Plata , 40.0 
+Los Generales Silver Tequila , 40.0 
+Puerto Vallarta Blanco Tequila , 40.0 
+Casa Noble Single Barrel Extra Anejo Tequila , 40.0 
+Los Rijos Silver Tequila , 40.0 
+Tarantula Strawberry Tequila , 0.0 
+Alacran Blanco Tequila , 40.0 
+Torada Silver , 40.0 
+Two Fingers Silver , 40.0 
+Riazul Tequila Reposado , 40.0 
+Clase Azul Añejo Tequila , 40.0 
+El Toro Gold Tequila , 38.0 
+Jose Cuervo Tradicional Añejo , 0.0 
+1921 Tequila Blanco , 40.0 
+Sparkle Donkey Silver Tequila , 40.0 
+Sauza Conmemorativo Anejo Tequila , 40.0 
+Tequila Partida Reposado , 40.0 
+Patrón XO Cafe Incendio , 30.0 
+Maestro Dobel Anejo Tequila , 40.0 
+El Toro Silver Tequila , 40.0 
+Pasote Reposado , 40.0 
+Patrón Barrel Select Añejo , 0.0 
+Sauza Cucumber Chili Tequila , 35.0 
+Tequila Ocho Anejo Magueyera , 40.0 
+Cazadores Tequila Extra Anejo , 40.0 
+Dulce Vida Organic  Añejo Tequila  , 40.0 
+Cabrito Blanco Tequila , 40.0 
+Pura Vida Silver Tequila , 40.0 
+Una Vida Anejo Tequila , 40.0 
+Corralejo Repo Tequila , 40.0 
+Hacienda de Chihuahua Sotol Plata , 38.0 
+Don Julio Real Tequila , 40.0 
+Tequila Ocho Anejo , 40.0 
+Rio Grande Gold Tequila , 40.0 
+Montezuma Blue Tequila , 40.0 
+Karma Silver Tequila , 40.0 
+Arette Tequila Reposado , 40.0 
+Mile High Spirits Cuidado Tequila Silver , 40.0 
+Zignum Mezcal Reposado , 40.0 
+Peligroso Anejo , 0.0 
+1800 Tequila Artists Series , 40.0 
+Blue Nectar Silver Tequila , 0.0 
+Corralejo Reposado Tequila Triple Distilled , 40.0 
+Pueblo Viejo Blanco , 0.0 
+Villa One Reposado , 40.0 
+Volcan De Mi Tierra Cristalino Anejo , 0.0 
+Artenom Anejo 1146 , 40.0 
+Del Maguey Mezcal Tobala , 40.0 
+Jose Cuervo Especial Gold Tequila Limited Edition Skull , 40.0 
+Sparkle Donkey Tequila Reposado , 40.0 
+Zignum Mezcal Anejo , 40.0 
+Pueblo Viejo Anejo Tequila , 40.0 
+Rancho Alegre Tequila Blanco , 40.0 
+Pocket Shot Tequila Gold , 40.0 
+Uno Por Favor Blanco Tequila , 0.0 
+Mesh & Bone Sotol , 38.0 
+Hiatus Tequila Blanco , 40.0 
+Margaritaville Lime Tequila , 35.0 
+Don Abraham Organic Reposado , 40.0 
+El Retono Tequila Blanco , 40.0 
+Espanita Reposado Tequila , 0.0 
+El Destilador Classico Blanco Tequila , 40.0 
+Azunia Tequila Blanco , 40.0 
+Tequila Partida Añejo , 40.0 
+Sauza Sparkling Margarita Lime , 9.95 
+Maestro Dobel Humito Smoked SIlver Tequila , 44.0 
+Del Maguey San Luis del Rio Mezcal , 47.0 
+Tears Of Llorona Extra Anejo , 43.0 
+Suavecito Reposado Tequila , 0.0 
+E. Cuarenta Reposado Tequila , 0.0 
+Gran Cava de Oro Extra Anejo , 40.0 
+Jose Cuervo Especial Gold With Margarita Mixer , 40.0 
+Suavecito Blanco Tequila , 35.0 
+VIVA XXXII Reposado Tequila , 40.0 
+Gran Centenario Rosangel Tequila , 40.0 
+Azteca Gold , 0.0 
+Jose Cuervo Traditional Day of the Dead Silver Tequila , 0.0 
+El Destilador Reposado , 40.0 
+Casa Noble Single Barrel Reposado Tequila , 40.0 
+Alteno Reposado Tequila , 0.0 
+Siempre Tequila Plata , 40.0 
+Casamigos Gift Set (Blanco, Reposado, Anejo, Mezcal) , 0.0 
+Los Rijos Tequila Anejo , 40.0 
+Arta Silver Tequila , 40.0 
+Campo Azul Tequila Blanco , 35.0 
+Los Azulejos Tequila Anejo , 40.0 
+Hiatus Tequila Añejo , 40.0 
+Cava De Oro Reposado Tequila , 38.0 
+Republic Tequila Plata , 40.0 
+21 Seeds Valencia Orange Blanco Tequila , 35.0 
+Cabeza Tequila , 43.0 
+El Luchador Organic Tequila , 55.0 
+Margaritaville Mango Tequila , 25.0 
+Cenote Reposado Tequila , 0.0 
+Kah Tequila Reposado , 40.0 
+Don Fulano Tequila Blanco , 40.0 
+1921 Tequila Reposado , 40.0 
+Jose Cuervo Tequila Rolling Stones Silver Tequila , 40.0 
+Tequila Uila Revolucion Anejo Tequila , 33.0 
+Skeleto Anejo Tequila , 50.0 
+El Tequileño Gran Reserva Reposado , 40.0 
+Aguamiel Blanco Tequila , 40.0 
+Cenote Anejo Tequila , 40.0 
+Adictivo Tequila Extra Añejo , 40.0 
+Don Abraham Organic Anejo Tequila , 0.0 
+Corralejo Reposado Tequila w/ 2 Shot Glasses , 40.0 
+Gran Patrón Piedra Extra Añejo , 40.0 
+Tequiponch Weed  Formula , 53.5 
+Casamigos Blanco Gift Set , 0.0 
+Kah Tequila Blanco , 40.0 
+Jose Cuervo Classico Premium , 40.0 
+COA Reposado , 40.0 
+Tarantula Azul Tequila W/Margarita Mx Unit , 0.0 
+Los Rijos Tequila Reposado , 40.0 
+Arette Artesanal Suave Anejo Tequila , 38.0 
+Alacran Cristal Tequila , 40.0 
+Cava De Oro Plata , 38.0 
+1800 Tequila Blanco , 0.0 
+Senorita Tequila Gold , 0.0 
+Lunazul Tequila Anejo Tequila , 40.0 
+Arta Anejo Tequila , 40.0 
+Hiatus Tequila Reposado , 40.0 
+Tijuana Swt Heat Tequila , 35.0 
+Jose Cuervo Reserva Platino Silver , 40.0 
+La Favorite Rhum Agricole Blanc , 40.0 
+Don Nacho Tequila Reposado , 40.0 
+Hacienda Vieja Tequila Reposado , 40.0 
+Hacienda De Chihuahua Anejo , 38.0 
+Herradura Double Barrel Reposado Tequila , 40.0 
+Siembra Azul Blanco Tequila , 40.0 
+Mejor Pink Tequila , 40.0 
+Rancho Alegre Tequila Reposado , 40.0 
+Azteca White Tequila , 40.0 
+Peligroso Reposado , 42.0 
+Number Juan Tequila Anejo , 0.0 
+Tierra Fertil Anejo Tequila , 0.0 
+Two Fingers Teq Gold , 40.0 
+Tortilla Silver Tequila , 40.0 
+Alacran Reposado , 40.0 
+Jose Cuervo 40th Anniversary Cuervo Classic Surf Competition Silver Tequila , 0.0 
+DeLeon Anejo Tequila , 40.0 
+Loma Azul Blanco , 40.0 
+Gran Patrón Burdeos , 40.0 
+El Tesoro Paradiso Anejo Tequila , 40.0 
+Z Pepe Blanco , 0.0 
+100 Anos Anejo Tequila , 40.0 
+Peligroso Cinnamon , 0.0 
+Patrón Teq Silver W/Cooler Bag , 40.0 
+One With Life Organic Tequila Blanco , 40.0 
+Prospero Tequila Anejo , 40.0 
+El Tesoro Extra Anejo Tequila , 0.0 
+Cantera Negra Silver Tequila , 40.0 
+Cantera Negra Anejo , 40.0 
+El Ultimo Tequila Blanco , 40.0 
+Don Pilar Anejo Tequila , 40.0 
+Frida Kahlo Blanco , 40.0 
+Arta Tequila Reposado , 40.0 
+Zapopan Tequila Reposado , 40.0 
+3 Amigos Tequila Blanco , 40.0 
+Cazul 100 Reposado , 40.0 
+Comisario Blanco Tequila , 40.0 
+Puro Verde Anejo , 40.0 
+Mina Real Mezcal Silver , 42.0 
+Avion Silver Gift Set , 40.0 
+30/30 Tequila Blanco , 40.0 
+Don Abraham Blanco Organic Tequila , 40.0 
+Carlos Murphy Spiced Tequila , 40.0 
+Espanita Anejo Tequila , 0.0 
+Dos Artes Extra Anejo 'Skull' Bottle , 0.0 
+Don Nacho - Blanco , 40.0 
+Casamigos Reposado Gift Set , 0.0 
+Gran Mayan Reposado , 0.0 
+Código 1530 George Strait Edition Anejo  , 40.0 
+Cazadores Añejo Cristalino , 40.0 
+Chinaco Anejo , 40.0 
+Dos Artes Blanco , 40.0 
+Jc Tradicional , 40.0 
+Texano Grand Slam Bat Reposado Tequila , 40.0 
+Padre Azul Anejo , 40.0 
+Suerte Anejo Tequila , 40.0 
+Tres Culturas Tequila Anejo , 40.0 
+Hussong's Platinum Anejo Tequila , 30.0 
+Don Pilar Extra Anejo Tequila , 40.0 
+El Amo Blanco Premium Tequila , 40.0 
+Cantera Negra Extra Anejo Tequila , 40.0 
+Sauza Hornitos Reposado Tequila Shot Glass Gift Set , 40.0 
+Gran Agave Blanco Tequila , 0.0 
+TC CRAFT Tequila Reposado , 40.0 
+Dona Celia Reposado Tequila , 0.0 
+Chinaco Reposado , 40.0 
+Toro De Lidia Teq Extra Anejo , 40.0 
+Herencia Mexicana Blanco , 40.0 
+Los Sundays Reposado , 40.0 
+Adictivo Tequila Reposado , 40.0 
+Aldez Organic Tequila - Blanco , 40.0 
+Excellia Resposado , 40.0 
+Wild Shot Mezcal Reposado 86.8' , 43.4 
+El Charro Reposado Tequila , 40.0 
+Cantera Negra Reposado , 40.0 
+Kah Tequila Anejo , 55.0 
+Texano Boot Reposado , 40.0 
+Zapopan Silver Tequila , 40.0 
+Tequila Ocho Single Barrel Anejo , 53.0 
+Rock N Roll Platinum Tequila , 0.0 
+Tromba Blanco , 40.0 
+Olmeca Blanco Tequila , 40.0 
+Chamucos Tequila Anejo , 40.0 
+Ambhar Tequila Anejo , 40.0 
+Herencia Anejo , 35.0 
+La Cava De Los Morales Tequila Blanco , 40.0 
+Tierra Noble Tequila Blanco , 0.0 
+Chamucos Tequila Anejo , 40.0 
+El Tequileño Blanco , 40.0 
+Azunia Tequila Anejo , 40.0 
+San Matias Gran Reserva Extra Anejo Tequila , 40.0 
+El Jimador 100 Agave Blanco W/Paloma Gls 75 , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Scotch , 40.0 
+Topaz White Tequila , 40.0 
+Centinela Reposado 80 P , 40.0 
+Rancho Tepua Bacanora Blanco  , 47.5 
+Contigo Plata , 0.0 
+Prospero Tequila Blanco , 0.0 
+Los Arango Tequila Blanco , 35.0 
+Z Pepe Anejo , 0.0 
+San Matias Grand Res Anejo Tequila , 40.0 
+Hornitos Silver Tequila W/6 Sht Gls , 30.0 
+Tapatio Blanco Tequila 110 , 40.0 
+Juarez Gold 800 , 40.0 
+Tromba Anejo , 40.0 
+Senor Pedro Gold , 40.0 
+Alacran Tequila Extra Anejo , 40.0 
+Playa Real Pineapple Tequila , 40.0 
+Papa Bueno Tequila Silver , 40.0 
+Asombroso Tequila La Rosa Reposado , 40.0 
+LIQS Tequila Cinnamon Orange , 20.0 
+Puerto Vallarta Gold Tequila , 40.0 
+Cuesta Mesa Gold Tequila , 40.0 
+1800 Silver Tequila With Stainless Glasses , 50.0 
+Santera Blanco Tequila , 43.0 
+JAJA Añejo Tequila , 40.0 
+Patrón Extra Añejo 10 Años , 40.0 
+La Puerta Negra Reposado Tequila , 40.0 
+Jc Esp Silver Tequila Max Pk W/Lt Margarita Mx , 40.0 
+Conquistador Tequila White , 40.0 
+Campo Azul Anejo , 40.0 
+El Tequileño Tequila Platinum , 40.0 
+Cazul 100 Silver , 40.0 
+Padre Azul Silver Tequila , 40.0 
+Tapatio Tequila Blanco , 40.0 
+Antigua Cruz Reposado , 0.0 
+Los Azulejos Skeleto Blanco , 0.0 
+Los Arango Tequila Reposado , 40.0 
+DeLeon Tequila Diamante , 40.0 
+Casino Azul Reposado , 40.0 
+Pancho Villa Gold Tequila , 40.0 
+Jose Cuervo Black , 40.0 
+Single Barrel Anejo Super Jalsico , 39.3 
+Ixa Organic Reposado Tequila , 40.0 
+Campo Azul Extra Anejo , 40.0 
+2018 Limited-Edition Holiday Patrón Silver , 40.0 
+Religion Organic Blanco Tequila , 40.0 
+Puro Verde Silver , 40.0 
+Baron Platinum Tequila , 40.0 
+Sauza 901 Anejo , 40.0 
+Tequila Cruz Reposado , 40.0 
+Herradura Seleccion Suprema Tequila , 40.0 
+Monarca Silver Tequila , 40.0 
+Mexican Moonshine Tequila Silver , 40.0 
+Sol De Mexico Tequila Blanco , 40.0 
+Tonala Anejo Tequila , 40.0 
+Pasote Añejo Tequila , 40.0 
+Siembra Valles Ancestral Tequila , 49.0 
+Don Fulano Imperial Extra Anejo Tequila 5 Year , 0.0 
+Corralejo Blanco W/2 Shot Glasses , 40.0 
+Bombas Blanco Tequila , 40.0 
+Number Juan Tequila Blanco , 0.0 
+Tijuana Sweet Heat Tequila , 35.0 
+Don Eduardo Reposado Tequila , 36.0 
+Pura Vida Anejo Tequila , 35.0 
+Hornitos Silver Tequila W/Shot Gls/Hols , 40.0 
+Tarantula Rtd Azul Tequila , 0.0 
+Purasangre Tequila Blanco Reserve , 40.0 
+Texano Rodeo Hat Reposado Tequila , 40.0 
+Artenom Seleccion 1549 Blanco , 40.0 
+Código 1530 'Origen' Extra Anejo Tequila , 40.0 
+Casa Pacific Blanco Tequila , 40.0 
+Ixa Añejo Tequila from Greenbar Distillery , 40.0 
+E. Cuarenta Blanco Tequila , 0.0 
+Prospero Tequila Reposado , 0.0 
+Fortaleza Reposado Winter Blend Tequila , 45.7 
+Sauza Sparkling Margarita Watermelon , 9.95 
+Blue Nectar Tequila Reposado Extra Blend , 0.0 
+Patrón Añejo 7 Year , 40.0 
+Wild Shot Mezcal Silver 86.8' , 43.4 
+Campo Azul Reposado , 40.0 
+1824 Tequila Blanco , 40.0 
+Hotel California Anejo Tequila , 40.0 
+Casino Azul Anejo Tequila , 40.0 
+123 Organic Extra Añejo Tequila (Diablito) , 40.0 
+ArteNOM Selección de 1580 Blanco , 40.0 
+Ambhar Tequila Reposado , 0.0 
+1921 Anejo Tequila , 40.0 
+Abre Ojos Tequila Silver , 40.0 
+Don Fulano Anejo Tequila , 40.0 
+Legado Blanco Tequila , 40.0 
+El Perrito 1992 Reposado , 40.0 
+Rock N Roll Cristalino Anejo Tequila , 0.0 
+El Amo Anejo Cristalino Premium Tequila , 40.0 
+Costa Tequila Blanco , 0.0 
+Excellia Blanco , 40.0 
+Cielo Tequila Blanco , 0.0 
+901 Silver Tequila , 40.0 
+Torada White Tequila , 35.0 
+Lunazul Double Barrel Reposado Tequila , 0.0 
+Rock N Roll Tequila Mango , 32.0 
+El Padrino Blanco , 40.0 
+Dulce Vida Organic Reposado Tequila - 100 Proof , 50.0 
+Tequila Honor Reflexion Blanco , 0.0 
+Tres Agaves Organic Anejo , 40.0 
+Excellia Anejo , 40.0 
+Tequila Partida Elegante , 40.0 
+Don Felix Anejo Tequila , 40.0 
+Terremoto Silver Tequila , 40.0 
+Blue Nectar Anejo Tequila Founder's Blend , 40.0 
+Gran Orendain Tequila Anejo , 40.0 
+Gran Centenario Leyenda Tequila , 0.0 
+Olmeca Gold Tequila , 0.0 
+Ayate Reposado Tequila , 0.0 
+Aldez Organic Tequila - Reposado , 40.0 
+Grand Mayan Extra Anejo , 40.0 
+Chinaco Blanco , 40.0 
+Antigua Cruz Silver , 0.0 
+Reserva de Don Ramon Añejo Tequila , 40.0 
+Cruz Del Sol Anejo Tequila , 40.0 
+Tortilla Gold Tequila , 0.0 
+Jose Cuervo Tradicional Tequila Gold , 40.0 
+Corralejo Triple Dist Reposado Teq , 40.0 
+Hijos De Villa Blanco Silver Revolver , 40.0 
+Tierra Fertil Reposado Tequila , 0.0 
+El Jimador 100 Agave Repo Tequila W/Margarita Gls 75 , 0.0 
+Pura Vida Tequila Reposado , 40.0 
+El Reformador Reposado , 40.0 
+Calende Anejo Tequila , 40.0 
+Corazón Extra Añejo Tequila , 40.0 
+Nosotros Reposado Tequila , 40.0 
+Dulce Vida Organic 100 Proof Añejo Tequila , 50.0 
+Florida Kush Anejo Tequila , 40.0 
+La Brune Anejo Tequila , 0.0 
+Clase Azul Ultra Extra Anejo Tequila , 40.0 
+Los Generales Gold Tequila , 40.0 
+Cruz Silver Tequila , 40.0 
+Don Ramon Añejo Tequila , 40.0 
+El Ultimo Agave Tequila Blanco , 40.0 
+El Jimador Mango Mango Tequila , 35.0 
+Jc Esp Silver Tequila , 40.0 
+Karma Tequila Reposado , 40.0 
+Tapatio Excelencia Tequila , 35.0 
+Tapatio Repo Tequila , 50.0 
+Dulce Vida Lone Star Edition  - 100 Proof , 50.0 
+El Reformador Anejo , 40.0 
+Amate "Dq" Silver Tequila , 40.0 
+Arta Tequila Extra Anejo , 40.0 
+Patrón Extra Añejo Lalique , 40.0 
+Circulo Silver Tequila , 40.0 
+Santo Mezquila , 0.0 
+San Matias Tahona Tequila , 0.0 
+Amor Mio Reposado Tequila , 40.0 
+Tres Manos Tequila Anejo , 40.0 
+Don Sergio Reposado Tequila , 40.0 
+Amorada Tequila Anejo , 40.0 
+Florida Kush Anejo Tequila , 40.0 
+Republic Tequila Anejo , 40.0 
+Amor Mio Tequila Extra Anejo , 40.0 
+Agavales Reposado Tequila , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Cognac , 40.0 
+Amor Mio Tequila Extra Anejo , 40.0 
+Agavales Reposado Tequila , 40.0 
+Bartenders Strawberry Tequila , 0.0 
+Rio Grande Silver Tequila , 40.0 
+Pancho Villa White Tequila , 40.0 
+Margaritaville Tangerine Tequila , 0.0 
+Herradura Reposado Tequila Coleccion de la Casa Cognac , 40.0 
+Casa Maestri Anejo Tequila , 40.0 
+Los Azulejos Skeleton Reposado , 40.0 
+Mejor Tequila Anejo , 40.0 
+Tributo Blanco Tequila , 42.0 
+Corazo Expressions Tequila Anejo Thomas Handy  , 0.0 
+El Padrino Reposado , 40.0 
+Dulce Vida Añejo Tequila Rocky Mountain Edition - 100 Proof , 50.0 
+Maracame Reposado Tequila  , 0.0 
+YaVe Blanco Tequila , 40.0 
+Uno Por Favor Reposado Tequila , 40.0 
+El Ultimo Tequila Reposado , 40.0 
+Don Weber Tequila Blanco , 40.0 
+Diabolique Mixto Tequila , 0.0 
+Scorpion Reposado Mezcal , 40.0 
+Tapatio Anejo Tequila , 40.0 
+512 Tequila Anejo , 40.0 
+Tequila Mandala Extra Anejo , 40.0 
+512 Tequila Anejo , 40.0 
+Tequila Mandala Extra Anejo , 40.0 
+Patrón Barrel Select Reposado , 0.0 
+El Gran Jubileo Blanco , 40.0 
+Calle 23 Blanco , 40.0 
+DeLeon Extra Anejo , 40.0 
+Antiguo Blanco Tequila , 40.0 
+Amorada Tequila Blanco , 40.0 
+Blue Nectar Tequila Reposado Special Craft , 0.0 
+Ambhar Tequila Plata , 40.0 
+Jenni Rivera Blanco Tequila , 40.0 
+Hijos De Villa Aged Reposado , 40.0 
+3 Amigos Reposado Tequila , 40.0 
+Masuave Reposado Tequila , 0.0 
+E. Cuarenta Anejo Tequila , 0.0 
+Mucha Liga Tequila Reposado , 0.0 
+Casa Maestri 1965 Blanco Flask , 0.0 
+Recipe 21 Tequila , 0.0 
+G4 Tequila Extra Anejo , 40.0 
+The Bad Stuff Extra Añejo Tequila , 40.0 
+Espanita Blanco Tequila , 40.0 
+TC CRAFT Tequila Extra Añejo , 40.0 
+Maestro Dobel Tequila Diamante w/ Shot Glasses , 0.0 
+Wachusett Seasonal Variety , 0.0 
+Centinela Tequila Anejo , 40.0 
+Cabo Wabo Diablo , 0.0 
+Zarco Gold Tequila , 40.0 
+Jc Esp Silver Tequila Sq , 40.0 
+Coa De Jima Teq Reposado , 40.0 
+Tequila Rose Hot Rose , 15.0 
+Loma Azul Anejo Tequila , 40.0 
+El Diamante Del Cielo Tequila Reposado , 40.0 
+Herradura Silver Tequila Gift Set with Ice Molds , 40.0 
+Clase Azul XX Anniversario Reposado Tequila , 0.0 
+Los Arango Tequila Anejo , 40.0 
+Tequila Avión Anejo 44 Luminous Special Edition , 0.0 
+Suavecito Añejo Tequila , 35.0 
+Enemigo 00 Extra-Añejo Tequila , 40.0 
+Casino Azul Blanco , 40.0 
+Ixa Silver Tequila from Greenbar Distillery , 40.0 
+El Zarco Silver Tequila , 0.0 
+Number Juan Tequila Reposado , 0.0 
+Corazon Expresiones Blanco , 40.0 
+1800 Tequila Milenio Extra Anejo , 40.0 
+Sol De Mexico Tequila Reposado , 40.0 
+Patrón Extra Añejo 5 Year , 40.0 
+Demetrio Reposado Tequila , 40.0 
+Don Fulano Tequila Reposado , 40.0 
+Gran Patrón Smoky , 50.5 
+Tequila Avión Anejo 44 Luminous Special Edition , 0.0 
+Suavecito Añejo Tequila , 35.0 
+Enemigo 00 Extra-Añejo Tequila , 40.0 
+Los Arango Tequila Anejo , 40.0 
+Republic Tequila Reposado , 40.0 
+Tierras Tequila Blanco , 40.0 
+Pueblo Viejo Reposado Tequila , 40.0 
+El Charro Anejo Tequila , 40.0 
+30/30 Tequila Reposado , 40.0 
+Mexican Moonshine Tequila Reposado , 40.0 
+Jose Cuervo Especial Gold Heart , 40.0 
+3 Amigos Anejo Tequila , 40.0 
+Chinaco Anejo Tequila , 0.0 
+Xilli Tequilla , 35.0 
+Vikera Tequila Blanco , 40.0 
+Azteca Azul Reposado Tequila , 40.0 
+La Brune Reposado Tequila , 38.0 
+Chamucos Tequila Extra Añejo , 44.4 
+TC CRAFT Tequila Añejo , 40.0 
+Suavecito Extra Añejo , 0.0 
+Scorpion Tequila , 40.0 
+Revolucion Silver , 50.0 
+Artnom Plata 1580 , 40.0 
+Skinnygirl Sparkling Margarita , 9.98 
+Reserva de Don Ramon Silver Tequila , 0.0 
+El Toro Triple Dist Silver Tequila , 0.0 
+Purasangre Tequila Reposado Reserve , 40.0 
+Chaquira Beaded Res Del Jaguar Anejo Tequila , 40.0 
+Circulo Reposado Tequila , 40.0 
+Orendian Ollitas Reposado Tequila Gold , 42.6 
+Casino Azul Extra Anejo Tequila , 40.0 
+La Luna Mezcal Cupreata , 40.7 
+Don Nacho Extra Premium Tequila Reposado , 40.0 
+YaVe Jalapeno Tequila Reposado , 35.0 
+Joel Richard Extra Anejo Tequila , 0.0 
+Dueno Tequila , 40.0 
+Casa Noble Silver , 40.0 
+Campeon Tequila , 40.0 
+Eagle Shot Tequila , 40.0 
+Maestro Dobel Diamond Tequila w/ Shot Glasses , 40.0 
+El Capo Tequila Platinum , 40.0 
+Herradura Variety Pack , 40.0 
+Calle 23 Añejo , 40.0 
+Single Agave Blanco by Porfidio - Tequila , 40.0 
+Azul Silver Tequila , 0.0 
+Tequila 1519 Blanco , 0.0 
+Don Roberto Tequila Plata 80 # , 0.0 
+Casino Azul Extra Ultra Anejo , 0.0 
+Dueno Tequila , 40.0 
+Casa Noble Silver , 40.0 
+Campeon Tequila , 40.0 
+Eagle Shot Tequila , 40.0 
+Maestro Dobel Diamond Tequila w/ Shot Glasses , 40.0 
+El Capo Tequila Platinum , 40.0 
+Herradura Variety Pack , 40.0 
+Calle 23 Añejo , 40.0 
+Single Agave Blanco by Porfidio - Tequila , 40.0 
+Azul Silver Tequila , 0.0 
+Don Roberto Tequila Plata 80 # , 0.0 
+Amorada Tequila Reposado , 40.0 
+Tequila 1519 Blanco , 0.0 
+Real Gusto Reposado , 40.0 
+Margaritaville Island Lime Teq/70' , 0.0 
+Blue Iguana Teq Reposado , 40.0 
+Casa Pacific Reposado Tequila , 40.0 
+Casa San Matias Rey Sol Extra Anejo Tequila , 0.0 
+Grand Leyenda Teq Reposado , 40.0 
+Hacienda Vieja Teq Blanco , 40.0 
+Tres Sietes Silver Tequila , 40.0 
+Hijos De Villa Reposado Tequila 80 Rifle , 30.0 
+Bracero Anejo , 40.0 
+Bracero Anejo , 40.0 
+El Mayor Bl Tequila Lse , 40.0 
+Giro Gold , 40.0 
+Tarantula Reposado Tequila 100 , 0.0 
+Terremoto Churros Tequila , 35.0 
+Whispering Eye Blanco Tequila , 0.0 
+Tres Sietes Teq Sil Wyland Dolph , 40.0 
+Casta Pasion Teq Worm Reposado , 40.0 
+Grand Leyenda Teq Silver , 40.0 
+Tequila Semental Anejo , 40.0 
+Chaquira Beaded Res Del Jaguar Blanco Tequila , 40.0 
+Soah Anejo Tequila , 40.0 
+Dos Alas Anejo , 0.0 
+Tequila Ocho Extra Anejo , 40.0 
+Alteno Silver Tequila , 40.0 
+Blue Iguana Anejo Tequila , 40.0 
+Mi Casa Tequila Blanco , 40.0 
+Mi Casa Tequila Anejo , 40.0 
+Dulce Amargura Extra Anejo Tequila , 40.0 
+Muchote Reposado 100% , 40.0 
+Fuenteseca Blanco Cosecha , 40.0 
+Hacienda De Chihuaha Sotol Rustico , 45.0 
+Don Cuco Sotol Suave , 36.0 
+Penasco Ex Anejo Tequila , 40.0 
+Voodoo Tiki Tequila Anejo , 40.0 
+El Nivel Reposado , 0.0 
+Puerto Vallarta Anejo Tequila , 0.0 
+Rudo Blanco , 40.0 
+Agavales Especial Silver100% Agave , 0.0 
+Centinela Tequila Reposado , 0.0 
+El Tesoro  Plumpjack Single Barrel Reposado Tequila , 40.0 
+The Party Girl Kit , 0.0 
+Embajador Platinum Tequila Blanco , 40.0 
+Patrón Tequila Extra Añejo En Lalique , 0.0 
+Gomez Tequila Silver , 0.0 
+Tanteo Habenero Tequila , 40.0 
+Mucha Liga Tequila Blanco , 0.0 
+Corralejo Anejo Tequila , 40.0 
+Pasote Reposado Tequila , 40.0 
+Tattoo Repo Tequila , 0.0 
+Socorro Anejo Tequila , 40.0 
+Casa Mexico Silver , 40.0 
+Arette Tequila Anejo , 40.0 
+3 Gringos Blanco Tequila , 40.0 
+Siempre Tequila Anejo , 40.0 
+Sesion Reposado  , 40.0 
+Tragos Amargos Anejo Tequila , 0.0 
+Encantadora Tequila Ultra , 0.0 
+Tequila Alquimia Blanco , 0.0 
+La Brune Blanco Tequila , 0.0 
+One With Life Organic Tequila Extra Anejo , 40.0 
+Tragos Amargos Anejo Tequila , 0.0 
+Encantadora Tequila Ultra , 0.0 
+Comisario Reposado Tequila , 40.0 
+Royal Emblem Tequila Oro , 40.0 
+Agave 99 Silver Tequila , 49.0 
+Art Nouveau Tequila Blanco , 40.0 
+Art Nouveau Tequila Repasado , 40.0 
+Don Modesto Blanco Tequila , 40.0 
+El Capo Tequila Reposado , 40.0 
+Sx Liquors Cha Cha Cha , 35.0 
+Alma De Agave Añejo , 40.0 
+T1 Tequila Repo Excepcional , 0.0 
+901 Tequila Anejo , 40.0 
+Capitan Gold Tequila , 40.0 
+Agave Underground Teq Reposado , 40.0 
+Agavales Gold Tequila 110 Bar , 55.0 
+Agave Underground Silver Tequila , 40.0 
+Jc Esp Gold Tequila W/ Gold 1.75 L , 40.0 
+Pueblo Viejo Orgullo Blanco Tequila , 40.0 
+Goza Blanco Tequila , 40.0 
+Goza Repo Tequila , 40.0 
+Don Nacho Extra Premium Anejo Tequila , 40.0 
+Villa Lobos Reposado Tequila , 40.0 
+Dos Lunas Silver Tequila , 40.0 
+Villa Lobos Blanco Tequila , 40.0 
+Puerto Vallarta Extra Anejo , 40.0 
+Real Minero Largo , 51.6 
+Don Abraham Organic Tequila Extra Anejo , 40.0 
+Casa Pacific Tequila Anejo , 40.0 
+Siembra Azul Tequila Reposado Valles , 0.0 
+Senor Rio Tequila Blanco , 40.0 
+Ak T Tequila Blanco , 0.0 
+Drego Azul Gold Tequila , 40.0 
+Senor Rio Extra Anejo , 40.0 
+Perfectomundo Reposado Tequila , 40.0 
+The Original by Porfidio, Extra Añejo Single Barrel Super Jalisco (5YR) , 39.3 
+El Gran Jubileo Reposado , 0.0 
+Toleco Tequila Reposado , 0.0 
+Una Vida Reposado Tequila , 40.0 
+La Hora Azul Blue Hour Tequila Blanco , 0.0 
+88 Anejo Tequila , 0.0 
+Arette Gran Clase Extra Añejo , 0.0 
+Playa Real Mandarin Tequila , 40.0 
+Casa Mexico Silver , 40.0 
+Arette Tequila Anejo , 40.0 
+Senor Rio Tequila Blanco , 40.0 
+Drego Azul Gold Tequila , 40.0 
+Ak T Tequila Blanco , 0.0 
+Senor Rio Extra Anejo , 40.0 
+Toleco Tequila Reposado , 0.0 
+La Hora Azul Blue Hour Tequila Blanco , 0.0 
+The Original by Porfidio, Extra Añejo Single Barrel Super Jalisco (5YR) , 39.3 
+El Gran Jubileo Reposado , 0.0 
+Perfectomundo Reposado Tequila , 40.0 
+Una Vida Reposado Tequila , 40.0 
+88 Anejo Tequila , 0.0 
+Arette Gran Clase Extra Añejo , 0.0 
+Playa Real Mandarin Tequila , 40.0 
+Tres Comas Anejo Tequila , 0.0 
+Tequila El Mariachi , 0.0 
+Agave 99 Reposado Tequila , 49.0 
+Patrón Añejo John Varvatos Edition , 40.0 
+El Rey Blanco , 40.0 
+Azul Silver , 0.0 
+1800 Silver Tequila With Pineapple Juice , 40.0 
+Agavales Silver Tequila , 40.0 
+Rey Sol Tequila , 0.0 
+Tenampa Azul Reposado Tequila , 40.0 
+Cruz Del Sol Reposado Tequila , 40.0 
+Tierras Reposado Tequila , 40.0 
+Casa San Matias Orgullo Anejo Tequila , 40.0 
+Cruz Del Sol Silver Tequila W/2 Gls , 0.0 
+Agave Underground Teq Anejo , 40.0 
+PaQui Tequila Anejo , 40.0 
+Revolucion Teq Reposado , 40.0 
+Aquariva Blanco Tequila , 40.0 
+El Mayor Extra Anejo Tequila , 0.0 
+Azul Reposado , 40.0 
+Chinaco Blanco Tequila Bar , 40.0 
+Republic Plata Tequila Tx Replica , 0.0 
+Mccormick Gold Tequila , 35.0 
+Kah Los Ult Dias Blanco Tequila , 35.0 
+Two Fingers White Tequila 80 , 40.0 
+Tequila Rose Cocoa , 30.0 
+Julio Cesar Chavez Teq Reposado , 40.0 
+Asombroso Reposado Tequila , 40.0 
+Agavales Gold Tequila 100% Agave , 40.0 
+Texano Grand Love Extra Anejo Tequila , 40.0 
+Sol De Mexico Tequila Anejo , 40.0 
+Don Camilo Reposado Tequila , 40.0 
+Dos Alas Reposado , 0.0 
+Crotalo 357 Extra Anejo Tequila , 40.0 
+Tres Ochos Anejo Tequila , 40.0 
+Des Madre Anejo Tequila , 40.0 
+El Perrito 1992 Silver , 0.0 
+Don Felix Anejo Tequila , 40.0 
+Des Madre Reposado Tequila , 40.0 
+Penacho Azteca Blanco , 40.0 
+El Grado Anejo Tequila , 0.0 
+Cobalto Reposado Tequilla , 40.0 
+Manana Anejo , 0.0 
+Rudo Anejo , 40.0 
+Tecnico Blanco , 40.0 
+Tecnico Reposado , 40.0 
+Agavales Especial Gold 100% Agave , 0.0 
+Hijos De Villa Reposado Pistol , 0.0 
+Senor Rio Tequila Anejo , 40.0 
+Senor Rio Tequila Reposado , 40.0 
+3 Amigos Tequila Liqueur , 30.0 
+Arrogante Blanco Tequila , 40.0 
+Libre Mint Chocolate Tequila , 35.0 
+Ciudad Anejo , 40.0 
+3 Amigos Extra Anejo Tequila , 40.0 
+Classic Club Silver Tequila , 40.0 
+Calende Reposado Tequila , 40.0 
+Sparkle Donkey Anejo Tequila , 40.0 
+Perfectomundo Anejo Tequila , 40.0 
+Perfectomundo Blanco Tequila , 40.0 
+Aldez Organic Tequila - Añejo , 40.0 
+Appalachian Gap Papilio Agave-Maple Spirit , 44.0 
+Vikera Tequila Extra Añejo , 40.0 
+Casa Mexico Anejo , 40.0 
+Casa Mexico Reposado , 40.0 
+Señor Artesano Tequila Blanco , 40.0 
+Acqua Alegre Blanco , 0.0 
+Encantadora Tequila Blanco , 0.0 
+Bribon Reposado Tequila , 40.0 
+Bribon Anejo Tequila , 40.0 
+Hotel California Blanco Tequila , 40.0 
+Tattoo Blanco Tequila , 0.0 
+Corralejo Triple Distilled Tequila , 40.0 
+Del Maguey Iberico , 49.0 
+Almendrado Senor Tequila , 30.0 
+Regional Reposado Tequila , 40.0 
+Casino Tequila Anejo , 40.0 
+El Rey Reposado , 40.0 
+Voodoo Tiki Desert Rose Prickly Pear Infused Tequila , 33.5 
+T1 Tequila Blanco Ultra Fino , 0.0 
+Asombroso Tequila El Platino , 0.0 
+Ascheri Langhe Nebbiolo 2013 , 0.0 
+Tequila Cruz Del Sol Silver , 40.0 
+Exodo Teq Silver Peach , 40.0 
+Don Felix Plata Tequila , 36.0 
+Reserva de Don Ramon Reposado Tequila , 31.0 
+El Toro White Tequila , 40.0 
+Chinaco Anejo Extra Tequila , 43.0 
+Oro Azul Teq Reposado , 40.0 
+Dulce Vida Extra Añejo Tequila - 100 Proof , 50.0 
+Jc 250 Anniversary Anejo , 40.0 
+Margaritaville Gold Tequila Bar , 35.0 
+Zapopan Resposado Tequila 80 , 40.0 
+Sauza® Blue Repo Tequila W/ Sauza Sparkling , 40.0 
+La Certeza Teq Reposado , 40.0 
+Monarca Tequila Gold , 40.0 
+Chaquira Beaded Res Del Jaguar Reposado Tequila , 40.0 
+Amatitlan Anejo Tequila , 40.0 
+De Los Altos Reposado Tequila , 35.0 
+Titanium Tequila , 40.0 
+Diva Citrus Infused Tequila , 40.0 
+El Rey Blanco Tequila , 40.0 
+Campeon Anejo , 40.0 
+Texano Mad Bull Reposado Tequila , 40.0 
+Amate "Dq" Reposado Tequila , 40.0 
+El Ultimo Agave Reposado Tequila , 40.0 
+Plata Super Jalisco , 39.3 
+El Ultimo Agave Reposado Tequila , 40.0 
+Plata Super Jalisco , 39.3 
+ArteNom 1414 Reposado Tequila , 0.0 
+El Gran Jubileo Extra Anejo Tequila , 40.0 
+Don Lorenzo Blanco , 40.0 
+Torero Ceramic Tequila Anejo , 40.0 
+Grand Love Silver Blue Heart , 40.0 
+El Padrino Anejo , 40.0 
+Tres Pesos Silver Tequila , 0.0 
+Classic Club Gold Tequila , 40.0 
+El Padrino Extra Anejo , 40.0 
+3 Amigos Organic Blanco Tequila , 40.0 
+Don Sergio Anejo Tequila , 40.0 
+Mañana Blanco Tequila , 0.0 
+Hornitos Margarita Kit , 0.0 
+YaVe Coconut Tequila , 35.0 
+Tequila Revolución Añejo Cristalino , 0.0 
+Tres Ochos Tequila Reposado , 0.0 
+La Hora Azul Blue Hour Reposado , 0.0 
+Padre Azul Reposado , 40.0 
+El Jefe Tequila Reposado , 0.0 
+ElVelo Tequila Reposado  , 44.5 
+Number Juan Extra Anejo , 40.0 
+Señor Artesano Tequila Extra Anejo , 40.0 
+Adictivo Tequila Anejo , 40.0 
+DeLeon Leona Tequila , 40.0 
+Calavera Blanco Tequila , 45.0 
+Oro Azul Reposado , 40.0 
+Kah Extra Anejo Tequila , 40.0 
+Corazon Reposado Buffalo Trace , 40.0 
+Corazon Artisanal Edition Blanco , 40.0 
+Patrón David Yurman Edition , 40.0 
+Don Diego Santa Blanco , 40.0 
+Sx Liquors Cafedoble , 35.0 
+El Ultimo Anejo , 0.0 
+Los Azulejos Silver Tequila , 0.0 
+Tierras Anejo Tequila , 40.0 
+Penasco Reposado Tequila , 40.0 
+Penasco Silver Tequila , 40.0 
+Patrón Margarita Gift Basket , 40.0 
+Cazadores Reposado Tequila with Two Rock Glasses , 40.0 
+Tres Sietes Tequila Anejo , 40.0 
+Cuestion Reposado Tequila , 40.0 
+Don Felix Repo Tequila , 36.0 
+Bonita Blanco Tequila , 40.0 
+El Mayor Bl Tequila , 40.0 
+Tequila Avion Silver Trans , 0.0 
+McCormick Light Tequila , 40.0 
+Jc Auth Coco Pine Tequila , 9.95 
+Tres Sietes Teq Sil Wyland Shark , 40.0 
+Z Xtra Anejo Tequila , 40.0 
+Matador Blanco Tequila , 40.0 
+Kah Tequila Variety Pk Anj/Rep/Sauvignon , 55.0 
+La Arenita Gold Tequila , 0.0 
+Hacienda De Chihuahua H5 Anejo , 40.0 
+Sx Cafe Doble Tequila , 40.0 
+Tarantula Azul Tequila With Two Shot Glasses , 40.0 
+Tarantula Plata Tequila 100 , 0.0 
+Fuenteseca Teq Reserve 9 Yr , 43.0 
+Mexican Moonshine Tequila Anejo , 40.0 
+Old Carbine Tequila Reposado , 40.0 
+Ranchero Tequila Gold , 40.0 
+Asombroso Anejo 5 Year Tequila , 40.0 
+Manik Extra Anejo Special Edition , 40.0 
+La Cava Del Mayoral Reposado , 40.0 
+Amatitlan Silver Tequila , 40.0 
+Distinguido Reposado Tequila , 40.0 
+Tavi Tequila Anejo , 40.0 
+Tonala Tequila Reserve 4 Yr , 40.0 
+Tequila 55 "Dq" Blanco , 40.0 
+Mejor Tequila Reposado , 40.0 
+Los Rijos Reserva Ultra Aged Tequila , 40.0 
+La Cava Del Mayoral Reposado , 40.0 
+Amatitlan Silver Tequila , 40.0 
+Distinguido Reposado Tequila , 40.0 
+Tavi Tequila Anejo , 40.0 
+Tonala Tequila Reserve 4 Yr , 40.0 
+Tequila 55 "Dq" Blanco , 40.0 
+Los Rijos Reserva Ultra Aged Tequila , 40.0 
+Casa Noble Alta Belleza Tequila , 45.3 
+Mejor Tequila Reposado , 40.0 
+Don Lorenzo Reposado Tequila , 40.0 
+Puerto Vallarta Reposado Tequila , 40.0 
+Mi Casa Tequila Reposado , 40.0 
+88 Blanco Tequila , 40.0 
+Blue Iguana Catrina Blanco Tequila , 40.0 
+Tromba Reposado , 36.0 
+El Tesoro de Mi Tierra Blanco Tequila , 40.0 
+El Tesoro de Mi Tierra Anejo Tequila , 40.0 
+Huizache Reposado , 0.0 
+San Matias Reposado , 40.0 
+Rudo Reposado , 40.0 
+T1 Tequila Blanco Selecto , 0.0 
+Libre Silver Tequila , 40.0 
+Libre Mango Tequila , 35.0 
+Libre Red Pepper Tequila , 35.0 
+Embajador Premium Tequila Reposado , 40.0 
+Centinela Classico Reposado , 0.0 
+Tequila Mandala Anejo , 40.0 
+V Tequila Cristalino Anejo , 40.0 
+Tragos Amargos Reposado Tequila , 40.0 
+Santera Reposado , 40.0 
+El Jefe Tequila Blanco , 40.0 
+Cava del Volcan Reposado , 40.0 
+Mad Rabbit American Agave Spirit , 40.0 
+Chaya Reposado Tequila , 40.0 
+Besado Platinum Tequila , 40.0 
+Tequila Avión Combo - All Flavors , 0.0 
+Espolon Resposado , 40.0 
+CaliFino Tequila Reposado , 0.0 
+CaliFino Tequila Silver , 0.0 
+Don Jose Lopez , 40.0 
+La Cofradia Tequila , 40.0 
+Corazon George T. Stagg Anejo , 40.0 
+Puro Verde Extra Anejo Reserva Tequila , 40.0 
+Puro Verde Reposado , 40.0 
+El Capo Tequila Anejo , 40.0 
+Baluarte Reposado , 40.0 
+Sierra Milenario Extra Añejo , 41.5 
+Aguila Silver Tequila , 40.0 
+Aguila Silver Tequila , 40.0 
+Aha Toro Diva Plata Rosa , 40.0 
+El Zarco Gold , 0.0 
+Corralejo Triple 99,000 Horas Anejo 80 , 40.0 
+Tequila Cruz Del Sol Silver W/Glass , 40.0 
+Tierra Fertil Blanco Tequila , 0.0 
+Milagro Unico Ii Tequila , 40.0 
+Karma Tequila Anejo , 40.0 
+Arandas Tequila Blanco , 40.0 
+Antiguo Reposado Tequila , 40.0 
+Hacienda Vieja Reposado Gft , 46.0 
+Sauza® Extra Anejo , 0.0 
+Solana Silver Tequila , 40.0 
+Ocho La Magueyera 14 Plata Tequila , 40.0 
+Ocho La Magueyera 14 Repo Tequila , 0.0 
+Mamas Boy Pine Mango Chili Tequila , 40.0 
+Jc Esp Gold Tequila , 40.0 
+Jenni Rivera Repo Tequila , 40.0 
+Tres Sietes Tequila Reposado , 40.0 
+Purasangre Tequila Ex Anejo Reserve , 40.0 
+Asmobroso Extra Anejo Tequila , 40.0 
+El Ultimo Agave Teq Reposado , 40.0 
+Ranchero Silver Tequila , 40.0 
+Asombroso Silver Tequila , 40.0 
+Casino Limited Edition Tequila , 40.0 
+Gas Monkey Cinnamon Tequila , 34.5 
+Aha Toro Anejo , 40.0 
+Ke Tequila , 40.0 
+Hacienda Silver Tequila , 40.0 
+El Reformador Blanco , 40.0 
+Dos Manos Silver Tequila , 40.0 
+Dos Armadillos Plata Tequila , 40.0 
+Texano Shotgun Old Betsy Reposado Tequila , 40.0 
+Don Camilo Anejo Tequila , 40.0 
+Dos Manos Anejo Tequila , 40.0 
+Terremoto Gold Tequila , 40.0 
+Arrogante Reposado Tequila , 40.0 
+The Reposado by Porfidio - Single Barrel Extra Reposado Super Jalisco , 39.3 
+Tributo Reposado Tequila , 40.0 
+Don Weber Reposado Tequila , 40.0 
+El Grado Blanco Tequila , 0.0 
+Terraneo Tequila Silver Estat , 40.0 
+Huizache Blanco , 0.0 
+Don Sergio Blanco Tequila , 40.0 
+Cazul 100 Anejo , 40.0 
+San Matias Blanco , 40.0 
+Legado Reposado Tequila , 40.0 
+Old Carbine , 0.0 
+Terraneo Tequila Silver Estat , 40.0 
+Huizache Blanco , 0.0 
+Don Sergio Blanco Tequila , 40.0 
+Cazul 100 Anejo , 40.0 
+San Matias Blanco , 40.0 
+Legado Reposado Tequila , 40.0 
+Old Carbine , 0.0 
+Arrogante Extra Anejo Tequila , 40.0 
+Casa Noble Crystal Tequila W Margarita Glass , 40.0 
+Ciudad Reposado , 40.0 
+Calende Silver Tequila , 40.0 
+Patrón Silver & Añejo with Bar Tools , 0.0 
+Masuave  Blanco Tequila , 0.0 
+Patrón Extra Añejo By Guillermo Del Toro , 0.0 
+Vizon Blanco Tequila , 0.0 
+Don Julio 1942 Luminous Bottle , 0.0 
+Tequila Mandala Blanco , 40.0 
+Tequila Mandala Reposado , 40.0 
+Tonala Suprema Reserva Anejo , 0.0 
+Vikera Tequila Reposado , 40.0 
+Patron Silver Gift Set with 2 Mule Mugs , 0.0 
+Adictivo Tequila Extra Anejo Cristalino , 40.0 
+Corazón Single Estate Añejo Single Barrel , 0.0 
+Republic Tequila Extra Anejo , 40.0 
+Ocho X Anejo El Carrizal 08 , 40.0 
+Don Weber Anejo , 40.0 
+Dos Artes Anejo , 40.0 
+Centinela Tequila Blanco , 38.0 
+Aguila Reposado Tequila , 40.0 
+The Lost Abbey Agave Maria , 0.0 
+Alma De Agave Blanco , 40.0 
+Talero Silver , 40.0 
+Oro Azul Blanco , 40.0 
+Antigua Cruz Anejo , 40.0 
+La Arenita Silver Tequila , 40.0 
+Centinela Anejo 100% Agave , 40.0 
+Cuestion Blanco Tequila , 50.0 
+Don Eduardo Anejo Tequila , 40.0 
+Blue Iguana Blanco Tequila , 40.0 
+Buen Amigo White Tequila , 0.0 
+El Jimador Mexican Lime Tequila , 0.0 
+Azunia Black Private Reserve , 40.0 
+Lapis Tequila Anejo , 40.0 
+Jc Esp Gold Tequila W/ Mx 1 L , 40.0 
+Goza Anejo Tequila , 45.0 
+Two Fingers Gold Tequila 80 , 40.0 
+Proximus Tequila , 0.0 
+Margaritaville Coconut Tequila , 35.0 
+Margaritaville Coconut Tequila , 35.0 
+Blue Iguana Blanco Tequila , 40.0 
+Buen Amigo White Tequila , 0.0 
+El Jimador Mexican Lime Tequila , 0.0 
+Azunia Black Private Reserve , 40.0 
+Proximus Tequila , 0.0 
+Goza Anejo Tequila , 45.0 
+Jc Esp Gold Tequila W/ Mx 1 L , 40.0 
+Sparkle Donkey Hot Cinnamon Reposado , 35.0 
+Two Fingers Gold Tequila 80 , 40.0 
+Exodo Teq Silver Coconut , 40.0 
+Avion Teq Asst , 40.0 
+Sauza® Teq Tres Gen Plata W/2 Gls , 40.0 
+Exodo Teq Silver Orange , 40.0 
+El Caballo Estrella Reposado , 40.0 
+Hijos De Villa 'Pear in the Bottle' Tequila Liqueur , 40.0 
+Don Alejandro Silver , 40.0 
+El Rey Gold Tequila , 40.0 
+Los Tres Tonos Tequila Blanco , 40.0 
+Herradura Double Reposado Tequila (Molly's Single Barrel) , 40.0 
+Sangre de Vida Reposado Tequila , 40.0 
+Mejor Tequila Blanco , 40.0 
+1800 100 Proof Tequila , 0.0 
+Tres Ochos Silver Tequila , 40.0 
+Feria De Jalisco Reposado Tequila , 40.0 
+Crotalo Plata Tequila , 40.0 
+La Puerta Negra Tequila Anejo , 40.0 
+El Fumador Reposado Tequila , 40.0 
+Dos Artes Cowboy Boot Tequila Anejo , 40.0 
+Demetrio Anejo , 40.0 
+Mariachi Hat Reposado Tequila With 2 Shot Glasses , 40.0 
+Lagos Silver Tequila Nom 1416 , 40.0 
+Senda Real Reposado Tequila , 40.0 
+Desmadre Unaged Blanco  , 40.0 
+Don Nacho Extra Premium Tequila Blanco , 40.0 
+Mañana Reposado Tequila , 0.0 
+Drego Azul Silver Tequila , 40.0 
+Manik Blanco Tequila , 40.0 
+Cazul 100 Reserva Extra Anejo , 40.0 
+Década Tequila Silver , 40.0 
+El Tesoro 70th Anniversary Extra Anejo Tequila , 0.0 
+Campo Azul Tequila Añejo , 40.0 
+La Hora Azul Blue Hour Tequila Anejo , 0.0 
+Abre Ojos Tequila Reposado , 40.0 
+Embajador Supreme Tequila Anejo , 40.0 
+The Margarita Time Kit , 0.0 
+Reserva Del Senior Anejo , 38.0 
+Dr. Stoner’s Hierba Loca Tequila , 42.0 
+Artenom Seleccion 1146 Anejo , 0.0 
+Campeon Silver Tequila , 0.0 
+Vikera Tequila Añejo , 40.0 
+1824 Tequila Reposado , 40.0 
+Playa Real Silver Tequila , 40.0 
+Kapena Li Hing Infused Tequila , 40.0 
+Señor Artesano Tequila Anjeo , 40.0 
+Bombas Añejo Tequila , 40.0 
+Enemigo Extra Anejo , 40.0 
+Veneno Blanco Tequila , 0.0 
+Tres Barricas Anejo , 40.0 
+Imperio Del Don Extra Anejo Tequila 10 Year , 42.0 
+Dinastia Real Extra Anejo Tequila , 40.0 
+Encantadora Tequila Joven Cristalino , 0.0 
+Tanteo Blanco Tequila , 42.5 
+Santera Anejo , 40.0 
+Calle 23 Reposado , 40.0 
+El Cartel Tequilla , 40.0 
+Agave 99 Anejo Tequila , 49.0 
+Corazon Anejo Rip Van Winkle , 40.0 
+Grillos Tequila Reposado , 38.0 
+Corazon Sazerac Rye Anejo , 45.0 
+Cielo Rojo Bacanora , 42.0 
+Azul Reposado Tequila , 40.0 
+30/30 Tequila Anejo , 40.0 
+Sauza® Blue Repo Tequila W/1 L Margarita Mx , 0.0 
+Luna Malvada Repo Tequila , 33.0 
+Topaz Gold Tequila , 0.0 
+Jc Trad Slvr Tequila , 40.0 
+Jenni Rivera Anejo Tequila , 0.0 
+Tequila Uila Revolucion Ex Anjo Tequila , 33.0 
+Grand Leyenda Teq Anejo , 40.0 
+Arco Del Cabo Anejo Tequila , 40.0 
+Rancho Grande Gold Tequila , 40.0 
+Dos Armadillos Reposado Tequila , 40.0 
+Dos Lunas Reposado Tequila , 40.0 
+El Rey Anejo Tequila , 40.0 
+Dos Alas Blanco , 0.0 
+Tavi Tequila Reposado , 40.0 
+Siembra Valles High Proof Blanco , 40.0 
+Tequila Alquimia Reposado , 40.0 
+Cabo Uno Anejo Reserva , 40.0 
+Fuenteseca Reserva Anejo Tequila 21 Year , 40.0 
+Don Fermin Extra Anejo Tequila , 40.0 
+Baluarte Blanco , 0.0 
+Amor Mio Anejo Tequila , 40.0 
+Dona Celia Anejo Tequila , 40.0 
+El Fira Reposado , 45.0 
+Dos Alas Blanco , 0.0 
+Siembra Valles High Proof Blanco , 40.0 
+Tequila Alquimia Reposado , 40.0 
+Cabo Uno Anejo Reserva , 40.0 
+Fuenteseca Reserva Anejo Tequila 21 Year , 40.0 
+Don Fermin Extra Anejo Tequila , 40.0 
+Baluarte Blanco , 0.0 
+Amor Mio Anejo Tequila , 40.0 
+Dona Celia Anejo Tequila , 40.0 
+El Fira Reposado , 45.0 
+Dos Lunas Anejo Tequila , 40.0 
+Tres Ochos Reposado , 40.0 
+El Grado Reposado Tequila , 0.0 
+Patrón x Guillermo Del Toro , 0.0 
+La Tilica Skull Tequila Blanco , 40.0 
+Jose Cuervo Tradicional Silver Tequila Aged in Funky Buddha Casks , 0.0 
+Casa Dragones Tequila Joven W/ 2 Glasses , 0.0 
+Ciudad Blanco , 40.0 
+Dos Armadillos Extra Anejo Clay , 0.0 
+Patrón Extra Añejo En Lalique Serie II , 40.0 
+Voodoo Tiki Blue Dragon Tequila , 0.0 
+Capitan Silver White Tequila , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Port , 40.0 
+Sauza Hornitos Plata Tequila Shot Glass Gift Set , 40.0 
+La Cava De Los Morales Gold Tequila , 40.0 
+Viva Mexico Anejo , 0.0 
+1824 Anejo , 40.0 
+Herencia de Plata Reposado , 0.0 
+Corazon Expresiones Old 22 Buffalo Trace Anejo , 40.0 
+Spice Note Cumin Infused Tequila , 40.0 
+Adictivo Tequila Plata , 0.0 
+Hotel California Reposado Tequila , 40.0 
+Socorro Reposado Tequila , 40.0 
+Socorro Blanco Tequila , 40.0 
+Espolòn Tequila Blanco , 40.0 
+Casamigos Blanco , 40.0 
+Patrón Silver Tequila , 40.0 
+Don Julio Blanco , 40.0 
+Jose Cuervo Especial Silver Tequila , 40.0 
+Jose Cuervo Especial Gold , 40.0 
+Hornitos Reposado Tequila , 40.0 
+Don Julio 1942 , 40.0 
+Casamigos Reposado , 40.0 
+Espolòn Tequila Reposado , 40.0 
+1800 Silver Tequila , 40.0 
+El Jimador Silver Tequila , 40.0 
+Hornitos Plata Tequila , 40.0 
+Camarena Silver , 40.0 
+Herradura Silver Tequila , 40.0 
+Clase Azul Reposado Tequila , 40.0 
+Milagro Silver Tequila , 40.0 
+Don Julio Anejo , 40.0 
+Sauza Silver Tequila , 40.0 
+Cazadores Reposado Tequila , 40.0 
+Patrón Reposado , 40.0 
+Espolòn Tequila Añejo , 0.0 
+Olmeca Altos Tequila Plata , 40.0 
+Casamigos Anejo , 40.0 
+Patrón Añejo Tequila , 40.0 
+Cazadores Tequila Blanco , 40.0 
+1800 Reposado Tequila , 40.0 
+Lunazul Blanco Tequila , 40.0 
+El Jimador Reposado Tequila , 40.0 
+1800 Reserva Coconut Tequila , 35.0 
+Exotico Blanco 100% Agave Tequila , 0.0 
+Don Julio Reposado , 40.0 
+Milagro Reposado Tequila , 40.0 
+Corralejo Reposado Tequila , 40.0 
+Sauza Gold Tequila , 40.0 
+Herradura Reposado Tequila , 40.0 
+Camarena Reposado , 40.0 
+Don Julio 70th Anniversary Tequila Anejo , 40.0 
+Margaritaville Silver Tequila , 40.0 
+Teremana Blanco Tequila , 40.0 
+Jose Cuervo Tradicional Silver Tequila , 40.0 
+Dulce Vida Organic Blanco Tequila  , 40.0 
+Tequila Avión Silver , 40.0 
+Casa Dragones Tequila Blanco , 40.0 
+Exotico Reposado 100% Agave Tequila , 40.0 
+Cabo Wabo Blanco , 40.0 
+Clase Azul Plata Tequila , 40.0 
+Mi Campo Blanco , 40.0 
+Casa Noble Crystal Tequila , 40.0 
+Montezuma Silver Tequila , 40.0 
+Dulce Vida Real Lime Tequila , 35.0 
+Lunazul Reposado Tequila , 40.0 
+Hornitos Anejo Tequila , 40.0 
+Corralejo Tequila Blanco , 40.0 
+Jose Cuervo Tradicional Reposado , 40.0 
+Herradura Anejo Tequila , 40.0 
+Sauza Signature Blue Silver Tequila , 40.0 
+Cimarron Blanco Tequila , 40.0 
+Código 1530 Rosa Tequila , 40.0 
+Teremana Reposado Tequila , 40.0 
+Tres Agaves Organic Blanco , 40.0 
+Ghost Tequila , 40.0 
+Tanteo Jalapeño Tequila , 40.0 
+Black Box Tequila , 40.0 
+Maestro Dobel Diamante Tequila , 40.0 
+Gran Centenario Anejo , 40.0 
+Dulce Vida Real Grapefruit Tequila , 35.0 
+La Gritona Reposado Tequila , 40.0 
+Roca Patrón Silver , 45.0 
+Fortaleza Tequila Blanco , 40.0 
+Margaritaville Tequila Gold , 40.0 
+Olmeca Altos Reposado Tequila , 38.0 
+Cabo Wabo Reposado , 40.0 
+Milagro Anejo Tequila , 40.0 
+Mi Campo Reposado , 40.0 
+Dulce Vida Real Pineapple Jalapeño Tequila , 35.0 
+Fortaleza Tequila Reposado , 40.0 
+Gran Centenario Reposado , 40.0 
+Tequila Ocho Plata , 40.0 
+Gran Centenario Plata Tequila , 40.0 
+Código 1530 Blanco , 40.0 
+Herradura Ultra Anejo Tequila , 40.0 
+DeLeon Platinum Tequila , 0.0 
+Corazon Blanco Tequila , 40.0 
+JAJA Blanco Tequila , 40.0 
+Sauza Signature Blue Reposado Tequila , 0.0 
+1800 Reserva Anejo , 40.0 
+Tres Generaciones Anejo Tequila , 40.0 
+Cazadores Tequila Anejo , 40.0 
+Casa Noble Reposado Tequila , 40.0 
+123 Organic Blanco Tequila (Uno) , 40.0 
+21 Seeds Cucumber Jalapeno Blanco Tequila , 35.0 
+Montezuma Aztec Gold Tequila , 40.0 
+El Tesoro Blanco Tequila , 40.0 
+Tequila Avión Reserva 44 , 40.0 
+Corralejo Anejo , 40.0 
+El Tesoro Reposado Tequila , 40.0 
+La Puerta Negra Tequila Blanco , 40.0 
+Libelula Tequila Joven , 40.0 
+Milagro Tequila Barrel Select Reserve Silver , 40.0 
+El Jimador Anejo Tequila , 40.0 
+Hornitos Black Barrel Tequila , 40.0 
+Tres Generaciones Plata Tequila , 40.0 
+Casa Noble Anejo Tequila , 40.0 
+Tequila Avión Reposado , 40.0 
+Suerte Blanco Tequila , 40.0 
+Teqiuila Avión Anejo , 40.0 
+Jose Cuervo Reserva De La Familia Extra Anejo , 40.0 
+Agavero Orange Tequila Liqueur , 32.0 
+Hornitos Cristalino Anejo , 40.0 
+Juarez Silver Tequila , 40.0 
+Tres Agaves Organic Reposado , 40.0 
+Cimarron Reposado Tequila , 40.0 
+Hornitos Lime Shot Tequila , 35.0 
+Monte Alban Silver Tequila , 40.0 
+Grand Mayan Ultra Aged Anejo , 40.0 
+Skinnygirl Sweet'Arita , 0.0 
+Corzo Tequila Anejo , 40.0 
+Corzo Tequila Silver , 40.0 
+El Tesoro Anejo Tequila , 40.0 
+Gran Patrón Platinum , 40.0 
+Juarez White Tequila , 40.0 
+Jose Cuervo Margaritas Classic Lime , 9.95 
+Corazón Reposado Tequila , 40.0 
+Tres Generaciones Reposado Tequila , 40.0 
+Durango White Tequila , 40.0 
+Tequila Ocho Reposado , 40.0 
+Tequila 512 Blanco , 0.0 
+JAJA Reposado Tequila , 40.0 
+Cabo Wabo Añejo , 40.0 
+Patrón Extra Añejo Tequila , 40.0 
+Agavales Blanco , 0.0 
+Maestro Dobel Silver Tequila , 40.0 
+Tequila Partida Blanco , 40.0 
+1921 Tequila Cream , 0.0 
+Qui Platinum Extra Anejo Tequila , 40.0 
+Patrón XO Cafe Dark Cocoa , 30.0 
+Fortaleza Tequila Anejo , 40.0 
+Siete Leguas Tequila Blanco , 40.0 
+Hussong's Reposado Tequila , 40.0 
+Patrón Estate Release , 42.0 
+Old Mexico Blanco Tequila , 40.0 
+Olmeca Altos Anejo Tequila , 40.0 
+100 Anos Reposado Tequila , 40.0 
+El Mayor Tequila Reposado , 40.0 
+Don Julio Double Cask 'Lagavulin' Reposado Tequila , 40.0 
+Volcan de mi Tierra Blanco , 0.0 
+123 Organic Reposado Tequila (Dos) , 40.0 
+Siete Leguas Tequila Reposado , 40.0 
+Código 1530 Reposado , 40.0 
+Mexican Sunrise White Tequila , 0.0 
+DeLeon Tequila Reposado , 40.0 
+Durango Gold Tequila , 40.0 
+21 Seeds Grapefruit Hibiscus Blanco Tequila , 35.0 
+Juarez Gold Tequila , 40.0 
+Monte Alban Reposado Tequila , 40.0 
+El Mayor Tequila Anejo , 40.0 
+Agavero Licor De Tequila , 32.0 
+Pepe Lopez Silver Tequila , 40.0 
+Milagro Tequila Barrel Select Reserve Reposado , 40.0 
+Cincoro Anejo Tequila , 40.0 
+Corzo Tequila Reposado , 40.0 
+Arette Blanco , 38.0 
+LALO Blanco Tequila , 40.0 
+Roca Patrón Reposado , 42.0 
+Pepe Lopez Gold Tequila , 40.0 
+El Mayor Tequila Blanco , 40.0 
+Don Julio Double Cask Reposado Tequila Limited Edition , 0.0 
+Suerte Reposado Tequila , 40.0 
+Lunazul Anejo Tequila , 40.0 
+Pasote Blanco Tequila , 40.0 
+123 Organic Añejo Tequila (Tres) , 40.0 
+Peligroso Silver , 42.0 
+Roca Patrón Añejo Tequila , 0.0 
+Villa One Silver Tequila , 40.0 
+Casa Dragones Tequila Joven , 40.0 
+TC CRAFT TEQUILA Blanco , 40.0 
+Hacienda de Chihuahua Sotol Reposado , 40.0 
+Bribon Blanco Tequila , 40.0 
+Camarena Anejo Tequila , 0.0 
+Dos Artes Extra Anejo , 0.0 
+Mccormick Tequila Low Proof , 20.0 
+Corazón Añejo , 40.0 
+Riazul Tequila Añejo , 40.0 
+Agavales Teq Blanco 100% Agave , 40.0 
+1800 Cristalino Anejo , 40.0 
+Tarantula Azul Tequila , 50.0 
+Los Sundays Coconut Blanco , 35.0 
+Mexican Sunrise Gold Tequila , 0.0 
+Senorita Silver Tequila , 0.0 
+Cenote Blanco Tequila , 40.0 
+Margaritaville Island Lime Teq , 0.0 
+Don Julio Blanco With Lime Press Kit , 0.0 
+La Pinta Pomegranate Tequila , 40.0 
+Grand Mayan Silver Tequila , 40.0 
+Torada Gold Tequila , 44.0 
+VIVA XXXII Joven Tequila , 40.0 
+99 Gold Tequila , 49.5 
+Barcelo Gran Platinum , 37.5 
+Old Mexico Oro Tequila , 40.0 
+Azunia Tequila Reposado , 40.0 
+Dulce Vida Organic Reposado Tequila , 40.0 
+Cincoro Reposado Tequila , 40.0 
+Cincoro Blanco , 40.0 
+Milagro Tequila Barrel Select Reserve Anejo , 40.0 
+100 Anos Blanco Tequila , 40.0 
+Espolòn Tequila Añejo X , 40.0 
+EL Charro Silver Tequila , 40.0 
+Agavales Gold Tequila , 40.0 
+El Jimador Silver Tequila w/ Glasses , 0.0 
+Tanteo Chipotle Tequila , 40.0 
+Senor Pedro Blanco , 40.0 
+1800 Select Silver 100 Proof , 50.0 
+Chamucos Reposado Tequila , 40.0 
+Nosotros Blanco Tequila , 40.0 
+Azteca Azul Plata Tequila , 40.0 
+Cabrito Reposado Tequila , 40.0 
+Giro Silver Tequila , 40.0 
+Cuesta Mesa White Tequila , 40.0 
+Código 1530 Anejo Tequila , 40.0 
+Anza Tequila Blanco , 40.0 
+Del Maguey Santo Domingo Albarradas Mezcal , 49.2 
+Piedra Azul Tequila Blanco , 40.0 
+Sauza 901 Silver Tequila , 40.0 
+Two Fingers Teq White , 40.0 
+Conmemorativo Anejo , 40.0 
+Coa De Jima Blanco Tequila , 40.0 
+Los Sundays Blanco , 40.0 
+Patrón Silver 2019 Limited-Edition , 40.0 
+Don Ramon Reposado Tequila , 40.0 
+Messicano Alteno Silver 100% Agave Tequila , 0.0 
+Siete Leguas Tequila Anejo , 38.0 
+Two Fingers Tequila Gold , 40.0 
+Dulce Vida Organic Blanco Tequila - 100 Proof , 50.0 
+Astral Blanco Tequila , 46.0 
+Red Eye Louie's Vodquila , 40.0 
+El Amo Reposado Premium Tequila , 0.0 
+Maestro Dobel Reposado Tequila , 40.0 
+Cava De Oro Anejo Tequila , 0.0 
+Tequila 512 Reposado , 40.0 
+ArteNOM Selección de 1414 Reposado , 40.0 
+Jose Cuervo Especial Cinnamon Cinge , 35.0 
+Villa One Anejo , 40.0 
+Don Ramon Silver Tequila , 40.0 
+Los Amantes Mezcal Joven , 40.0 
+1800 Silver Tequila Gift Set With Flask , 40.0 
+Loma Azul Reposado , 40.0 
+Piedra Azul Tequila Reposado , 40.0 
+Chamuco Tequila Blanco , 40.0 
+Riazul Tequila Plata , 40.0 
+Los Generales Silver Tequila , 40.0 
+Puerto Vallarta Blanco Tequila , 40.0 
+Casa Noble Single Barrel Extra Anejo Tequila , 40.0 
+Los Rijos Silver Tequila , 40.0 
+Tarantula Strawberry Tequila , 0.0 
+Alacran Blanco Tequila , 40.0 
+Torada Silver , 40.0 
+Two Fingers Silver , 40.0 
+Riazul Tequila Reposado , 40.0 
+Clase Azul Añejo Tequila , 40.0 
+El Toro Gold Tequila , 38.0 
+Jose Cuervo Tradicional Añejo , 0.0 
+1921 Tequila Blanco , 40.0 
+Sparkle Donkey Silver Tequila , 40.0 
+Sauza Conmemorativo Anejo Tequila , 40.0 
+Tequila Partida Reposado , 40.0 
+Patrón XO Cafe Incendio , 30.0 
+Maestro Dobel Anejo Tequila , 40.0 
+El Toro Silver Tequila , 40.0 
+Pasote Reposado , 40.0 
+Patrón Barrel Select Añejo , 0.0 
+Sauza Cucumber Chili Tequila , 35.0 
+Tequila Ocho Anejo Magueyera , 40.0 
+Cazadores Tequila Extra Anejo , 40.0 
+Dulce Vida Organic  Añejo Tequila  , 40.0 
+Cabrito Blanco Tequila , 40.0 
+Pura Vida Silver Tequila , 40.0 
+Una Vida Anejo Tequila , 40.0 
+Corralejo Repo Tequila , 40.0 
+Hacienda de Chihuahua Sotol Plata , 38.0 
+Don Julio Real Tequila , 40.0 
+Tequila Ocho Anejo , 40.0 
+Rio Grande Gold Tequila , 40.0 
+Montezuma Blue Tequila , 40.0 
+Karma Silver Tequila , 40.0 
+Arette Tequila Reposado , 40.0 
+Mile High Spirits Cuidado Tequila Silver , 40.0 
+Zignum Mezcal Reposado , 40.0 
+Peligroso Anejo , 0.0 
+1800 Tequila Artists Series , 40.0 
+Blue Nectar Silver Tequila , 0.0 
+Corralejo Reposado Tequila Triple Distilled , 40.0 
+Pueblo Viejo Blanco , 0.0 
+Villa One Reposado , 40.0 
+Volcan De Mi Tierra Cristalino Anejo , 0.0 
+Artenom Anejo 1146 , 40.0 
+Del Maguey Mezcal Tobala , 40.0 
+Jose Cuervo Especial Gold Tequila Limited Edition Skull , 40.0 
+Sparkle Donkey Tequila Reposado , 40.0 
+Zignum Mezcal Anejo , 40.0 
+Pueblo Viejo Anejo Tequila , 40.0 
+Rancho Alegre Tequila Blanco , 40.0 
+Pocket Shot Tequila Gold , 40.0 
+Uno Por Favor Blanco Tequila , 0.0 
+Mesh & Bone Sotol , 38.0 
+Hiatus Tequila Blanco , 40.0 
+Margaritaville Lime Tequila , 35.0 
+Don Abraham Organic Reposado , 40.0 
+El Retono Tequila Blanco , 40.0 
+Espanita Reposado Tequila , 0.0 
+El Destilador Classico Blanco Tequila , 40.0 
+Azunia Tequila Blanco , 40.0 
+Tequila Partida Añejo , 40.0 
+Sauza Sparkling Margarita Lime , 9.95 
+Maestro Dobel Humito Smoked SIlver Tequila , 44.0 
+Del Maguey San Luis del Rio Mezcal , 47.0 
+Tears Of Llorona Extra Anejo , 43.0 
+Suavecito Reposado Tequila , 0.0 
+E. Cuarenta Reposado Tequila , 0.0 
+Gran Cava de Oro Extra Anejo , 40.0 
+Jose Cuervo Especial Gold With Margarita Mixer , 40.0 
+Suavecito Blanco Tequila , 35.0 
+VIVA XXXII Reposado Tequila , 40.0 
+Gran Centenario Rosangel Tequila , 40.0 
+Azteca Gold , 0.0 
+Jose Cuervo Traditional Day of the Dead Silver Tequila , 0.0 
+El Destilador Reposado , 40.0 
+Casa Noble Single Barrel Reposado Tequila , 40.0 
+Alteno Reposado Tequila , 0.0 
+Siempre Tequila Plata , 40.0 
+Casamigos Gift Set (Blanco, Reposado, Anejo, Mezcal) , 0.0 
+Los Rijos Tequila Anejo , 40.0 
+Arta Silver Tequila , 40.0 
+Campo Azul Tequila Blanco , 35.0 
+Los Azulejos Tequila Anejo , 40.0 
+Hiatus Tequila Añejo , 40.0 
+Cava De Oro Reposado Tequila , 38.0 
+Republic Tequila Plata , 40.0 
+21 Seeds Valencia Orange Blanco Tequila , 35.0 
+Cabeza Tequila , 43.0 
+El Luchador Organic Tequila , 55.0 
+Margaritaville Mango Tequila , 25.0 
+Cenote Reposado Tequila , 0.0 
+Kah Tequila Reposado , 40.0 
+Don Fulano Tequila Blanco , 40.0 
+1921 Tequila Reposado , 40.0 
+Jose Cuervo Tequila Rolling Stones Silver Tequila , 40.0 
+Tequila Uila Revolucion Anejo Tequila , 33.0 
+Skeleto Anejo Tequila , 50.0 
+El Tequileño Gran Reserva Reposado , 40.0 
+Aguamiel Blanco Tequila , 40.0 
+Cenote Anejo Tequila , 40.0 
+Adictivo Tequila Extra Añejo , 40.0 
+Don Abraham Organic Anejo Tequila , 0.0 
+Corralejo Reposado Tequila w/ 2 Shot Glasses , 40.0 
+Gran Patrón Piedra Extra Añejo , 40.0 
+Tequiponch Weed  Formula , 53.5 
+Casamigos Blanco Gift Set , 0.0 
+Kah Tequila Blanco , 40.0 
+Jose Cuervo Classico Premium , 40.0 
+COA Reposado , 40.0 
+Tarantula Azul Tequila W/Margarita Mx Unit , 0.0 
+Los Rijos Tequila Reposado , 40.0 
+Arette Artesanal Suave Anejo Tequila , 38.0 
+Alacran Cristal Tequila , 40.0 
+Cava De Oro Plata , 38.0 
+1800 Tequila Blanco , 0.0 
+Senorita Tequila Gold , 0.0 
+Lunazul Tequila Anejo Tequila , 40.0 
+Arta Anejo Tequila , 40.0 
+Hiatus Tequila Reposado , 40.0 
+Tijuana Swt Heat Tequila , 35.0 
+Jose Cuervo Reserva Platino Silver , 40.0 
+La Favorite Rhum Agricole Blanc , 40.0 
+Don Nacho Tequila Reposado , 40.0 
+Hacienda Vieja Tequila Reposado , 40.0 
+Hacienda De Chihuahua Anejo , 38.0 
+Herradura Double Barrel Reposado Tequila , 40.0 
+Siembra Azul Blanco Tequila , 40.0 
+Mejor Pink Tequila , 40.0 
+Rancho Alegre Tequila Reposado , 40.0 
+Azteca White Tequila , 40.0 
+Peligroso Reposado , 42.0 
+Number Juan Tequila Anejo , 0.0 
+Tierra Fertil Anejo Tequila , 0.0 
+Two Fingers Teq Gold , 40.0 
+Tortilla Silver Tequila , 40.0 
+Alacran Reposado , 40.0 
+Jose Cuervo 40th Anniversary Cuervo Classic Surf Competition Silver Tequila , 0.0 
+DeLeon Anejo Tequila , 40.0 
+Loma Azul Blanco , 40.0 
+Gran Patrón Burdeos , 40.0 
+El Tesoro Paradiso Anejo Tequila , 40.0 
+Z Pepe Blanco , 0.0 
+100 Anos Anejo Tequila , 40.0 
+Peligroso Cinnamon , 0.0 
+Patrón Teq Silver W/Cooler Bag , 40.0 
+One With Life Organic Tequila Blanco , 40.0 
+Prospero Tequila Anejo , 40.0 
+El Tesoro Extra Anejo Tequila , 0.0 
+Cantera Negra Silver Tequila , 40.0 
+Cantera Negra Anejo , 40.0 
+El Ultimo Tequila Blanco , 40.0 
+Don Pilar Anejo Tequila , 40.0 
+Frida Kahlo Blanco , 40.0 
+Arta Tequila Reposado , 40.0 
+Zapopan Tequila Reposado , 40.0 
+3 Amigos Tequila Blanco , 40.0 
+Cazul 100 Reposado , 40.0 
+Comisario Blanco Tequila , 40.0 
+Puro Verde Anejo , 40.0 
+Mina Real Mezcal Silver , 42.0 
+Avion Silver Gift Set , 40.0 
+30/30 Tequila Blanco , 40.0 
+Don Abraham Blanco Organic Tequila , 40.0 
+Carlos Murphy Spiced Tequila , 40.0 
+Espanita Anejo Tequila , 0.0 
+Dos Artes Extra Anejo 'Skull' Bottle , 0.0 
+Don Nacho - Blanco , 40.0 
+Casamigos Reposado Gift Set , 0.0 
+Gran Mayan Reposado , 0.0 
+Código 1530 George Strait Edition Anejo  , 40.0 
+Cazadores Añejo Cristalino , 40.0 
+Chinaco Anejo , 40.0 
+Dos Artes Blanco , 40.0 
+Jc Tradicional , 40.0 
+Texano Grand Slam Bat Reposado Tequila , 40.0 
+Padre Azul Anejo , 40.0 
+Suerte Anejo Tequila , 40.0 
+Tres Culturas Tequila Anejo , 40.0 
+Hussong's Platinum Anejo Tequila , 30.0 
+Don Pilar Extra Anejo Tequila , 40.0 
+El Amo Blanco Premium Tequila , 40.0 
+Cantera Negra Extra Anejo Tequila , 40.0 
+Sauza Hornitos Reposado Tequila Shot Glass Gift Set , 40.0 
+Gran Agave Blanco Tequila , 0.0 
+TC CRAFT Tequila Reposado , 40.0 
+Dona Celia Reposado Tequila , 0.0 
+Chinaco Reposado , 40.0 
+Toro De Lidia Teq Extra Anejo , 40.0 
+Herencia Mexicana Blanco , 40.0 
+Los Sundays Reposado , 40.0 
+Adictivo Tequila Reposado , 40.0 
+Aldez Organic Tequila - Blanco , 40.0 
+Excellia Resposado , 40.0 
+Wild Shot Mezcal Reposado 86.8' , 43.4 
+El Charro Reposado Tequila , 40.0 
+Cantera Negra Reposado , 40.0 
+Kah Tequila Anejo , 55.0 
+Texano Boot Reposado , 40.0 
+Zapopan Silver Tequila , 40.0 
+Tequila Ocho Single Barrel Anejo , 53.0 
+Rock N Roll Platinum Tequila , 0.0 
+Tromba Blanco , 40.0 
+Olmeca Blanco Tequila , 40.0 
+Chamucos Tequila Anejo , 40.0 
+Ambhar Tequila Anejo , 40.0 
+Herencia Anejo , 35.0 
+La Cava De Los Morales Tequila Blanco , 40.0 
+Tierra Noble Tequila Blanco , 0.0 
+Chamucos Tequila Anejo , 40.0 
+El Tequileño Blanco , 40.0 
+Azunia Tequila Anejo , 40.0 
+San Matias Gran Reserva Extra Anejo Tequila , 40.0 
+El Jimador 100 Agave Blanco W/Paloma Gls 75 , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Scotch , 40.0 
+Topaz White Tequila , 40.0 
+Centinela Reposado 80 P , 40.0 
+Rancho Tepua Bacanora Blanco  , 47.5 
+Contigo Plata , 0.0 
+Prospero Tequila Blanco , 0.0 
+Los Arango Tequila Blanco , 35.0 
+Z Pepe Anejo , 0.0 
+San Matias Grand Res Anejo Tequila , 40.0 
+Hornitos Silver Tequila W/6 Sht Gls , 30.0 
+Tapatio Blanco Tequila 110 , 40.0 
+Juarez Gold 800 , 40.0 
+Tromba Anejo , 40.0 
+Senor Pedro Gold , 40.0 
+Alacran Tequila Extra Anejo , 40.0 
+Playa Real Pineapple Tequila , 40.0 
+Papa Bueno Tequila Silver , 40.0 
+Asombroso Tequila La Rosa Reposado , 40.0 
+LIQS Tequila Cinnamon Orange , 20.0 
+Puerto Vallarta Gold Tequila , 40.0 
+Cuesta Mesa Gold Tequila , 40.0 
+1800 Silver Tequila With Stainless Glasses , 50.0 
+Santera Blanco Tequila , 43.0 
+JAJA Añejo Tequila , 40.0 
+Patrón Extra Añejo 10 Años , 40.0 
+La Puerta Negra Reposado Tequila , 40.0 
+Jc Esp Silver Tequila Max Pk W/Lt Margarita Mx , 40.0 
+Conquistador Tequila White , 40.0 
+Campo Azul Anejo , 40.0 
+El Tequileño Tequila Platinum , 40.0 
+Cazul 100 Silver , 40.0 
+Padre Azul Silver Tequila , 40.0 
+Tapatio Tequila Blanco , 40.0 
+Antigua Cruz Reposado , 0.0 
+Los Azulejos Skeleto Blanco , 0.0 
+Los Arango Tequila Reposado , 40.0 
+DeLeon Tequila Diamante , 40.0 
+Casino Azul Reposado , 40.0 
+Pancho Villa Gold Tequila , 40.0 
+Jose Cuervo Black , 40.0 
+Single Barrel Anejo Super Jalsico , 39.3 
+Ixa Organic Reposado Tequila , 40.0 
+Campo Azul Extra Anejo , 40.0 
+2018 Limited-Edition Holiday Patrón Silver , 40.0 
+Religion Organic Blanco Tequila , 40.0 
+Puro Verde Silver , 40.0 
+Baron Platinum Tequila , 40.0 
+Sauza 901 Anejo , 40.0 
+Tequila Cruz Reposado , 40.0 
+Herradura Seleccion Suprema Tequila , 40.0 
+Monarca Silver Tequila , 40.0 
+Mexican Moonshine Tequila Silver , 40.0 
+Sol De Mexico Tequila Blanco , 40.0 
+Tonala Anejo Tequila , 40.0 
+Pasote Añejo Tequila , 40.0 
+Siembra Valles Ancestral Tequila , 49.0 
+Don Fulano Imperial Extra Anejo Tequila 5 Year , 0.0 
+Corralejo Blanco W/2 Shot Glasses , 40.0 
+Bombas Blanco Tequila , 40.0 
+Number Juan Tequila Blanco , 0.0 
+Tijuana Sweet Heat Tequila , 35.0 
+Don Eduardo Reposado Tequila , 36.0 
+Pura Vida Anejo Tequila , 35.0 
+Hornitos Silver Tequila W/Shot Gls/Hols , 40.0 
+Tarantula Rtd Azul Tequila , 0.0 
+Purasangre Tequila Blanco Reserve , 40.0 
+Texano Rodeo Hat Reposado Tequila , 40.0 
+Artenom Seleccion 1549 Blanco , 40.0 
+Código 1530 'Origen' Extra Anejo Tequila , 40.0 
+Casa Pacific Blanco Tequila , 40.0 
+Ixa Añejo Tequila from Greenbar Distillery , 40.0 
+E. Cuarenta Blanco Tequila , 0.0 
+Prospero Tequila Reposado , 0.0 
+Fortaleza Reposado Winter Blend Tequila , 45.7 
+Sauza Sparkling Margarita Watermelon , 9.95 
+Blue Nectar Tequila Reposado Extra Blend , 0.0 
+Patrón Añejo 7 Year , 40.0 
+Wild Shot Mezcal Silver 86.8' , 43.4 
+Campo Azul Reposado , 40.0 
+1824 Tequila Blanco , 40.0 
+Hotel California Anejo Tequila , 40.0 
+Casino Azul Anejo Tequila , 40.0 
+123 Organic Extra Añejo Tequila (Diablito) , 40.0 
+ArteNOM Selección de 1580 Blanco , 40.0 
+Ambhar Tequila Reposado , 0.0 
+1921 Anejo Tequila , 40.0 
+Abre Ojos Tequila Silver , 40.0 
+Don Fulano Anejo Tequila , 40.0 
+Legado Blanco Tequila , 40.0 
+El Perrito 1992 Reposado , 40.0 
+Rock N Roll Cristalino Anejo Tequila , 0.0 
+El Amo Anejo Cristalino Premium Tequila , 40.0 
+Costa Tequila Blanco , 0.0 
+Excellia Blanco , 40.0 
+Cielo Tequila Blanco , 0.0 
+901 Silver Tequila , 40.0 
+Torada White Tequila , 35.0 
+Lunazul Double Barrel Reposado Tequila , 0.0 
+Rock N Roll Tequila Mango , 32.0 
+El Padrino Blanco , 40.0 
+Dulce Vida Organic Reposado Tequila - 100 Proof , 50.0 
+Tequila Honor Reflexion Blanco , 0.0 
+Tres Agaves Organic Anejo , 40.0 
+Excellia Anejo , 40.0 
+Tequila Partida Elegante , 40.0 
+Don Felix Anejo Tequila , 40.0 
+Terremoto Silver Tequila , 40.0 
+Blue Nectar Anejo Tequila Founder's Blend , 40.0 
+Gran Orendain Tequila Anejo , 40.0 
+Gran Centenario Leyenda Tequila , 0.0 
+Olmeca Gold Tequila , 0.0 
+Ayate Reposado Tequila , 0.0 
+Aldez Organic Tequila - Reposado , 40.0 
+Grand Mayan Extra Anejo , 40.0 
+Chinaco Blanco , 40.0 
+Antigua Cruz Silver , 0.0 
+Reserva de Don Ramon Añejo Tequila , 40.0 
+Cruz Del Sol Anejo Tequila , 40.0 
+Tortilla Gold Tequila , 0.0 
+Jose Cuervo Tradicional Tequila Gold , 40.0 
+Corralejo Triple Dist Reposado Teq , 40.0 
+Hijos De Villa Blanco Silver Revolver , 40.0 
+Tierra Fertil Reposado Tequila , 0.0 
+El Jimador 100 Agave Repo Tequila W/Margarita Gls 75 , 0.0 
+Pura Vida Tequila Reposado , 40.0 
+El Reformador Reposado , 40.0 
+Calende Anejo Tequila , 40.0 
+Corazón Extra Añejo Tequila , 40.0 
+Nosotros Reposado Tequila , 40.0 
+Dulce Vida Organic 100 Proof Añejo Tequila , 50.0 
+Florida Kush Anejo Tequila , 40.0 
+La Brune Anejo Tequila , 0.0 
+Clase Azul Ultra Extra Anejo Tequila , 40.0 
+Los Generales Gold Tequila , 40.0 
+Cruz Silver Tequila , 40.0 
+Don Ramon Añejo Tequila , 40.0 
+El Ultimo Agave Tequila Blanco , 40.0 
+El Jimador Mango Mango Tequila , 35.0 
+Jc Esp Silver Tequila , 40.0 
+Karma Tequila Reposado , 40.0 
+Tapatio Excelencia Tequila , 35.0 
+Tapatio Repo Tequila , 50.0 
+Dulce Vida Lone Star Edition  - 100 Proof , 50.0 
+El Reformador Anejo , 40.0 
+Amate "Dq" Silver Tequila , 40.0 
+Arta Tequila Extra Anejo , 40.0 
+Patrón Extra Añejo Lalique , 40.0 
+Circulo Silver Tequila , 40.0 
+Santo Mezquila , 0.0 
+San Matias Tahona Tequila , 0.0 
+Amor Mio Reposado Tequila , 40.0 
+Tres Manos Tequila Anejo , 40.0 
+Don Sergio Reposado Tequila , 40.0 
+Amorada Tequila Anejo , 40.0 
+Florida Kush Anejo Tequila , 40.0 
+Republic Tequila Anejo , 40.0 
+Amor Mio Tequila Extra Anejo , 40.0 
+Agavales Reposado Tequila , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Cognac , 40.0 
+Amor Mio Tequila Extra Anejo , 40.0 
+Agavales Reposado Tequila , 40.0 
+Bartenders Strawberry Tequila , 0.0 
+Rio Grande Silver Tequila , 40.0 
+Pancho Villa White Tequila , 40.0 
+Margaritaville Tangerine Tequila , 0.0 
+Herradura Reposado Tequila Coleccion de la Casa Cognac , 40.0 
+Casa Maestri Anejo Tequila , 40.0 
+Los Azulejos Skeleton Reposado , 40.0 
+Mejor Tequila Anejo , 40.0 
+Tributo Blanco Tequila , 42.0 
+Corazo Expressions Tequila Anejo Thomas Handy  , 0.0 
+El Padrino Reposado , 40.0 
+Dulce Vida Añejo Tequila Rocky Mountain Edition - 100 Proof , 50.0 
+Maracame Reposado Tequila  , 0.0 
+YaVe Blanco Tequila , 40.0 
+Uno Por Favor Reposado Tequila , 40.0 
+El Ultimo Tequila Reposado , 40.0 
+Don Weber Tequila Blanco , 40.0 
+Diabolique Mixto Tequila , 0.0 
+Scorpion Reposado Mezcal , 40.0 
+Tapatio Anejo Tequila , 40.0 
+512 Tequila Anejo , 40.0 
+Tequila Mandala Extra Anejo , 40.0 
+512 Tequila Anejo , 40.0 
+Tequila Mandala Extra Anejo , 40.0 
+Patrón Barrel Select Reposado , 0.0 
+El Gran Jubileo Blanco , 40.0 
+Calle 23 Blanco , 40.0 
+DeLeon Extra Anejo , 40.0 
+Antiguo Blanco Tequila , 40.0 
+Amorada Tequila Blanco , 40.0 
+Blue Nectar Tequila Reposado Special Craft , 0.0 
+Ambhar Tequila Plata , 40.0 
+Jenni Rivera Blanco Tequila , 40.0 
+Hijos De Villa Aged Reposado , 40.0 
+3 Amigos Reposado Tequila , 40.0 
+Masuave Reposado Tequila , 0.0 
+E. Cuarenta Anejo Tequila , 0.0 
+Mucha Liga Tequila Reposado , 0.0 
+Casa Maestri 1965 Blanco Flask , 0.0 
+Recipe 21 Tequila , 0.0 
+G4 Tequila Extra Anejo , 40.0 
+The Bad Stuff Extra Añejo Tequila , 40.0 
+Espanita Blanco Tequila , 40.0 
+TC CRAFT Tequila Extra Añejo , 40.0 
+Maestro Dobel Tequila Diamante w/ Shot Glasses , 0.0 
+Wachusett Seasonal Variety , 0.0 
+Centinela Tequila Anejo , 40.0 
+Cabo Wabo Diablo , 0.0 
+Zarco Gold Tequila , 40.0 
+Jc Esp Silver Tequila Sq , 40.0 
+Coa De Jima Teq Reposado , 40.0 
+Tequila Rose Hot Rose , 15.0 
+Loma Azul Anejo Tequila , 40.0 
+El Diamante Del Cielo Tequila Reposado , 40.0 
+Herradura Silver Tequila Gift Set with Ice Molds , 40.0 
+Clase Azul XX Anniversario Reposado Tequila , 0.0 
+Los Arango Tequila Anejo , 40.0 
+Tequila Avión Anejo 44 Luminous Special Edition , 0.0 
+Suavecito Añejo Tequila , 35.0 
+Enemigo 00 Extra-Añejo Tequila , 40.0 
+Casino Azul Blanco , 40.0 
+Ixa Silver Tequila from Greenbar Distillery , 40.0 
+El Zarco Silver Tequila , 0.0 
+Number Juan Tequila Reposado , 0.0 
+Corazon Expresiones Blanco , 40.0 
+1800 Tequila Milenio Extra Anejo , 40.0 
+Sol De Mexico Tequila Reposado , 40.0 
+Patrón Extra Añejo 5 Year , 40.0 
+Demetrio Reposado Tequila , 40.0 
+Don Fulano Tequila Reposado , 40.0 
+Gran Patrón Smoky , 50.5 
+Tequila Avión Anejo 44 Luminous Special Edition , 0.0 
+Suavecito Añejo Tequila , 35.0 
+Enemigo 00 Extra-Añejo Tequila , 40.0 
+Los Arango Tequila Anejo , 40.0 
+Republic Tequila Reposado , 40.0 
+Tierras Tequila Blanco , 40.0 
+Pueblo Viejo Reposado Tequila , 40.0 
+El Charro Anejo Tequila , 40.0 
+30/30 Tequila Reposado , 40.0 
+Mexican Moonshine Tequila Reposado , 40.0 
+Jose Cuervo Especial Gold Heart , 40.0 
+3 Amigos Anejo Tequila , 40.0 
+Chinaco Anejo Tequila , 0.0 
+Xilli Tequilla , 35.0 
+Vikera Tequila Blanco , 40.0 
+Azteca Azul Reposado Tequila , 40.0 
+La Brune Reposado Tequila , 38.0 
+Chamucos Tequila Extra Añejo , 44.4 
+TC CRAFT Tequila Añejo , 40.0 
+Suavecito Extra Añejo , 0.0 
+Scorpion Tequila , 40.0 
+Revolucion Silver , 50.0 
+Artnom Plata 1580 , 40.0 
+Skinnygirl Sparkling Margarita , 9.98 
+Reserva de Don Ramon Silver Tequila , 0.0 
+El Toro Triple Dist Silver Tequila , 0.0 
+Purasangre Tequila Reposado Reserve , 40.0 
+Chaquira Beaded Res Del Jaguar Anejo Tequila , 40.0 
+Circulo Reposado Tequila , 40.0 
+Orendian Ollitas Reposado Tequila Gold , 42.6 
+Casino Azul Extra Anejo Tequila , 40.0 
+La Luna Mezcal Cupreata , 40.7 
+Don Nacho Extra Premium Tequila Reposado , 40.0 
+YaVe Jalapeno Tequila Reposado , 35.0 
+Joel Richard Extra Anejo Tequila , 0.0 
+Dueno Tequila , 40.0 
+Casa Noble Silver , 40.0 
+Campeon Tequila , 40.0 
+Eagle Shot Tequila , 40.0 
+Maestro Dobel Diamond Tequila w/ Shot Glasses , 40.0 
+El Capo Tequila Platinum , 40.0 
+Herradura Variety Pack , 40.0 
+Calle 23 Añejo , 40.0 
+Single Agave Blanco by Porfidio - Tequila , 40.0 
+Azul Silver Tequila , 0.0 
+Tequila 1519 Blanco , 0.0 
+Don Roberto Tequila Plata 80 # , 0.0 
+Casino Azul Extra Ultra Anejo , 0.0 
+Dueno Tequila , 40.0 
+Casa Noble Silver , 40.0 
+Campeon Tequila , 40.0 
+Eagle Shot Tequila , 40.0 
+Maestro Dobel Diamond Tequila w/ Shot Glasses , 40.0 
+El Capo Tequila Platinum , 40.0 
+Herradura Variety Pack , 40.0 
+Calle 23 Añejo , 40.0 
+Single Agave Blanco by Porfidio - Tequila , 40.0 
+Azul Silver Tequila , 0.0 
+Don Roberto Tequila Plata 80 # , 0.0 
+Amorada Tequila Reposado , 40.0 
+Tequila 1519 Blanco , 0.0 
+Real Gusto Reposado , 40.0 
+Margaritaville Island Lime Teq/70' , 0.0 
+Blue Iguana Teq Reposado , 40.0 
+Casa Pacific Reposado Tequila , 40.0 
+Casa San Matias Rey Sol Extra Anejo Tequila , 0.0 
+Grand Leyenda Teq Reposado , 40.0 
+Hacienda Vieja Teq Blanco , 40.0 
+Tres Sietes Silver Tequila , 40.0 
+Hijos De Villa Reposado Tequila 80 Rifle , 30.0 
+Bracero Anejo , 40.0 
+Bracero Anejo , 40.0 
+El Mayor Bl Tequila Lse , 40.0 
+Giro Gold , 40.0 
+Tarantula Reposado Tequila 100 , 0.0 
+Terremoto Churros Tequila , 35.0 
+Whispering Eye Blanco Tequila , 0.0 
+Tres Sietes Teq Sil Wyland Dolph , 40.0 
+Casta Pasion Teq Worm Reposado , 40.0 
+Grand Leyenda Teq Silver , 40.0 
+Tequila Semental Anejo , 40.0 
+Chaquira Beaded Res Del Jaguar Blanco Tequila , 40.0 
+Soah Anejo Tequila , 40.0 
+Dos Alas Anejo , 0.0 
+Tequila Ocho Extra Anejo , 40.0 
+Alteno Silver Tequila , 40.0 
+Blue Iguana Anejo Tequila , 40.0 
+Mi Casa Tequila Blanco , 40.0 
+Mi Casa Tequila Anejo , 40.0 
+Dulce Amargura Extra Anejo Tequila , 40.0 
+Muchote Reposado 100% , 40.0 
+Fuenteseca Blanco Cosecha , 40.0 
+Hacienda De Chihuaha Sotol Rustico , 45.0 
+Don Cuco Sotol Suave , 36.0 
+Penasco Ex Anejo Tequila , 40.0 
+Voodoo Tiki Tequila Anejo , 40.0 
+El Nivel Reposado , 0.0 
+Puerto Vallarta Anejo Tequila , 0.0 
+Rudo Blanco , 40.0 
+Agavales Especial Silver100% Agave , 0.0 
+Centinela Tequila Reposado , 0.0 
+El Tesoro  Plumpjack Single Barrel Reposado Tequila , 40.0 
+The Party Girl Kit , 0.0 
+Embajador Platinum Tequila Blanco , 40.0 
+Patrón Tequila Extra Añejo En Lalique , 0.0 
+Gomez Tequila Silver , 0.0 
+Tanteo Habenero Tequila , 40.0 
+Mucha Liga Tequila Blanco , 0.0 
+Corralejo Anejo Tequila , 40.0 
+Pasote Reposado Tequila , 40.0 
+Tattoo Repo Tequila , 0.0 
+Socorro Anejo Tequila , 40.0 
+Casa Mexico Silver , 40.0 
+Arette Tequila Anejo , 40.0 
+3 Gringos Blanco Tequila , 40.0 
+Siempre Tequila Anejo , 40.0 
+Sesion Reposado  , 40.0 
+Tragos Amargos Anejo Tequila , 0.0 
+Encantadora Tequila Ultra , 0.0 
+Tequila Alquimia Blanco , 0.0 
+La Brune Blanco Tequila , 0.0 
+One With Life Organic Tequila Extra Anejo , 40.0 
+Tragos Amargos Anejo Tequila , 0.0 
+Encantadora Tequila Ultra , 0.0 
+Comisario Reposado Tequila , 40.0 
+Royal Emblem Tequila Oro , 40.0 
+Agave 99 Silver Tequila , 49.0 
+Art Nouveau Tequila Blanco , 40.0 
+Art Nouveau Tequila Repasado , 40.0 
+Don Modesto Blanco Tequila , 40.0 
+El Capo Tequila Reposado , 40.0 
+Sx Liquors Cha Cha Cha , 35.0 
+Alma De Agave Añejo , 40.0 
+T1 Tequila Repo Excepcional , 0.0 
+901 Tequila Anejo , 40.0 
+Capitan Gold Tequila , 40.0 
+Agave Underground Teq Reposado , 40.0 
+Agavales Gold Tequila 110 Bar , 55.0 
+Agave Underground Silver Tequila , 40.0 
+Jc Esp Gold Tequila W/ Gold 1.75 L , 40.0 
+Pueblo Viejo Orgullo Blanco Tequila , 40.0 
+Goza Blanco Tequila , 40.0 
+Goza Repo Tequila , 40.0 
+Don Nacho Extra Premium Anejo Tequila , 40.0 
+Villa Lobos Reposado Tequila , 40.0 
+Dos Lunas Silver Tequila , 40.0 
+Villa Lobos Blanco Tequila , 40.0 
+Puerto Vallarta Extra Anejo , 40.0 
+Real Minero Largo , 51.6 
+Don Abraham Organic Tequila Extra Anejo , 40.0 
+Casa Pacific Tequila Anejo , 40.0 
+Siembra Azul Tequila Reposado Valles , 0.0 
+Senor Rio Tequila Blanco , 40.0 
+Ak T Tequila Blanco , 0.0 
+Drego Azul Gold Tequila , 40.0 
+Senor Rio Extra Anejo , 40.0 
+Perfectomundo Reposado Tequila , 40.0 
+The Original by Porfidio, Extra Añejo Single Barrel Super Jalisco (5YR) , 39.3 
+El Gran Jubileo Reposado , 0.0 
+Toleco Tequila Reposado , 0.0 
+Una Vida Reposado Tequila , 40.0 
+La Hora Azul Blue Hour Tequila Blanco , 0.0 
+88 Anejo Tequila , 0.0 
+Arette Gran Clase Extra Añejo , 0.0 
+Playa Real Mandarin Tequila , 40.0 
+Casa Mexico Silver , 40.0 
+Arette Tequila Anejo , 40.0 
+Senor Rio Tequila Blanco , 40.0 
+Drego Azul Gold Tequila , 40.0 
+Ak T Tequila Blanco , 0.0 
+Senor Rio Extra Anejo , 40.0 
+Toleco Tequila Reposado , 0.0 
+La Hora Azul Blue Hour Tequila Blanco , 0.0 
+The Original by Porfidio, Extra Añejo Single Barrel Super Jalisco (5YR) , 39.3 
+El Gran Jubileo Reposado , 0.0 
+Perfectomundo Reposado Tequila , 40.0 
+Una Vida Reposado Tequila , 40.0 
+88 Anejo Tequila , 0.0 
+Arette Gran Clase Extra Añejo , 0.0 
+Playa Real Mandarin Tequila , 40.0 
+Tres Comas Anejo Tequila , 0.0 
+Tequila El Mariachi , 0.0 
+Agave 99 Reposado Tequila , 49.0 
+Patrón Añejo John Varvatos Edition , 40.0 
+El Rey Blanco , 40.0 
+Azul Silver , 0.0 
+1800 Silver Tequila With Pineapple Juice , 40.0 
+Agavales Silver Tequila , 40.0 
+Rey Sol Tequila , 0.0 
+Tenampa Azul Reposado Tequila , 40.0 
+Cruz Del Sol Reposado Tequila , 40.0 
+Tierras Reposado Tequila , 40.0 
+Casa San Matias Orgullo Anejo Tequila , 40.0 
+Cruz Del Sol Silver Tequila W/2 Gls , 0.0 
+Agave Underground Teq Anejo , 40.0 
+PaQui Tequila Anejo , 40.0 
+Revolucion Teq Reposado , 40.0 
+Aquariva Blanco Tequila , 40.0 
+El Mayor Extra Anejo Tequila , 0.0 
+Azul Reposado , 40.0 
+Chinaco Blanco Tequila Bar , 40.0 
+Republic Plata Tequila Tx Replica , 0.0 
+Mccormick Gold Tequila , 35.0 
+Kah Los Ult Dias Blanco Tequila , 35.0 
+Two Fingers White Tequila 80 , 40.0 
+Tequila Rose Cocoa , 30.0 
+Julio Cesar Chavez Teq Reposado , 40.0 
+Asombroso Reposado Tequila , 40.0 
+Agavales Gold Tequila 100% Agave , 40.0 
+Texano Grand Love Extra Anejo Tequila , 40.0 
+Sol De Mexico Tequila Anejo , 40.0 
+Don Camilo Reposado Tequila , 40.0 
+Dos Alas Reposado , 0.0 
+Crotalo 357 Extra Anejo Tequila , 40.0 
+Tres Ochos Anejo Tequila , 40.0 
+Des Madre Anejo Tequila , 40.0 
+El Perrito 1992 Silver , 0.0 
+Don Felix Anejo Tequila , 40.0 
+Des Madre Reposado Tequila , 40.0 
+Penacho Azteca Blanco , 40.0 
+El Grado Anejo Tequila , 0.0 
+Cobalto Reposado Tequilla , 40.0 
+Manana Anejo , 0.0 
+Rudo Anejo , 40.0 
+Tecnico Blanco , 40.0 
+Tecnico Reposado , 40.0 
+Agavales Especial Gold 100% Agave , 0.0 
+Hijos De Villa Reposado Pistol , 0.0 
+Senor Rio Tequila Anejo , 40.0 
+Senor Rio Tequila Reposado , 40.0 
+3 Amigos Tequila Liqueur , 30.0 
+Arrogante Blanco Tequila , 40.0 
+Libre Mint Chocolate Tequila , 35.0 
+Ciudad Anejo , 40.0 
+3 Amigos Extra Anejo Tequila , 40.0 
+Classic Club Silver Tequila , 40.0 
+Calende Reposado Tequila , 40.0 
+Sparkle Donkey Anejo Tequila , 40.0 
+Perfectomundo Anejo Tequila , 40.0 
+Perfectomundo Blanco Tequila , 40.0 
+Aldez Organic Tequila - Añejo , 40.0 
+Appalachian Gap Papilio Agave-Maple Spirit , 44.0 
+Vikera Tequila Extra Añejo , 40.0 
+Casa Mexico Anejo , 40.0 
+Casa Mexico Reposado , 40.0 
+Señor Artesano Tequila Blanco , 40.0 
+Acqua Alegre Blanco , 0.0 
+Encantadora Tequila Blanco , 0.0 
+Bribon Reposado Tequila , 40.0 
+Bribon Anejo Tequila , 40.0 
+Hotel California Blanco Tequila , 40.0 
+Tattoo Blanco Tequila , 0.0 
+Corralejo Triple Distilled Tequila , 40.0 
+Del Maguey Iberico , 49.0 
+Almendrado Senor Tequila , 30.0 
+Regional Reposado Tequila , 40.0 
+Casino Tequila Anejo , 40.0 
+El Rey Reposado , 40.0 
+Voodoo Tiki Desert Rose Prickly Pear Infused Tequila , 33.5 
+T1 Tequila Blanco Ultra Fino , 0.0 
+Asombroso Tequila El Platino , 0.0 
+Ascheri Langhe Nebbiolo 2013 , 0.0 
+Tequila Cruz Del Sol Silver , 40.0 
+Exodo Teq Silver Peach , 40.0 
+Don Felix Plata Tequila , 36.0 
+Reserva de Don Ramon Reposado Tequila , 31.0 
+El Toro White Tequila , 40.0 
+Chinaco Anejo Extra Tequila , 43.0 
+Oro Azul Teq Reposado , 40.0 
+Dulce Vida Extra Añejo Tequila - 100 Proof , 50.0 
+Jc 250 Anniversary Anejo , 40.0 
+Margaritaville Gold Tequila Bar , 35.0 
+Zapopan Resposado Tequila 80 , 40.0 
+Sauza® Blue Repo Tequila W/ Sauza Sparkling , 40.0 
+La Certeza Teq Reposado , 40.0 
+Monarca Tequila Gold , 40.0 
+Chaquira Beaded Res Del Jaguar Reposado Tequila , 40.0 
+Amatitlan Anejo Tequila , 40.0 
+De Los Altos Reposado Tequila , 35.0 
+Titanium Tequila , 40.0 
+Diva Citrus Infused Tequila , 40.0 
+El Rey Blanco Tequila , 40.0 
+Campeon Anejo , 40.0 
+Texano Mad Bull Reposado Tequila , 40.0 
+Amate "Dq" Reposado Tequila , 40.0 
+El Ultimo Agave Reposado Tequila , 40.0 
+Plata Super Jalisco , 39.3 
+El Ultimo Agave Reposado Tequila , 40.0 
+Plata Super Jalisco , 39.3 
+ArteNom 1414 Reposado Tequila , 0.0 
+El Gran Jubileo Extra Anejo Tequila , 40.0 
+Don Lorenzo Blanco , 40.0 
+Torero Ceramic Tequila Anejo , 40.0 
+Grand Love Silver Blue Heart , 40.0 
+El Padrino Anejo , 40.0 
+Tres Pesos Silver Tequila , 0.0 
+Classic Club Gold Tequila , 40.0 
+El Padrino Extra Anejo , 40.0 
+3 Amigos Organic Blanco Tequila , 40.0 
+Don Sergio Anejo Tequila , 40.0 
+Mañana Blanco Tequila , 0.0 
+Hornitos Margarita Kit , 0.0 
+YaVe Coconut Tequila , 35.0 
+Tequila Revolución Añejo Cristalino , 0.0 
+Tres Ochos Tequila Reposado , 0.0 
+La Hora Azul Blue Hour Reposado , 0.0 
+Padre Azul Reposado , 40.0 
+El Jefe Tequila Reposado , 0.0 
+ElVelo Tequila Reposado  , 44.5 
+Number Juan Extra Anejo , 40.0 
+Señor Artesano Tequila Extra Anejo , 40.0 
+Adictivo Tequila Anejo , 40.0 
+DeLeon Leona Tequila , 40.0 
+Calavera Blanco Tequila , 45.0 
+Oro Azul Reposado , 40.0 
+Kah Extra Anejo Tequila , 40.0 
+Corazon Reposado Buffalo Trace , 40.0 
+Corazon Artisanal Edition Blanco , 40.0 
+Patrón David Yurman Edition , 40.0 
+Don Diego Santa Blanco , 40.0 
+Sx Liquors Cafedoble , 35.0 
+El Ultimo Anejo , 0.0 
+Los Azulejos Silver Tequila , 0.0 
+Tierras Anejo Tequila , 40.0 
+Penasco Reposado Tequila , 40.0 
+Penasco Silver Tequila , 40.0 
+Patrón Margarita Gift Basket , 40.0 
+Cazadores Reposado Tequila with Two Rock Glasses , 40.0 
+Tres Sietes Tequila Anejo , 40.0 
+Cuestion Reposado Tequila , 40.0 
+Don Felix Repo Tequila , 36.0 
+Bonita Blanco Tequila , 40.0 
+El Mayor Bl Tequila , 40.0 
+Tequila Avion Silver Trans , 0.0 
+McCormick Light Tequila , 40.0 
+Jc Auth Coco Pine Tequila , 9.95 
+Tres Sietes Teq Sil Wyland Shark , 40.0 
+Z Xtra Anejo Tequila , 40.0 
+Matador Blanco Tequila , 40.0 
+Kah Tequila Variety Pk Anj/Rep/Sauvignon , 55.0 
+La Arenita Gold Tequila , 0.0 
+Hacienda De Chihuahua H5 Anejo , 40.0 
+Sx Cafe Doble Tequila , 40.0 
+Tarantula Azul Tequila With Two Shot Glasses , 40.0 
+Tarantula Plata Tequila 100 , 0.0 
+Fuenteseca Teq Reserve 9 Yr , 43.0 
+Mexican Moonshine Tequila Anejo , 40.0 
+Old Carbine Tequila Reposado , 40.0 
+Ranchero Tequila Gold , 40.0 
+Asombroso Anejo 5 Year Tequila , 40.0 
+Manik Extra Anejo Special Edition , 40.0 
+La Cava Del Mayoral Reposado , 40.0 
+Amatitlan Silver Tequila , 40.0 
+Distinguido Reposado Tequila , 40.0 
+Tavi Tequila Anejo , 40.0 
+Tonala Tequila Reserve 4 Yr , 40.0 
+Tequila 55 "Dq" Blanco , 40.0 
+Mejor Tequila Reposado , 40.0 
+Los Rijos Reserva Ultra Aged Tequila , 40.0 
+La Cava Del Mayoral Reposado , 40.0 
+Amatitlan Silver Tequila , 40.0 
+Distinguido Reposado Tequila , 40.0 
+Tavi Tequila Anejo , 40.0 
+Tonala Tequila Reserve 4 Yr , 40.0 
+Tequila 55 "Dq" Blanco , 40.0 
+Los Rijos Reserva Ultra Aged Tequila , 40.0 
+Casa Noble Alta Belleza Tequila , 45.3 
+Mejor Tequila Reposado , 40.0 
+Don Lorenzo Reposado Tequila , 40.0 
+Puerto Vallarta Reposado Tequila , 40.0 
+Mi Casa Tequila Reposado , 40.0 
+88 Blanco Tequila , 40.0 
+Blue Iguana Catrina Blanco Tequila , 40.0 
+Tromba Reposado , 36.0 
+El Tesoro de Mi Tierra Blanco Tequila , 40.0 
+El Tesoro de Mi Tierra Anejo Tequila , 40.0 
+Huizache Reposado , 0.0 
+San Matias Reposado , 40.0 
+Rudo Reposado , 40.0 
+T1 Tequila Blanco Selecto , 0.0 
+Libre Silver Tequila , 40.0 
+Libre Mango Tequila , 35.0 
+Libre Red Pepper Tequila , 35.0 
+Embajador Premium Tequila Reposado , 40.0 
+Centinela Classico Reposado , 0.0 
+Tequila Mandala Anejo , 40.0 
+V Tequila Cristalino Anejo , 40.0 
+Tragos Amargos Reposado Tequila , 40.0 
+Santera Reposado , 40.0 
+El Jefe Tequila Blanco , 40.0 
+Cava del Volcan Reposado , 40.0 
+Mad Rabbit American Agave Spirit , 40.0 
+Chaya Reposado Tequila , 40.0 
+Besado Platinum Tequila , 40.0 
+Tequila Avión Combo - All Flavors , 0.0 
+Espolon Resposado , 40.0 
+CaliFino Tequila Reposado , 0.0 
+CaliFino Tequila Silver , 0.0 
+Don Jose Lopez , 40.0 
+La Cofradia Tequila , 40.0 
+Corazon George T. Stagg Anejo , 40.0 
+Puro Verde Extra Anejo Reserva Tequila , 40.0 
+Puro Verde Reposado , 40.0 
+El Capo Tequila Anejo , 40.0 
+Baluarte Reposado , 40.0 
+Sierra Milenario Extra Añejo , 41.5 
+Aguila Silver Tequila , 40.0 
+Aguila Silver Tequila , 40.0 
+Aha Toro Diva Plata Rosa , 40.0 
+El Zarco Gold , 0.0 
+Corralejo Triple 99,000 Horas Anejo 80 , 40.0 
+Tequila Cruz Del Sol Silver W/Glass , 40.0 
+Tierra Fertil Blanco Tequila , 0.0 
+Milagro Unico Ii Tequila , 40.0 
+Karma Tequila Anejo , 40.0 
+Arandas Tequila Blanco , 40.0 
+Antiguo Reposado Tequila , 40.0 
+Hacienda Vieja Reposado Gft , 46.0 
+Sauza® Extra Anejo , 0.0 
+Solana Silver Tequila , 40.0 
+Ocho La Magueyera 14 Plata Tequila , 40.0 
+Ocho La Magueyera 14 Repo Tequila , 0.0 
+Mamas Boy Pine Mango Chili Tequila , 40.0 
+Jc Esp Gold Tequila , 40.0 
+Jenni Rivera Repo Tequila , 40.0 
+Tres Sietes Tequila Reposado , 40.0 
+Purasangre Tequila Ex Anejo Reserve , 40.0 
+Asmobroso Extra Anejo Tequila , 40.0 
+El Ultimo Agave Teq Reposado , 40.0 
+Ranchero Silver Tequila , 40.0 
+Asombroso Silver Tequila , 40.0 
+Casino Limited Edition Tequila , 40.0 
+Gas Monkey Cinnamon Tequila , 34.5 
+Aha Toro Anejo , 40.0 
+Ke Tequila , 40.0 
+Hacienda Silver Tequila , 40.0 
+El Reformador Blanco , 40.0 
+Dos Manos Silver Tequila , 40.0 
+Dos Armadillos Plata Tequila , 40.0 
+Texano Shotgun Old Betsy Reposado Tequila , 40.0 
+Don Camilo Anejo Tequila , 40.0 
+Dos Manos Anejo Tequila , 40.0 
+Terremoto Gold Tequila , 40.0 
+Arrogante Reposado Tequila , 40.0 
+The Reposado by Porfidio - Single Barrel Extra Reposado Super Jalisco , 39.3 
+Tributo Reposado Tequila , 40.0 
+Don Weber Reposado Tequila , 40.0 
+El Grado Blanco Tequila , 0.0 
+Terraneo Tequila Silver Estat , 40.0 
+Huizache Blanco , 0.0 
+Don Sergio Blanco Tequila , 40.0 
+Cazul 100 Anejo , 40.0 
+San Matias Blanco , 40.0 
+Legado Reposado Tequila , 40.0 
+Old Carbine , 0.0 
+Terraneo Tequila Silver Estat , 40.0 
+Huizache Blanco , 0.0 
+Don Sergio Blanco Tequila , 40.0 
+Cazul 100 Anejo , 40.0 
+San Matias Blanco , 40.0 
+Legado Reposado Tequila , 40.0 
+Old Carbine , 0.0 
+Arrogante Extra Anejo Tequila , 40.0 
+Casa Noble Crystal Tequila W Margarita Glass , 40.0 
+Ciudad Reposado , 40.0 
+Calende Silver Tequila , 40.0 
+Patrón Silver & Añejo with Bar Tools , 0.0 
+Masuave  Blanco Tequila , 0.0 
+Patrón Extra Añejo By Guillermo Del Toro , 0.0 
+Vizon Blanco Tequila , 0.0 
+Don Julio 1942 Luminous Bottle , 0.0 
+Tequila Mandala Blanco , 40.0 
+Tequila Mandala Reposado , 40.0 
+Tonala Suprema Reserva Anejo , 0.0 
+Vikera Tequila Reposado , 40.0 
+Patron Silver Gift Set with 2 Mule Mugs , 0.0 
+Adictivo Tequila Extra Anejo Cristalino , 40.0 
+Corazón Single Estate Añejo Single Barrel , 0.0 
+Republic Tequila Extra Anejo , 40.0 
+Ocho X Anejo El Carrizal 08 , 40.0 
+Don Weber Anejo , 40.0 
+Dos Artes Anejo , 40.0 
+Centinela Tequila Blanco , 38.0 
+Aguila Reposado Tequila , 40.0 
+The Lost Abbey Agave Maria , 0.0 
+Alma De Agave Blanco , 40.0 
+Talero Silver , 40.0 
+Oro Azul Blanco , 40.0 
+Antigua Cruz Anejo , 40.0 
+La Arenita Silver Tequila , 40.0 
+Centinela Anejo 100% Agave , 40.0 
+Cuestion Blanco Tequila , 50.0 
+Don Eduardo Anejo Tequila , 40.0 
+Blue Iguana Blanco Tequila , 40.0 
+Buen Amigo White Tequila , 0.0 
+El Jimador Mexican Lime Tequila , 0.0 
+Azunia Black Private Reserve , 40.0 
+Lapis Tequila Anejo , 40.0 
+Jc Esp Gold Tequila W/ Mx 1 L , 40.0 
+Goza Anejo Tequila , 45.0 
+Two Fingers Gold Tequila 80 , 40.0 
+Proximus Tequila , 0.0 
+Margaritaville Coconut Tequila , 35.0 
+Margaritaville Coconut Tequila , 35.0 
+Blue Iguana Blanco Tequila , 40.0 
+Buen Amigo White Tequila , 0.0 
+El Jimador Mexican Lime Tequila , 0.0 
+Azunia Black Private Reserve , 40.0 
+Proximus Tequila , 0.0 
+Goza Anejo Tequila , 45.0 
+Jc Esp Gold Tequila W/ Mx 1 L , 40.0 
+Sparkle Donkey Hot Cinnamon Reposado , 35.0 
+Two Fingers Gold Tequila 80 , 40.0 
+Exodo Teq Silver Coconut , 40.0 
+Avion Teq Asst , 40.0 
+Sauza® Teq Tres Gen Plata W/2 Gls , 40.0 
+Exodo Teq Silver Orange , 40.0 
+El Caballo Estrella Reposado , 40.0 
+Hijos De Villa 'Pear in the Bottle' Tequila Liqueur , 40.0 
+Don Alejandro Silver , 40.0 
+El Rey Gold Tequila , 40.0 
+Los Tres Tonos Tequila Blanco , 40.0 
+Herradura Double Reposado Tequila (Molly's Single Barrel) , 40.0 
+Sangre de Vida Reposado Tequila , 40.0 
+Mejor Tequila Blanco , 40.0 
+1800 100 Proof Tequila , 0.0 
+Tres Ochos Silver Tequila , 40.0 
+Feria De Jalisco Reposado Tequila , 40.0 
+Crotalo Plata Tequila , 40.0 
+La Puerta Negra Tequila Anejo , 40.0 
+El Fumador Reposado Tequila , 40.0 
+Dos Artes Cowboy Boot Tequila Anejo , 40.0 
+Demetrio Anejo , 40.0 
+Mariachi Hat Reposado Tequila With 2 Shot Glasses , 40.0 
+Lagos Silver Tequila Nom 1416 , 40.0 
+Senda Real Reposado Tequila , 40.0 
+Desmadre Unaged Blanco  , 40.0 
+Don Nacho Extra Premium Tequila Blanco , 40.0 
+Mañana Reposado Tequila , 0.0 
+Drego Azul Silver Tequila , 40.0 
+Manik Blanco Tequila , 40.0 
+Cazul 100 Reserva Extra Anejo , 40.0 
+Década Tequila Silver , 40.0 
+El Tesoro 70th Anniversary Extra Anejo Tequila , 0.0 
+Campo Azul Tequila Añejo , 40.0 
+La Hora Azul Blue Hour Tequila Anejo , 0.0 
+Abre Ojos Tequila Reposado , 40.0 
+Embajador Supreme Tequila Anejo , 40.0 
+The Margarita Time Kit , 0.0 
+Reserva Del Senior Anejo , 38.0 
+Dr. Stoner’s Hierba Loca Tequila , 42.0 
+Artenom Seleccion 1146 Anejo , 0.0 
+Campeon Silver Tequila , 0.0 
+Vikera Tequila Añejo , 40.0 
+1824 Tequila Reposado , 40.0 
+Playa Real Silver Tequila , 40.0 
+Kapena Li Hing Infused Tequila , 40.0 
+Señor Artesano Tequila Anjeo , 40.0 
+Bombas Añejo Tequila , 40.0 
+Enemigo Extra Anejo , 40.0 
+Veneno Blanco Tequila , 0.0 
+Tres Barricas Anejo , 40.0 
+Imperio Del Don Extra Anejo Tequila 10 Year , 42.0 
+Dinastia Real Extra Anejo Tequila , 40.0 
+Encantadora Tequila Joven Cristalino , 0.0 
+Tanteo Blanco Tequila , 42.5 
+Santera Anejo , 40.0 
+Calle 23 Reposado , 40.0 
+El Cartel Tequilla , 40.0 
+Agave 99 Anejo Tequila , 49.0 
+Corazon Anejo Rip Van Winkle , 40.0 
+Grillos Tequila Reposado , 38.0 
+Corazon Sazerac Rye Anejo , 45.0 
+Cielo Rojo Bacanora , 42.0 
+Azul Reposado Tequila , 40.0 
+30/30 Tequila Anejo , 40.0 
+Sauza® Blue Repo Tequila W/1 L Margarita Mx , 0.0 
+Luna Malvada Repo Tequila , 33.0 
+Topaz Gold Tequila , 0.0 
+Jc Trad Slvr Tequila , 40.0 
+Jenni Rivera Anejo Tequila , 0.0 
+Tequila Uila Revolucion Ex Anjo Tequila , 33.0 
+Grand Leyenda Teq Anejo , 40.0 
+Arco Del Cabo Anejo Tequila , 40.0 
+Rancho Grande Gold Tequila , 40.0 
+Dos Armadillos Reposado Tequila , 40.0 
+Dos Lunas Reposado Tequila , 40.0 
+El Rey Anejo Tequila , 40.0 
+Dos Alas Blanco , 0.0 
+Tavi Tequila Reposado , 40.0 
+Siembra Valles High Proof Blanco , 40.0 
+Tequila Alquimia Reposado , 40.0 
+Cabo Uno Anejo Reserva , 40.0 
+Fuenteseca Reserva Anejo Tequila 21 Year , 40.0 
+Don Fermin Extra Anejo Tequila , 40.0 
+Baluarte Blanco , 0.0 
+Amor Mio Anejo Tequila , 40.0 
+Dona Celia Anejo Tequila , 40.0 
+El Fira Reposado , 45.0 
+Dos Alas Blanco , 0.0 
+Siembra Valles High Proof Blanco , 40.0 
+Tequila Alquimia Reposado , 40.0 
+Cabo Uno Anejo Reserva , 40.0 
+Fuenteseca Reserva Anejo Tequila 21 Year , 40.0 
+Don Fermin Extra Anejo Tequila , 40.0 
+Baluarte Blanco , 0.0 
+Amor Mio Anejo Tequila , 40.0 
+Dona Celia Anejo Tequila , 40.0 
+El Fira Reposado , 45.0 
+Dos Lunas Anejo Tequila , 40.0 
+Tres Ochos Reposado , 40.0 
+El Grado Reposado Tequila , 0.0 
+Patrón x Guillermo Del Toro , 0.0 
+La Tilica Skull Tequila Blanco , 40.0 
+Jose Cuervo Tradicional Silver Tequila Aged in Funky Buddha Casks , 0.0 
+Casa Dragones Tequila Joven W/ 2 Glasses , 0.0 
+Ciudad Blanco , 40.0 
+Dos Armadillos Extra Anejo Clay , 0.0 
+Patrón Extra Añejo En Lalique Serie II , 40.0 
+Voodoo Tiki Blue Dragon Tequila , 0.0 
+Capitan Silver White Tequila , 40.0 
+Herradura Reposado Tequila Coleccion de la Casa Port , 40.0 
+Sauza Hornitos Plata Tequila Shot Glass Gift Set , 40.0 
+La Cava De Los Morales Gold Tequila , 40.0 
+Viva Mexico Anejo , 0.0 
+1824 Anejo , 40.0 
+Herencia de Plata Reposado , 0.0 
+Corazon Expresiones Old 22 Buffalo Trace Anejo , 40.0 
+Spice Note Cumin Infused Tequila , 40.0 
+Adictivo Tequila Plata , 0.0 
+Hotel California Reposado Tequila , 40.0 
+Socorro Reposado Tequila , 40.0 
+Socorro Blanco Tequila , 40.0 
