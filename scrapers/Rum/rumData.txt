@@ -75,7 +75,6 @@ Cruzan Mango Rum , 21.0
 Smith & Cross Navy Rum , 57.0 
 Cruzan Black Cherry Rum , 21.0 
 Diplomatico Mantuano Extra Anejo , 40.0 
-Cruzan Vanilla Rum , 0.0 
 Blue Chair Bay Key Lime Cream Rum , 15.0 
 Malibu Mango Rum , 21.0 
 Santa Teresa 1796 , 40.0 
@@ -88,10 +87,7 @@ Plantation Rum XO Reserve 20th Anniversary , 40.0
 Don Q Coconut Rum , 21.0 
 Malibu Strawberry Rum , 21.0 
 Brugal Extra Dry , 40.0 
-Captain Morgan Pineapple White Rum , 0.0 
-Cruzan Pineapple Rum , 0.0 
 Old Monk Rum 7 Year , 42.5 
-Captain Morgan Watermelon Smash Rum , 0.0 
 Caribaya Coconut Rum , 24.0 
 Papa's Pilar Dark Rum , 43.0 
 Bully Boy Distillers Boston Rum , 40.0 
@@ -99,7 +95,6 @@ Malibu Passion Fruit Rum  , 21.0
 Black Magic Spiced Rum , 47.0 
 Brugal Extra Viejo Rum , 40.0 
 Cruzan Banana Rum , 21.0 
-Captain Morgan Apple Smash , 0.0 
 BACARDÍ Gran Reserva Diez Rum , 40.0 
 Ronrico Gold Rum , 40.0 
 Zacapa XO , 40.0 
@@ -109,7 +104,6 @@ Cruzan Estate Diamond Dark Rum , 40.0
 Goslings Black Seal 151 Proof Rum , 75.5 
 Ron Barcelo Rum Gran Anejo , 40.0 
 BACARDÍ Anejo Cuatro  , 40.0 
-Rondiaz White Rum , 0.0 
 Malibu Banana Rum , 21.0 
 Don Q Gold Rum , 40.0 
 Barbancourt 4 Year 3 Star , 43.0 
@@ -118,8 +112,6 @@ Plantation Dark Overproof O.F.T.D. , 69.0
 Cruzan 151 Proof Rum , 75.5 
 Calypso Coconut Rum , 21.0 
 Bully Boy Distillers White Rum , 40.0 
-Malibu Rum Punch , 0.0 
-Bumbu Rum XO , 0.0 
 Rhum Barbancourt White Rum , 43.0 
 Castillo Gold Rum , 40.0 
 Admiral Nelson's Coconut Rum , 21.0 
@@ -140,7 +132,6 @@ Calypso Gold 151 , 75.5
 Santa Teresa Gran Reserva , 40.0 
 Barton's White Rum , 40.0 
 ABC Dark Rum , 50.0 
-El Dorado Rum 8 Year , 0.0 
 Diamond Reserve Demerara 151 Overproof Rum , 75.5 
 Captain Morgan Gingerbread Spiced , 30.0 
 BACARDÍ Classic Cocktails Rum Punch , 15.0 
@@ -158,9 +149,7 @@ Blue Chair Bay Coconut Spiced Rum Cream , 15.0
 Diplomatico Planas , 47.0 
 Palo Viejo Silver Rum , 40.0 
 El Dorado 3 Year , 40.0 
-Cruzan Tropical Fruit Rum , 0.0 
 Blue Chair Bay Spiced Rum , 35.0 
-Tropic Isle Palms Coconut Rum , 0.0 
 Stolen Smoked Rum , 42.0 
 Cruzan Peach Rum , 20.0 
 Montanya Platino Light Rum , 40.0 
@@ -175,7 +164,6 @@ Bacoo Rum 5 Year , 40.0
 Calico Jack Coconut Rum , 21.0 
 Pampero Rum Aniversario , 40.0 
 Brugal XV , 40.0 
-Sugar Island Coconut Rum , 0.0 
 Cruzan Passion Fruit Rum , 21.0 
 Angostura White Oak Rum , 40.0 
 Breckenridge Spiced Rum , 45.0 
@@ -206,7 +194,6 @@ Rhum Barbancourt 5 Star 8 Year , 43.0
 Don Q Anejo Rum , 40.0 
 Denizen Rum Aged White , 40.0 
 Privateer True American Amber Rum , 45.0 
-Siesta Key White Rum , 0.0 
 Parrot Bay Mango Rum , 21.0 
 Monkey Rum Toasted Coconut , 35.0 
 Clement Barrel Rhum Select , 40.0 
@@ -215,35 +202,27 @@ Cane Run Estate Silver Rum Glass , 40.0
 Skinnygirl Pina Colada , 9.95 
 Corsair Spiced Rum , 85.0 
 Ron Rio Gold Rum , 40.0 
-Ron Barcelo Blanco Rum , 0.0 
 Kirk & Sweeney Rum , 40.0 
 Hamilton Overproof 151 Rum , 75.5 
-Admiral Nelson's Pineapple Rum , 0.0 
 Coral Bay White Rum , 40.0 
-Chila Orchata Cream Rum , 0.0 
 Cruzan 9 Spiced Rum , 40.0 
 Don Q Rum Gran Anejo , 40.0 
-Bacardi Breezer Caribbean Pina Colada Rum , 0.0 
 Matusalem Gran Reserva Rum 15 Year , 40.0 
 J.Wray Gold Rum , 45.3 
 Appleton White Rum , 40.0 
 Palms White Rum , 40.0 
 Barbancourt Estate Reserve 15 Year , 43.0 
-Plantation Barbados 5 Y Rum , 0.0 
 Plantation Xaymaca Special Dry Rum , 43.0 
 Bacoo Rum 12 Year , 40.0 
-Appleton Estate V/X Jamaica Rum , 0.0 
 Ron del Barrilito 3 Star Rum , 43.0 
 Admiral Nelson's Cherry Spiced Rum , 30.0 
 Denizen Rum Merchants Reserve 8 Year , 43.0 
 Cotton & Reed Mellow Gold , 40.0 
-Cruzan Limited Edition Watermelon Rum , 0.0 
 Monkey Spiced Rum , 35.0 
 Thomas Tew Rhode Islnd Rum , 42.0 
 Grind Espresso Shot , 30.0 
 Captain Morgan Dark Rum , 35.0 
 Rico Bay White Rum , 75.5 
-Captain Morgan Grapefruit Rum , 0.0 
 El Dorado 5 Year , 40.0 
 Kirk & Sweeney Rum 18 Yr , 40.0 
 Port Royal White Rum , 40.0 
@@ -268,8 +247,6 @@ Caribaya White Rum , 40.0
 Calico Jack Flavored Rum Coconut , 21.0 
 Rum Fire Overproof Jamaican Rum , 63.0 
 Koloa Dark Rum , 40.0 
-Old New Orleans Crystal Rum , 0.0 
-Sugar Island Spiced Rum , 0.0 
 Tippy Cow Vanilla Soft Serve Rum , 14.0 
 Velho Barreiro Cachaca , 39.0 
 El Dorado 21 Year , 43.0 
@@ -291,19 +268,15 @@ Bully Boy Distillers Hub Punch , 35.0
 Admiral Nelson's Vanilla Rum , 35.0 
 Leadslingers Black Flag Rum , 40.0 
 Don Q Pasion Rum , 30.0 
-Siesta Key Toasted Coconut Rum , 0.0 
 Don Q Signature Release Single Barrel , 40.0 
-Angostura 1919 Premium Rum , 0.0 
 Paranubes White Rum , 54.0 
 Admiral Nelson's 101 Proof Spiced Rum , 50.5 
 J.Wray Silver Rum , 40.0 
 Diamond Reserve Demerara Dark Rum , 40.0 
-Papa's Pilar 24 Dark Rum Finished in Spanish Sherry Casks , 0.0 
 Casa Magdalena Rum Blanco , 41.25 
 Blackwell Rum , 40.0 
 Stolen Overproof Rum , 40.0 
 Foursquare Rum Probitas Rum , 47.0 
-Don Q Pina Rum , 0.0 
 Privateer Navy Yard Cask Strength Rum , 55.0 
 Koloa Coffee Rum , 34.0 
 BACARDÍ Arctic Grape Flavored White Rum , 35.0 
@@ -325,8 +298,6 @@ Ron Llave Gold Rum , 40.0
 Tippy Cow Chocolate Rum , 14.0 
 Bacardi Peach Red , 35.0 
 Lady Bligh Spiced Rum , 36.25 
-Palms Mango Rum , 0.0 
-Angostura 7 Year Rum , 0.0 
 Screech Rum , 40.0 
 Zaya Gran Reserva 16 Year , 40.0 
 Real McCoy Barbados Rum 3 Year , 40.0 
@@ -346,7 +317,6 @@ Dogfish Head Barrel Honey Rum , 40.0
 Lemon Hart & Sons Blackpool Spiced Rum , 43.0 
 Cruzan Key Lime Rum , 21.0 
 Old New Orleans Cajun Spiced Rum , 40.0 
-St Elmo Rum White  , 0.0 
 Lost Spirits Distillery Navy Style Overproof Rum , 68.0 
 Lamb's Navy Rum , 40.0 
 Lawley's New England Dark Rum , 40.0 
@@ -356,35 +326,26 @@ Hamilton Guyana Rum , 43.0
 Coconut Cartel Special Rum , 40.0 
 El Dorado 151 , 76.5 
 Flor de Caña 25 Year Old Rum  , 40.0 
-Old St. Pete Righteous Rum & Spice , 0.0 
 Bear Creek Spiced Rum , 40.0 
-Palms Vanilla Rum , 0.0 
 Port Royal Gold Rum , 40.0 
 Owney's Original New York Rum , 40.0 
-Shellback Silver Rum , 0.0 
 Black Roberts Spiced Rum , 35.0 
 Rhum J.M White Rum , 40.0 
 Real McCoy Barbados Rum 12 Years , 40.0 
-Old Monk Rum , 0.0 
 Drake's Organic White Rum , 40.0 
 BACARDÍ Gran Reserva Maestro de Ron , 40.0 
 Bacardi Rum Fusion Mango , 35.0 
-Batavia Arrack Van Oosten , 0.0 
 Jm Rhum Agricole White Rum , 50.0 
 Barton Gold Rum , 40.0 
-Montanya Oro Rum , 0.0 
 Don Q Oak Barrel Spiced , 30.0 
 Old New Orleans Amber 3 Year Rum , 40.0 
 Malahat Spiced Rum , 35.0 
 Tanduay Gold Rum , 40.0 
 Malibu Cranberry & Cherry Rum , 21.0 
 Ron Del Barrilito 2 Star Rum , 43.0 
-Barcelo Imperial Onyx , 0.0 
 Uruapan Charanda Blanco Single Blended Rum , 46.0 
 Rum-Bar White Overproof Rum , 63.0 
-Parrot Bay Passion Fruit Rum , 0.0 
 Clairin Sajous Rhum Agricole , 53.5 
-Appleton Estate 21 Year Old , 0.0 
 Tropic Isle Palms Rum 151 , 75.5 
 Forres Park Rum , 75.0 
 Malibu Swirl , 21.0 
@@ -394,15 +355,12 @@ Old Line Navy Strength Rum , 57.0
 Calico Jack Rum Spiced , 47.0 
 George Ocean Coconut Rum , 21.0 
 Chairman's Reserve St Lucia Rum , 40.0 
-Barbancourt Pango Flavored Rum , 0.0 
 Banks® 5 Island Blend Rum , 43.0 
 Matusalem Gran Reserva Rum 18 Year , 40.0 
 SelvaRey Rum Cacao , 35.0 
 Rondiaz Coconut Rum , 40.0 
 Vizcaya Cask 12 Dark Rum , 40.0 
 Kingston Coconut Rum , 24.0 
-Bones Rum , 0.0 
-Diplomatico Mantuano Rum , 0.0 
 Boukman Botanical Rhum , 45.0 
 Cotton & Reed Allspice Dram , 24.0 
 Sammy's Beach Bar Rum , 35.0 
@@ -413,22 +371,17 @@ Dictador 12 Year Rum , 40.0
 Cruzan Raspberry Rum , 21.0 
 Rhum J.M. V.O. , 43.0 
 Cutwater Bali Hai Tiki Gold Rum , 40.0 
-Bacardi Rum Solera , 0.0 
 Pussers Rum Dark , 42.0 
 Batiste Rhum Silver , 40.0 
-Malibu Island Melon Rum , 0.0 
 Koloa Gold Rum , 40.0 
 Plantation Rum Jamaica , 45.2 
 Santa Teresa Anejo Gr Reserve , 40.0 
 Royal Jamaican Rum Gold , 40.0 
 Cuca Fresca Silver Cachaca , 40.0 
-Bocoo 8yr Rum , 0.0 
 Marauda The Steelpan Blend Rum , 40.0 
 Florida Mermaid Rum , 50.0 
 Privateer New England White Rum , 40.0 
 Ron Medellin Rum Extra Anejo 3 Year , 35.0 
-La Hechicera Solera 21 Year , 0.0 
-Macorix Coco Splash Coconut Rum , 0.0 
 Ron Centenario 20 year Fundacion Rum , 40.0 
 Captain Morgan 1671 Spiced Rum , 35.0 
 The Scarlet Ibis Gold Rum , 40.0 
@@ -439,40 +392,30 @@ Margaritaville Silver Rum , 40.0
 Bounty White Rum , 40.0 
 Dos Maderas 5+3 Rum , 40.0 
 Candela Mamajuana Spiced Rum , 30.0 
-Flor de Caña 4 Year Extra Seco , 0.0 
 Diplomatico Rum Reserva , 40.0 
-Malibu Red , 0.0 
 Real McCoy Barbados Rum 12 Year , 40.0 
 Coral Bay Gold Rum , 40.0 
 Sag Harbor Rum , 40.0 
 Lemon Hart Original Single Estate Rum , 40.0 
 Dos Maderas 5+5 PX Rum , 40.0 
-Rondiaz 151 Rum , 0.0 
 Liberty Tree Boston Rum , 43.0 
 Bacardi 8 Yr Rum W/2 Gls , 40.0 
-Bacardi Major Lazer Limited Edition Rum , 0.0 
 Matusalem Rum Platino , 40.0 
 Palms Spiced Rum , 35.0 
 Ron de Jeremy Spiced Rum , 47.0 
 Ypióca Cachaça Prata , 40.0 
 Leblon Cachaca Maison Reserve Esp , 40.0 
-Cayman Reef White Rum , 0.0 
 Cayman Reef Rum 5 Year , 35.0 
 Black Roberts Silver Rum , 40.0 
-Antigua Porteno Colombian Rum Solera 15 Year , 0.0 
-Bounty Spiced Rum , 0.0 
 Admiral Nelson's Silver Rum , 40.0 
 Oak & Palm Coconut Rum , 35.0 
-Tropical Breeze Coconut Rum , 0.0 
 Cutwater Barrel Aged Rum , 40.0 
-Oak & Cane Craft Gold Rum , 0.0 
 Crusoe Spiced Rum from Greenbar Distillery , 35.0 
 Deacon Giles Friendship's Bounty Spiced Rum , 40.0 
 Ron Barcelo Rum Dorado 80 Li , 40.0 
 Wicked Dolphin Crystal Rum , 40.0 
 Malibu Rum Orange Float , 21.0 
 Calico Jack Flavored Rum Mango , 21.0 
-Adm Nelson Coco Rum , 0.0 
 Tenpenny Spiced Rum , 46.5 
 Banks® 7 Island Blend Golden Rum , 43.0 
 Parce 12 Year Rum , 40.0 
@@ -483,22 +426,15 @@ Ron Abuelo XV Tawny Cask Finish , 40.0
 Old Monk The Legend Rum , 46.0 
 Afrohead Rum 7 Year , 40.0 
 The Kraken Black Spiced Rum Set with Tiki Glass , 47.0 
-Antigua Porteno 8 Year , 0.0 
 Cockspur 130 Overproof Rum , 65.0 
 Deacon Giles Rum , 40.0 
 Tanduay Silver Rum , 40.0 
 Foursquare Single Blended Rum 2005 , 59.0 
-Parrot Bay Orange , 0.0 
 Whalers Rum Vanille , 30.0 
 Coppermuse Rum Gold , 40.0 
 George Ocean Spiced Rum , 35.0 
-Amrut Old Port Rum , 0.0 
 Norseman White Rum , 40.0 
 Rumson's Grand Reserve Rum , 40.0 
-Smith & Cross Trad'l Jamaican Rum , 0.0 
-Sugar Skull Tribal Silver Rum , 0.0 
-Triple Eight Hurricane Rum , 0.0 
-Bacardi Heritage 1909 Rum , 0.0 
 Duquesne Rhum Blanc , 50.0 
 Black Mask Original Spiced Rum , 40.0 
 Neisson 50% Agricole Blanc Rum , 50.0 
@@ -509,21 +445,14 @@ BACARDÍ Gran Reserva Limitada , 40.0
 Heaven Hill Rum Gold , 40.0 
 Motu Rum , 40.0 
 Don Q Rum Mojito , 20.0 
-Cruzan Flavored Strawberry 55 , 0.0 
 Wicked Dolphin Coconut Rum , 40.0 
-Antigua Porteno 21 Year , 0.0 
 Barbarossa Silver Rum , 40.0 
 Norseman Bourbon Barrel Aged Rum , 40.0 
-Calico Jack Flavored Rum Whipped Cream , 0.0 
-Cayman Reef 5 Year Old Rum - BevMo! Private Collection , 0.0 
 El Dorado White Rum , 40.0 
 Crusoe Silver Rum from Greenbar Distillery , 40.0 
 Rhum J. M. V.S.O.P. Rum , 45.0 
 Ron Corina Silver Rum , 40.0 
 Appleton Special Gold , 43.0 
-Rom Mocambo 20 Year Old , 0.0 
-Wright & Brown Barrel Aged Rum , 0.0 
-RumJava Signature Coffee Blended Rum , 0.0 
 Facundo® Exquisito Premium Blended Rum , 40.0 
 Ron Carlos Gold Rum , 40.0 
 Club Caribe Pineapple Rum , 40.0 
@@ -535,7 +464,6 @@ Rogue Hazelnut Spice Rum , 40.0
 George Ocean Gold Rum , 40.0 
 Wiggly Bridge Small Barrel Rum , 40.0 
 Grander Panama Rum 8 Year , 45.0 
-Cane Royale Silver Rum , 0.0 
 Ron Centenario 7 year Anejo Especial Rum  , 40.0 
 Balcones Texas Rum Special Release , 63.9 
 Cockspur Fine Rum , 40.0 
@@ -548,7 +476,6 @@ Diplomatico Single Vintage Rum , 43.0
 Rumson's Spiced Rum , 40.0 
 Rhum Barbancourt 3 Star 4 Year , 43.0 
 Cache Mamajuana Spiced Rum , 40.0 
-Sailor Jerry Rum , 0.0 
 Rum Jumbie Rum Vanilla Splash , 24.0 
 Adm Nelson Cherry Spiced Rum , 30.0 
 Ron Rio Silver Rum Plastic , 40.0 
@@ -556,7 +483,6 @@ Panama Pacific Rum 9 Year , 47.3
 Balcones Rumble Cask Reserve 125. , 62.6 
 Trader Vics Silver Rum , 40.0 
 Santa Cruz Light Rum , 50.0 
-Ron Cartavio XO Rum , 0.0 
 ZIAMI Platinum Rum , 40.0 
 Mekhong Spirit Of Thailand , 35.0 
 Short Path Gold Rum , 40.0 
@@ -565,41 +491,27 @@ Malibu Pineapple Upside Down Cake Rum , 21.0
 Stoneyard Colorado Rum , 42.0 
 Parce Rum 3 Year Single , 43.0 
 Copalli White Rum , 42.0 
-Bartenders Horchata Rum , 0.0 
 Caña Brava Reserva Añeja Rum 7 Year , 45.0 
-Red Eye Louie's Rumquila , 0.0 
 Maine Craft Distilling Queequeg , 45.0 
-Sunken Anchor Spiced Rum , 0.0 
 Ron Centenario 18 year Reserva de la Familia Rum  , 40.0 
-Captain Morgan Tattoo Rum , 0.0 
 Chairman's Reserve The Forgotten Casks Rum , 40.0 
 Malibu Rum Coconut By U Ltd Ed , 21.0 
 Sword Swollower Rum , 40.0 
 Plantation Rum Barbados 5 Year , 40.0 
-Angostura Reserva White , 0.0 
 Dominican Club Silver Rum , 40.0 
 Whalers Rum Killer Coconut , 20.0 
 Malahat Ginger Rum , 35.0 
-Cayman Reef Double Black Rum , 0.0 
-El Dorado Rum 5 Year , 0.0 
 Foursquare Sagacity Rum , 48.0 
-Rum Jumbie Pineapple Splash , 0.0 
 Cabana Cachaca , 40.0 
 Wicked Dolphin Spiced Reserve Rum , 40.0 
 Calvert Woodley Wst In Gold Rum , 40.0 
 Port Royal Spice Rum , 33.0 
-Guajiro Honey Rum , 0.0 
-Seacrets Spiced Rum , 0.0 
 Whalers Rare Reserve Rum , 40.0 
 Afrohead 15 Yr , 43.0 
 Maggie's Farm La Revulta , 40.0 
 Black Coral Spiced Rum , 40.0 
 Rondiaz Rum Raspberry , 21.0 
-Hamilton 86 Demerara Rum , 0.0 
 Koloa Reserve 12-Barrel Select Aged Hawaiian Rum , 46.0 
-Malibu Chocolate Sundae Rum , 0.0 
-Kilo Kai Spiced Rum , 0.0 
-Captain Morgan Rum Lime Bite , 0.0 
 Dominican Club Anejo Rum , 40.0 
 Jack Flavored Rum Coconut 42 , 21.0 
 Ron Abuelo Rum 7 Yr , 40.0 
@@ -607,41 +519,32 @@ Hamilton Navy Strength Rum 114pf , 57.0
 Code Spiced Rum , 45.0 
 Short Path Distillery Rosid , 35.0 
 Foursquare Premise Rum , 46.0 
-The Black Dog Rum 7 Year , 0.0 
-Black Dog Rum 3 Year , 0.0 
 Smith and Cross Rum , 57.0 
 Diplomatico Rum Anejo , 40.0 
 Berkshire Distillers Ragged Mountain Rum , 40.0 
 English Harbor Rum 5 Year , 40.0 
-Ron Pontalba White Rum , 0.0 
 Three Sheets Spiced Rum , 40.0 
 RONDIAZ Spiced Black Cherry Rum , 40.0 
 Gubba Silver Rum , 35.0 
-Burnett's Spiced Rum , 0.0 
 Ron Centenario 30 year Edicion Limitada , 40.0 
 Atlántico Rum Gran Reserva , 40.0 
-Macorix Coolpiña Pineapple Rum , 0.0 
 Caribaya Spiced Rum , 24.0 
 Neisson Eleve Sous Bois Agricole Rum , 50.0 
 Margaritaville Dark Rum , 40.0 
 Vizcaya Cristal Rum , 40.0 
 Mad River First Run Rum , 48.0 
 Joel Richard Esencia Colombian Rum 25 Year , 40.0 
-Macorix Coolpiña Pineapple Rum , 0.0 
 Parrot Bay Punch , 12.5 
 Don Pancho Reserva 8 Yr Rum , 40.0 
 Palms Gold Rum , 40.0 
 Malahat Black Tea Rum , 35.0 
-Cayman Reef Spiced 5 Year Old Rum , 0.0 
 Waypoint Spiced Rum , 35.0 
 Cape Cod Great White Rum , 43.0 
 Wiggly Bridge White Rum , 40.0 
-Papa's Pilar Bourbon Barrel Finish Rum , 0.0 
 Still the One Byram River Rum , 40.0 
 Hampden Estate Overproof Rum , 60.0 
 Atlantico Rum Reserve , 40.0 
 Sagatiba Cachaca Pura , 38.0 
-Palms Black Cherry Rum , 0.0 
 Ron Rico Rum Clipper Spiced , 35.0 
 Malibu Rum Peaches N'cream , 21.0 
 Ron Carlos Dark Rum , 40.0 
@@ -663,13 +566,9 @@ New Grove Silver Rum , 40.0
 Plantation Rum Peru 2004 , 43.5 
 Don Papa Rum 10 Years , 43.0 
 Dictador 20 year Rum , 40.0 
-Calico Jack Spiced Rum 70 , 0.0 
 Marti Mojito Rum , 40.0 
 Yolo Rum Gold 10 Year , 40.0 
-Dove Tale Rum , 0.0 
-Mount Gay Master Blender Collection XO: Peat Smoke Expression , 0.0 
 Bacardi Raspberry Mojito , 15.0 
-Joh. Jos. Prum Wehlener Sonnenuhr Riesling Spatlese , 0.0 
 Facundo® Paraiso XA Premium Rum , 40.0 
 Dominican Club Gold Rum , 40.0 
 Margaritaville Coconut Rum , 42.0 
@@ -682,20 +581,16 @@ The Family Jones "Mo Jones" Rum , 40.0
 Ron Botran Rum de Solera , 40.0 
 Tommy Bahama White Sand Rum , 40.0 
 Captain Morgan Sherry Oak Finish Spiced Rum , 35.0 
-New England Distilling Eight Bells Rum , 0.0 
 Pusser's Rum 15 Year , 40.0 
 Trader Vics Dark Rum , 40.0 
 Cruzan Orange Rum , 21.0 
 Calico Jack Spiced Rum 94 , 47.0 
 Ron Llave Supremo Puerto Rican Light Rum , 40.0 
-Clement 10 Yr Gr Reserve Rum , 0.0 
 Clement Premiere Canne , 40.0 
 Seagram's Brazilian Rum Citrus , 35.0 
 Ron Cartavio Silver , 40.0 
 Damoiseau Rhum , 55.0 
 Rum Jumbie Rum Pineapple Splash , 24.0 
-Old Ipswich Tavern , 0.0 
-Old Ipswich White Cap Rum , 0.0 
 Licores Veracruz Mocambo 20 Year Rum , 40.0 
 Cruzan Coconut Rum 55 W/2 Mason Jars , 21.0 
 Mccormick Light Rum , 40.0 
@@ -704,34 +599,24 @@ Wray & Nephew Rum Cream , 15.0
 Sammys Beach Bar Hawiian Macadamia Nut Rum 80 P , 35.0 
 Mohawk Gold Rum , 40.0 
 Mezan Panama 2006 , 40.0 
-Macorix Agua De Coco , 0.0 
 Ron Centenario 12 year Gran Legado Rum , 40.0 
-Malibu Peaches And Cream Rum , 0.0 
 Parce 8 Year Rum , 40.0 
 El Dorado Rum De Luxe Silver 6 Yr , 40.0 
 Bellows Lt Rum , 40.0 
 Tropical Breeze White Rum , 40.0 
 Mad Rabbit Bravo Zulu Rum , 40.0 
-Black Mask Black Premo Rum , 0.0 
-Bounty Gold Rum , 0.0 
 Cruzan Citrus Rum , 35.0 
 Stroh Rum 80 , 80.0 
 10 Cane Rum , 40.0 
-Club Caribe Silver Rum , 0.0 
-Lady Bligh Coco Rum , 0.0 
 Hooks Spiced Rum , 30.0 
 Skol Gold Rum , 40.0 
 Pecan Street Rum , 40.0 
 Malahat White Rum , 35.0 
-Mad River Vanilla Rum , 0.0 
 Tiburon Small Batch Aged Rum , 40.0 
 Street Pumas Rum , 40.0 
 Diamond Reserve Spiced Rum , 35.0 
-RumJava Cinna'mon Bay Rum , 0.0 
 Dictador 100 Month Aged Amber Rum , 40.0 
-Ron Barcelo Rum Imperial Gift Set , 0.0 
 Two James Dr Bird Jamaica Rum , 50.0 
-8th Day Rum , 0.0 
 XM Royal Rum 10 Year , 40.0 
 Barbarossa Gold Rum , 40.0 
 Rum Jumbie Rum Coconut Splash , 24.0 
@@ -745,29 +630,23 @@ Dictador XO Insolent , 40.0
 Ron Roberto Spiced Rum , 40.0 
 Foursquare Spiced Rum , 35.0 
 Marti Estate Strength Rum , 53.8 
-8th Day Rum , 0.0 
 XM Royal Rum 10 Year , 40.0 
 Barbarossa Gold Rum , 40.0 
 Bacardi Rum Grand Melon , 35.0 
 El Dorado Dark Rum , 37.5 
 Ron Abuelo Rum Centuria , 40.0 
 Goslings Family Reserve Old Rum , 40.0 
-Wigle Landlocked Spiced Rum , 0.0 
 Agua Luca Cachaca , 40.0 
 Downslope Spiced Rum , 40.0 
 Coruba Jamaican Mango Rum , 40.0 
 Wicked Dolphin Silver Reserve Rum , 40.0 
 Wray & Nephew Rum White 126 , 63.0 
 Rumson's Rum , 40.0 
-Ron Zacapa Centenario Negra Rum , 0.0 
 Denver Distillery Silver Rum , 40.0 
 Denver Distillery Dark Rum , 36.0 
-Vizcaya Black Rum , 0.0 
-Ski Bum Rum Edleweiss Coconut Rum , 0.0 
 Denizen Vatted Dark Rum , 50.0 
 Kula Toasted Coconut Rum , 35.0 
 Kula Dark Rum , 47.5 
-Calico Jack Cherry Rum , 0.0 
 Stroh Rum 160 Proof , 80.0 
 Ed Hardy Spiced Rum , 35.0 
 Eastside Distillery Hue Hue Coffee Rum , 35.0 
@@ -775,14 +654,11 @@ Angostura 1824 Premium Rum , 40.0
 Facundo® Eximo 10 Year Old Premium Rum , 40.0 
 Cockspur Old Gold Rum , 40.0 
 Cockspur Spiced Rum , 37.5 
-Plantation 20 Yr Anniversary Rum , 0.0 
 Plantation Rum Barbados , 42.0 
 Wicked Dolphin Strawberry Rumshine , 40.0 
-Lady Bligh Cherry Spiced Rum , 0.0 
 Coppermuse Rum Silver , 40.0 
 Flor De Cana Centenario 25 Yr , 40.0 
 Diamond Head Dark Rum , 40.0 
-Tropical Breeze Dark Rum , 0.0 
 Tattersall Blackstrap Rum , 45.0 
 Six Saints Rum , 41.7 
 Treasure Island Rum , 35.0 
@@ -793,7 +669,6 @@ Pyrat 'Cask 1623' Rum , 40.0
 Treasure Island Spiced Rum , 35.0 
 Pyrat 'Cask 1623' Rum , 40.0 
 Starr African Rum , 40.0 
-J.K.'s Scrumpy Cuvee Winteruption , 0.0 
 Trader Vic's Spiced Rum , 35.0 
 Puerto Angel Anejo Rum , 40.0 
 Penny Blue XO Mauritian Rum , 44.1 
@@ -804,7 +679,6 @@ Depaz Agricole Rum , 58.5
 Depaz Amber Rhum , 45.0 
 Calico Jack Flavored Rum Chocolate Coconut , 21.0 
 Whalers Rum Pineapple Paradise , 24.0 
-Adm Nelson Spice Rum 101 , 0.0 
 Adm Nelson Spiced Rum Pet , 35.0 
 Club Caribe Lemon Rum , 40.0 
 Conch Republic Dark , 40.0 
@@ -812,25 +686,19 @@ Pocket Shots Spiced Rum , 40.0
 Railean Texas White Rum , 38.0 
 Railean Xo Reserve Rum , 40.0 
 Ron Abuelo 7 Yr W/2 Gls , 40.0 
-Montego Bay Coconut Rum , 0.0 
-Mr Boston Silver Rum , 0.0 
 Conch Republic Dark , 40.0 
 Toucano Rum , 40.0 
 Calico Jack Spiced Rum Cherry Spiced , 21.0 
 Whalers Rum Pineapple Paradise , 24.0 
-Adm Nelson Spice Rum 101 , 0.0 
 Adm Nelson Spiced Rum Pet , 35.0 
 Seven Tiki Spiced Rum , 35.0 
 Wicked Dolphin Blueberry Rumshine , 40.0 
 Capt Morgan P Bay Mojito Mango , 12.7 
 Highwood Rum , 40.0 
 Arehucas Carta Blanca Rum , 37.5 
-Chila Orchata Rum Cream 27. , 0.0 
 Opthimus Rum 18 Yr , 38.0 
 Timber Creek Coffee Rum , 45.75 
 Consuego Horchata , 40.0 
-Caroni 17 Year Rum , 0.0 
-Fortuna Anejo Rum , 0.0 
 Phraya Gold Rum , 40.0 
 Richland Single Estate Old Georgia Rum , 43.0 
 Rondiaz Lemon Rum , 35.0 
@@ -838,22 +706,14 @@ Still The One Rum , 40.0
 Commander's Call Silver Rum , 40.0 
 Commander's Call Spiced Rum , 35.0 
 Doorly's Macaw White Rum , 40.0 
-Don Q Double Aged Vermouth Cask Finish Rum , 0.0 
-Premium Blend Rhumbero Spice Rhum  , 0.0 
 HH Bespoke Rum , 40.0 
 RONDIAZ Spiced Apple Rum , 30.0 
-Novofogo Cachaca Single Barrel 9 Year , 0.0 
 Don Q Double Aged Sherry Cask Finish Rum , 41.0 
 Ron Atlantico Rum Dark Prv W/Pitch , 40.0 
 Admiral Nelson's Black Patch Spiced Rum , 47.0 
 Diplomatico Collection No. 1 Batch Kettle Rum , 47.0 
-Clement 125th Anniversary Edition by JonOne Rum , 0.0 
-Rocker Rum , 0.0 
 Sx Liquors Samba , 35.0 
-Castries Peanut Rum , 0.0 
-GrandTen Distilling "Medford" Rum , 0.0 
 Montecristo Rum 12 Year , 40.0 
-Boca Loca Cachaca , 0.0 
 Lady Bligh Coconut Rum , 40.0 
 Trader Vics Gold Rum , 75.5 
 Mayfair Providencia Rum , 40.0 
@@ -868,17 +728,11 @@ Calico Jack Flavored Rum Key Lime Pie , 21.0
 Adm Nelson Coco Rum Pet , 21.0 
 Adm Nelson Dark Rum , 40.0 
 Adm Nelson Gold Rum , 40.0 
-Downslope White Rum , 0.0 
-Downslope Wine Barrel Aged Rum , 0.0 
-Drunken Sailor Spice Rum , 0.0 
 Eastside Distilling Below Deck Ginger Rum , 40.0 
-Numbskull Rum , 0.0 
-Club Caribe Banana Rum , 0.0 
 Club Caribe Citrus Rum , 40.0 
 Club Caribe Mango Rum , 43.0 
 Malibu Spiced Rum&Clb Soda Rtd Cn , 35.0 
 Margaritaville Spiced Rum Bar , 40.0 
-Toppers White Choc Rasp Rum , 0.0 
 Monarch Rum , 75.5 
 Cocoribe Original , 21.0 
 Three Sheets Barrel Aged Rum , 40.0 
@@ -901,25 +755,15 @@ Ski Bum Local Legend Spiced Rum , 40.0
 Copper Fiddle Gold Rum , 40.0 
 Montauk Rumrunners Coconut Rum , 30.0 
 Copper Fiddle Silver Rum , 40.0 
-AstraLuna Crook Jaws Amber Rum , 0.0 
 Old Brigand Black Label Rum , 40.0 
 Doorly's 8yo Rum , 40.0 
-Marley Family Silver Root Rum , 0.0 
 Canasteros 21yr Rum , 40.0 
 Kaniche Perfeccion , 40.0 
-One Barrel Belize Travelers Rum , 0.0 
 Doorly's 5yo Amber Rum , 40.0 
 Relicario Rum Supremo , 40.0 
-Copper Bottom Distillery Silver Rum , 0.0 
-Do Good White Rum , 0.0 
 Malecon Reserva Imperial Rum 18 Year  , 40.0 
-Koloa Rum Sampler Gift Box , 0.0 
-Crooked Bay Silver Rum , 0.0 
-Porteno Colombian Rum Solera 21 Year , 0.0 
 Montecristo Spice Blended Rum , 40.0 
 Diplomatico Collection No. 1 Batch Kettle Rum , 47.0 
-Clement 125th Anniversary Edition by JonOne Rum , 0.0 
-Rocker Rum , 0.0 
 Admiral Nelson's Black Patch Spiced Rum , 47.0 
 Kula Organic Rum , 40.0 
 Ron Centenario 9 year Conmemorativo Rum , 40.0 
@@ -934,31 +778,22 @@ Oronoco Rum , 40.0
 Maui Platinum Rum , 40.0 
 Cockspur VSOR 12 Year Old Rum , 40.0 
 Montanya Oro Dark Rum , 40.0 
-Smooth Ambler Revelation Rum , 0.0 
 Old Monk Gold Reserve , 40.0 
 Maestro Dobel Diamante With Drum Case , 40.0 
 Whalers Rum Big Island Banana , 24.0 
 Tesouro Rum Small Batch , 40.0 
 Seco Herrerano Rum , 40.0 
 Calypso White Rum , 35.0 
-Castillo Citrus Rum , 0.0 
 Ron Rico Rum Pineapple Coco , 30.0 
 Calico Jack Rum Silver , 40.0 
 Calico Jack Flavored Rum Tropical , 21.0 
-Dzama Cuvee Blanche Blanc , 0.0 
 English Harbor 10 Yr Rum , 35.0 
-Cortez Lt , 0.0 
 Prichards Key Lime Rum , 40.0 
 Prichards Rum , 40.0 
 Ron De Jeremy Rum , 50.0 
 Mr Boston Gold Rum , 35.0 
-Malibu Peach Rum Sparkler , 0.0 
-Toppers Coconut Retriever Rum , 0.0 
-Shakka Grape , 0.0 
-Sa Prum Urziger Wurzg Kab , 0.0 
 Gun Powder Rum , 51.6 
 Opthimus Malt Whisky Finished Rum 25 Year , 43.0 
-Sa Prum Urziger Wurzg Kab , 0.0 
 Gun Powder Rum , 51.6 
 Opthimus Malt Whisky Finished Rum 25 Year , 43.0 
 El Dorado 15 Year Ruby Port Cask Rum , 43.0 
@@ -975,25 +810,20 @@ Mezan Distiller In Guyana Rum 2005 , 40.0
 Wild Tiger Special Reserve Rum , 40.0 
 Largo Bay Spiced Rum , 35.0 
 Olo Brazilian Silver Rum , 40.0 
-Barcelo Rum Imperial 30 Aniversario , 0.0 
 3 Howls Gold Label Rum , 40.0 
 Kingston Spiced Rum , 35.0 
 Kaniche Reserve Rum , 40.0 
 Capitan Bucanero Rum Anejo , 40.0 
-Appleton Estate Joy Anniversary Blend , 0.0 
 Grander Panama Rum Single Barrel  , 55.0 
 Gracias Madre Spiced Rum , 40.0 
 Barrelman Rum Original Spirit , 40.0 
-New Grove Old Tradition Rum 5 Year , 0.0 
 Cannes Royale Extra Old Rum , 40.0 
 Thomas Tew Widows Walk Overproof White Rum , 67.5 
 Plantation Fiji Rum , 44.8 
 Capovilla Rhum Rhum PMG Blanc Agricole , 56.0 
 Ron Del Barrilito 5 Star Rum , 43.0 
 El Dorado Spiced Rum , 40.0 
-Green River Ambrosia Liquid Sunshine , 0.0 
 Santa Teresa Rum Selecto , 40.0 
-Oronoco Rum Platinum Reserve , 0.0 
 Jenkins Dark Rum , 40.0 
 Rougaroux Sugarshine Rum , 50.5 
 Dancing Pines Rum , 40.0 
@@ -1008,13 +838,7 @@ Downslope Vanilla Rum , 36.0
 Club Caribe Coconut Rum , 46.0 
 Downslope Vanilla Rum , 36.0 
 Sammys Beach Bar Rum Red Hd70 , 35.0 
-Toppers Banana Van Cinn Rum , 0.0 
-Toppers Caribbean White Rhum , 0.0 
-Railean Spiced Rum , 0.0 
 Prichards Rum Peach Mango , 35.0 
-Taildragger Amber Rum , 0.0 
-Taildragger Coffee Rum , 0.0 
-Powers Spectrum Red , 0.0 
 Berrys Bros Rum Barbados 11 Yr , 46.0 
 Hooks Black Spiced Rum Pch , 46.0 
 Berrys Bros Rum St Lucia 11 Yr , 46.0 
@@ -1031,8 +855,6 @@ Bunnahabhain Samaroli Yehmon Evolution Rum , 45.0
 Largo Bay Gold Rum , 40.0 
 Vanua Rum , 40.0 
 Capitan Bucanero Rum Blanco , 40.0 
-St James Ambre Rhum , 0.0 
-Dictador 100 Month Aged Claro Rum , 0.0 
 Papas Pilar Platinum Blonde Rum , 46.0 
 18th Street Distillery Rum , 45.0 
 Drake's Organic Spiced Rum , 40.0 
@@ -1040,15 +862,12 @@ Brinley Gold Shipwreck Coconut Cream Rum , 15.0
 Ron Zacapa Rum XO , 40.0 
 Diplomatico Collection No.2 Barbet Rum , 47.0 
 HSE Habitation Black Sheriff Martinique Rum , 40.0 
-Ron Corina Dark 151 Rum , 0.0 
 Whistling Hare White Rum , 40.0 
 Santa Teresa Claro , 40.0 
 Stroh Rum 60 , 60.0 
 Van Brunt Due North Rum , 40.0 
 Rum Jumbie Rum Mango Splash , 24.0 
 Amrut Two Indies Rum , 42.8 
-Plantation Rum Panama 1997 , 0.0 
-Copacabana 1940 Añejo Rum , 0.0 
 11 Wells Maelstrom Rum , 42.0 
 Topper's Spiced Rhum , 40.0 
 Brugal Papa Andres Dark Rum , 40.0 
@@ -1061,38 +880,23 @@ Dek San Tropique , 40.0
 Diplomatico Ambassador Rum , 47.0 
 Adm Nelson Vanilla Rum , 35.0 
 Downslope Gold Rum , 30.0 
-Arehucas Ron Miel Honey Rum , 0.0 
 Barbarossa Spiced Rum , 40.0 
-Porta Shot Fletchers Gold Rum , 0.0 
-Ron Pontalba Dark Rum , 0.0 
-Malibu Coconut Rum W/Pineaple Juice , 0.0 
-Clement Xo Rum , 0.0 
-Cortez Dark , 0.0 
 Florida Old Reserve Rum , 40.0 
 Hooks Spiced Rum Black , 30.0 
 Ronrico Dark , 40.0 
 San Juan Spiced Rum , 40.0 
-Toppers Mocha Mama Rum , 0.0 
 Trigo Reserva Aneja Rum , 40.0 
-Sa Prum Wehl Sonn Aus , 0.0 
 Capt Morgan Parrot Bay Pinea42 , 21.0 
 Moraga Cay Rum , 40.0 
 Voodoo Spiced Rum Hemp , 46.0 
 Barbarossa Spiced Rum , 40.0 
-Porta Shot Fletchers Gold Rum , 0.0 
-Ron Pontalba Dark Rum , 0.0 
-Malibu Coconut Rum W/Pineaple Juice , 0.0 
-Clement Xo Rum , 0.0 
-Cortez Dark , 0.0 
 Florida Old Reserve Rum , 40.0 
-Sa Prum Wehl Sonn Aus , 0.0 
 Voodoo Spiced Rum Hemp , 46.0 
 Peter Brum Bacchus Rheinhessen Red , 40.0 
 Capt Morgan Parrot Bay Pinea42 , 21.0 
 Moraga Cay Rum , 40.0 
 Ron Richardson 22 Yr Solera Rum , 40.0 
 Opthimus Rum 21 Yr , 38.0 
-Capital Rum Ba Jobu , 0.0 
 Bear Creek Silver Rum , 40.0 
 Dunc's Mill Backwoods Reserve , 40.0 
 Crows Nest Spiced Rum , 40.0 
@@ -1108,22 +912,14 @@ Mount Gay Rum 1703 Master Select , 43.0
 Largo Bay Silver Rum , 40.0 
 La Cana Grande Silver Rum , 40.0 
 Jav's Rum 7 Year , 40.0 
-Appleton Rare Blend 30 Year , 0.0 
 Brinley Gold Shipwreck Rum , 36.0 
 Bacardi Humidor With Bacardi 8 Year And 10 Year Rum , 40.0 
 Ron Hacienda Santa Ana Cask Strength Rum , 69.0 
-Island Signature Yellow Snake Rum , 0.0 
-Cadenhead's Classic Rum , 0.0 
-Casa D' Ariste Ron Caribe Mexican Silver Rum , 0.0 
 Admiral Rodney 'Royal Oak' Extra Old Rum  , 40.0 
 Cutwater Three Sheets White Rum , 40.0 
 Sebago Lake Original Rum , 40.0 
 Ron Llave Premium Rum , 40.0 
 Santa Teresa Araku , 28.0 
-Stingray Spiced Rum , 0.0 
-Damoiseau Rum V.S.O.P. , 0.0 
-Old Ipswich Golden Marsh Spiced Rum , 0.0 
-Prichards Crystal Rum , 0.0 
 Monarch Rum Gold , 40.0 
 Botran Rum Reserva , 40.0 
 Venado Rum Especial , 40.0 
@@ -1132,20 +928,15 @@ Cachaca Da Roca Rum , 40.0
 Governor General Golden Rum , 40.0 
 South Bay Rum , 40.0 
 Prichards Rum Cranberry , 35.0 
-Cruzan Gold Rum , 0.0 
 Dancing Pines Spice Rum , 40.0 
 Calico Jack Flavored Rum Cake , 21.0 
-Calico Jack Flvr Rum Pnap Ccnt , 0.0 
-Dzama Cuvee Noir Rum , 0.0 
 Arehucas Carta Oro Rum 75 , 37.5 
 Conch Republic Light , 40.0 
 Key West Legal Rum , 44.0 
 Hooks Spiced Rum Cntr Unit Pouch , 35.0 
-Taildragger White Rum , 0.0 
 Tropical Breeze Gold Rum , 40.0 
 Witherspoons River Rum , 40.0 
 Peter Brum Liebfraumilch Rheinhessen Blue , 40.0 
-Syntax "Dq" Powder Rum , 0.0 
 Opthimus Rum 25 Yr , 38.0 
 Ron Millonario Rum , 40.0 
 Bacardi Ciclon Gold Rum , 35.0 
@@ -1158,50 +949,33 @@ Stark Spirits Silver Rum , 43.0
 Neisson Blanc 52.5 Rhum , 52.5 
 Twenty Boat Amber Rum , 42.0 
 3 Howls Spiced Rum , 40.0 
-Bacoo 8 Year Rum , 0.0 
 Siesta Key Gold Rum , 40.0 
 Capitan Bucanero Rum Reserva , 40.0 
 Barrell Tales Of Two Islands Rum 8 Year , 66.4 
 Big 5 Silver Rum , 40.0 
 The Kraken Black Spiced Rum & Cola Gift Set , 47.0 
-Cutwater Cask Strength Rum , 0.0 
 Jav's Rum 4 Year , 40.0 
 ZIAMI Ruby Rush Rum , 35.0 
 New Grove Dark Rum , 40.0 
-Casa D' Ariste Ron Caribe Mexican Silver Rum , 0.0 
 Old Line Aged Caribbean Single Malt Cask-Finished Rum  , 45.0 
-Diamond Reserve Gold Rum , 0.0 
 Hotel Tango Rum , 45.0 
 Diablo's Shadow Silver Rum , 45.0 
-Royal Emblem Rum , 0.0 
 Cedar Ridge Dark Rum , 40.0 
 Stroh Rum 40 , 40.0 
 New Holland Michigan Amber Rum , 40.0 
 Sx Liquors Calypso , 35.0 
-Cypress Creek Reserve Vanilla Rum , 0.0 
-Dunc's Mill Elderflower Rum , 0.0 
-Ryan & Wood Folly Cove Rum , 0.0 
 Ron Corina Black Rum , 40.0 
-Trump Blanc De Blanc 2008 , 0.0 
-Palms Banana Rum , 0.0 
 Bowmans Imp White Rum , 45.0 
-Dzama Cuvee Noir Prestige Rum , 0.0 
-Porta Shot Fletchers Spcd Rum , 0.0 
-Porta Shot Fletchers White Rum , 0.0 
 Flipflop Spiced Rum , 35.0 
 Club Caribe Raspberry Rum , 40.0 
 Coruba Jamaican Coconut Rum , 42.0 
 Coyopa Dark Rum , 40.0 
 Hooks Spiced Rum Black Pouch , 30.0 
 Orchata Cinn Cream Rum , 35.0 
-Pisco Capel Reservado Rum , 0.0 
-Margaritaville Silver Rum W/Blender Cup , 0.0 
-Mccormick Dark Rum , 0.0 
 Twisted Sun Gold Rum , 43.0 
 Old Lahaina Rum Dark , 40.0 
 Whaler's Great White Rum , 40.0 
 Ron Abuelo Anejo Rum 12 Yr , 40.0 
-Smugglers Notch Rum , 0.0 
 Bear Creek Cask Strgth Rum , 50.0 
 Short Path White Rum , 40.0 
 Montanya Mountain Rum Exclusiva , 40.0 
@@ -1218,35 +992,25 @@ Pumpkin Face Rum 23 Year , 40.0
 Pumpkin Face Reserve Rum , 40.0 
 R. L. Seale's Finest 10 Yr Old Rum , 43.0 
 Kaniche Xo Artisanal Rum , 40.0 
-Hamilton 151 Demerara Rum , 0.0 
 Relicario Rum Superior , 40.0 
 Tapping House Rum , 40.0 
 Doorly's 12yo Rum , 40.0 
 Denver Distillery Navy Strength Spiced Rum , 57.0 
-Ron Botran Anejo Oro , 0.0 
-Jav's Aged Rum 12 Year , 0.0 
-Deadhead Chocolate Rum , 0.0 
-St Elmo Rum Gold , 0.0 
 Island Company Rum , 40.0 
 Surfrider Rum , 42.0 
 Santa Teresa Anejo Gran Reserva Rum , 40.0 
-Rum-Bar Gold Rum , 0.0 
 Diablo's Shadow Silver Rum , 45.0 
-Royal Emblem Rum , 0.0 
 Clement 6 Year Rum , 44.0 
 Ron De Jeremy Rum Signed , 40.0 
-J M Rhum V.S.O.P. , 0.0 
 Jj Prum Graacher Himmel Kabinett 2009 , 58.0 
 Don Pancho Reserva 30 Year Rum , 40.0 
 Plantation 5 Year Barbados Rum , 40.0 
 Silver Wolf Silver Rum , 40.0 
-Palms Pineapple Rum , 0.0 
 Jack Flavored Rum Whipped , 21.0 
 Westerhall Plantation Rum , 43.0 
 Lost Spirits Distillery Cuban Inspired Rum , 75.5 
 San Juan White Rum , 35.0 
 Margaritaville Spiced Rum , 35.0 
-Palms Pineapple Rum , 0.0 
 Jack Flavored Rum Whipped , 21.0 
 Westerhall Plantation Rum , 43.0 
 Plantation 5 Year Barbados Rum , 40.0 
@@ -1257,12 +1021,9 @@ Grand Dutch Chocorumba , 40.0
 Whalers Orig Dark Topping Rum , 40.0 
 St George Agricole California Reserve Rum , 43.0 
 Margaritaville Spiced Rum , 35.0 
-Red Ram Hot Butter Rum Mix , 0.0 
 Trumpeter Torrontes , 13.3 
 Juan Santos Gran Reserva Rum , 40.0 
-Maya Horchata , 0.0 
 Witherspoons Bonfire Rum , 45.0 
-Peter Brum Vino Noire Rheinhessen Blue , 0.0 
 Diplomatico Res Exclusiva Rum , 40.0 
 Opthimus Rum 25 Yr Port Finish , 43.0 
 Plantation Trinadad Rum 2003 , 42.0 
@@ -1272,17 +1033,9 @@ Rum Hispaniola Gran Anejo , 40.0
 Hamilton St. Lucia Rum 9 Year , 67.4 
 Angostura Fernandes Black Label Rum , 40.0 
 Batiste Rhum Gold , 40.0 
-El Dorado Grand Special Reserve 50 Year Rum , 0.0 
-Cane Royale Gold Rum , 0.0 
-Black Mask Tropical Chai Rum , 0.0 
-New Grove Oak Aged Rum , 0.0 
-RumJava Signature Rum , 0.0 
-8th Day Queens Share Rum , 0.0 
 Cihuatan Reserva Especial Rum 12 Year , 40.0 
-Carta Vieja Ron Anejo Rum , 0.0 
 BLY Rum Silver , 40.0 
 SoCal Silver Rum , 40.0 
-Admiral Nelson's Bucket Of Flavors , 0.0 
 Diablo's Shadow California Gold Rum , 42.5 
 Bogart's Rum , 80.0 
 Dos Maderos Luxus Double Aged Rum , 40.0 
