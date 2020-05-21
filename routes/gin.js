@@ -51,6 +51,25 @@ router.post('/', async(req, res) => {
 
 });
 
+// // POSTS
+// // POST2: submits many gins
+// router.post('/', async(req, res) => {
+//     db.coll
+//     const gin = new Gin({
+//         name: req.body.name,
+//         concentration: req.body.concentration
+//     });
+//     try {
+//         const savedGin = await gin.save();
+//         res.json(savedGin);
+//         //console.log("post worked");
+//     } catch(e) {
+//         res.json({message: e});
+//         //console.log("post did not work");
+//     }
+
+// });
+
 
 // DELETES
 // DELETE1: delete a gin by ID
