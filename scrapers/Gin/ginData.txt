@@ -1,0 +1,719 @@
+Tanqueray London Dry Gin , 47.3 
+Hendrick's Gin , 41.4 
+BOMBAY SAPPHIRE® Gin , 47.0 
+New Amsterdam Gin , 40.0 
+Beefeater London Dry Gin , 44.0 
+Aviation Gin , 42.0 
+Seagram's Extra Dry Gin , 40.0 
+Gordon's London Dry Gin , 40.0 
+Roku Japanese Gin , 43.0 
+The Botanist Islay Dry Gin , 46.0 
+Hendrick's Midsummer Solstice , 43.4 
+BOMBAY® DRY Gin , 43.0 
+Plymouth Gin , 41.2 
+Empress 1908 Gin , 42.5 
+Sipsmith London Dry Gin , 41.6 
+Fords Gin , 45.0 
+Monkey 47 Dry Gin , 47.0 
+St. George Terrior Gin , 45.0 
+Tanqueray Rangpur Gin , 41.3 
+Tanqueray No. Ten Gin , 47.3 
+Barr Hill Gin , 45.0 
+Drumshanbo Gunpowder Irish Gin , 43.0 
+St. George Botanivore , 45.0 
+Seagram's Gin Lime Twist , 0.0 
+Boodles Gin , 45.2 
+NOLET'S Silver Gin , 47.6 
+Prairie Organic Gin , 40.0 
+Gilbey's London Dry Gin , 40.0 
+Hendrick's Orbium Gin , 43.4 
+Uncle Val's Gin Botanical Gin , 45.0 
+Brokers Gin , 40.0 
+BOMBAY SAPPHIRE® East Gin , 42.0 
+Citadelle Gin , 44.0 
+New Amsterdam Stratusphere London Dry Gin , 0.0 
+Death's Door Gin , 47.0 
+Beefeater Pink London Dry Gin , 0.0 
+Brooklyn Gin , 40.0 
+Bluecoat Gin , 47.0 
+Breckenridge Gin , 45.0 
+Greenhook Ginsmiths American Dry Gin , 40.0 
+Gray Whale Gin , 43.0 
+Leopold Bros Gin , 40.0 
+Green Hat Gin , 0.0 
+Bully Boy Distillers Estate Gin , 47.0 
+Fleischmann's Gin , 40.0 
+Burnett's London Dry Gin  , 40.0 
+Brockman's Gin , 40.0 
+Junipero Gin , 49.3 
+Glendalough Wild Botanical Gin , 41.0 
+Dorothy Parker American Gin , 44.0 
+Gin Mare , 42.7 
+Farmer's Gin Organic Botanical Small Batch , 46.7 
+Seersucker Southern Style Gin , 40.0 
+One Eight Distilling District Made Ivy City Gin , 40.0 
+ABC Gin , 50.0 
+Glendalough Rose Gin , 41.0 
+Malfy Gin Rosa , 20.5 
+Nikka Coffey Gin , 47.0 
+Short Path Gin , 43.0 
+Barr Hill Reserve Tom Cat Gin , 43.0 
+Bulldog London Dry Gin , 40.0 
+Malfy Gin , 0.0 
+Malfy Gin Con Limone , 41.0 
+Big Gin London Dry , 47.0 
+Dripping Springs Artisan Gin , 42.5 
+Waterloo #9 Gin , 47.0 
+Perry's Tot Navy Strength Gin , 57.0 
+Plymouth Navy Strength Gin , 57.0 
+Gin Lane 1751 Victoria Pink Gin , 40.0 
+D. George Benham's Sonoma Dry Gin , 45.0 
+Hayman's Old Tom Gin , 40.0 
+Spring 44 Gin , 0.0 
+Taaka Gin , 40.0 
+Martin Miller's Gin Distilled , 40.0 
+OOLA Aloo Gin , 45.0 
+Hotel Tango Gin , 45.0 
+Vikre Boreal Juniper Gin , 45.0 
+Berkshire Mountain Distillers Greylock Gin , 40.0 
+Hardshore Gin , 0.0 
+Miles Gin , 0.0 
+Gin Lane 1751 London Dry Gin , 40.0 
+Green Hat Spring/Summer Gin , 0.0 
+Skol Gin , 40.0 
+Koval Dry Gin , 47.0 
+Ransom Old Tom Gin , 44.0 
+Crystal Palace London Dry Gin , 40.0 
+FEW Spirits Breakfast Gin , 42.0 
+Seagram's Distillers Reserve Gin , 47.0 
+Cardinal Standard Dry Gin , 42.0 
+Tanqueray Sevilla Orange (Distilled Gin with natural Flavors and Certified Colors) , 41.3 
+Bols Genever Original , 42.0 
+Monopolowa Gin , 43.5 
+Corsair Gin Head Style American Gin , 44.0 
+Vikre Boreal Cedar Gin , 45.0 
+Austin Reserve Gin , 0.0 
+Opihr Gin , 42.5 
+Cotswolds Dry Gin , 46.0 
+Whitley Neill Rhubarb & Ginger Gin , 43.0 
+Beefeater 24 Gin , 40.0 
+Uncle Val's Restorative Gin , 45.0 
+GrandTen Wire Works American Gin , 43.9 
+Berkshire Mountain Distillers Ethereal Gin , 43.0 
+Mccormick Gin , 40.0 
+Corgi Pembroke Gin , 43.0 
+Leopold Brothers Navy Strength Gin , 0.0 
+Bully Boy Distillers Merchant Gin , 45.0 
+Greenhouse Gin , 40.0 
+Oxley Cold Distilled London Dry Gin , 47.0 
+North Shore Gin No. 11 , 45.0 
+St. George Gin Sampler , 45.0 
+Damrak Gin , 41.8 
+St. George Dry Rye Gin , 45.0 
+Seersucker Southern Style Lemonade Gin , 35.0 
+Mccormick Gin Low Proof , 20.0 
+Dingle Irish Gin , 42.5 
+Denver Dry Gin , 40.0 
+Carnabys Gin , 40.0 
+Waterloo Antique Gin , 47.0 
+Ch Distillery London Dry Gin , 46.0 
+Family Jones Juniper Jones Gin , 48.5 
+No. 209 Gin , 46.0 
+Letherbee Original Label Gin , 48.0 
+No. 3 London Dry Gin , 46.0 
+Batch 206 Counter Gin , 40.0 
+Honeoye Falls Flower City Gin , 46.0 
+Dogfish Head Compelling Gin , 0.0 
+Barton Gin , 0.0 
+Privateer Seasonal, Tiki Inspired Gin , 47.5 
+Pinnacle Gin , 40.0 
+Malfy Gin Con Arancia , 21.0 
+McQueen & The Violet Fog Gin , 40.0 
+Bloom Gin , 40.0 
+The Gin Factory Limited Release Small Batch Rosemary Gin , 0.0 
+Baltimore Shot Tower Gin , 50.0 
+Old St. Pete Tropical Gin , 0.0 
+Far North Solveig Gin , 65.5 
+Balfour Street Gin , 0.0 
+Etsu Japanese Gin , 43.0 
+Calamity Gin , 40.0 
+Vikre Boreal Spruce Gin , 45.0 
+Dimitri Gin , 40.0 
+Aria Portland Dry Gin , 45.0 
+Corgi Earl Grey Gin , 40.0 
+Booth's London Dry Gin , 45.0 
+Edinburgh Gin , 43.0 
+Ki No Bi Kyoto Dry Gin Japanese Gin , 45.7 
+Tattersall Gin , 43.0 
+Green Hat Navy Strength Gin , 57.0 
+Eden Mill Love Gin , 46.0 
+Tom's Town Botanical Gin , 45.0 
+Yahara Bay Extra Dry Gin , 45.0 
+Cadenhead's Old Raj 110 Proof Gin , 55.0 
+City Of London Dry Gin , 41.3 
+Kavlana Gin , 0.0 
+Leopold Bros Summer Gin , 47.0 
+Seersucker Southern Style Limeade Gin , 35.0 
+Luxardo Sour Cherry Gin , 37.5 
+Sipsmith V.J.O.P. Gin , 28.54 
+J. Riegers Midwestern Dry Gin , 46.1 
+Western Son Gin , 40.0 
+Spirit Hound Gin , 42.0 
+Bimini Gin , 47.0 
+Portobello Road London Dry Gin No. 171 , 0.0 
+Arizona Distilling Commerce Gin , 42.5 
+Whitley Neill Blood Orange Gin , 43.0 
+3 Howls Good Old Fashioned Gin , 45.0 
+Freeland Spirits Gin , 45.0 
+Zing 72 Botanical Gin , 40.0 
+Magellan Gin , 44.0 
+Caorunn Gin , 41.8 
+Dripping Springs Traditional Gin , 47.5 
+Bootlegger Gin , 47.0 
+Sipsmith Lemon Drizzle Gin , 40.4 
+Bellringer Gin , 47.2 
+Cutwater Gin , 44.0 
+Georgi Gin , 40.0 
+Hayman's London Dry Gin , 40.0 
+Fifty Pounds London Dry Gin , 43.5 
+Grays Peak Gin , 43.0 
+Wilder Gin , 43.0 
+St. George Dry Rye Reposado Gin , 49.5 
+CapRock Colorado Organic Gin , 41.0 
+Apostoles Mate Gin , 40.0 
+Green Hat Fall/Winter Gin , 0.0 
+Barton London Extra Dry Gin , 40.0 
+Neversink Gin , 43.0 
+Alkkemist Gin , 40.0 
+Silent Pool Gin , 0.0 
+Letherbee Vernal Gin , 43.0 
+Peach Street Jackelope Gin , 40.0 
+Mahon De Mahon Gin , 0.0 
+Joseph Magnus Vigilant Gin , 42.0 
+Tommyrotter American Gin , 42.0 
+Corsair Barrel Age Gin , 46.0 
+Ransom Dry Gin , 44.0 
+Tower 56 Gin , 50.0 
+Royal Dock Navy Strength Gin , 0.0 
+Pinckney Bend American Gin , 46.5 
+Bluecoat Elderflower Gin , 47.0 
+Bellows Gin , 40.0 
+Short Path Distillery Summer Gin , 43.0 
+Gordon's Pink Gin , 30.0 
+Koval Barreled Gin , 47.0 
+Wolffer Estate Pink Gin , 40.0 
+Uncle Val's Peppered Gin , 45.0 
+BOMBAY SAPPHIRE® Gin Martini Set , 47.0 
+Rikaloff Gin , 40.0 
+Dry Line Cape Cod Gin , 47.0 
+Bloom Jasmine & Rose Gin , 0.0 
+Heartland Distillers American Gin , 42.2 
+Gin Lane 1751 Old Tom Gin , 40.0 
+Lee Spirits Dry Gin , 45.0 
+Bosford Rosé Gin , 37.5 
+Cold River Traditional Gin , 0.0 
+Strathcona Spirits Badland Seaberry Gin , 40.0 
+Waterloo Old Yaupon Gin , 45.0 
+Short Path Distillery Winter Gin , 43.0 
+Dry Fly Washington Gin , 40.0 
+Mystic Mountain Colorado Fog Gin , 40.0 
+Cadenhead's Old Raj 92 Proof Gin , 46.0 
+Cadee Intrigue Gin , 0.0 
+Dry Town Gin , 46.0 
+FEW Spirits American Gin , 40.0 
+Whitley Neill Original Gin , 42.0 
+Oakland Spirits Automatic Sea-Gin , 45.0 
+Coppola Ada Lovelace Gin , 0.0 
+Woody Creek Gin , 47.0 
+Dorothy Parker Rose Petal Gin , 44.0 
+Tanqueray Malacca Gin , 40.0 
+Euphrosine Gin #9 , 45.0 
+Cutwater Barrel Rested Gin , 44.0 
+Deepwells Botanical Dry Gin , 47.0 
+St George Bontanivore Gin , 45.0 
+Flaming Leprechaun Limestone Gin , 44.0 
+King's Ginger Liqueur , 41.0 
+OOLA Gin , 0.0 
+Four Pillars Bloody Shiraz Gin , 37.8 
+Rogue Spruce Gin , 45.0 
+Norseman Strawberry Rhubarb Gin , 40.0 
+Four Pillars Rare Dry Gin , 41.8 
+Gabriel Boudier Saffron Gin , 40.0 
+Bowman's Gin , 40.0 
+G'Vine Gin Floraison , 40.0 
+ROXOR Artisan Gin , 45.0 
+Collective Arts Rhubarb & Hibiscus Gin , 43.5 
+Breuckelen Glorious Gin , 45.0 
+The Bitter Truth Pink Gin , 40.0 
+SNO Colorado Gin , 45.0 
+Cutlers Gin , 46.0 
+ESP - Smoked Gin , 42.0 
+Idlewild Spirits Hibiscus Gin , 40.0 
+Seagram's Pineapple Twisted Gin , 0.0 
+Seagram's Peach Twisted Gin , 35.0 
+Glenmore Gin , 40.0 
+Voyager Dry Gin , 40.0 
+Hana Gin , 40.0 
+Frio Gin , 40.0 
+Bluewater Halcyon Gin , 46.0 
+Tattersall Barreled Gin , 43.0 
+Tuck Gin , 47.0 
+Pike & Clark Gin , 40.0 
+Langley's No. 8 London Dry Gin , 41.7 
+Citadelle Gin Reserve , 44.0 
+Norseman Vapor Infused GIn , 40.0 
+Bummer & Lazarus Gin , 46.0 
+Bentleys Extra Dry Gin , 40.0 
+Seagram's Gin Blue Beast , 40.0 
+Deacon Giles Original Gin , 43.0 
+Bainbridge Gin Heritage Doug Fir , 45.0 
+FEW Spirits Barrel Aged Gin , 46.5 
+Edinburgh Seaside Gin , 0.0 
+Copperworks Gin , 47.0 
+The Family Jones House Gin , 44.5 
+Big Gin Bourbon Barreled , 47.0 
+Botanica Spiritvs Gin , 45.0 
+Lockhouse Ginnamon , 32.0 
+Spring44 Mountain Gin , 44.0 
+The Revivalist Summertide Gin , 42.0 
+CITY Bright Gin from Greenbar Distillery , 42.0 
+AMASS Los Angeles Dry Gin , 45.0 
+Green Mountain Organic Gin , 46.0 
+Heaven Hill Gin , 40.0 
+Esme Gin , 40.0 
+Appalachian Gap Mythic Gin  , 44.0 
+Wenneker Elderflower Dry Gin , 0.0 
+Zephyr Gin , 40.0 
+HH Bespoke Gin , 40.0 
+Beefeater Gin W/4 Coasters@ , 40.0 
+Rogue Pink Gin , 45.0 
+Re:Find Gin , 0.0 
+Greenhook Ginsmiths Beach Plum Gin Liqueur , 30.0 
+Tanqueray Bloomsbury Gin , 47.3 
+BOMBAY SAPPHIRE® East Gin with Fever Tree Tonic , 42.0 
+Boomstam Jonge Genever Gin , 0.0 
+Golden Moon Gin , 45.0 
+Far North Gustaf Gin , 57.0 
+Martin Miller's Westbourne Gin , 45.2 
+Montgomery Distillery Whyte Laydie Gin , 40.0 
+Knightley's Gin , 43.0 
+Joseph Magnus Vigilant Navy Gin , 57.0 
+Tommyrotter Cask Strength Bourbon-Barrel Gin , 61.0 
+Botanica Spiritvs Barrel-Aged Gin , 45.0 
+Black Button Lilac Gin , 42.0 
+Maine Alchemy Gin , 0.0 
+Genevieve Genever Gin 94. , 47.3 
+Wood's Treeline Barrel Rested Gin , 45.0 
+Pickering's Gin , 42.0 
+Thomas Dakin Gin , 42.0 
+Boulder Spirits Pink Gin , 47.0 
+Deviation Mountain Herb Gin , 46.0 
+Aviation Old Tom Gin , 42.0 
+Beak & Skiff 1911 Gin , 44.0 
+You & Yours Sunday Gin , 40.0 
+Manifest Gin , 45.0 
+Townshend Gin , 40.0 
+Calvert Gin , 45.0 
+Masters Selection Gin , 43.9 
+Nautical American Gin , 42.0 
+Bobby's Schiedam Dry Lemongrass Gin , 42.0 
+Glendalough Seasonal Gin , 41.0 
+Jensen's Old Tom Gin , 43.0 
+The Club Gin Martini , 0.0 
+Black Button Citrus Forward Gin , 42.0 
+Grand Ten WireWorks Special Reserve Gin , 43.9 
+Dillon's Dry #7 Gin , 44.8 
+H Clark Gin , 44.0 
+Cruxland Gin , 43.0 
+Blade Gin , 47.0 
+Sons Of Liberty True Born Gin , 45.0 
+Journeyman Bilberry Black Hearts Gin , 45.0 
+Bluecoat Barrel Finished Gin , 47.0 
+Tanqueray Special Dry Gin , 40.0 
+ESP - American Beauty Gin , 42.0 
+Dirty Water Bogmonster Cranberry Gin , 45.0 
+Chicago Distilling Finn's Barrel Finished Gin , 45.0 
+New Riff Kentucky Wild Gin Bourbon Barreled , 47.0 
+North Shore Gin No. 6 , 45.0 
+Roundhouse Gin , 47.0 
+Wheelers Gin , 0.0 
+Queens Courage Gin , 45.0 
+Stroudwater Classic Dry Gin , 40.0 
+Calwise Big Sur Gin , 40.0 
+Copperworks New Oak Cask Finished Gin , 40.0 
+Seagram's Red Berry Twisted Gin , 35.0 
+New Holland Knickerbocker Gin , 42.5 
+Warwick Gin , 0.0 
+CITY Amber Gin from Greenbar Distillery , 0.0 
+Deerhammer Dutch Style Gin , 40.0 
+Corsair Genever Gin , 40.0 
+Fid Street Hawaiian Gin , 45.0 
+Monkey 47 Distillers Cut , 47.0 
+Seagram's Twisted Gin Apple , 35.0 
+Kamchatka Gin , 0.0 
+Wint & Lila London Gin , 40.0 
+ESP - Noho Gin , 42.0 
+Crooked Water Abyss Gin , 57.0 
+Oppidan American Botanical Gin , 45.0 
+Rutte Celery Gin , 43.0 
+Russell Henry Malaysian Lime Gin , 41.6 
+No. 209 Kosher-For-Passover Gin , 46.0 
+St. Augustine New World Gin , 47.0 
+Four Pillars Navy Strength Gin , 58.8 
+Darnley's View London Dry Gin , 40.0 
+Russell Henry Hawaiian White Ginger Gin , 0.0 
+London No.1 Gin , 47.0 
+Country Club Gin , 0.0 
+Rutte Dry Gin , 0.0 
+Oakland Spirits Automatic Uptown Dry Gin  , 47.5 
+Mr Boston English Dry Gin , 40.0 
+Amethyst Lavender Gin , 45.0 
+Wood's Treeline Gin , 45.0 
+Inverroche Classic Gin , 43.0 
+Filibuster Gin Baba , 0.0 
+Smooth Ambler Barrel Aged Gin , 49.5 
+Right Gin , 40.0 
+District Distilling Checkerbark Gin , 47.0 
+Fishers Gin , 44.0 
+Saxtons River Snowdrop Gin , 44.5 
+Rabbit Hole Bespoke Gin , 0.0 
+Russell Henry London Dry Gin , 45.0 
+Cardinal Spirits Terra Botanical Gin , 42.0 
+Catoctin Creek Watershed Gin , 46.0 
+Booth's Finest Cask Mellowed Gin , 45.0 
+Anchor Old Tom Gin , 45.0 
+Huber Starlight 1843 Gin , 46.2 
+Euphrosine Gin #9 Barrel-Finished Reserve , 45.0 
+12.05 Gin , 40.0 
+State 38 Barr. Aged Gin , 0.0 
+Oakland Spirits Co. Automatic No. 5 Gin , 46.0 
+Tinkerman’s Curiously Bright & Complex Gin , 46.0 
+Boulder Spirits Gin , 47.0 
+Valentine Liberator Gin , 42.0 
+Gin Lane 1751 London Dry Royal Strength Gin , 47.0 
+Puerto de Indias Strawberry Gin , 37.5 
+State 38 Damn Good Gin , 40.0 
+Chief Gowanus New-Netherland Gin , 44.0 
+3 Howls Navy Strength Gin , 40.0 
+Seagram's Orange Twisted Gin , 35.0 
+Darnley's View Spiced Gin , 42.7 
+Ryan & Wood Knockabout Gin , 0.0 
+Arrow Sloe Gin , 15.0 
+Pearl Gin , 44.0 
+Diep 9 Old Grain Genever , 40.0 
+Odesse Gin Deluxe , 38.0 
+Jim Beam® & Ginger Ale , 0.0 
+Original Eden Mill Gin , 42.0 
+Letherbee Autumnal Gin , 0.0 
+Seagram's Grape Twisted Gin , 35.0 
+Honeoye Falls "Devil's Bathtub" Gin , 0.0 
+6 O'Clock Gin , 43.0 
+ Strathcona Spirits Barrel Aged Gin , 40.0 
+PiùCinque Gin , 47.0 
+Bainbridge Oaked Douglas Fir Gin , 0.0 
+Huber Starlight Gin , 46.2 
+Black Button Barrel Reserve Citrus Forward Gin , 42.0 
+Surf City Still Works California Gin , 42.0 
+Collective Arts Artisanal Dry Gin , 43.5 
+Blackwood's Vintage Gin , 40.0 
+J. Carver Gin , 40.0 
+Greenhook Ginsmiths Old Tom Gin , 50.05 
+Backbone Bone Dry Gin , 46.0 
+The Revivalist Equinox Gin , 0.0 
+Boxer Gin , 40.0 
+Harahorn Gin , 0.0 
+Lockhouse Distillery New York Style Fine Gin , 41.5 
+Lockhouse Distillery Barreled Gin , 45.0 
+Prairie Organic Navy Strength Gin , 57.0 
+Roundhouse Spirits Barrel Aged Gin , 47.0 
+Eden Mill Hop Gin , 46.0 
+Dillon's Unfiltered Gin 22 Small Batch , 40.0 
+Common Wealth Gin , 40.0 
+Koval Cranberry Gin , 30.0 
+Blue Ox Gin , 40.0 
+Monarch Gin , 40.0 
+J. Carver Grimm Farm Gin , 46.0 
+Sloane Gin , 40.0 
+Wishkah River Bulfinch Gin , 41.5 
+Peket de Houyeu Genever , 35.0 
+Karkov Gin , 40.0 
+Hat Trick Botanical Gin , 44.0 
+Sea Bishop Gin , 47.0 
+Senator's Club London Dry Gin , 0.0 
+Seneca Drum Gin , 40.0 
+Sacred London Dry Gin , 40.0 
+Malibu Peaches And Cream Rum , 0.0 
+Spring44 Old Tom Gin , 44.0 
+New Holland Knickerbocker Barrel Aged Gin , 40.0 
+Bristow Gin , 47.0 
+Polo Club American Gin , 44.0 
+Gompers Gin , 45.0 
+Pickering's Navy Strength Gin , 57.1 
+St. Patrick's Elderflower Gin , 0.0 
+New England Ingenium Gin , 47.0 
+Schlichte Steinhager Gin , 40.0 
+Tanqueray Old Tom Gin , 47.3 
+Fitzgerald Gin , 40.0 
+Aristocrat Gin , 80.0 
+Omega Gin , 0.0 
+Born And Bred Vodka , 40.0 
+New Deal Gin No. 1 Garden Style Gin , 46.0 
+Letherbee Fernet , 35.0 
+Tamworth Garden White Mountain Gin , 48.0 
+Beefeater Summer Edition Gin , 0.0 
+Whitley Neill Quince Gin , 43.0 
+8th Day Gin , 45.0 
+Deviation Citrus Rosé Gin , 46.0 
+Conniption American Dry Gin , 44.0 
+Holi Gin , 40.0 
+Copper & Kings American Dry Gin , 46.0 
+Scapegrace Dry Gin , 42.2 
+Skip Rock Bicycle Tree Gin , 43.0 
+Ungava Canadian Gin , 43.1 
+Brazos Texas Style Gin , 30.0 
+Platinum 7X Gin , 40.0 
+Candy Manor Gin , 40.0 
+Finns Gin , 45.0 
+Blinking Owl Gin , 42.5 
+The Walter Collective Gin , 45.0 
+Fremont Mischief Gin , 40.0 
+GrandTen Distilling Wire Works Rose Gin , 0.0 
+Big Gin Peat Barreled , 47.0 
+Small's Gin , 43.0 
+Berkshire Barrel-Aged Ethereal Gin , 0.0 
+Jensen's Bermondsey Dry Gin , 0.0 
+Sun Liquor Gun Club Gin , 0.0 
+Crown Russe Gin , 40.0 
+Edinburgh Christmas Gin , 43.0 
+1911 Gin , 0.0 
+Crater Lake Gin , 47.5 
+Hayman's Royal Dock , 57.0 
+52 Eighty Gin , 43.5 
+You & Yours Provisional Gin , 47.0 
+Blinking Owl Old Tom Gin , 48.0 
+Royal Emblem London Dry Gin , 40.0 
+Archetype Distillery Archrival Gin , 40.0 
+Bafferts Mint Flavored Gin , 40.0 
+Vir Gin , 50.0 
+It's 5 O'Clock Somewhere Northwest Dry Gin , 47.0 
+Catskill Distilling Curious Gin , 40.0 
+Miller's Gin W/Passport Luggage Tag , 40.0 
+Cartron Ginger Liq , 18.0 
+Flight 69 Gin , 40.0 
+No. 209 Cabernet Sauvignon Barrel Reserve Gin , 46.0 
+Ke Gin , 40.0 
+Hawthorn's London Dry Gin , 41.0 
+Desert Juniper Hand Crafted American Gin , 41.0 
+Vim & Petal Gin , 42.0 
+Ridge Silvertip Gin , 0.0 
+Hofland Gin , 40.0 
+Dingle Distillery Pot Still Gin , 0.0 
+TRU Organic Gin , 42.0 
+52 Eighty Gin , 43.5 
+Still Austin Gin , 0.0 
+Royal Embassy Gin , 0.0 
+Breuckelen Glorious Oaked Gin , 0.0 
+Mayfair Gin , 40.0 
+Sacred Gin Cardamom , 43.18 
+Van Gogh Gin , 40.0 
+Bville Virginia Paxxito , 31.0 
+Battle Standard American Gin Barrel Finished , 45.0 
+Indian Summer Saffron Infused Gin , 46.0 
+Horizon Gin , 45.0 
+Denning's Great 9 Gin , 40.0 
+New Holland Blue Haven Blueberry Gin , 40.0 
+Green Hat Summer Cup , 34.0 
+One Eight Distilling Untitled Barrel Aged Gin No. 1 , 52.0 
+Scofflaw Old Tom Gin , 45.0 
+Rogue Pinot Spruce Gin , 45.0 
+Scofflaw Old Tom Gin , 45.0 
+Green Hat Old Tom Gin , 0.0 
+Bordiga Gin Occitan Gin Occitan , 42.0 
+Denver Distillery Gin , 43.0 
+Rogue Pinot Spruce Gin , 45.0 
+Blackland Gin , 0.0 
+Catoctin Creek Watershed Gin "Old Tom" Barrel Aged Gin , 46.0 
+Copper Creek Gin , 0.0 
+Askur London Dry Gin , 45.0 
+Batch 206 Old Tom Gin , 0.0 
+Norseman Norseman Strength Gin , 58.0 
+Odessa Gin , 12.0 
+Genevieve Genever-Style Gin , 47.3 
+Boomsma Oude Old Genever Gin , 40.0 
+Michael Godard Gin , 40.0 
+Gold Rehorst Premium Milwaukee Gin , 44.0 
+Royal Gate Gin , 40.0 
+No. 209 Sauvignon Blanc Barrel Reserve Gin , 46.0 
+Wood's Mountain Hopped Gin , 45.75 
+Wiggly Bridge Small Batch Dry Gin , 50.0 
+Ebb & Flow Gin , 47.0 
+Murlarkey Imagination Gin , 40.0 
+Dover Strait Gin , 40.0 
+Only Gin , 43.0 
+Hadley & Sons Gin , 46.0 
+Linton Hill Strawberry Gin , 37.5 
+Adirondack Gin , 0.0 
+Rubinoff Gin , 40.0 
+Driftless Glen New American Gin , 46.0 
+East London Liquor Company London Dry Gin , 40.0 
+Builders Botanical Gin , 46.0 
+Askur London Dry Gin , 45.0 
+Conniption Navy Strength Gin , 57.0 
+Clonakilty Minke Irish Gin , 43.2 
+Rossi D'Angera Latitude 45 Gin , 0.0 
+Mad Rabbit Bravo Zulu Rocky Gin , 0.0 
+Restless Spirits Builders Botanical Gin , 46.0 
+Mountain Avenue Organic Gin , 40.0 
+Beefeater Wet Gin , 37.5 
+Cork Dry Irish Gin , 0.0 
+Idlewild Spirits Barrel Aged Gin , 0.0 
+G'Vine Nouaison Gin , 43.9 
+Watershed Bourbon Barrel Aged Gin , 44.0 
+Triple Eight Gale Force Gin , 0.0 
+Tuthilltown Spirits Half Moon Orchard Gin , 46.0 
+Sun Liquor Hedge Trimmer Gin , 42.0 
+J. Carver Barrel Gin , 46.0 
+Twisted Shotz Ginger Snap , 20.0 
+Black Watch Gin , 40.0 
+H Walker Gingerbread , 15.0 
+Zephyr Black Gin , 44.0 
+Eden Mill Oak Gin , 42.0 
+Hans Reisetbauer Blue Gin Small Batch , 43.0 
+Three Rivers Summit City Gin , 46.0 
+Churchill Gin , 40.0 
+Stirk's Oak Barrel Finished Gin , 46.0 
+Old Harbor San Miguel Southwestern Gin , 47.0 
+Wormwood Gin , 45.0 
+Knox Whiskey Works Marble City Pink Gin , 43.25 
+CaskWerks Gin , 45.0 
+Tann's Gin , 40.0 
+Tann's Gin Gift Pack , 40.0 
+James Brookes London Dry Gin , 40.0 
+Hayman's Old Tom Gin , 0.0 
+Akori Gin W/ Gift , 42.0 
+New Riff Kentucky Wild Gin , 47.0 
+Copper & Kings 9th Sympony Orange Gin , 45.0 
+Wild Roots Cucumber & Grapefruit Gin , 44.0 
+Blackwoods Gin Small Batch , 30.0 
+Sound Spirits Old Tom Gin , 0.0 
+Genius Gin , 45.0 
+Ivanabitch Dry Gin , 40.0 
+Seagram's Melon Twisted Gin , 40.0 
+Gaetano Sloe Gin , 15.0 
+Boords Gin Old Tom , 40.0 
+Downslope Old Tom Gin , 43.0 
+Mr Boston Riva London Dry Gin , 40.0 
+Jinn Gin , 35.0 
+Rusty Blade Barrel Aged Gin , 0.0 
+Vapor Distillery Boulder Ginskey Barrel Aged Gin , 0.0 
+Brazos Barrel Select Gin 92. , 46.0 
+Hixson Gin , 46.0 
+Eau Claire Parlour Gin , 40.0 
+Oola Waitsburg Barrel Finished Gin , 45.0 
+CH Distillery Key Gin , 40.0 
+The Alpinist Gin , 42.0 
+Watershed Four Peel Gin , 44.0 
+Ferdinand`s Saar Dry Gin , 44.0 
+Williams Great British Extra Dry Gin , 40.0 
+Conncullin Irish Gin , 47.0 
+Ballyvolane House Bertha's Revenge Irish Milk Gin , 42.0 
+Prescribed Spirits American Gin , 44.0 
+Bristow Reserve Barrel Aged Gin , 56.5 
+Murr-ma Distilling Mt. Tom Gin , 40.0 
+Generous Gin , 44.0 
+Hat Trick Barrel Rested Gin , 44.0 
+Tighe Brothers Colorado Gin , 0.0 
+One Eight Distilling District Made Barrel Rested Gin , 51.0 
+Barr Hill Gift Pack , 45.0 
+Wild Roots London Dry Gin , 46.0 
+Elephant London Dry Gin , 45.0 
+Mckenzie Distiller's Reserve Gin , 45.5 
+Still The One Comb Gin , 47.0 
+Moody June Gin , 42.0 
+London 40 Gin , 40.0 
+Cardinal American Dry Gin , 42.0 
+Charleston Jaspers Gin , 47.0 
+Diep 9 Young Grain Genever , 35.0 
+Golden Moon Port Cask Reserve Gin , 45.0 
+Russell Henry Dark Gin , 0.0 
+Battle Standard American Gin Navy Strength , 57.0 
+Geranium Gin , 44.0 
+Battle Standard American Dry Gin Standard Stength , 45.0 
+Calyx Gin , 45.0 
+Montauk Rumrunners Citrus Gin , 45.0 
+Clyde's London Dry Gin , 0.0 
+Regent Gin , 46.0 
+Akori Gin , 42.0 
+Hendrick's Gin Tea Cup Gift Set , 41.4 
+Prescribed Spirits Barrel Finished Gin , 42.0 
+Regent Gin , 46.0 
+Akori Gin , 42.0 
+Hendrick's Gin Tea Cup Gift Set , 41.4 
+Prescribed Spirits Barrel Finished Gin , 42.0 
+Driftless Glen Double Cask Gin , 46.0 
+St. Patrick's Extra Dry Gin , 40.0 
+Lighthouse Gin , 0.0 
+East London Liquor Company Premium Batch No.1 Gin , 45.0 
+Tom's Town Barreled Gin , 45.0 
+Seagram's Watermelon Twisted Gin , 35.0 
+Leyden Dry Gin , 40.0 
+NOLET’S Reserve Gin , 52.3 
+Still The One Comb Jarhead Gin , 45.2 
+SW4 London Dry Gin , 40.0 
+Leopold Brothers Small Batch Gin , 0.0 
+Copley Gin , 0.0 
+Beefeater Burroughs Reserve Gin , 43.0 
+Oryza Gin , 48.0 
+Cardinal Barrel Rested Gin , 42.0 
+Dry Fly Barrel Reserve Gin , 40.0 
+Hooligans Irish Whisky Ginger Infusion , 40.0 
+Juniper Green Gin , 40.0 
+Rutte Old Simon Genever , 0.0 
+Sunset Hills Sm Batch Gin , 40.0 
+Leopold Brothers Small Batch Gin , 0.0 
+Copley Gin , 0.0 
+Beefeater Burroughs Reserve Gin , 43.0 
+Oryza Gin , 48.0 
+Cardinal Barrel Rested Gin , 42.0 
+Dry Fly Barrel Reserve Gin , 40.0 
+Hooligans Irish Whisky Ginger Infusion , 40.0 
+Juniper Green Gin , 40.0 
+Rutte Old Simon Genever , 0.0 
+Sunset Hills Sm Batch Gin , 40.0 
+Dictador Columbian Orthodoxy Aged Gin , 40.0 
+Litchfield Distillery Batcher's Gin , 43.0 
+Vivacity Bankers Gin , 40.0 
+Revolution Spirits Austin Reserve Single Barrel Gin , 0.0 
+New Basin Stagger Gin , 45.0 
+Seattle Distilling Gin , 40.0 
+Headframe Anselmo Gin , 40.0 
+Zuidam Dutch Courage Gin , 44.5 
+South Bank Gin , 40.0 
+Manifest Barreled Gin , 45.0 
+9 Moons Aged Gin , 40.0 
+Copper & Kings History of Lovers Rose Gin , 45.0 
+Spirit Works Distillery Barrel Gin , 45.0 
+Lee's GinFuego , 0.0 
+Corbin Cash Western Dry Gin , 45.0 
+Lee's GinFuego , 0.0 
+Peach Street Jackelope And Jenny Pear Gin , 40.0 
+Magellan Gin With Martini Glass , 0.0 
+Dancing Pines Gin , 38.0 
+Platinum Gin , 35.0 
+Mr Boston Gin , 40.0 
+Club 400 Gin , 38.0 
+Valentine Liberator Old Tom Gin , 45.2 
+Old Grove Small Batch Gin , 44.0 
+Diplome 1945 Dry Gin , 44.0 
+Hammer & Son Old English Gin , 0.0 
+Star of Bombay® London Dry Gin , 47.5 
+Crooked Water Sun Dog Gin , 43.0 
+Gw Goodwynn Gin , 40.0 
+Linton Hill London Dry Gin , 40.6 
+Volcanic Gin , 40.0 
+Detroit City Railroad Gin , 44.0 
+7Brothers Seven Botanical Gin , 41.0 
+Antagonic Gin , 40.0 
+Cooperstown Distillery Fenimore Gin , 40.0 
+Spirit Works Distillery Barrel Gin , 45.0 
+Copper & Kings History of Lovers Rose Gin , 45.0 
