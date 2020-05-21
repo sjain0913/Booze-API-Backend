@@ -11,23 +11,6 @@ const BeerSchema = mongoose.Schema({
         required: true,
         default: 0
     },
-    type: {
-        type: String,
-        required: true,
-        default: "Not Defined"
-    },
-    origin: {
-        type: String,
-        default: "Not Defined"  
-    },
-    nutrition: {
-        type: Map,
-        of: Number,
-        default: {
-            calories: 0,
-            carbohydrates: 0,
-        }
-    }
 });
 
 module.exports = mongoose.model('Beer', BeerSchema, 'Beer');
