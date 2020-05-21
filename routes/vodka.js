@@ -3,11 +3,11 @@ const router = express.Router();
 const Vodka = require('../models/Vodka');
 
 // GETS
-// GET1: gets back all the beers
+// GET1: gets back all the vodka
 router.get('/', async (req, res) => {
     try {
-        const allVodkas = await Vodka.find();
-        res.json(allVodkas);
+        const allVodka = await Vodka.find();
+        res.json(allVodka);
     } catch(e) {
         res.json({message: e});
     }
@@ -23,15 +23,26 @@ router.get('/:vodkaID', async (req,res) => {
     }
 });
 
+// GET3: get specific vodka by name
+router.get('/:name', async (req,res) => {
+    try {
+        const vodka = await Vodka.findOne({name: req.params.name});
+        res.json(vodka);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
 // POSTS
 // POST1: submits a vodka
 router.post('/', async(req, res) => {
     const vodka = new Vodka({
         name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
-        const savedBeer = await vodka.save();
-        res.json(savedBeer);
+        const savedVodka = await vodka.save();
+        res.json(savedVodka);
         //console.log("post worked");
     } catch(e) {
         res.json({message: e});
@@ -42,10 +53,10 @@ router.post('/', async(req, res) => {
 
 
 // DELETES
-// DELETE1: delete a vodka
-router.delete('/:beerID',  async (req,res) => {
+// DELETE1: delete a vodka by ID
+router.delete('/:vodkaID',  async (req,res) => {
     try{
-        const removedVodka = await Vodka.remove({_id: req.params.beerID});
+        const removedVodka = await Vodka.remove({_id: req.params.vodkaID});
         res.json(removedVodka);
     } catch(e) {
         res.json({message: e});
@@ -53,14 +64,14 @@ router.delete('/:beerID',  async (req,res) => {
 })
 
 // PATCHES
-// PATCH1: update a vodka
-router.patch('/:beerID', async (req,res) => {
+// PATCH1: update a vodka by ID
+router.patch('/:vodkaID', async (req,res) => {
     try {
-        const updatedBeer = await Vodka.findOneAndUpdate(
-            {_id: req.params.beerID},
+        const updatedVodka = await Vodka.findOneAndUpdate(
+            {_id: req.params.vodkaID},
             {$set: {name: req.body.name}}
             );
-        res.json(updatedBeer);
+        res.json(updatedVodka);
     } catch(e) {
         res.json({message: e});
     }

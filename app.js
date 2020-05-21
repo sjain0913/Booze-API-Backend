@@ -7,41 +7,40 @@ mongoose.set('useNewUrlParser', true);
 mongoose.set('useUnifiedTopology', true);
 const bodyParser = require('body-parser');
 const cors = require('cors');
-const passport = require('passport');
 
 require('dotenv/config');
 
 // Requiring routes
 const beerRoute = require('./routes/beer.js');
 // const beerScraper = require('./scrapers/Beer/beerScraper.js');
-// const vodkaRoute = require('./routes/vodka.js');
+const vodkaRoute = require('./routes/vodka.js');
 // const vodkaScraper = require('./scrapers/Vodka/vodkaScraper.js');
-// const whiskeyRoute = require('./routes/whiskey.js');
+const whiskeyRoute = require('./routes/whiskey.js');
 // const whiskeyScraper = require('./scrapers/Whiskey/whiskeyScraper.js');
 const ginRoute = require('./routes/gin.js');
 // const ginScraper = require('./scrapers/Gin/ginScraper.js');
-// const brandyRoute = require('./routes/brandy.js');
+const brandyRoute = require('./routes/brandy.js');
 // const brandyScraper = require('./scrapers/Brandy/brandyScraper.js');
-// const rumRoute = require('./routes/rum.js');
-// const rumcraper = require('./scrapers/Rum/rumScraper.js');
-// const tequilaRoute = require('./routes/tequila.js');
+const rumRoute = require('./routes/rum.js');
+// const rumScraper = require('./scrapers/Rum/rumScraper.js');
+const tequilaRoute = require('./routes/tequila.js');
 // const tequilaScraper = require('./scrapers/Tequila/tequilaScraper.js');
-// const liqueurRoute = require('./routes/liqueur.js');
+const liqueurRoute = require('./routes/liqueur.js');
 // const liqueurScraper = require('./scrapers/Liqueur/liqueurScraper.js');
 
 const app = express();
-app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+// app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
 app.use(bodyParser.json());
 
 // Routes
 app.use('/api/beer', beerRoute);
-// app.use('/api/liqueur', liqueurRoute);
-// app.use('/api/vodka', vodkaRoute);
-// app.use('/api/whiskey', whiskeyRoute);
+app.use('/api/liqueur', liqueurRoute);
+app.use('/api/vodka', vodkaRoute);
+app.use('/api/whiskey', whiskeyRoute);
 app.use('/api/gin', ginRoute);
-// app.use('/api/brandy', brandyRoute);
-// app.use('/api/rum', rumRoute);
-// app.use('/api/tequila', tequilaRoute);
+app.use('/api/brandy', brandyRoute);
+app.use('/api/rum', rumRoute);
+app.use('/api/tequila', tequilaRoute);
 
 app.get('/', (req, res) => {
     res.send("The Booooze app homepage");

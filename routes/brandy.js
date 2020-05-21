@@ -2,63 +2,76 @@ const express = require('express');
 const router = express.Router();
 const Brandy = require('../models/Brandy');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// GET1: gets back all the brandy
 router.get('/', async (req, res) => {
-    try{
-        const posts = await Brandy.find();
-        res.json(posts);
+    try {
+        const allBrandy = await Brandy.find();
+        res.json(allBrandy);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// GET2: get specific brandy by ID
+router.get('/:brandyID', async (req,res) => {
+    try {
+        const brandy = await Brandy.findById(req.params.brandyID);
+        res.json(brandy);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// GET3: get specific brandy by name
+router.get('/:name', async (req,res) => {
+    try {
+        const brandy = await Brandy.findOne({name: req.params.name});
+        res.json(brandy);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// POSTS
+// POST1: submits a brandy
 router.post('/', async(req, res) => {
-    const post = new Brandy({
-        title: req.body.title,
-        description: req.body.description
+    const brandy = new Brandy({
+        name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedBrandy = await brandy.save();
+        res.json(savedBrandy);
+        //console.log("post worked");
     } catch(e) {
         res.json({message: e});
+        //console.log("post did not work");
     }
 
 });
 
-// get specific post
-router.get('/:postID', async (req,res) => {
-    try{
-        const post = await Brandy.findById(req.params.postID);
-        res.json(post);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
-
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// DELETES
+// DELETE1: delete a brandy by ID
+router.delete('/:brandyID',  async (req,res) => {
     try{
-        const removedPost = await Brandy.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedBrandy = await Brandy.remove({_id: req.params.brandyID});
+        res.json(removedBrandy);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// PATCHES
+// PATCH1: update a brandy by ID
+router.patch('/:brandyID', async (req,res) => {
     try {
-        const updatedPost = await Brandy.updateOne(
-            {_id: req.params.postID},
-            {$set: {title: req.body.title}}
+        const updatedBrandy = await Brandy.findOneAndUpdate(
+            {_id: req.params.brandyID},
+            {$set: {name: req.body.name}}
             );
-        res.json(updatedPost);
+        res.json(updatedBrandy);
     } catch(e) {
         res.json({message: e});
     }

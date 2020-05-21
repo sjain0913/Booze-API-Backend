@@ -3,7 +3,7 @@ const router = express.Router();
 const Gin = require('../models/Gin');
 
 // GETS
-// GET1: gets back all the gin
+// GET1: gets back all the gins
 router.get('/', async (req, res) => {
     try {
         const allGins = await Gin.find();
@@ -26,7 +26,7 @@ router.get('/:ginID', async (req,res) => {
 // GET3: get specific gin by name
 router.get('/:name', async (req,res) => {
     try {
-        const gin = await Gin.findOne(req.params.name);
+        const gin = await Gin.findOne({name: req.params.name});
         res.json(gin);
     } catch(e) {
         res.json({message: e});
@@ -48,6 +48,7 @@ router.post('/', async(req, res) => {
         res.json({message: e});
         //console.log("post did not work");
     }
+
 });
 
 
@@ -56,16 +57,6 @@ router.post('/', async(req, res) => {
 router.delete('/:ginID',  async (req,res) => {
     try{
         const removedGin = await Gin.remove({_id: req.params.ginID});
-        res.json(removedGin);
-    } catch(e) {
-        res.json({message: e});
-    }
-})
-
-// DELETE2: delete a gin by name
-router.delete('/:name',  async (req,res) => {
-    try{
-        const removedGin = await Gin.remove({_id: req.params.name});
         res.json(removedGin);
     } catch(e) {
         res.json({message: e});

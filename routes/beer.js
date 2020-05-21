@@ -4,14 +4,19 @@ const Beer = require('../models/Beer');
 
 // GETS
 // GET1: gets back all the beers
-router.get('/', async (req, res) => {
-    try {
-        const allBeers = await Beer.find();
-        res.json(allBeers);
-    } catch(e) {
-        res.json({message: e});
-    }
-})
+try {
+    router.get('/', async (req, res) => {
+        try {
+            const allBeers = await Beer.find();
+            res.json(allBeers);
+        } catch(e) {
+            res.json({message: e});
+        }
+    })
+} catch(f) {
+    console.log(f)
+}
+
 
 // GET2: get specific beer by ID
 router.get('/:beerID', async (req,res) => {
@@ -26,7 +31,7 @@ router.get('/:beerID', async (req,res) => {
 // GET3: get specific beer by name
 router.get('/:name', async (req,res) => {
     try {
-        const beer = await Beer.findOne(req.params.name);
+        const beer = await Beer.findOne({name: req.params.name});
         res.json(beer);
     } catch(e) {
         res.json({message: e});
@@ -64,14 +69,14 @@ router.delete('/:beerID',  async (req,res) => {
 })
 
 // DELETE2: delete a beer by name
-router.delete('/:name',  async (req,res) => {
-    try{
-        const removedBeer = await Beer.remove({_id: req.params.name});
-        res.json(removedBeer);
-    } catch(e) {
-        res.json({message: e});
-    }
-})
+// router.delete('/:name',  async (req,res) => {
+//     try{
+//         const removedBeer = await Beer.remove({name: req.params.name});
+//         res.json(removedBeer);
+//     } catch(e) {
+//         res.json({message: e});
+//     }
+// })
 
 // PATCHES
 // PATCH1: update a beer by ID
