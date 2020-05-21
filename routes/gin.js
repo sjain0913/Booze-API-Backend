@@ -2,63 +2,76 @@ const express = require('express');
 const router = express.Router();
 const Gin = require('../models/Gin');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// GET1: gets back all the gins
 router.get('/', async (req, res) => {
-    try{
-        const posts = await Gin.find();
-        res.json(posts);
+    try {
+        const allGins = await Gin.find();
+        res.json(allGins);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// GET2: get specific gin by ID
+router.get('/:ginID', async (req,res) => {
+    try {
+        const gin = await Gin.findById(req.params.ginID);
+        res.json(gin);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// GET3: get specific gin by name
+router.get('/:name', async (req,res) => {
+    try {
+        const gin = await Gin.findOne({name: req.params.name});
+        res.json(gin);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// POSTS
+// POST1: submits a gin
 router.post('/', async(req, res) => {
-    const post = new Gin({
-        title: req.body.title,
-        description: req.body.description
+    const gin = new Gin({
+        name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedGin = await gin.save();
+        res.json(savedGin);
+        //console.log("post worked");
     } catch(e) {
         res.json({message: e});
+        //console.log("post did not work");
     }
 
 });
 
-// get specific post
-router.get('/:postID', async (req,res) => {
-    try{
-        const post = await Gin.findById(req.params.postID);
-        res.json(post);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
-
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// DELETES
+// DELETE1: delete a gin by ID
+router.delete('/:ginID',  async (req,res) => {
     try{
-        const removedPost = await Gin.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedGin = await Gin.remove({_id: req.params.ginID});
+        res.json(removedGin);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// PATCHES
+// PATCH1: update a gin by ID
+router.patch('/:ginID', async (req,res) => {
     try {
-        const updatedPost = await Gin.updateOne(
-            {_id: req.params.postID},
-            {$set: {title: req.body.title}}
+        const updatedGin = await Gin.findOneAndUpdate(
+            {_id: req.params.ginID},
+            {$set: {name: req.body.name}}
             );
-        res.json(updatedPost);
+        res.json(updatedGin);
     } catch(e) {
         res.json({message: e});
     }

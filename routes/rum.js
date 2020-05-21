@@ -2,63 +2,76 @@ const express = require('express');
 const router = express.Router();
 const Rum = require('../models/Rum');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// GET1: gets back all the rum
 router.get('/', async (req, res) => {
-    try{
-        const posts = await Rum.find();
-        res.json(posts);
+    try {
+        const allRum = await Rum.find();
+        res.json(allRum);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// GET2: get specific rum by ID
+router.get('/:rumID', async (req,res) => {
+    try {
+        const rum = await Rum.findById(req.params.rumID);
+        res.json(rum);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// GET3: get specific rum by name
+router.get('/:name', async (req,res) => {
+    try {
+        const rum = await Rum.findOne({name: req.params.name});
+        res.json(rum);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// POSTS
+// POST1: submits a rum
 router.post('/', async(req, res) => {
-    const post = new Rum({
-        title: req.body.title,
-        description: req.body.description
+    const rum = new Rum({
+        name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedRum = await rum.save();
+        res.json(savedRum);
+        //console.log("post worked");
     } catch(e) {
         res.json({message: e});
+        //console.log("post did not work");
     }
 
 });
 
-// get specific post
-router.get('/:postID', async (req,res) => {
-    try{
-        const post = await Rum.findById(req.params.postID);
-        res.json(post);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
-
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// DELETES
+// DELETE1: delete a rum by ID
+router.delete('/:rumID',  async (req,res) => {
     try{
-        const removedPost = await Rum.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedRum = await Rum.remove({_id: req.params.rumID});
+        res.json(removedRum);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// PATCHES
+// PATCH1: update a rum by ID
+router.patch('/:rumID', async (req,res) => {
     try {
-        const updatedPost = await Rum.updateOne(
-            {_id: req.params.postID},
-            {$set: {title: req.body.title}}
+        const updatedRum = await Rum.findOneAndUpdate(
+            {_id: req.params.rumID},
+            {$set: {name: req.body.name}}
             );
-        res.json(updatedPost);
+        res.json(updatedRum);
     } catch(e) {
         res.json({message: e});
     }

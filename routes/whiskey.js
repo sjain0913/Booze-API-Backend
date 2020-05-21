@@ -2,63 +2,76 @@ const express = require('express');
 const router = express.Router();
 const Whiskey = require('../models/Whiskey');
 
-// ROUTES
-// to send stuff its post, patch for updating (deleting and post), delete to remove a post, get to get info
-
-// gets back all the posts
+// GETS
+// GET1: gets back all the whiskey
 router.get('/', async (req, res) => {
-    try{
-        const posts = await Whiskey.find();
-        res.json(posts);
+    try {
+        const allWhiskey = await Whiskey.find();
+        res.json(allWhiskey);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// submits a post
+// GET2: get specific whiskey by ID
+router.get('/:whiskeyID', async (req,res) => {
+    try {
+        const whiskey = await Whiskey.findById(req.params.whiskeyID);
+        res.json(whiskey);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// GET3: get specific whiskey by name
+router.get('/:name', async (req,res) => {
+    try {
+        const whiskey = await Whiskey.findOne({name: req.params.name});
+        res.json(whiskey);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
+// POSTS
+// POST1: submits a whiskey
 router.post('/', async(req, res) => {
-    const post = new Whiskey({
-        title: req.body.title,
-        description: req.body.description
+    const whiskey = new Whiskey({
+        name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
-        const savedPost = await post.save();
-        res.json(savedPost);
+        const savedWhiskey = await whiskey.save();
+        res.json(savedWhiskey);
+        //console.log("post worked");
     } catch(e) {
         res.json({message: e});
+        //console.log("post did not work");
     }
 
 });
 
-// get specific post
-router.get('/:postID', async (req,res) => {
-    try{
-        const post = await Whiskey.findById(req.params.postID);
-        res.json(post);
-    } catch(e) {
-        res.json({message: e});
-    }
 
-});
-
-// delete a post
-router.delete('/:postID', async (req,res) => {
+// DELETES
+// DELETE1: delete a whiskey by ID
+router.delete('/:whiskeyID',  async (req,res) => {
     try{
-        const removedPost = await Whiskey.remove({_id: req.params.postID});
-        res.json(removedPost);
+        const removedWhiskey = await Whiskey.remove({_id: req.params.whiskeyID});
+        res.json(removedWhiskey);
     } catch(e) {
         res.json({message: e});
     }
 })
 
-// update a post
-router.patch('/:postID', async (req,res) => {
+// PATCHES
+// PATCH1: update a whiskey by ID
+router.patch('/:whiskeyID', async (req,res) => {
     try {
-        const updatedPost = await Whiskey.updateOne(
-            {_id: req.params.postID},
-            {$set: {title: req.body.title}}
+        const updatedWhiskey = await Whiskey.findOneAndUpdate(
+            {_id: req.params.whiskeyID},
+            {$set: {name: req.body.name}}
             );
-        res.json(updatedPost);
+        res.json(updatedWhiskey);
     } catch(e) {
         res.json({message: e});
     }

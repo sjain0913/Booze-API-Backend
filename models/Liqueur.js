@@ -7,9 +7,9 @@ const LiqueurSchema = mongoose.Schema({
         default: "Not Defined"
     },
     concentration: {
-        type: Number,
+        type: String,
         required: true,
-        default: 0
+        default: "0%"
     },
 });
 
