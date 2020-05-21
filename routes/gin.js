@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Gin = require('../models/Gin');
+var db = require('mongodb').Db
 
 // GETS
 // GET1: gets back all the gins
@@ -51,24 +52,14 @@ router.post('/', async(req, res) => {
 
 });
 
-// // POSTS
-// // POST2: submits many gins
-// router.post('/', async(req, res) => {
-//     db.coll
-//     const gin = new Gin({
-//         name: req.body.name,
-//         concentration: req.body.concentration
-//     });
-//     try {
-//         const savedGin = await gin.save();
-//         res.json(savedGin);
-//         //console.log("post worked");
-//     } catch(e) {
-//         res.json({message: e});
-//         //console.log("post did not work");
-//     }
-
-// });
+// POSTS
+// POST2: submits many gins
+router.post('/', async(req, res) => {
+    db.collection('ass').insertMany(req.body.my_gins, (err, ass) => {
+        if(err) console.log(err);
+        else console.log("gins Added Successfully");
+    })
+})
 
 
 // DELETES
