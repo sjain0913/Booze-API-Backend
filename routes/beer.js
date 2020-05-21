@@ -23,11 +23,22 @@ router.get('/:beerID', async (req,res) => {
     }
 });
 
+// GET3: get specific beer by name
+router.get('/:name', async (req,res) => {
+    try {
+        const beer = await Beer.findOne(req.params.name);
+        res.json(beer);
+    } catch(e) {
+        res.json({message: e});
+    }
+});
+
 // POSTS
 // POST1: submits a beer
 router.post('/', async(req, res) => {
     const beer = new Beer({
         name: req.body.name,
+        concentration: req.body.concentration
     });
     try {
         const savedBeer = await beer.save();
@@ -42,7 +53,7 @@ router.post('/', async(req, res) => {
 
 
 // DELETES
-// DELETE1: delete a beer
+// DELETE1: delete a beer by ID
 router.delete('/:beerID',  async (req,res) => {
     try{
         const removedBeer = await Beer.remove({_id: req.params.beerID});
@@ -52,8 +63,18 @@ router.delete('/:beerID',  async (req,res) => {
     }
 })
 
+// DELETE2: delete a beer by name
+router.delete('/:name',  async (req,res) => {
+    try{
+        const removedBeer = await Beer.remove({_id: req.params.name});
+        res.json(removedBeer);
+    } catch(e) {
+        res.json({message: e});
+    }
+})
+
 // PATCHES
-// PATCH1: update a beer
+// PATCH1: update a beer by ID
 router.patch('/:beerID', async (req,res) => {
     try {
         const updatedBeer = await Beer.findOneAndUpdate(
