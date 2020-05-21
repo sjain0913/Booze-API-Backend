@@ -30,21 +30,18 @@ const liqueurRoute = require('./routes/liqueur.js');
 const liqueurScraper = require('./scrapers/Liqueur/liqueurScraper.js');
 
 const app = express();
-// app.use(cors());      <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
 app.use(bodyParser.json());
 
 // Routes
 app.use('/api/beer', beerRoute);
-app.use('/api/cider', ciderRoute);
-app.use('/api/mead', meadRoute);
+app.use('/api/liqueur', liqueurRoute);
 app.use('/api/vodka', vodkaRoute);
 app.use('/api/whiskey', whiskeyRoute);
 app.use('/api/gin', ginRoute);
 app.use('/api/brandy', brandyRoute);
 app.use('/api/rum', rumRoute);
 app.use('/api/tequila', tequilaRoute);
-app.use('/api/absinthe', absintheRoute);
-app.use('/api/everclear', everclearRoute);
 
 app.get('/', (req, res) => {
     res.send("Please use /api/...");
