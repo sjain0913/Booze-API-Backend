@@ -37,29 +37,34 @@ router.get('/:name', async (req,res) => {
 // POSTS
 // POST1: submits a gin
 router.post('/', async(req, res) => {
-    const gin = new Gin({
-        name: req.body.name,
-        concentration: req.body.concentration
-    });
+    var gin;
+    try{
+        gin = new Gin({
+            name: req.body.name,
+            concentration: req.body.concentration
+        });
+    } catch (f){
+        console.log(f);
+    }
     try {
         const savedGin = await gin.save();
         res.json(savedGin);
         //console.log("post worked");
     } catch(e) {
         res.json({message: e});
-        //console.log("post did not work");
+        console.log("post did not work");
     }
 
 });
 
 // POSTS
 // POST2: submits many gins
-router.post('/', async(req, res) => {
-    db.collection('ass').insertMany(req.body.my_gins, (err, ass) => {
-        if(err) console.log(err);
-        else console.log("gins Added Successfully");
-    })
-})
+// router.post('/', async(req, res) => {
+//     db.collection('ass').insertMany(req.body.my_gins, (err, ass) => {
+//         if(err) console.log(err);
+//         else console.log("gins Added Successfully");
+//     })
+// })
 
 
 // DELETES
