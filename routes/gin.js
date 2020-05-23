@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Gin = require('../models/Gin');
-var db = require('mongodb').Db
+
 
 // GETS
 // GET1: gets back all the gins
@@ -60,7 +60,7 @@ router.post('/', async(req, res) => {
 // POSTS
 // POST2: submits many gins
 // router.post('/', async(req, res) => {
-//     db.collection('ass').insertMany(req.body.my_gins, (err, ass) => {
+//     db.collection('ass').insertMany(req.body.ginArray, (err, ass) => {
 //         if(err) console.log(err);
 //         else console.log("gins Added Successfully");
 //     })
