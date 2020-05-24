@@ -18,8 +18,25 @@ for line in fURL:
 
     name = infoObj['props']['catalogItem']['name']
     concentration = infoObj['props']['catalogItem']['abv']
-
-    output = name + " , " + str(concentration) + " \n"
+    if concentration == "0.0":
+        continue
+    kind = infoObj['props']['catalogItem']['category_names'][-1]
+    brand = infoObj['props']['catalogItem']['brand_name']
+    price_range = infoObj['props']['catalogItem']['price_range']
+    origin = "{"
+    try:
+        originObjs = infoObj['props']['catalogItem']['region_path']
+        if len(originObjs) == 1:
+            origin += originObjs[0][name]
+        else:    
+            for i in range(len(originObjs)):
+                if (i == len(originObjs) - 1):
+                    origin += originObjs[i]['name'] + "}"
+                else:    
+                    origin += originObjs[i]['name'] + ", "
+    except Exception as e:
+        origin = "OriginNotFound"
+    output = name + " , " + str(concentration) + " , " + str(kind) + " , " + str(brand) + " , " + str(price_range) + " , " + str(origin) + " \n"
     currentLine += 1
     fData.write(output)
     fData.flush()

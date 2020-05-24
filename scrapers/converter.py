@@ -9,6 +9,7 @@ for f in range(len(files)):
     out.write('[')
     with open(filename, encoding='utf-8') as fh:
         for line in fh:
+            region = line.split('{')
             nameVals = line.split(',')
             name = nameVals[0].strip()
             concentration = nameVals[1].strip() + "%"
