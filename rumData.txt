@@ -1,0 +1,1042 @@
+Captain Morgan Original Spiced Rum , 35.0 , Spiced Rum , Captain Morgan , $10.79 - $233.99 , {US Virgin Islands, North America} 
+BACARDÍ Superior White Rum , 40.0 , White Rum , Bacardi , $9.96 - $49.00 , {Puerto Rico, North America} 
+Malibu Original Carribean Rum , 21.0 , Flavored Rum , Malibu , $9.98 - $49.00 , {Barbados, North America} 
+BACARDÍ Gold Rum , 40.0 , Gold Rum , Bacardi , $9.96 - $65.00 , {Puerto Rico, North America} 
+Sailor Jerry Spiced Rum , 46.0 , Spiced Rum , Sailor Jerry , $8.99 - $65.00 , {New Jersey, North America, United States} 
+The Kraken Black Spiced Rum , 47.0 , Spiced Rum , The Kraken , $12.99 - $2099.00 , {Trinidad and Tobago, North America} 
+Goslings Black Seal Rum , 40.0 , Dark Rum , Goslings , $13.99 - $36.99 , {Bermuda, North America} 
+Mount Gay Rum Eclipse , 40.0 , Gold Rum , Mount Gay , $15.68 - $55.00 , {Barbados, North America} 
+Captain Morgan White Rum , 40.0 , White Rum , Captain Morgan , $8.79 - $33.27 , {US Virgin Islands, North America} 
+BACARDÍ Limón Flavored White Rum  , 35.0 , Flavored Rum , Bacardi , $9.96 - $31.99 , {Puerto Rico, North America} 
+Wray & Nephew White Overproof Rum , 63.0 , White Rum , Wray & Nephew , $9.99 - $43.09 , {Jamaica, North America} 
+Appleton Estate Signature Blend , 40.0 , Aged Rum , Appleton , $12.99 - $71.99 , {Jamaica, North America} 
+Myers's Original Dark Rum , 40.0 , Dark Rum , Myers , $9.99 - $47.99 , {Jamaica, North America} 
+Malibu Pineapple Rum , 21.0 , Flavored Rum , Malibu , $9.99 - $149.99 , {Barbados, North America} 
+Diplomatico Rum Reserva Exclusiva , 40.0 , Aged Rum , Diplomatico , $8.98 - $69.99 , {Venezuela, South America} 
+BACARDÍ Coconut Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.99 - $30.09 , {Puerto Rico, North America} 
+Flor de Caña 12 Year Old Rum , 40.0 , Gold Rum , Flor de Caña Rum , $19.99 - $95.00 , {Nicaragua, North America} 
+Brugal Añejo Rum , 40.0 , Aged Rum , Brugal , $10.25 - $43.99 , {Dominican Republic, North America} 
+Ron Zacapa 23 Year Centenario , 40.0 , Aged Rum , Ron Zacapa , $34.49 - $184.99 , {Guatemala, North America} 
+BACARDÍ Black Rum , 40.0 , Dark Rum , Bacardi , $10.73 - $65.00 , {Puerto Rico, North America} 
+Cruzan Aged Light Rum , 40.0 , White Rum , Cruzan , $8.99 - $55.00 , {Saint Croix, North America, US Virgin Islands} 
+BACARDÍ Oakheart Spiced Rum , 35.0 , Spiced Rum , Bacardi , $8.99 - $75.00 , {Puerto Rico, North America} 
+Don Q Rum Cristal , 40.0 , White Rum , Don Q , $8.99 - $35.00 , {Puerto Rico, North America} 
+Admiral Nelson's Spiced Rum , 35.0 , Gold Rum , Admiral Nelson , $8.25 - $23.99 , {Kentucky, North America, United States} 
+Flor de Caña 4 Year Old Gold Rum Añejo Oro , 40.0 , Gold Rum , Flor de Caña Rum , $8.00 - $48.00 , {Nicaragua, North America} 
+BACARDÍ Dragonberry Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.19 - $27.99 , {Puerto Rico, North America} 
+Captain Morgan Black Cast 100 Proof Spiced Rum , 50.0 , Spiced Rum , Captain Morgan , $14.36 - $37.09 , {Canada, North America} 
+Parrot Bay Coconut Rum , 21.0 , Flavored Rum , Parrot Bay , $9.99 - $30.09 , {Kentucky, North America, United States} 
+Cruzan Aged Dark Rum , 40.0 , Aged Rum , Cruzan , $8.99 - $31.09 , {Saint Croix, North America, US Virgin Islands} 
+Cruzan Coconut Rum , 27.5 , Flavored Rum , Cruzan , $8.99 - $24.99 , {Saint Croix, North America, US Virgin Islands} 
+BACARDÍ Pineapple Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.96 - $25.99 , {Puerto Rico, North America} 
+Ronrico Silver Rum , 40.0 , White Rum , Ronrico , $8.59 - $19.79 , {Puerto Rico, North America} 
+Flor de Caña 4 Year Old Rum Extra Seco , 40.0 , White Rum , Flor de Caña Rum , $8.00 - $48.00 , {Nicaragua, North America} 
+Bumbu Original Rum , 35.0 , Gold Rum , Bumbu , $23.99 - $60.09 , {Barbados, North America} 
+Plantation Barbados  5 Year  Rum , 40.0 , Aged Rum , Plantation , $15.64 - $54.99 , {Barbados, North America} 
+Plantation 3 Stars White Rum , 41.2 , White Rum , Plantation , $15.99 - $28.74 , {Barbados, North America} 
+Zaya Gran Reserva 12 Year Rum , 40.0 , Aged Rum , Zaya , $19.99 - $70.09 , {Trinidad and Tobago, North America} 
+Brugal 1888 , 40.0 , Rum , Brugal , $26.46 - $71.49 , {Dominican Republic, North America} 
+Captain Morgan Rum Private Stock , 40.0 , Flavored Rum , Captain Morgan , $14.99 - $65.00 , {US Virgin Islands, North America} 
+Captain Morgan Silver Spiced Rum , 35.0 , Spiced Rum , Captain Morgan , $9.89 - $30.09 , {US Virgin Islands, North America} 
+BACARDÍ Lime Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $8.99 - $22.99 , {Puerto Rico, North America} 
+Havana Club Anejo Blanco , 40.0 , White Rum , Havana Club (Puerto Rico) , $9.99 - $49.99 , {Puerto Rico, North America} 
+Plantation Stiggins' Fancy Pineapple Rum , 40.0 , Flavored Rum , Plantation , $22.99 - $54.99 , {Barbados, North America} 
+BACARDÍ Mango Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.96 - $25.99 , {Puerto Rico, North America} 
+Castillo Silver Rum , 40.0 , White Rum , Castillo , $8.24 - $16.94 , {Puerto Rico, North America} 
+Flor de Caña 7 Year Old Rum Gran Reserva , 40.0 , Gold Rum , Flor de Caña Rum , $15.69 - $48.00 , {Nicaragua, North America} 
+Captain Morgan Loconut , 40.0 , Flavored Rum , Captain Morgan , $9.99 - $39.99 , {US Virgin Islands, North America} 
+Appleton Estate 12 Year Rare Blend , 43.0 , Aged Rum , Appleton , $22.99 - $59.99 , {Jamaica, North America} 
+Malibu Black , 35.0 , Dark Rum , Malibu , $9.99 - $33.99 , {Barbados, North America} 
+Plantation Original Dark Rum , 73.0 , Dark Rum , Plantation , $10.41 - $33.33 , {Barbados, North America} 
+Calypso Rum Spiced , 35.0 , Spiced Rum , Calypso Rum , $8.04 - $14.99 , {United States, North America} 
+Rhum Barbancourt Réserve Spéciale 8 Year , 43.0 , Aged Rum , Barbancourt , $12.99 - $42.09 , {Haiti, North America} 
+Captain Morgan Orange Vanilla Twist , 30.0 , Rum , Captain Morgan , $11.99 - $30.44 , { 
+Ron Barcelo Rum Anejo , 40.0 , Rum ,  , $8.99 - $133.72 , {Dominican Republic, North America} 
+Buzzballz Strawberry Rum Job , 15.0 , Ready-to-Drink ,  ,  , {United States, North America} 
+Malibu Lime Rum , 21.0 , Flavored Rum , Malibu , $9.99 - $45.00 , {Barbados, North America} 
+Blue Chair Bay Coconut Rum , 26.5 , Flavored Rum , Blue Chair Bay , $9.99 - $55.00 , {Barbados, North America} 
+Appleton Estate Reserve Blend , 40.0 , Aged Rum , Appleton , $17.99 - $47.99 , {Jamaica, North America} 
+The Kraken Black Spiced Rum 70 Proof , 35.0 , Spiced Rum , The Kraken , $12.99 - $29.99 , {Trinidad and Tobago, North America} 
+BACARDÍ Reserva Ocho Rum , 40.0 , Aged Rum , Bacardi , $16.99 - $68.99 , {Puerto Rico, North America} 
+Pyrat Rum XO Reserve , 40.0 , Aged Rum , Pyrat , $14.99 - $58.09 , {Anguilla, North America} 
+Havana Club Anejo Clasico , 40.0 , Aged Rum , Havana Club (Puerto Rico) , $15.99 - $40.00 , {Puerto Rico, North America} 
+Pusser's British Navy Rum , 42.0 , Dark Rum , Pussers , $19.19 - $43.99 , {British Virgin Islands, North America} 
+BACARDÍ Select , 40.0 , Dark Rum , Bacardi , $9.96 - $29.99 , {Puerto Rico, North America} 
+Blue Chair Bay Banana Rum Cream , 15.0 , Flavored Rum , Blue Chair Bay , $11.99 - $55.00 , {Barbados, North America} 
+El Dorado 12 Year , 40.0 , Aged Rum , El Dorado , $26.40 - $83.99 , {Guyana, South America} 
+Calypso Rum Silver , 40.0 , White Rum , Calypso Rum , $8.04 - $11.99 , {United States, North America} 
+BACARDÍ Banana Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $8.98 - $45.00 , {Puerto Rico, North America} 
+Mount Gay Rum Black Barrel , 40.0 , Gold Rum , Mount Gay , $14.99 - $57.99 , {Barbados, North America} 
+Captain Morgan Black Spiced Rum , 40.0 , Spiced Rum , Captain Morgan , $14.99 - $38.09 , {US Virgin Islands, North America} 
+Parrot Bay Coconut Rum 90 Proof , 45.0 , Flavored Rum , Parrot Bay , $11.99 - $26.99 , {Kentucky, North America, United States} 
+Blackheart Premium Spiced Rum , 46.5 , Spiced Rum , Blackheart , $8.49 - $23.99 , {US Virgin Islands, North America} 
+ABC Light Rum , 40.0 , White Rum , ABC , $8.49 , {United States, North America} 
+Cruzan Mango Rum , 21.0 , Flavored Rum , Cruzan , $9.00 - $24.99 , {Saint Croix, North America, US Virgin Islands} 
+Smith & Cross Navy Rum , 57.0 , Rum , Smith & Cross , $22.49 - $43.99 , {Jamaica, North America} 
+Cruzan Black Cherry Rum , 21.0 , Flavored Rum , Cruzan , $8.99 - $30.09 , {Saint Croix, North America, US Virgin Islands} 
+Diplomatico Mantuano Extra Anejo , 40.0 , Aged Rum , Diplomatico , $19.53 - $55.00 , {Venezuela, South America} 
+Blue Chair Bay Key Lime Cream Rum , 15.0 , Flavored Rum , Blue Chair Bay , $9.99 - $55.00 , {Barbados, North America} 
+Malibu Mango Rum , 21.0 , Flavored Rum , Malibu , $8.99 - $45.00 , {Barbados, North America} 
+Santa Teresa 1796 , 40.0 , Aged Rum , Santa Teresa , $27.50 - $80.00 , {Venezuela, South America} 
+Captain Morgan Coconut Rum , 35.0 , Flavored Rum , Captain Morgan , $9.99 - $27.99 , {US Virgin Islands, North America} 
+Flor de Caña 18 Year Old Rum , 40.0 , Gold Rum , Flor de Caña Rum , $38.78 - $83.99 , {Nicaragua, North America} 
+BACARDÍ Raspberry Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.49 - $30.09 , {Puerto Rico, North America} 
+Cruzan Estate Diamond Light Rum , 40.0 , White Rum , Cruzan , $8.99 - $32.09 , {Saint Croix, North America, US Virgin Islands} 
+Palo Viejo White , 40.0 , White Rum , Palo Viejo , $8.25 - $16.95 , {Puerto Rico, North America} 
+Plantation Rum XO Reserve 20th Anniversary , 40.0 , Aged Rum , Plantation , $37.99 - $4199.00 , {Barbados, North America} 
+Don Q Coconut Rum , 21.0 , Flavored Rum , Don Q , $8.99 - $21.99 , {Puerto Rico, North America} 
+Malibu Strawberry Rum , 21.0 , Flavored Rum , Malibu , $9.99 - $24.99 , {Barbados, North America} 
+Brugal Extra Dry , 40.0 , Rum , Brugal , $8.65 - $36.00 , {Dominican Republic, North America} 
+Old Monk Rum 7 Year , 42.5 , Rum , Old Monk , $14.74 - $39.95 , {India, Asia} 
+Caribaya Coconut Rum , 24.0 , Flavored Rum , Caribaya , $8.26 - $15.00 , {Puerto Rico, North America} 
+Papa's Pilar Dark Rum , 43.0 , Dark Rum , Papa's Pilar , $28.29 - $62.00 , {United States, North America} 
+Bully Boy Distillers Boston Rum , 40.0 , Rum , Bully Boy , $25.97 - $44.39 , {Massachusetts, North America, United States} 
+Malibu Passion Fruit Rum  , 21.0 , Flavored Rum , Malibu , $9.99 - $45.00 , {Barbados, North America} 
+Black Magic Spiced Rum , 47.0 , Spiced Rum ,  , $9.98 - $30.88 , {Canada, North America} 
+Brugal Extra Viejo Rum , 40.0 , Rum , Brugal , $20.63 - $46.99 , {Dominican Republic, North America} 
+Cruzan Banana Rum , 21.0 , Flavored Rum , Cruzan , $8.99 - $24.99 , {US Virgin Islands, North America} 
+BACARDÍ Gran Reserva Diez Rum , 40.0 , Aged Rum , Bacardi , $24.99 - $65.00 , {Puerto Rico, North America} 
+Ronrico Gold Rum , 40.0 , Gold Rum , Ronrico , $8.49 - $18.99 , {Puerto Rico, North America} 
+Zacapa XO , 40.0 , Aged Rum , Ron Zacapa , $49.99 - $195.00 , {Guatemala, North America} 
+Cruzan Black Strap Rum , 40.0 , Flavored Rum , Cruzan , $10.99 - $50.09 , {Saint Croix, North America, US Virgin Islands} 
+Blue Chair Bay White Rum , 40.0 , White Rum , Blue Chair Bay , $9.99 - $55.00 , {Barbados, North America} 
+Cruzan Estate Diamond Dark Rum , 40.0 , Dark Rum , Cruzan , $11.99 - $28.34 , {Saint Croix, North America, US Virgin Islands} 
+Goslings Black Seal 151 Proof Rum , 75.5 , Rum , Goslings , $13.99 - $365.75 , {United States, North America} 
+Ron Barcelo Rum Gran Anejo , 40.0 , Rum ,  , $11.99 - $31.49 , {Dominican Republic, North America} 
+BACARDÍ Anejo Cuatro  , 40.0 , Aged Rum , Bacardi , $12.99 - $85.00 , {Puerto Rico, North America} 
+Malibu Banana Rum , 21.0 , Flavored Rum , Malibu , $9.99 - $45.00 , {Barbados, North America} 
+Don Q Gold Rum , 40.0 , Gold Rum , Don Q , $8.99 - $35.00 , {Puerto Rico, North America} 
+Barbancourt 4 Year 3 Star , 43.0 , Rum , Barbancourt , $15.99 - $34.99 , {Haiti, North America} 
+Don Q 151 , 75.5 , Rum , Don Q , $15.99 - $39.99 , {Puerto Rico, North America} 
+Plantation Dark Overproof O.F.T.D. , 69.0 , Dark Rum , Plantation ,  , {Barbados, North America} 
+Cruzan 151 Proof Rum , 75.5 , Gold Rum , Cruzan , $13.38 - $35.99 , {Saint Croix, North America, US Virgin Islands} 
+Calypso Coconut Rum , 21.0 , Flavored Rum , Calypso Rum , $8.04 - $12.89 , {US Virgin Islands, North America} 
+Bully Boy Distillers White Rum , 40.0 , White Rum , Bully Boy , $24.99 - $35.99 , {Massachusetts, North America, United States} 
+Rhum Barbancourt White Rum , 43.0 , White Rum , Barbancourt , $14.30 - $27.03 , {Haiti, North America} 
+Castillo Gold Rum , 40.0 , Gold Rum , Castillo , $8.24 - $19.99 , {Puerto Rico, North America} 
+Admiral Nelson's Coconut Rum , 21.0 , Flavored Rum , Admiral Nelson , $8.20 - $15.99 , {Kentucky, North America, United States} 
+Blue Chair Bay Banana Rum , 26.5 , Flavored Rum , Blue Chair Bay , $10.00 - $35.09 , {Barbados, North America} 
+BACARDÍ Grapefruit Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $8.99 - $25.99 , {Cuba, North America} 
+Ron Barcelo Rum Imperial , 40.0 , Rum , Ron Barcelo , $16.99 - $56.09 , {Dominican Republic, North America} 
+El Dorado 15 Year , 43.0 , Aged Rum , El Dorado , $34.65 - $79.99 , {Guyana, South America} 
+Calypso Gold Rum , 40.0 , Gold Rum , Calypso Rum , $8.04 - $11.99 , {United States, North America} 
+Captain Morgan Cannon Blast , 35.0 , Rum , Captain Morgan , $9.15 - $29.99 , {US Virgin Islands, North America} 
+Papa's Pilar Blonde Rum , 42.0 , Rum , Papa's Pilar , $20.77 - $49.99 , {United States, North America} 
+Bully Boy Distillers The Rum Cooperative Volume I , 40.0 , Rum , Bully Boy , $28.27 - $42.99 , {Massachusetts, North America, United States} 
+Ron Abuelo Rum Anejo , 35.0 , Rum , Ron Abuelo , $9.99 - $35.09 , {Panama, North America} 
+Rondiaz Gold Rum , 40.0 , Gold Rum , Rondiaz , $8.63 - $11.99 , {Puerto Rico, North America} 
+Brinley Gold Shipwreck Coconut Rum , 36.0 , Gold Rum , Brinley Gold Shipwreck , $14.85 - $45.09 , {Saint Kitts and Nevis, North America} 
+Cruzan Blueberry Lemonade Rum , 21.0 , Flavored Rum , Cruzan , $8.97 - $1099.00 , {Saint Croix, North America, US Virgin Islands} 
+Kraken Black Roast Coffee Rum , 33.3 , Flavored Rum , The Kraken , $15.77 - $33.59 , {Trinidad and Tobago, North America} 
+Calypso Gold 151 , 75.5 , Gold Rum , Calypso Rum ,  , {United States, North America} 
+Santa Teresa Gran Reserva , 40.0 , Rum , Santa Teresa , $9.99 - $33.99 , {Venezuela, South America} 
+Barton's White Rum , 40.0 , White Rum , Barton , $8.00 - $9.99 , {Kentucky, North America, United States} 
+ABC Dark Rum , 50.0 , Rum , ABC , $8.49 , {United States, North America} 
+Diamond Reserve Demerara 151 Overproof Rum , 75.5 , Rum , Diamond Reserve , $12.98 - $29.99 , { 
+Captain Morgan Gingerbread Spiced , 30.0 , Spiced Rum , Captain Morgan , $9.97 - $28.59 , {United States, North America} 
+BACARDÍ Classic Cocktails Rum Punch , 15.0 , Flavored Rum , Bacardi , $8.49 - $21.90 , {Puerto Rico, North America} 
+RumChata MiniChatas , 13.75 , Rum , RumChata ,  , {United States, North America} 
+Sailor Jerry Savage Apple Rum , 35.0 , Flavored Rum , Sailor Jerry , $12.99 - $28.99 , {New Jersey, North America, United States} 
+Mount Gay Rum XO , 43.0 , Rum , Mount Gay , $18.99 - $81.99 , {Barbados, North America} 
+Privateer Silver Rum , 40.0 , White Rum , Privateer , $24.99 - $38.99 , {Massachusetts, North America, United States} 
+Don Q Limon , 30.0 , Flavored Rum , Don Q , $9.99 - $23.09 , {Puerto Rico, North America} 
+Brinley Gold Shipwreck Spiced Rum , 36.0 , Spiced Rum , Brinley Gold Shipwreck , $11.50 - $46.09 , {Saint Kitts and Nevis, North America} 
+Cane Run Estate Silver Rum , 40.0 , White Rum , Cane Run Estate , $8.39 - $24.99 , {Trinidad and Tobago, North America} 
+Kirk & Sweeney 23 Reserva , 40.0 , Rum , Kirk and Sweeney , $39.60 - $160.09 , {Dominican Republic, North America} 
+Cotton & Reed White Rum , 40.0 , White Rum , Cotton & Reed , $19.99 - $39.99 , {Washington, DC, North America, United States} 
+Palo Viejo Gold Rum , 40.0 , Gold Rum , Palo Viejo , $8.25 - $16.95 , {Puerto Rico, North America} 
+Blue Chair Bay Coconut Spiced Rum Cream , 15.0 , Spiced Rum , Blue Chair Bay , $11.99 - $55.00 , {Barbados, North America} 
+Diplomatico Planas , 47.0 , Aged Rum , Diplomatico , $21.99 - $49.99 , {Venezuela, South America} 
+Palo Viejo Silver Rum , 40.0 , White Rum , Palo Viejo ,  , {Puerto Rico, North America} 
+El Dorado 3 Year , 40.0 , Aged Rum , El Dorado , $13.99 - $31.49 , {Guyana, South America} 
+Blue Chair Bay Spiced Rum , 35.0 , Spiced Rum , Blue Chair Bay , $9.99 - $28.59 , {Barbados, North America} 
+Stolen Smoked Rum , 42.0 , Spiced Rum , Stolen , $13.99 - $39.99 , {Trinidad and Tobago, North America} 
+Cruzan Peach Rum , 20.0 , Flavored Rum , Cruzan , $8.99 - $19.99 , {British Virgin Islands, North America} 
+Montanya Platino Light Rum , 40.0 , White Rum , Montanya , $10.99 - $33.99 , {Colorado, North America, United States} 
+Burnett's Coconut Rum , 30.0 , Flavored Rum , Burnett's , $8.39 - $12.99 , {Kentucky, North America, United States} 
+BACARDÍ Black Razz Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $9.96 - $39.99 , {United States, North America, Cuba} 
+Pitu Cachaca Rum , 40.0 , Rum , Pitu Cachaca ,  , {Brazil, South America} 
+Ron Rio Silver Rum , 40.0 , White Rum , Ron Rio ,  , {Puerto Rico, North America} 
+Myers's Platinum White Rum , 40.0 , White Rum , Myers , $10.99 - $27.99 , {Jamaica, North America} 
+Kirk and Sweeney 12 Reserva , 40.0 , Rum , Kirk and Sweeney , $19.99 - $82.09 , {Dominican Republic, North America} 
+Parrot Bay Pineapple Rum , 21.0 , Flavored Rum , Parrot Bay , $9.99 - $29.99 , {Kentucky, North America, United States} 
+Bacoo Rum 5 Year , 40.0 , Dark Rum , Bacoo , $13.20 - $29.99 , {Dominican Republic, North America} 
+Calico Jack Coconut Rum , 21.0 , Rum , Calico Jack ,  , {US Virgin Islands, North America} 
+Pampero Rum Aniversario , 40.0 , Rum , Pampero , $20.99 - $59.99 , {Venezuela, South America} 
+Brugal XV , 40.0 , Rum , Brugal , $24.79 - $59.99 , {Dominican Republic, North America} 
+Cruzan Passion Fruit Rum , 21.0 , Flavored Rum , Cruzan , $9.99 - $19.99 , {Saint Croix, North America, US Virgin Islands} 
+Angostura White Oak Rum , 40.0 , White Rum , Angostura , $10.00 - $107.94 , {Trinidad and Tobago, North America} 
+Breckenridge Spiced Rum , 45.0 , Spiced Rum , Breckenridge Distillery , $14.29 - $41.99 , {Colorado, North America, United States} 
+Blue Chair Bay Vanilla Rum , 26.5 , Flavored Rum , Blue Chair Bay , $14.99 - $35.09 , {Barbados, North America} 
+Ron Diaz Spiced Rum , 30.0 , Spiced Rum , Rondiaz , $8.63 - $13.99 , {Barbados, North America} 
+Lemon Hart 151 Rum , 75.5 , Dark Rum , Lemon Hart , $24.75 - $53.09 , {Guyana, South America} 
+Real McCoy Barbados Rum 5 Year , 46.0 , Rum , Real McCoy , $9.99 - $85.00 , {Barbados, North America} 
+Baha Rum , 40.0 , White Rum , Baha ,  , { 
+Don Papa Rum , 40.0 , Rum , Don Papa , $29.99 - $59.99 , {Philippines, Asia} 
+BACARDÍ 151 , 75.5 , Gold Rum , Bacardi , $17.75 - $249.99 , {Puerto Rico, North America} 
+Clement V.S.O.P Rum , 40.0 , Rum , Clement , $29.99 - $151.99 , {Martinique, North America} 
+Whaler's Original Dark Topping Rum , 40.0 , Dark Rum , Whaler's , $8.79 - $28.99 , {Hawaii, North America, United States} 
+Lamb's White Rum , 40.0 , White Rum , Lamb's , $23.51 - $25.99 , {United Kingdom, Europe} 
+Hamilton Jamaican Pot Still Black Rum , 46.1 , Dark Rum , Hamilton , $22.99 - $39.99 , {Jamaica, North America} 
+Parrot Bay Passion Fruit Rum , 21.0 , Flavored Rum , Parrot Bay , $8.99 - $26.24 , {Kentucky, North America, United States} 
+Flor de Caña 5 Year Old Rum Añejo Clásico , 40.0 , Rum , Flor de Caña Rum , $15.99 - $75.00 , {Nicaragua, North America} 
+Castillo Spiced Rum , 35.0 , Spiced Rum , Castillo , $8.49 - $24.67 , {Puerto Rico, North America} 
+BACARDÍ Tangerine Flavored White Rum , 40.0 , Flavored Rum , Bacardi , $10.00 - $31.99 , {Puerto Rico, North America} 
+Cruzan Strawberry Rum , 21.0 , Flavored Rum , Cruzan , $9.99 - $25.29 , {Saint Croix, North America, US Virgin Islands} 
+Ron Zacapa Edicion Negra , 30.0 , Dark Rum , Ron Zacapa , $49.23 - $100.09 , {Guatemala, North America} 
+Goslings Gold Seal Rum , 40.0 , Gold Rum , Goslings , $9.19 - $36.99 , {Bermuda, North America} 
+BACARDÍ Apple Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $11.00 - $29.09 , {Puerto Rico, North America} 
+The Naked Turtle White Rum , 40.0 , Rum , Naked Turtle , $9.49 - $19.99 , {US Virgin Islands, North America} 
+The Baron Samedi Spiced Rum , 45.0 , Spiced Rum , Baron Samedi , $10.00 - $38.09 , {United States, North America} 
+Bayou Silver Rum , 40.0 , White Rum , Bayou , $9.99 - $40.89 , {Louisiana, North America, United States} 
+Plantation Rum Original Dark Overproof , 40.0 , Dark Rum , Plantation ,  , {Barbados, North America} 
+Rhum Barbancourt 5 Star 8 Year , 43.0 , Rum , Rhum Barbancourt , $18.99 - $39.09 , {Haiti, North America} 
+Don Q Anejo Rum , 40.0 , Rum , Don Q , $9.99 - $104.99 , {Puerto Rico, North America} 
+Denizen Rum Aged White , 40.0 , Aged Rum , Denizem , $14.99 - $39.99 , {United Kingdom, Europe, Netherlands} 
+Privateer True American Amber Rum , 45.0 , Aged Rum , Privateer , $28.99 - $44.99 , {Massachusetts, North America, United States} 
+Parrot Bay Mango Rum , 21.0 , Flavored Rum , Parrot Bay , $8.99 - $26.24 , {Kentucky, North America, United States} 
+Monkey Rum Toasted Coconut , 35.0 , Rum , Monkey Rum , $17.99 - $33.99 , {Trinidad and Tobago, North America} 
+Clement Barrel Rhum Select , 40.0 , Rum , Clement , $18.58 - $47.99 , {Martinique, North America} 
+BACARDÍ Peach Red Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $14.99 - $17.97 , {Puerto Rico, North America} 
+Cane Run Estate Silver Rum Glass , 40.0 , White Rum , Cane Run Estate ,  , {Trinidad and Tobago, North America} 
+Skinnygirl Pina Colada , 9.95 , Rum , Skinnygirl , $8.99 - $19.99 , {Illinois, North America, United States} 
+Corsair Spiced Rum , 85.0 , Spiced Rum , Corsair Distillery , $19.99 - $36.99 , {Tennessee, North America, United States} 
+Ron Rio Gold Rum , 40.0 , Gold Rum , Ron Rio ,  , {Puerto Rico, North America} 
+Kirk & Sweeney Rum , 40.0 , Rum , Kirk and Sweeney , $16.99 - $82.09 , {Dominican Republic, North America} 
+Hamilton Overproof 151 Rum , 75.5 , Aged Rum , Hamilton , $25.99 - $44.99 , {Guyana, South America} 
+Coral Bay White Rum , 40.0 , White Rum ,  ,  , {United States, North America} 
+Cruzan 9 Spiced Rum , 40.0 , Spiced Rum , Cruzan , $9.90 - $46.99 , {Saint Croix, North America, US Virgin Islands} 
+Don Q Rum Gran Anejo , 40.0 , Rum , Don Q , $29.99 - $89.99 , {Puerto Rico, North America} 
+Matusalem Gran Reserva Rum 15 Year , 40.0 , Aged Rum , Matusalem , $19.99 - $53.09 , {Dominican Republic, North America} 
+J.Wray Gold Rum , 45.3 , Gold Rum , J.Wray , $12.38 - $25.99 , {Jamaica, North America} 
+Appleton White Rum , 40.0 , White Rum , Appleton , $9.99 - $29.15 , {Jamaica, North America} 
+Palms White Rum , 40.0 , White Rum , Palms , $8.99 - $12.99 , {United States, North America} 
+Barbancourt Estate Reserve 15 Year , 43.0 , Rum , Barbancourt , $8.99 - $69.99 , {Haiti, North America} 
+Plantation Xaymaca Special Dry Rum , 43.0 , Rum , Plantation , $19.99 - $47.99 , {Jamaica, North America} 
+Bacoo Rum 12 Year , 40.0 , Aged Rum , Bacoo , $21.45 - $59.99 , {Dominican Republic, North America} 
+Ron del Barrilito 3 Star Rum , 43.0 , Rum , Ron del Barrilito , $29.99 - $76.99 , {Puerto Rico, North America} 
+Admiral Nelson's Cherry Spiced Rum , 30.0 , Spiced Rum , Admiral Nelson , $8.25 - $14.99 , {Puerto Rico, North America} 
+Denizen Rum Merchants Reserve 8 Year , 43.0 , Rum ,  , $19.99 - $59.99 , {Jamaica, North America} 
+Cotton & Reed Mellow Gold , 40.0 , Gold Rum , Cotton & Reed , $25.99 - $45.99 , {Washington, DC, North America, United States} 
+Monkey Spiced Rum , 35.0 , Spiced Rum , Monkey Rum , $9.99 - $35.19 , {Trinidad and Tobago, North America} 
+Thomas Tew Rhode Islnd Rum , 42.0 , Rum , Thomas Tew , $29.99 - $49.99 , {Rhode Island, North America, United States} 
+Grind Espresso Shot , 30.0 , Rum , Grind , $9.99 - $29.99 , {Connecticut, North America, United States} 
+Captain Morgan Dark Rum , 35.0 , Dark Rum , Captain Morgan , $19.99 - $26.50 , {Puerto Rico, North America} 
+Rico Bay White Rum , 75.5 , White Rum , Rico Bay ,  , {Puerto Rico, North America} 
+El Dorado 5 Year , 40.0 , Rum , El Dorado , $15.99 - $59.99 , {Guyana, South America} 
+Kirk & Sweeney Rum 18 Yr , 40.0 , Rum ,  , $28.50 - $115.09 , {Dominican Republic, North America} 
+Port Royal White Rum , 40.0 , White Rum ,  , $8.49 - $9.99 , {Jamaica, North America} 
+Cotton & Reed Dry Spiced Rum , 35.0 , Spiced Rum , Cotton & Reed , $25.99 - $45.99 , {Washington, DC, North America, United States} 
+Blue Chair Bay Coconut Spiced Rum , 26.5 , Spiced Rum , Blue Chair Bay , $9.99 - $55.00 , {Barbados, North America} 
+Cane Run Rum White , 40.0 , White Rum ,  , $8.99 - $23.99 , {Trinidad and Tobago, North America} 
+Angostura 5 Year Rum , 40.0 , Rum , Angostura , $16.99 - $41.09 , {Trinidad and Tobago, North America} 
+BACARDÍ Orange Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $8.79 - $23.31 , {Puerto Rico, North America} 
+Lamb's Palm Breeze , 40.0 , Flavored Rum , Lamb's , $22.99 - $26.74 , {United Kingdom, Europe} 
+Parrot Bay Strawberry Rum , 21.0 , Flavored Rum , Parrot Bay , $9.99 - $24.99 , {Kentucky, North America, United States} 
+Bacardi Rock Coconut , 35.0 , Flavored Rum , Bacardi , $9.96 - $36.00 , {Puerto Rico, North America} 
+Ron Abuelo Rum Anejo 7 Anos , 40.0 , Rum , Ron Abuelo , $14.99 - $44.39 , {Panama, North America} 
+Chila Orchata Rum Cinnamon Cream , 13.75 , Liqueur, Cordials, & Schnapps , Chila , $15.99 - $21.99 , {Kentucky, North America, United States} 
+Spytail Black Ginger Rum , 40.0 , Flavored Rum , Spytail , $9.97 - $29.98 , {France, Europe} 
+ABC Spiced Rum , 50.0 , Rum , ABC , $8.49 , {United States, North America} 
+Hamilton Jamaican Pot Still Gold Rum , 46.5 , Gold Rum , Hamilton , $20.99 - $34.99 , {Jamaica, North America} 
+Parrot Bay Key Lime Rum , 21.0 , Flavored Rum , Parrot Bay , $9.99 - $25.29 , {Kentucky, North America, United States} 
+Ron Centenario 25 year Gran Reserva Rum , 40.0 , Aged Rum , Ron Centenario , $52.25 - $109.99 , {Costa Rica, North America} 
+Zafra 21 Year Rum , 40.0 , Rum , Zafra , $39.99 - $89.95 , {Panama, North America} 
+Foursquare 2007 Cask Strength Rum , 59.0 , Aged Rum , Foursquare , $69.99 - $129.99 , {Barbados, North America} 
+Caribaya White Rum , 40.0 , White Rum , Caribaya ,  , {Puerto Rico, North America} 
+Calico Jack Flavored Rum Coconut , 21.0 , Flavored Rum , Calico Jack , $8.99 - $16.49 , {US Virgin Islands, North America} 
+Rum Fire Overproof Jamaican Rum , 63.0 , White Rum , Rum Fire , $16.99 - $37.99 , {Jamaica, North America} 
+Koloa Dark Rum , 40.0 , Dark Rum , Koloa Rum , $29.97 - $67.09 , {Hawaii, North America, United States} 
+Tippy Cow Vanilla Soft Serve Rum , 14.0 , Chocolate & Sweet Liqueur , Tippy Cow , $9.00 - $28.99 , {United States, North America} 
+Velho Barreiro Cachaca , 39.0 , Rum , Velho Barreiro ,  , { 
+El Dorado 21 Year , 43.0 , Aged Rum , El Dorado , $49.99 - $179.99 , {Guyana, South America} 
+Matusalem Rum 10 Year , 40.0 , Aged Rum , Matusalem , $14.99 - $42.09 , {Dominican Republic, North America} 
+Brinley Gold Shipwreck Coffee Rum , 36.0 , Flavored Rum , Brinley Gold Shipwreck , $9.99 - $46.09 , {New Jersey, North America, United States} 
+Bayou Spiced Rum , 40.0 , Spiced Rum , Bayou , $8.79 - $35.99 , {Louisiana, North America, United States} 
+J Wray Gold Rum , 40.0 , Gold Rum , Appleton , $13.35 - $30.09 , {Jamaica, North America} 
+BACARDÍ Anejo Rum , 40.0 , Rum , Bacardi , $12.99 - $36.09 , {Puerto Rico, North America} 
+BACARDÍ Grand Melon Flavored White Rum , 32.0 , Flavored Rum , Bacardi , $9.99 - $22.99 , {Puerto Rico, North America} 
+Koloa White Rum , 40.0 , White Rum , Koloa Rum , $28.99 - $65.09 , {Hawaii, North America, United States} 
+Pusser's Rum Gunpowder Proof , 54.5 , Rum ,  , $28.99 - $52.99 , {United States, North America} 
+Cardinal Lake House Rum , 37.5 , Rum , Cardinal Spirits , $18.74 - $38.00 , {Indiana, North America, United States} 
+Malibu Island Spiced Rum , 30.0 , Spiced Rum , Malibu , $8.99 - $29.99 , {Barbados, North America} 
+Coruba Dark Jamaican Rum , 40.0 , Dark Rum , Coruba , $13.99 - $31.09 , {Jamaica, North America} 
+Shellback Spiced Rum , 40.0 , Spiced Rum , Shellback , $9.90 - $24.19 , {Barbados, North America} 
+Captain Morgan Jack-O-Blast , 30.0 , Rum , Captain Morgan , $9.99 - $39.99 , {US Virgin Islands, North America} 
+Cruzan Single Barrel Rum , 40.0 , Rum , Cruzan , $10.99 - $49.99 , {Saint Croix, North America, US Virgin Islands} 
+Bully Boy Distillers Hub Punch , 35.0 , Rum , Bully Boy , $26.99 - $32.99 , {Massachusetts, North America, United States} 
+Admiral Nelson's Vanilla Rum , 35.0 , Flavored Rum , Admiral Nelson , $8.62 - $13.19 , {Puerto Rico, North America} 
+Leadslingers Black Flag Rum , 40.0 , Spiced Rum , Leadslingers , $9.99 - $49.99 , {Oklahoma, North America, United States} 
+Don Q Pasion Rum , 30.0 , Flavored Rum , Don Q , $9.99 - $20.00 , {Puerto Rico, North America} 
+Don Q Signature Release Single Barrel , 40.0 , Aged Rum , Don Q , $23.99 - $69.99 , {Puerto Rico, North America} 
+Paranubes White Rum , 54.0 , White Rum , Paranubes ,  , {Oaxaca, North America, Mexico} 
+Admiral Nelson's 101 Proof Spiced Rum , 50.5 , Spiced Rum , Admiral Nelson , $8.99 - $18.99 , {Puerto Rico, North America} 
+J.Wray Silver Rum , 40.0 , White Rum , J.Wray , $12.99 - $25.99 , {Jamaica, North America} 
+Diamond Reserve Demerara Dark Rum , 40.0 , Dark Rum , Diamond Reserve , $11.19 - $19.95 , {Guyana, South America} 
+Casa Magdalena Rum Blanco , 41.25 , White Rum , Casa Magdalena , $17.99 - $28.59 , {Guatemala, North America} 
+Blackwell Rum , 40.0 , Rum , Blackwell , $17.55 - $39.99 , {Jamaica, North America} 
+Stolen Overproof Rum , 40.0 , Aged Rum , Stolen ,  , {Jamaica, North America} 
+Foursquare Rum Probitas Rum , 47.0 , Rum , Foursquare , $24.99 - $46.00 , {Barbados, North America} 
+Privateer Navy Yard Cask Strength Rum , 55.0 , Dark Rum , Privateer , $39.99 - $57.47 , {Massachusetts, North America, United States} 
+Koloa Coffee Rum , 34.0 , Flavored Rum , Koloa Rum , $25.30 - $59.99 , {Hawaii, North America, United States} 
+BACARDÍ Arctic Grape Flavored White Rum , 35.0 , Flavored Rum , Bacardi , $8.79 - $27.99 , {Puerto Rico, North America} 
+Ron Medellin Rum Extra Anejo 8 Year , 35.0 , Rum , Ron Medellin , $18.15 - $39.99 , {Colombia, South America} 
+Diplomatico Blanco , 40.0 , Rum , Diplomatico , $17.99 - $104.99 , {Venezuela, South America} 
+SelvaRey Rum White , 40.0 , White Rum , Selvarey , $16.98 - $33.99 , {Panama, North America} 
+Skinnygirl Mojito , 9.95 , Rum , Skinnygirl , $8.79 - $22.99 , {Illinois, North America, United States} 
+Myers's White Rum , 40.0 , White Rum , Myers , $10.99 - $24.99 , {Jamaica, North America} 
+Siesta Key Spiced Rum , 35.0 , Spiced Rum , Siesta Key , $19.99 - $32.39 , {Florida, North America, United States} 
+Owney's White Rum , 40.0 , White Rum , Owney's , $15.99 - $44.99 , {New York, North America, United States} 
+Ron Viejo De Caldas Rum 8 Years , 40.0 , Rum , Ron Viejo Rum , $11.99 - $25.99 , {Colombia, South America} 
+Deadhead Rum 6 Year , 40.0 , Aged Rum , Deadhead , $27.99 - $82.89 , {Mexico, North America} 
+Diamond Reserve Demerara Superior White Rum , 40.0 , White Rum , Diamond Reserve , $11.99 - $14.99 , {Guyana, South America} 
+Chairman's Reserve Spiced Rum , 40.0 , Spiced Rum , Chairman's , $21.99 - $39.99 , {Saint Lucia, North America} 
+Privateer "The Queens Share" Single Cask Rum , 55.0 , Aged Rum , Privateer , $49.95 - $66.00 , {Massachusetts, North America, United States} 
+Ron Carlos Silver Rum , 43.0 , Rum , Ron Carlos ,  , {US Virgin Islands, North America} 
+Cardinal Tiki Rum , 40.0 , White Rum , Cardinal Spirits , $21.00 - $27.99 , {Indiana, North America, United States} 
+Ron Llave Gold Rum , 40.0 , Gold Rum , Ron Llave ,  , {Puerto Rico, North America} 
+Tippy Cow Chocolate Rum , 14.0 , Chocolate & Sweet Liqueur , Tippy Cow , $9.00 - $30.09 , {United States, North America} 
+Bacardi Peach Red , 35.0 , Flavored Rum , Bacardi , $8.99 - $22.99 , {Puerto Rico, North America} 
+Lady Bligh Spiced Rum , 36.25 , Spiced Rum , Lady Bligh , $8.39 - $28.99 , {United States, North America} 
+Screech Rum , 40.0 , Rum , Screech , $17.99 - $32.09 , {Canada, North America} 
+Zaya Gran Reserva 16 Year , 40.0 , Aged Rum , Zaya , $24.99 - $46.99 , {Trinidad and Tobago, North America} 
+Real McCoy Barbados Rum 3 Year , 40.0 , Rum , Real McCoy , $9.99 - $85.00 , {Barbados, North America} 
+Monarch Rum Silver , 40.0 , White Rum , Monarch , $8.40 - $9.89 , {Oregon, North America, United States} 
+Bacardi Wolf Berry , 35.0 , Flavored Rum , Bacardi , $9.99 - $21.99 , {Puerto Rico, North America} 
+Koloa Spice Rum , 44.0 , Spiced Rum , Koloa Rum , $29.97 - $68.09 , {Hawaii, North America, United States} 
+Ron Abuelo Rum Anejo 12 Anos , 40.0 , Rum , Ron Abuelo , $19.99 - $59.99 , {Panama, North America} 
+Facundo® Neo Premium Silver Rum , 40.0 , White Rum , Facundo , $36.30 - $100.09 , {Puerto Rico, North America} 
+Skol White Rum , 40.0 , White Rum , Skol ,  , {US Virgin Islands, North America} 
+Old Line Aged Carribean Rum , 42.0 , Aged Rum , Old Line Spirits , $24.99 - $39.99 , {Maryland, North America, United States} 
+Avua Prata Cachaca , 42.0 , Rum , Avua , $28.99 - $45.99 , {Brazil, South America} 
+Vizcaya Rum Cask 21 VXOP , 40.0 , Rum , Vizcaya , $14.45 - $64.99 , {Dominican Republic, North America} 
+Ron Roberto Light Spiced Rum , 40.0 , Spiced Rum , Ron Roberto ,  , {Mexico, North America} 
+Heaven Hill White Rum , 40.0 , White Rum , Heaven Hill , $8.49 - $32.00 , { 
+Yolo Rum Silver , 40.0 , White Rum , YOLO , $14.99 - $26.99 , {Colorado, North America, United States} 
+Dogfish Head Barrel Honey Rum , 40.0 , Flavored Rum , Dogfish Head , $27.99 - $39.99 , {Delaware, North America, United States} 
+Lemon Hart & Sons Blackpool Spiced Rum , 43.0 , Spiced Rum , Lemon Hart , $23.56 - $39.99 , {Guyana, South America} 
+Cruzan Key Lime Rum , 21.0 , Flavored Rum , Cruzan , $9.99 - $18.99 , {British Virgin Islands, North America} 
+Old New Orleans Cajun Spiced Rum , 40.0 , Spiced Rum , Old New Orleans , $19.99 - $42.99 , {Louisiana, North America, United States} 
+Lost Spirits Distillery Navy Style Overproof Rum , 68.0 , Rum , Lost Spirits Distillery , $34.99 - $69.99 , {California, North America, United States} 
+Lamb's Navy Rum , 40.0 , Rum , Lamb's , $24.23 - $26.09 , {United Kingdom, Europe} 
+Lawley's New England Dark Rum , 40.0 , Dark Rum ,  , $29.99 - $37.99 , {Massachusetts, North America, United States} 
+Koloa Coconut Rum , 40.0 , Rum , Koloa Rum , $25.88 - $59.99 , {Hawaii, North America, United States} 
+Malibu Rum Sparkler , 11.0 , Ready-to-Drink , Malibu , $8.99 - $24.99 , {Barbados, North America} 
+Hamilton Guyana Rum , 43.0 , Aged Rum , Hamilton , $9.91 - $35.99 , {Guyana, South America} 
+Coconut Cartel Special Rum , 40.0 , Rum , Coconut Cartel , $18.50 - $42.99 , {Guatemala, North America} 
+El Dorado 151 , 76.5 , Rum , El Dorado , $15.99 - $39.99 , {Guyana, South America} 
+Flor de Caña 25 Year Old Rum  , 40.0 , Gold Rum , Flor de Caña Rum , $99.99 - $249.99 , {Nicaragua, North America} 
+Bear Creek Spiced Rum , 40.0 , Spiced Rum , Bear Creek Distillery , $29.99 - $33.99 , {Colorado, North America, United States} 
+Port Royal Gold Rum , 40.0 , Gold Rum ,  , $8.49 - $9.99 , {Jamaica, North America} 
+Owney's Original New York Rum , 40.0 , Rum , Owney's , $9.99 - $44.99 , {New York, North America, United States} 
+Black Roberts Spiced Rum , 35.0 , Spiced Rum , Black Roberts , $8.20 - $14.99 , {Florida, North America, United States} 
+Rhum J.M White Rum , 40.0 , Rum ,  ,  , {Martinique, North America} 
+Real McCoy Barbados Rum 12 Years , 40.0 , Aged Rum , Real McCoy , $29.99 - $63.99 , {Barbados, North America} 
+Drake's Organic White Rum , 40.0 , White Rum , Drake's Organic Spirits , $17.99 - $25.99 , {United States, North America} 
+BACARDÍ Gran Reserva Maestro de Ron , 40.0 , Rum , Bacardi , $12.99 - $55.00 , {Puerto Rico, North America} 
+Bacardi Rum Fusion Mango , 35.0 , Flavored Rum , Bacardi , $10.00 - $25.99 , {Puerto Rico, North America} 
+Jm Rhum Agricole White Rum , 50.0 , White Rum ,  , $31.99 - $54.99 , {Martinique, North America} 
+Barton Gold Rum , 40.0 , Gold Rum , Barton ,  , {Kentucky, North America, United States} 
+Don Q Oak Barrel Spiced , 30.0 , Spiced Rum , Don Q , $9.99 - $46.99 , {Puerto Rico, North America} 
+Old New Orleans Amber 3 Year Rum , 40.0 , Rum , Old New Orleans , $19.79 - $36.99 , {Louisiana, North America, United States} 
+Malahat Spiced Rum , 35.0 , Spiced Rum , Malahat , $12.99 - $49.99 , {California, North America, United States} 
+Tanduay Gold Rum , 40.0 , Gold Rum , Tanduay , $14.29 - $30.23 , {New York, North America, United States} 
+Malibu Cranberry & Cherry Rum , 21.0 , Rum , Malibu , $8.99 - $27.99 , {United States, North America} 
+Ron Del Barrilito 2 Star Rum , 43.0 , Gold Rum , Ron del Barrilito , $19.99 - $59.99 , {Puerto Rico, North America} 
+Uruapan Charanda Blanco Single Blended Rum , 46.0 , White Rum , Uruapan Charanda ,  , {Mexico, North America} 
+Rum-Bar White Overproof Rum , 63.0 , Rum , Rum-Bar , $17.99 - $30.99 , {Jamaica, North America} 
+Clairin Sajous Rhum Agricole , 53.5 , Rum , Clairin Sajous , $37.99 - $49.99 , {Haiti, North America} 
+Tropic Isle Palms Rum 151 , 75.5 , Rum , Tropic Isle , $14.62 - $23.49 , {Barbados, North America} 
+Forres Park Rum , 75.0 , Rum , Forres Park , $16.49 - $32.99 , {United States, North America} 
+Malibu Swirl , 21.0 , Rum , Malibu , $9.99 - $23.09 , {Barbados, North America} 
+Far North Alander Spiced Rum , 40.0 , Spiced Rum , Far North , $27.99 - $49.49 , {Minnesota, North America, United States} 
+Brinley Shipwreck Mango Rum , 36.0 , Gold Rum , Shipwreck , $14.00 - $45.09 , {Brazil, South America} 
+Old Line Navy Strength Rum , 57.0 , Rum , Old Line Spirits , $33.99 - $59.99 , {Maryland, North America, United States} 
+Calico Jack Rum Spiced , 47.0 , Spiced Rum , Calico Jack , $8.99 - $19.99 , {US Virgin Islands, North America} 
+George Ocean Coconut Rum , 21.0 , Flavored Rum , George Ocean , $9.95 - $19.99 , { 
+Chairman's Reserve St Lucia Rum , 40.0 , Rum , Chairman's , $21.99 - $39.99 , {Saint Lucia, North America} 
+Banks® 5 Island Blend Rum , 43.0 , White Rum , Banks , $20.99 - $44.99 , {Trinidad and Tobago, North America} 
+Matusalem Gran Reserva Rum 18 Year , 40.0 , Rum , Matusalem , $27.67 - $65.09 , {Dominican Republic, North America} 
+SelvaRey Rum Cacao , 35.0 , Flavored Rum , Selvarey , $16.98 - $35.99 , {Panama, North America} 
+Rondiaz Coconut Rum , 40.0 , Flavored Rum ,  , $8.63 - $14.99 , {Barbados, North America} 
+Vizcaya Cask 12 Dark Rum , 40.0 , Dark Rum , Vizcaya , $17.99 - $32.99 , {Dominican Republic, North America} 
+Kingston Coconut Rum , 24.0 , Flavored Rum , Kingston ,  , {Jamaica, North America} 
+Boukman Botanical Rhum , 45.0 , Rum , Boukman , $41.99 - $59.99 , {Haiti, North America} 
+Cotton & Reed Allspice Dram , 24.0 , Spiced Rum , Cotton & Reed , $14.99 - $45.99 , {Washington, DC, North America, United States} 
+Sammy's Beach Bar Rum , 35.0 , White Rum , Sammy's Beach Bar , $12.99 - $36.99 , {Hawaii, North America, United States} 
+Cotton & Reed Allspice Dram , 24.0 , Spiced Rum , Cotton & Reed , $14.99 - $45.99 , {Washington, DC, North America, United States} 
+Ron Medellin Rum Grand Reserva 12 Year , 35.0 , Rum , Ron Medellin , $21.99 - $49.99 , {Colombia, South America} 
+Don Q Mojito , 20.0 , Flavored Rum , Destilerias Serralles , $9.18 - $19.99 , {Puerto Rico, North America} 
+Dictador 12 Year Rum , 40.0 , Aged Rum , Dictador , $19.99 - $70.09 , {Colombia, South America} 
+Cruzan Raspberry Rum , 21.0 , Flavored Rum , Cruzan , $9.99 - $24.99 , {Saint Croix, North America, US Virgin Islands} 
+Rhum J.M. V.O. , 43.0 , Aged Rum , Rhum J. M. , $29.88 - $62.99 , {Martinique, North America} 
+Cutwater Bali Hai Tiki Gold Rum , 40.0 , Gold Rum , Cutwater Spirits , $24.99 - $46.99 , {California, North America, United States} 
+Pussers Rum Dark , 42.0 , Dark Rum , Pussers , $26.99 - $31.99 , {British Virgin Islands, North America} 
+Batiste Rhum Silver , 40.0 , White Rum , Ecostie Batiste , $24.00 - $39.99 , {California, North America, United States} 
+Koloa Gold Rum , 40.0 , Gold Rum , Koloa Rum , $28.99 - $64.09 , {Hawaii, North America, United States} 
+Plantation Rum Jamaica , 45.2 , Rum , Plantation , $24.99 - $84.99 , {Jamaica, North America} 
+Santa Teresa Anejo Gr Reserve , 40.0 , Rum , Santa Teresa ,  , {Venezuela, South America} 
+Royal Jamaican Rum Gold , 40.0 , Gold Rum , Royal Jamaican , $14.99 - $35.09 , {Jamaica, North America} 
+Cuca Fresca Silver Cachaca , 40.0 , Rum ,  , $8.99 - $29.99 , {Brazil, South America} 
+Marauda The Steelpan Blend Rum , 40.0 , Aged Rum , Marauda , $14.95 - $69.09 , {Netherlands, Europe} 
+Florida Mermaid Rum , 50.0 , Aged Rum , Florida Mermaid , $33.99 - $45.99 , {Florida, North America, United States} 
+Privateer New England White Rum , 40.0 , White Rum , Privateer , $27.00 - $48.00 , {Massachusetts, North America, United States} 
+Ron Medellin Rum Extra Anejo 3 Year , 35.0 , Rum , Ron Medellin , $12.38 - $27.99 , {Colombia, South America} 
+Ron Centenario 20 year Fundacion Rum , 40.0 , Aged Rum , Ron Centenario , $15.99 - $79.99 , {Costa Rica, North America} 
+Captain Morgan 1671 Spiced Rum , 35.0 , Spiced Rum , Captain Morgan , $9.99 - $31.24 , {US Virgin Islands, North America} 
+The Scarlet Ibis Gold Rum , 40.0 , Gold Rum , The Scarlet Ibis , $22.49 - $42.99 , {Trinidad and Tobago, North America} 
+Brinley Gold Shipwreck Vanilla Rum , 36.0 , Gold Rum , Brinley Gold Shipwreck , $18.99 - $45.09 , {Saint Kitts and Nevis, North America} 
+Cana Brava Rum , 43.0 , Rum , The 86 Co. , $11.99 - $40.99 , {Panama, North America} 
+Cruzan Guava Rum , 21.0 , Flavored Rum , Cruzan , $8.99 - $22.79 , {US Virgin Islands, North America} 
+Margaritaville Silver Rum , 40.0 , White Rum , Margaritaville , $9.99 - $19.99 , {Florida, North America, United States} 
+Bounty White Rum , 40.0 , White Rum , Bounty , $13.49 - $32.99 , {Saint Lucia, North America} 
+Dos Maderas 5+3 Rum , 40.0 , Rum , Dos Maderas , $19.80 - $45.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+Candela Mamajuana Spiced Rum , 30.0 , Spiced Rum , Candela , $21.99 - $36.99 , {Dominican Republic, North America} 
+Diplomatico Rum Reserva , 40.0 , Rum , Diplomatico , $20.99 - $44.99 , {Venezuela, South America} 
+Real McCoy Barbados Rum 12 Year , 40.0 , Rum , Real McCoy , $29.99 - $59.99 , {Barbados, North America} 
+Coral Bay Gold Rum , 40.0 , Gold Rum ,  ,  , {United States, North America} 
+Sag Harbor Rum , 40.0 , Rum , Sag Harbor , $31.25 - $55.00 , {New York, North America, United States} 
+Lemon Hart Original Single Estate Rum , 40.0 , Spiced Rum , Lemon Hart , $20.99 - $31.99 , {Guyana, South America} 
+Dos Maderas 5+5 PX Rum , 40.0 , Rum , Dos Maderas , $23.65 - $64.09 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+Liberty Tree Boston Rum , 43.0 , Aged Rum , AstraLuna , $24.99 - $34.99 , {Massachusetts, North America, United States} 
+Bacardi 8 Yr Rum W/2 Gls , 40.0 , Rum , Bacardi , $21.99 - $45.99 , {Puerto Rico, North America} 
+Matusalem Rum Platino , 40.0 , Rum , Matusalem , $9.35 - $32.99 , {Dominican Republic, North America} 
+Palms Spiced Rum , 35.0 , Spiced Rum , Palms , $8.99 - $12.99 , {United States, North America} 
+Ron de Jeremy Spiced Rum , 47.0 , Spiced Rum , Ron de Jeremy , $14.99 - $20.57 , {Barbados, North America} 
+Ypióca Cachaça Prata , 40.0 , Rum , Ypióca ,  , {Brazil, South America} 
+Leblon Cachaca Maison Reserve Esp , 40.0 , Rum , Leblon ,  , {Brazil, South America} 
+Cayman Reef Rum 5 Year , 35.0 , Flavored Rum , Cayman Reef , $14.99 - $40.08 , {Cayman Islands, North America} 
+Black Roberts Silver Rum , 40.0 , White Rum , Black Roberts , $8.99 - $14.99 , {United States, North America} 
+Admiral Nelson's Silver Rum , 40.0 , White Rum , Admiral Nelson , $8.25 - $14.99 , {Puerto Rico, North America} 
+Oak & Palm Coconut Rum , 35.0 , Flavored Rum , St. Petersburg Distillery , $14.39 - $24.99 , {Florida, North America, United States} 
+Cutwater Barrel Aged Rum , 40.0 , Aged Rum , Cutwater Spirits , $25.99 - $49.99 , {California, North America, United States} 
+Crusoe Spiced Rum from Greenbar Distillery , 35.0 , Spiced Rum , Greenbar Distillery , $14.99 - $43.69 , {California, North America, United States} 
+Deacon Giles Friendship's Bounty Spiced Rum , 40.0 , Spiced Rum , Deacon Giles Distillery , $27.99 - $33.50 , {Massachusetts, North America, United States} 
+Ron Barcelo Rum Dorado 80 Li , 40.0 , Rum ,  , $8.66 - $21.99 , {Dominican Republic, North America} 
+Wicked Dolphin Crystal Rum , 40.0 , White Rum , Wicked Dolphin , $15.99 - $26.59 , {Florida, North America, United States} 
+Malibu Rum Orange Float , 21.0 , Rum , Malibu , $12.99 - $24.99 , {Barbados, North America} 
+Calico Jack Flavored Rum Mango , 21.0 , Flavored Rum , Calico Jack , $9.49 - $18.99 , {US Virgin Islands, North America} 
+Tenpenny Spiced Rum , 46.5 , Spiced Rum , Tenpenny , $10.99 - $20.99 , {United States, North America} 
+Banks® 7 Island Blend Golden Rum , 43.0 , Aged Rum , Banks , $28.99 - $59.95 , {Trinidad and Tobago, North America} 
+Parce 12 Year Rum , 40.0 , Rum , Parce , $52.70 - $94.99 , {Colombia, South America} 
+Prichards Fine Rum , 40.0 , Rum ,  , $16.99 - $54.99 , {United States, North America} 
+Clement Canne Bleue White Rum , 50.0 , White Rum , Clement , $28.59 - $55.99 , {Martinique, North America} 
+Old Monk Supreme Rum , 42.0 , Rum , Old Monk , $15.99 - $40.99 , {India, Asia} 
+Ron Abuelo XV Tawny Cask Finish , 40.0 , Aged Rum , Ron Abuelo , $47.99 - $89.99 , {Panama, North America} 
+Old Monk The Legend Rum , 46.0 , Aged Rum , Old Monk , $18.99 - $39.99 , { 
+Afrohead Rum 7 Year , 40.0 , Aged Rum , Afrohead , $26.44 - $40.99 , {Trinidad and Tobago, North America} 
+The Kraken Black Spiced Rum Set with Tiki Glass , 47.0 , Spiced Rum , The Kraken , $18.69 - $26.49 , {Trinidad and Tobago, North America} 
+Cockspur 130 Overproof Rum , 65.0 , Rum , Cockspur , $11.99 - $29.99 , {Barbados, North America} 
+Deacon Giles Rum , 40.0 , White Rum , Deacon Giles Distillery , $25.99 - $30.99 , {Massachusetts, North America, United States} 
+Tanduay Silver Rum , 40.0 , White Rum , Tanduay , $11.00 - $27.99 , {Philippines, Asia} 
+Foursquare Single Blended Rum 2005 , 59.0 , Aged Rum , Foursquare , $55.99 - $127.94 , {Barbados, North America} 
+Whalers Rum Vanille , 30.0 , Flavored Rum ,  , $8.99 - $17.49 , {Hawaii, North America, United States} 
+Coppermuse Rum Gold , 40.0 , Gold Rum ,  , $25.99 - $29.99 , {Colorado, North America, United States} 
+George Ocean Spiced Rum , 35.0 , Spiced Rum , George Ocean , $9.95 - $13.39 , { 
+Norseman White Rum , 40.0 , White Rum , Norseman Distillery , $24.97 - $30.79 , {Minnesota, North America, United States} 
+Rumson's Grand Reserve Rum , 40.0 , Aged Rum , Rumson's , $42.41 - $55.95 , {Massachusetts, North America, United States} 
+Duquesne Rhum Blanc , 50.0 , Rum , Duquesne ,  , {Martinique, North America} 
+Black Mask Original Spiced Rum , 40.0 , Spiced Rum , Black Mask , $8.99 - $15.39 , {Thailand, Asia} 
+Neisson 50% Agricole Blanc Rum , 50.0 , Rum , Neisson ,  , {Martinique, North America} 
+Dictador XO Perpetual Rum , 40.0 , Rum , Dictador , $83.99 - $134.39 , {Colombia, South America} 
+Rhum Barbancourt 15 Year , 43.0 , Aged Rum , Rhum Barbancourt , $47.99 - $67.19 , {Haiti, North America} 
+Twenty Boat Spiced Rum , 37.5 , Spiced Rum , Twenty Boat , $37.99 - $67.55 , {Napa Valley, North America, United States, California, North Coast, Napa County} 
+BACARDÍ Gran Reserva Limitada , 40.0 , Rum , Bacardi , $47.99 - $199.99 , {Puerto Rico, North America} 
+Heaven Hill Rum Gold , 40.0 , Gold Rum , Heaven Hill ,  , {Kentucky, North America, United States} 
+Motu Rum , 40.0 , Rum ,  , $12.99 - $32.99 , {Puerto Rico, North America} 
+Don Q Rum Mojito , 20.0 , Flavored Rum , Don Q ,  , {Puerto Rico, North America} 
+Wicked Dolphin Coconut Rum , 40.0 , Flavored Rum , Wicked Dolphin , $18.89 - $29.99 , {Florida, North America, United States} 
+Barbarossa Silver Rum , 40.0 , White Rum , Barbarossa ,  , { 
+Norseman Bourbon Barrel Aged Rum , 40.0 , Aged Rum , Norseman Distillery , $24.97 - $29.99 , {Minnesota, North America, United States} 
+El Dorado White Rum , 40.0 , White Rum , El Dorado , $9.99 - $17.00 , {Guyana, South America} 
+Crusoe Silver Rum from Greenbar Distillery , 40.0 , White Rum , Greenbar Distillery , $16.99 - $42.99 , {California, North America, United States} 
+Rhum J. M. V.S.O.P. Rum , 45.0 , Rum , Rhum J. M. , $37.99 - $99.99 , {Martinique, North America} 
+Ron Corina Silver Rum , 40.0 , White Rum , Ron Corina ,  , {United States, North America} 
+Appleton Special Gold , 43.0 , Gold Rum , Appleton , $9.99 - $27.48 , {Jamaica, North America} 
+Facundo® Exquisito Premium Blended Rum , 40.0 , Rum , Facundo , $73.43 - $169.99 , {Puerto Rico, North America} 
+Ron Carlos Gold Rum , 40.0 , Gold Rum ,  ,  , {US Virgin Islands, North America} 
+Club Caribe Pineapple Rum , 40.0 , Flavored Rum ,  , $8.99 - $16.99 , {Puerto Rico, North America} 
+Foursquare Port Cask Finish Rum 9 Year , 40.0 , Aged Rum , Foursquare , $39.99 - $99.99 , {Barbados, North America} 
+Mad River Maple Cask Rum , 48.0 , Rum , Mad River , $26.99 - $54.99 , {Vermont, North America, United States} 
+Cachaca 51 Rum , 40.0 , Rum , Cachaca 51 ,  , {Brazil, South America} 
+Lady Bligh Spiced Rum 72.5' , 36.25 , Spiced Rum , Lady Bligh , $8.49 - $14.99 , {United States, North America} 
+Rogue Hazelnut Spice Rum , 40.0 , Rum , Rogue Ales & Spirits , $10.99 - $62.09 , {Oregon, North America, United States} 
+George Ocean Gold Rum , 40.0 , Gold Rum , George Ocean , $9.95 - $12.98 , { 
+Wiggly Bridge Small Barrel Rum , 40.0 , Aged Rum , Wiggly Bridge , $32.99 - $46.99 , {Maine, North America, United States} 
+Grander Panama Rum 8 Year , 45.0 , Aged Rum , Grander Rum , $20.99 - $41.99 , {Panama, North America} 
+Ron Centenario 7 year Anejo Especial Rum  , 40.0 , Aged Rum , Ron Centenario , $15.68 - $29.99 , {Costa Rica, North America} 
+Balcones Texas Rum Special Release , 63.9 , Rum , Balcones , $56.83 - $89.99 , {Texas, North America, United States} 
+Cockspur Fine Rum , 40.0 , Rum , Cockspur , $14.55 - $29.66 , {Barbados, North America} 
+J M Rhum Gold Paille , 50.0 , Gold Rum , Rhum J. M. , $24.99 - $57.99 , {Mauritius, Africa} 
+George Bowman Small Batch Dark Caribbean Rum , 40.0 , Dark Rum , George Bowman , $24.99 - $49.99 , {Bermuda, North America} 
+Papagayo Spiced Rum , 40.0 , Spiced Rum , Altitude Spirits , $29.99 - $44.99 , {Paraguay, South America} 
+Ron Virgin Rum Spiced Black , 47.0 , Spiced Rum ,  , $9.99 - $15.99 , {Massachusetts, North America, United States} 
+Sun Rum Silver , 45.0 , White Rum , Sun Liquor , $29.99 - $31.99 , {Washington, North America, United States} 
+Diplomatico Single Vintage Rum , 43.0 , Aged Rum , Diplomatico , $99.99 - $159.99 , {Venezuela, South America} 
+Rumson's Spiced Rum , 40.0 , Spiced Rum , Rumson's , $26.99 - $35.00 , {Massachusetts, North America, United States} 
+Rhum Barbancourt 3 Star 4 Year , 43.0 , Aged Rum , Rhum Barbancourt , $16.99 - $30.00 , {Haiti, North America} 
+Cache Mamajuana Spiced Rum , 40.0 , Spiced Rum , Cache , $24.99 - $28.49 , {Dominican Republic, North America} 
+Rum Jumbie Rum Vanilla Splash , 24.0 , Flavored Rum , Rum Jumbie , $11.19 - $17.00 , {Panama, North America} 
+Adm Nelson Cherry Spiced Rum , 30.0 , Spiced Rum ,  , $8.79 - $15.39 , {Puerto Rico, North America} 
+Ron Rio Silver Rum Plastic , 40.0 , White Rum , Ron Rio ,  , {Puerto Rico, North America} 
+Panama Pacific Rum 9 Year , 47.3 , Aged Rum ,  , $15.00 - $50.99 , {California, North America, United States} 
+Balcones Rumble Cask Reserve 125. , 62.6 , Rum , Balcones , $64.81 - $99.99 , {Texas, North America, United States} 
+Trader Vics Silver Rum , 40.0 , White Rum , Trader Vic's ,  , {California, North America, United States} 
+Santa Cruz Light Rum , 50.0 , White Rum , Santa Cruz ,  , {California, North America, United States} 
+ZIAMI Platinum Rum , 40.0 , White Rum , ZIAMI , $26.99 - $50.99 , {Florida, North America, United States} 
+Mekhong Spirit Of Thailand , 35.0 , Rum ,  , $13.99 - $32.99 , {Thailand, Asia} 
+Short Path Gold Rum , 40.0 , Gold Rum , Short Path , $30.99 - $36.50 , {Massachusetts, North America, United States} 
+St. Augustine Rum , 45.0 , Gold Rum , St. Augustine Distillery , $30.39 - $45.99 , {Florida, North America, United States} 
+Malibu Pineapple Upside Down Cake Rum , 21.0 , Flavored Rum , Malibu , $9.99 - $29.49 , {California, North America, United States} 
+Stoneyard Colorado Rum , 42.0 , White Rum , Stoneyard Distillery , $16.99 - $29.99 , {Colorado, North America, United States} 
+Parce Rum 3 Year Single , 43.0 , Rum , Parce ,  , {Colombia, South America} 
+Copalli White Rum , 42.0 , White Rum , Copalli Rum , $22.99 - $43.99 , {Belize, North America} 
+Caña Brava Reserva Añeja Rum 7 Year , 45.0 , Aged Rum , Cana Brava , $25.99 - $55.99 , {Panama, North America} 
+Maine Craft Distilling Queequeg , 45.0 , Rum , Maine Craft Distilling , $29.99 - $32.14 , {Maine, North America, United States} 
+Ron Centenario 18 year Reserva de la Familia Rum  , 40.0 , Aged Rum , Ron Centenario , $39.97 - $64.99 , {Costa Rica, North America} 
+Chairman's Reserve The Forgotten Casks Rum , 40.0 , Rum ,  , $29.99 - $243.99 , {Saint Lucia, North America} 
+Malibu Rum Coconut By U Ltd Ed , 21.0 , White Rum , Malibu , $12.99 - $26.99 , {Barbados, North America} 
+Sword Swollower Rum , 40.0 , White Rum , Backwards Distilling Company , $25.99 - $31.99 , {Wyoming, North America, United States} 
+Plantation Rum Barbados 5 Year , 40.0 , Rum , Plantation , $19.99 - $58.99 , {Barbados, North America} 
+Dominican Club Silver Rum , 40.0 , White Rum , Dominican Club , $9.99 - $19.99 , {Dominican Republic, North America} 
+Whalers Rum Killer Coconut , 20.0 , Flavored Rum ,  , $8.79 - $16.24 , {United States, North America} 
+Malahat Ginger Rum , 35.0 , Rum , Malahat , $26.99 - $55.99 , {California, North America, United States} 
+Foursquare Sagacity Rum , 48.0 , Aged Rum , Foursquare , $59.99 - $105.00 , {Barbados, North America} 
+Cabana Cachaca , 40.0 , Rum ,  , $15.41 - $47.99 , {Brazil, South America} 
+Wicked Dolphin Spiced Reserve Rum , 40.0 , Spiced Rum , Wicked Dolphin , $15.99 - $39.99 , {Florida, North America, United States} 
+Calvert Woodley Wst In Gold Rum , 40.0 , Gold Rum , Calvert ,  , {United States, North America} 
+Port Royal Spice Rum , 33.0 , Spiced Rum ,  ,  , {Jamaica, North America} 
+Whalers Rare Reserve Rum , 40.0 , Rum ,  , $9.99 - $16.00 , {United States, North America} 
+Afrohead 15 Yr , 43.0 , Aged Rum , Afrohead , $31.99 - $61.97 , {Trinidad and Tobago, North America} 
+Maggie's Farm La Revulta , 40.0 , Dark Rum , Maggies Farm , $28.99 - $49.99 , {Pennsylvania, North America, United States} 
+Black Coral Spiced Rum , 40.0 , Spiced Rum , Black Coral , $19.99 - $26.99 , {Florida, North America, United States} 
+Rondiaz Rum Raspberry , 21.0 , Flavored Rum , Rondiaz , $9.99 - $13.99 , { 
+Koloa Reserve 12-Barrel Select Aged Hawaiian Rum , 46.0 , Aged Rum , Koloa Rum , $47.29 - $59.99 , {Hawaii, North America, United States} 
+Dominican Club Anejo Rum , 40.0 , Rum , Dominican Club , $9.99 - $19.99 , {Dominican Republic, North America} 
+Jack Flavored Rum Coconut 42 , 21.0 , Flavored Rum ,  ,  , {US Virgin Islands, North America} 
+Ron Abuelo Rum 7 Yr , 40.0 , Rum , Ron Abuelo , $17.99 - $39.99 , {Panama, North America} 
+Hamilton Navy Strength Rum 114pf , 57.0 , Rum , Hamilton , $24.99 - $95.99 , {Jamaica, North America} 
+Code Spiced Rum , 45.0 , Dark Rum , Code , $15.99 - $22.99 , {Florida, North America, United States} 
+Short Path Distillery Rosid , 35.0 , Flavored Rum , Short Path , $31.00 - $36.50 , {Massachusetts, North America, United States} 
+Foursquare Premise Rum , 46.0 , Rum , Foursquare , $51.99 - $92.40 , {Barbados, North America} 
+Smith and Cross Rum , 57.0 , Rum , Smith & Cross , $28.00 - $39.99 , {Jamaica, North America} 
+Diplomatico Rum Anejo , 40.0 , Rum , Diplomatico , $13.99 - $32.95 , {Venezuela, South America} 
+Berkshire Distillers Ragged Mountain Rum , 40.0 , Rum , Berkshire Brewing Company , $22.99 - $49.99 , {Massachusetts, North America, United States} 
+English Harbor Rum 5 Year , 40.0 , Rum , English Harbour , $19.99 - $105.99 , {Antigua and Barbuda, North America} 
+Three Sheets Spiced Rum , 40.0 , Spiced Rum ,  , $21.99 - $41.99 , {California, North America, United States} 
+RONDIAZ Spiced Black Cherry Rum , 40.0 , Flavored Rum , Rondiaz , $8.99 - $14.99 , {Barbados, North America} 
+Gubba Silver Rum , 35.0 , White Rum , Gubba Rum , $19.18 - $22.99 , {Massachusetts, North America, United States} 
+Ron Centenario 30 year Edicion Limitada , 40.0 , Aged Rum , Ron Centenario , $99.99 - $209.99 , {Costa Rica, North America} 
+Atlántico Rum Gran Reserva , 40.0 , Dark Rum , Atlantico , $29.69 - $40.99 , {Dominican Republic, North America} 
+Caribaya Spiced Rum , 24.0 , Spiced Rum , Caribaya ,  , {Puerto Rico, North America} 
+Neisson Eleve Sous Bois Agricole Rum , 50.0 , Rum , Neisson ,  , {Martinique, North America} 
+Margaritaville Dark Rum , 40.0 , Dark Rum , Margaritaville , $9.99 - $19.99 , {Florida, North America, United States} 
+Vizcaya Cristal Rum , 40.0 , Rum , Vizcaya , $14.27 - $35.99 , {Dominican Republic, North America} 
+Mad River First Run Rum , 48.0 , Aged Rum , Mad River , $19.99 - $43.99 , {Vermont, North America, United States} 
+Joel Richard Esencia Colombian Rum 25 Year , 40.0 , Aged Rum , Joel Richard , $82.99 - $111.99 , {Colombia, South America} 
+Parrot Bay Punch , 12.5 , Flavored Rum , Parrot Bay ,  , {Kentucky, North America, United States} 
+Don Pancho Reserva 8 Yr Rum , 40.0 , Rum , Don Pancho , $19.99 - $60.99 , {Panama, North America} 
+Palms Gold Rum , 40.0 , Flavored Rum , Palms , $8.99 - $12.99 , {United States, North America} 
+Malahat Black Tea Rum , 35.0 , Rum , Malahat , $12.99 - $55.99 , {California, North America, United States} 
+Waypoint Spiced Rum , 35.0 , Spiced Rum , Waypoint , $19.99 - $25.99 , {Connecticut, North America, United States} 
+Cape Cod Great White Rum , 43.0 , White Rum , AstraLuna , $22.99 - $39.99 , {Massachusetts, North America, United States} 
+Wiggly Bridge White Rum , 40.0 , White Rum , Wiggly Bridge , $32.99 - $40.50 , {Maine, North America, United States} 
+Still the One Byram River Rum , 40.0 , White Rum , Still The One Distillery , $29.00 , {New York, North America, United States} 
+Hampden Estate Overproof Rum , 60.0 , Rum , Hampden Estate , $66.99 - $90.99 , {Jamaica, North America} 
+Atlantico Rum Reserve , 40.0 , Gold Rum , Atlantico , $17.33 - $49.99 , {Dominican Republic, North America} 
+Sagatiba Cachaca Pura , 38.0 , Rum , Sagatiba , $19.99 - $43.99 , {Brazil, South America} 
+Ron Rico Rum Clipper Spiced , 35.0 , Spiced Rum , Ronrico , $8.99 - $17.99 , {Puerto Rico, North America} 
+Malibu Rum Peaches N'cream , 21.0 , Rum , Malibu , $10.99 - $23.99 , {Barbados, North America} 
+Ron Carlos Dark Rum , 40.0 , Dark Rum ,  ,  , {US Virgin Islands, North America} 
+Papagayo Platinum Rum , 40.0 , White Rum , Altitude Spirits , $29.99 - $44.99 , {Paraguay, South America} 
+Rico Bay Rum Gold , 40.0 , Gold Rum ,  ,  , {Puerto Rico, North America} 
+Demerara Skipper Rum Dark Rum , 40.0 , Rum , Demerara , $27.00 - $35.99 , {Guyana, South America} 
+Foursquare 2004 Cask Strength Single Blended Rum , 59.0 , Aged Rum , Foursquare , $64.99 - $99.99 , {Barbados, North America} 
+Red Rum Voodoo Spiced Rum , 35.0 , Spiced Rum , Red Rum , $11.99 - $36.99 , {United States, North America} 
+Atlántico Rum Platino , 40.0 , White Rum , Atlantico , $14.99 - $33.99 , {Dominican Republic, North America} 
+Kalembu Mamajuana , 30.0 , Rum , J & J Spirits , $11.99 - $25.99 , {Dominican Republic, North America} 
+Don Pancho Reserva 18 Yr Rum , 40.0 , Rum , Don Pancho , $49.95 - $121.99 , {Panama, North America} 
+Trader Vic's 151 Rum , 75.5 , Rum , Trader Vic's , $24.99 , {California, North America, United States} 
+Bayou Select Rum , 40.0 , Rum , Bayou , $16.99 - $49.99 , {Louisiana, North America, United States} 
+Heaven Hill Lt Rum , 75.5 , White Rum , Heaven Hill ,  , {Kentucky, North America, United States} 
+Mr. Boston Silver Rum , 40.0 , White Rum , Mr. Boston ,  , {Kentucky, North America, United States} 
+Panama Pacific Rum 23 Year , 42.3 , Aged Rum , Panama Pacific , $51.99 - $89.95 , {Panama, North America} 
+Code Key Lime Rum , 35.0 , Flavored Rum , Code , $18.99 - $22.99 , {Florida, North America, United States} 
+New Grove Silver Rum , 40.0 , White Rum , New Grove , $15.99 - $25.99 , {Mauritius, Africa} 
+Plantation Rum Peru 2004 , 43.5 , Aged Rum ,  , $45.99 - $76.99 , {Peru, South America} 
+Don Papa Rum 10 Years , 43.0 , Aged Rum , Don Papa , $58.99 - $84.00 , {Philippines, Asia} 
+Dictador 20 year Rum , 40.0 , Rum , Dictador , $29.99 - $99.99 , {Colombia, South America} 
+Marti Mojito Rum , 40.0 , Rum , Marti , $11.99 - $28.74 , {Cuba, North America} 
+Yolo Rum Gold 10 Year , 40.0 , Gold Rum , YOLO , $19.99 - $50.99 , {Colorado, North America, United States} 
+Bacardi Raspberry Mojito , 15.0 , Flavored Rum , Bacardi , $9.83 - $18.95 , {Puerto Rico, North America} 
+Facundo® Paraiso XA Premium Rum , 40.0 , Aged Rum , Facundo , $207.90 - $349.99 , {Puerto Rico, North America} 
+Dominican Club Gold Rum , 40.0 , Gold Rum , Dominican Club , $8.99 - $17.99 , {Dominican Republic, North America} 
+Margaritaville Coconut Rum , 42.0 , Flavored Rum , Margaritaville , $8.99 - $17.99 , {Florida, North America, United States} 
+Ron Corina Gold Rum , 40.0 , Gold Rum , Ron Corina ,  , {United States, North America} 
+Boqueron Coconut Rum , 40.0 , Flavored Rum , Boqueron , $12.99 - $14.55 , {Puerto Rico, North America} 
+XM Supreme Caribbean Rum 15 Year  , 40.0 , Aged Rum , Banks DIH , $29.99 - $58.23 , {Guyana, South America} 
+Brinley Gold Coconut Cream Rum , 15.0 , Flavored Rum , Brinley Gold Shipwreck , $20.99 - $30.99 , {Saint Kitts and Nevis, North America} 
+Marti Plata Rum , 40.0 , White Rum , Marti , $12.99 - $26.44 , {Panama, North America} 
+The Family Jones "Mo Jones" Rum , 40.0 , Rum , The Family Jones , $29.98 - $33.00 , {Colorado, North America, United States} 
+Ron Botran Rum de Solera , 40.0 , Rum , Ron Botran , $26.13 - $51.99 , {Guatemala, North America} 
+Tommy Bahama White Sand Rum , 40.0 , White Rum , Tommy Bahama , $14.99 - $89.99 , {Barbados, North America} 
+Captain Morgan Sherry Oak Finish Spiced Rum , 35.0 , Spiced Rum , Captain Morgan , $9.99 - $32.49 , {US Virgin Islands, North America} 
+Pusser's Rum 15 Year , 40.0 , Rum , Pussers , $49.99 - $96.95 , {British Virgin Islands, North America} 
+Trader Vics Dark Rum , 40.0 , Dark Rum , Trader Vic's , $9.99 - $25.07 , {California, North America, United States} 
+Cruzan Orange Rum , 21.0 , Flavored Rum , Cruzan , $8.99 - $19.99 , {Saint Croix, North America, US Virgin Islands} 
+Calico Jack Spiced Rum 94 , 47.0 , Spiced Rum , Calico Jack , $9.99 - $19.19 , {US Virgin Islands, North America} 
+Ron Llave Supremo Puerto Rican Light Rum , 40.0 , White Rum , Ron Llave , $8.99 - $10.99 , {Cuba, North America} 
+Clement Premiere Canne , 40.0 , White Rum , Clement , $16.99 - $101.99 , {France, Europe} 
+Seagram's Brazilian Rum Citrus , 35.0 , Rum , Seagram's , $10.99 - $14.99 , {Brazil, South America} 
+Ron Cartavio Silver , 40.0 , Rum , Ron Cartavio , $8.99 - $20.99 , {Peru, South America} 
+Damoiseau Rhum , 55.0 , Rum , Damoiseau , $36.99 , {France, Europe} 
+Rum Jumbie Rum Pineapple Splash , 24.0 , Flavored Rum , Rum Jumbie ,  , {Panama, North America} 
+Licores Veracruz Mocambo 20 Year Rum , 40.0 , Rum , Licores Veracruz , $34.99 - $59.99 , {Mexico, North America} 
+Cruzan Coconut Rum 55 W/2 Mason Jars , 21.0 , Flavored Rum , Cruzan , $12.09 - $13.99 , {US Virgin Islands, North America} 
+Mccormick Light Rum , 40.0 , White Rum , McCormick ,  , {Missouri, North America, United States} 
+Whalers Spiced Rum , 35.0 , Spiced Rum ,  , $8.99 - $25.89 , {United States, North America} 
+Wray & Nephew Rum Cream , 15.0 , Rum , Wray & Nephew , $18.99 - $19.99 , {Jamaica, North America} 
+Sammys Beach Bar Hawiian Macadamia Nut Rum 80 P , 35.0 , Rum ,  , $18.99 - $27.99 , {Hawaii, North America, United States} 
+Mohawk Gold Rum , 40.0 , Gold Rum ,  ,  , { 
+Mezan Panama 2006 , 40.0 , Aged Rum ,  , $38.99 - $61.99 , {Panama, North America} 
+Ron Centenario 12 year Gran Legado Rum , 40.0 , Aged Rum , Ron Centenario , $24.75 - $43.99 , {Costa Rica, North America} 
+Parce 8 Year Rum , 40.0 , Rum , Parce , $30.70 - $55.99 , {Colombia, South America} 
+El Dorado Rum De Luxe Silver 6 Yr , 40.0 , White Rum , El Dorado , $18.99 - $32.99 , {Guyana, South America} 
+Bellows Lt Rum , 40.0 , White Rum , Bellows ,  , {United Kingdom, Europe} 
+Tropical Breeze White Rum , 40.0 , White Rum ,  ,  , { 
+Mad Rabbit Bravo Zulu Rum , 40.0 , Aged Rum , Mad Rabbit Distillery , $17.99 - $74.99 , {Colorado, North America, United States} 
+Cruzan Citrus Rum , 35.0 , Flavored Rum , Cruzan , $9.99 - $24.99 , {Saint Croix, North America, US Virgin Islands} 
+Stroh Rum 80 , 80.0 , Spiced Rum , Stroh , $25.29 - $49.99 , {Austria, Europe} 
+10 Cane Rum , 40.0 , Rum , 10 Cane , $14.99 - $47.99 , {Trinidad and Tobago, North America} 
+Hooks Spiced Rum , 30.0 , Spiced Rum ,  , $9.98 - $17.99 , {Missouri, North America, United States} 
+Skol Gold Rum , 40.0 , Gold Rum , Skol ,  , {United States, North America} 
+Pecan Street Rum , 40.0 , Rum ,  , $19.99 - $29.99 , {Texas, North America, United States} 
+Malahat White Rum , 35.0 , White Rum , Malahat , $26.99 - $49.49 , {California, North America, United States} 
+Tiburon Small Batch Aged Rum , 40.0 , Aged Rum , Tiburon , $19.99 - $50.99 , {Belize, North America} 
+Street Pumas Rum , 40.0 , Rum , Street Pumas ,  , {Panama, North America} 
+Diamond Reserve Spiced Rum , 35.0 , Spiced Rum , Diamond Reserve , $11.19 - $21.00 , {Guyana, South America} 
+Dictador 100 Month Aged Amber Rum , 40.0 , Aged Rum , Dictador , $24.99 - $44.99 , {Colombia, South America} 
+Two James Dr Bird Jamaica Rum , 50.0 , Aged Rum , Two James , $35.99 , {Michigan, North America, United States} 
+XM Royal Rum 10 Year , 40.0 , Aged Rum , XM , $19.99 - $57.99 , { 
+Barbarossa Gold Rum , 40.0 , Gold Rum , Barbarossa ,  , { 
+Rum Jumbie Rum Coconut Splash , 24.0 , Flavored Rum , Rum Jumbie , $11.19 - $22.99 , {Panama, North America} 
+11 Wells Boiler Room Rum , 42.0 , Rum , 11 Wells , $27.99 - $30.79 , {Minnesota, North America, United States} 
+Blackbeard Spiced Rum , 43.0 , Spiced Rum ,  , $9.59 - $24.19 , {Puerto Rico, North America} 
+Pocket Shots Rum , 40.0 , Rum ,  ,  , { 
+Oak & Palm Spiced Rum , 35.0 , Spiced Rum , St. Petersburg Distillery , $13.79 - $24.99 , {Florida, North America, United States} 
+Clement Cuvee Homere , 35.0 , Rum , Clement , $79.99 - $179.99 , {France, Europe} 
+Boqueron Rum Silver , 40.0 , White Rum ,  , $14.55 , {Puerto Rico, North America} 
+Dictador XO Insolent , 40.0 , Rum , Dictador , $83.99 - $169.99 , {Colombia, South America} 
+Ron Roberto Spiced Rum , 40.0 , Spiced Rum , Ron Roberto ,  , { 
+Foursquare Spiced Rum , 35.0 , Spiced Rum , Foursquare , $11.99 - $21.99 , { 
+Marti Estate Strength Rum , 53.8 , Aged Rum , Marti , $15.99 - $32.99 , {Panama, North America} 
+XM Royal Rum 10 Year , 40.0 , Aged Rum , XM , $19.99 - $57.99 , { 
+Barbarossa Gold Rum , 40.0 , Gold Rum , Barbarossa ,  , { 
+Bacardi Rum Grand Melon , 35.0 , Flavored Rum , Bacardi ,  , {Puerto Rico, North America} 
+El Dorado Dark Rum , 37.5 , Dark Rum , El Dorado , $9.99 - $21.73 , {Guyana, South America} 
+Ron Abuelo Rum Centuria , 40.0 , Rum , Ron Abuelo , $115.99 - $229.99 , {Panama, North America} 
+Goslings Family Reserve Old Rum , 40.0 , Rum , Goslings , $45.99 - $107.99 , {Bermuda, North America} 
+Agua Luca Cachaca , 40.0 , Rum ,  , $27.99 - $41.99 , {Brazil, South America} 
+Downslope Spiced Rum , 40.0 , Spiced Rum , Downslope , $24.99 , {Colorado, North America, United States} 
+Coruba Jamaican Mango Rum , 40.0 , Flavored Rum , Coruba , $9.99 - $14.99 , {Jamaica, North America} 
+Wicked Dolphin Silver Reserve Rum , 40.0 , White Rum , Wicked Dolphin , $18.99 - $34.99 , {Florida, North America, United States} 
+Wray & Nephew Rum White 126 , 63.0 , White Rum , Wray & Nephew ,  , {Jamaica, North America} 
+Rumson's Rum , 40.0 , Spiced Rum , Rumson's , $24.99 - $39.99 , {Massachusetts, North America, United States} 
+Denver Distillery Silver Rum , 40.0 , White Rum , Denver Distillery ,  , {Colorado, North America, United States} 
+Denver Distillery Dark Rum , 36.0 , Dark Rum , Denver Distillery ,  , {Colorado, North America, United States} 
+Denizen Vatted Dark Rum , 50.0 , Dark Rum , Denizen , $22.99 - $33.99 , { 
+Kula Toasted Coconut Rum , 35.0 , Flavored Rum , Kula Rum , $18.69 - $25.67 , {Hawaii, North America, United States} 
+Kula Dark Rum , 47.5 , Dark Rum , Kula Rum , $18.69 - $25.67 , {Hawaii, North America, United States} 
+Stroh Rum 160 Proof , 80.0 , Gold Rum , Stroh , $29.99 - $46.99 , {Austria, Europe} 
+Ed Hardy Spiced Rum , 35.0 , Spiced Rum , Ed Hardy , $14.87 , {Puerto Rico, North America} 
+Eastside Distillery Hue Hue Coffee Rum , 35.0 , Flavored Rum , Eastside Distilling , $21.99 , {Oregon, North America, United States} 
+Angostura 1824 Premium Rum , 40.0 , Rum , Angostura , $36.99 - $98.99 , {Trinidad and Tobago, North America} 
+Facundo® Eximo 10 Year Old Premium Rum , 40.0 , Aged Rum , Facundo , $49.50 - $125.09 , {Puerto Rico, North America} 
+Cockspur Old Gold Rum , 40.0 , Gold Rum , Cockspur , $15.49 - $33.09 , {Barbados, North America} 
+Cockspur Spiced Rum , 37.5 , Spiced Rum , Cockspur , $13.99 - $27.59 , {Barbados, North America} 
+Plantation Rum Barbados , 42.0 , Rum , Plantation , $38.99 - $80.99 , {Barbados, North America} 
+Wicked Dolphin Strawberry Rumshine , 40.0 , Flavored Rum , Wicked Dolphin , $18.39 - $24.99 , {Florida, North America, United States} 
+Coppermuse Rum Silver , 40.0 , White Rum ,  , $25.99 - $29.99 , {Colorado, North America, United States} 
+Flor De Cana Centenario 25 Yr , 40.0 , Rum , Flor de Caña Rum , $169.00 - $200.00 , {Nicaragua, North America} 
+Diamond Head Dark Rum , 40.0 , Dark Rum , Frank-Lin ,  , {United States, North America} 
+Tattersall Blackstrap Rum , 45.0 , White Rum , Tattersall , $26.99 - $34.99 , {Minnesota, North America, United States} 
+Six Saints Rum , 41.7 , Spiced Rum , Six Saints , $9.99 - $35.99 , {Grenada, North America} 
+Treasure Island Rum , 35.0 , Rum , Treasure Island ,  , {United States, North America} 
+Clement 10 Year Rum , 44.0 , Rum , Clement , $69.99 - $89.99 , {France, Europe} 
+Old New Orleans 10 Year , 40.0 , Rum , Old New Orleans , $98.99 , {Louisiana, North America, United States} 
+Treasure Island Spiced Rum , 35.0 , Spiced Rum , Treasure Island , $8.99 - $13.74 , {United States, North America} 
+Pyrat 'Cask 1623' Rum , 40.0 , Rum , Pyrat , $40.99 - $449.95 , {Anguilla, North America} 
+Treasure Island Spiced Rum , 35.0 , Spiced Rum , Treasure Island , $8.99 - $13.74 , {United States, North America} 
+Pyrat 'Cask 1623' Rum , 40.0 , Rum , Pyrat , $40.99 - $449.95 , {Anguilla, North America} 
+Starr African Rum , 40.0 , Rum , Starr , $19.80 - $49.99 , OriginNotFound 
+Trader Vic's Spiced Rum , 35.0 , Spiced Rum , Trader Vic's , $10.49 - $19.99 , {California, North America, United States} 
+Puerto Angel Anejo Rum , 40.0 , Rum , Puerto Angel , $22.77 - $32.99 , {Puerto Rico, North America} 
+Penny Blue XO Mauritian Rum , 44.1 , Rum , Penny Blue , $35.99 - $97.99 , {Mauritius, Africa} 
+Mt. Defiance Rum , 40.0 , Rum , Mt. Defiance , $26.99 - $38.99 , {Virginia, North America, United States} 
+Cuba Libre White Rum , 44.0 , White Rum ,  ,  , { 
+Damoiseau Virgin Cane Rum , 40.0 , White Rum , Damoiseau , $27.49 - $39.99 , {Switzerland, Europe} 
+Depaz Agricole Rum , 58.5 , Rum , Depaz , $29.99 - $49.99 , {Martinique, North America} 
+Depaz Amber Rhum , 45.0 , Rum , Depaz ,  , {Martinique, North America} 
+Calico Jack Flavored Rum Chocolate Coconut , 21.0 , Flavored Rum , Calico Jack , $8.99 - $22.99 , {British Virgin Islands, North America} 
+Whalers Rum Pineapple Paradise , 24.0 , Flavored Rum ,  , $8.99 - $17.99 , {United States, North America} 
+Adm Nelson Spiced Rum Pet , 35.0 , Spiced Rum ,  , $9.99 - $12.49 , {Kentucky, North America, United States} 
+Club Caribe Lemon Rum , 40.0 , Flavored Rum ,  , $8.99 - $14.99 , {Puerto Rico, North America} 
+Conch Republic Dark , 40.0 , Dark Rum , Conch Republic ,  , {Florida, North America, United States} 
+Pocket Shots Spiced Rum , 40.0 , Spiced Rum ,  ,  , { 
+Railean Texas White Rum , 38.0 , White Rum ,  , $19.46 - $24.95 , {Texas, North America, United States} 
+Railean Xo Reserve Rum , 40.0 , Rum ,  , $16.75 - $30.99 , {Texas, North America, United States} 
+Ron Abuelo 7 Yr W/2 Gls , 40.0 , Rum , Ron Abuelo , $17.99 - $29.99 , {Panama, North America} 
+Conch Republic Dark , 40.0 , Dark Rum , Conch Republic ,  , {Florida, North America, United States} 
+Toucano Rum , 40.0 , Rum ,  ,  , {Brazil, South America} 
+Calico Jack Spiced Rum Cherry Spiced , 21.0 , Spiced Rum , Calico Jack , $8.39 - $14.99 , {US Virgin Islands, North America} 
+Whalers Rum Pineapple Paradise , 24.0 , Flavored Rum ,  , $8.99 - $17.99 , {United States, North America} 
+Adm Nelson Spiced Rum Pet , 35.0 , Spiced Rum ,  , $9.99 - $12.49 , {Kentucky, North America, United States} 
+Seven Tiki Spiced Rum , 35.0 , Spiced Rum ,  , $9.99 - $31.24 , {Fiji, Oceania} 
+Wicked Dolphin Blueberry Rumshine , 40.0 , Flavored Rum , Wicked Dolphin , $18.39 - $22.99 , {Florida, North America, United States} 
+Capt Morgan P Bay Mojito Mango , 12.7 , Rum ,  ,  , {Puerto Rico, North America} 
+Highwood Rum , 40.0 , Rum , Highwood , $19.95 - $27.09 , {United Kingdom, Europe} 
+Arehucas Carta Blanca Rum , 37.5 , Rum ,  , $24.63 , {Canary Islands, Europe, Spain} 
+Opthimus Rum 18 Yr , 38.0 , Rum ,  , $54.99 - $79.99 , {Dominican Republic, North America} 
+Timber Creek Coffee Rum , 45.75 , Flavored Rum , Timber Creek , $15.99 - $24.99 , {Florida, North America, United States} 
+Consuego Horchata , 40.0 , Flavored Rum ,  , $11.49 - $29.08 , {United States, North America} 
+Phraya Gold Rum , 40.0 , Gold Rum , Phraya , $36.99 - $54.99 , {United Kingdom, Europe} 
+Richland Single Estate Old Georgia Rum , 43.0 , Aged Rum , Richland , $51.99 - $66.99 , {Georgia, North America, United States} 
+Rondiaz Lemon Rum , 35.0 , Flavored Rum , Rondiaz , $9.55 , {Puerto Rico, North America} 
+Still The One Rum , 40.0 , White Rum , Still The One Distillery , $31.99 - $35.99 , {New York, North America, United States} 
+Commander's Call Silver Rum , 40.0 , White Rum , Commander's Call ,  , { 
+Commander's Call Spiced Rum , 35.0 , Spiced Rum , Commander's Call ,  , { 
+Doorly's Macaw White Rum , 40.0 , White Rum , Doorly's ,  , { 
+HH Bespoke Rum , 40.0 , Rum ,  , $60.00 , {New York, North America, United States} 
+RONDIAZ Spiced Apple Rum , 30.0 , Spiced Rum , Rondiaz ,  , {Puerto Rico, North America} 
+Don Q Double Aged Sherry Cask Finish Rum , 41.0 , Rum , Don Q , $59.99 , { 
+Ron Atlantico Rum Dark Prv W/Pitch , 40.0 , Dark Rum , Atlantico , $12.99 - $41.49 , {Dominican Republic, North America} 
+Admiral Nelson's Black Patch Spiced Rum , 47.0 , Spiced Rum , Admiral Nelson , $8.99 - $19.79 , {Kentucky, North America, United States} 
+Diplomatico Collection No. 1 Batch Kettle Rum , 47.0 , Rum , Diplomatico , $61.99 - $104.99 , {Venezuela, South America} 
+Sx Liquors Samba , 35.0 , Rum , Sx Liquors , $18.99 - $38.99 , {Mexico, North America} 
+Montecristo Rum 12 Year , 40.0 , Rum ,  , $39.98 , { 
+Lady Bligh Coconut Rum , 40.0 , Flavored Rum , Lady Bligh ,  , {United States, North America} 
+Trader Vics Gold Rum , 75.5 , Gold Rum , Trader Vic's , $9.99 - $18.99 , {California, North America, United States} 
+Mayfair Providencia Rum , 40.0 , Rum , Mayfair , $16.99 - $32.99 , {United Kingdom, Europe} 
+Caliche Rum , 40.0 , Rum , Caliche , $11.50 - $30.79 , {Puerto Rico, North America} 
+El Dorado Rum Single Barrel Pm , 40.0 , Rum , El Dorado , $69.99 - $115.19 , {Guyana, South America} 
+Redrum Rum Tropical Fruit Flv , 35.0 , Flavored Rum ,  , $15.99 - $36.09 , {United States, North America} 
+Chairmans S Lucia Silver Rum , 40.0 , White Rum ,  ,  , {Saint Lucia, North America} 
+Chairmans St Lucia 1931 Rum , 40.0 , Rum ,  , $69.99 - $99.95 , {Saint Lucia, North America} 
+Charbay Tahitian Vanilla Bean Rum , 35.0 , Flavored Rum , Charbay , $19.99 - $53.90 , {California, North America, United States} 
+El Dorado Single Barrel EHP Demara Rum , 40.0 , Rum , El Dorado , $69.99 - $114.99 , {Guyana, South America} 
+Calico Jack Flavored Rum Key Lime Pie , 21.0 , Flavored Rum , Calico Jack , $8.99 - $12.50 , {US Virgin Islands, North America} 
+Adm Nelson Coco Rum Pet , 21.0 , Rum ,  , $8.99 - $12.99 , {Puerto Rico, North America} 
+Adm Nelson Dark Rum , 40.0 , Dark Rum ,  , $8.99 - $10.99 , {Puerto Rico, North America} 
+Adm Nelson Gold Rum , 40.0 , Gold Rum ,  , $8.49 - $12.99 , {Puerto Rico, North America} 
+Eastside Distilling Below Deck Ginger Rum , 40.0 , Flavored Rum , Eastside Distilling , $12.99 - $21.99 , {Oregon, North America, United States} 
+Club Caribe Citrus Rum , 40.0 , Flavored Rum ,  , $8.99 - $12.99 , {Puerto Rico, North America} 
+Club Caribe Mango Rum , 43.0 , Flavored Rum ,  , $8.99 - $16.99 , {Puerto Rico, North America} 
+Malibu Spiced Rum&Clb Soda Rtd Cn , 35.0 , Spiced Rum , Malibu ,  , {United States, North America} 
+Margaritaville Spiced Rum Bar , 40.0 , Spiced Rum , Margaritaville ,  , {Florida, North America, United States} 
+Monarch Rum , 75.5 , Rum , Monarch , $16.65 - $21.49 , {US Virgin Islands, North America} 
+Cocoribe Original , 21.0 , Rum , Cocoribe ,  , {US Virgin Islands, North America} 
+Three Sheets Barrel Aged Rum , 40.0 , Aged Rum ,  , $39.99 , {California, North America, United States} 
+Tropical Breeze Spiced Rum , 35.0 , Spiced Rum ,  ,  , { 
+Boqueron Rum Gold , 40.0 , Gold Rum ,  , $12.99 - $14.55 , {Puerto Rico, North America} 
+Old Man Guavaberry 8 Yr Rum , 40.0 , Rum ,  , $16.79 - $29.99 , {Sint Maarten, North America} 
+George Ocean Coffee Rum , 21.0 , Flavored Rum , George Ocean , $9.95 - $19.99 , { 
+Cayrum Rum , 40.0 , Rum ,  , $21.99 - $36.73 , {Dominican Republic, North America} 
+El Dorado 15 Year Madeira Dry Cask Rum , 43.0 , Flavored Rum , El Dorado , $99.99 - $137.99 , {Guyana, South America} 
+Zafra 30 Year Rum , 40.0 , Aged Rum , Zafra , $156.75 - $236.50 , {Panama, North America} 
+Cannon Beach Donlon Shanks Amber Rum , 40.0 , Spiced Rum , Cannon Beach , $33.99 , {Oregon, North America, United States} 
+Ron Abuelo XV Oloroso Sherry Cask Finish , 40.0 , Aged Rum , Ron Abuelo , $55.00 - $100.09 , {Panama, North America} 
+Ron Abuelo XV Napoleon Cognac Cask Finish , 40.0 , Aged Rum , Ron Abuelo , $63.99 - $89.99 , {Panama, North America} 
+Rational Spirits Santeria Rum , 46.0 , Spiced Rum , Rational Spirits , $35.99 - $49.99 , {Connecticut, North America, United States} 
+Boqueron Spiced Rum , 66.85 , Spiced Rum , Boqueron , $14.55 , {Puerto Rico, North America} 
+Black Bart Navy Rum , 55.5 , Rum , Black Bart , $33.99 - $61.99 , {England, Europe, United Kingdom} 
+Humboldt Distillery Small Batch Spiced Rum , 40.0 , Spiced Rum , Humboldt Distillery , $21.99 - $32.99 , {California, North America, United States} 
+San Diego County White Rum , 45.0 , White Rum , Liberty Call Distilling , $20.99 - $28.99 , {San Diego County, North America, United States, California, South Coast} 
+Ski Bum Local Legend Spiced Rum , 40.0 , Spiced Rum , Ski Bum Rum , $28.49 - $38.99 , { 
+Copper Fiddle Gold Rum , 40.0 , Gold Rum , Copper Fiddle , $29.99 - $41.99 , {Illinois, North America, United States} 
+Montauk Rumrunners Coconut Rum , 30.0 , Flavored Rum , Montauk Rumrunners , $38.99 - $60.00 , {New York, North America, United States} 
+Copper Fiddle Silver Rum , 40.0 , White Rum , Copper Fiddle , $32.99 - $35.99 , {Illinois, North America, United States} 
+Old Brigand Black Label Rum , 40.0 , Dark Rum , Old Brigand , $16.98 - $25.99 , { 
+Doorly's 8yo Rum , 40.0 , Aged Rum , Doorly's , $19.52 - $19.98 , { 
+Canasteros 21yr Rum , 40.0 , Aged Rum , Canasteros , $32.98 , { 
+Kaniche Perfeccion , 40.0 , Aged Rum , Kaniche , $39.98 - $45.97 , { 
+Doorly's 5yo Amber Rum , 40.0 , Aged Rum , Doorly's ,  , { 
+Relicario Rum Supremo , 40.0 , Aged Rum ,  , $33.99 - $39.99 , { 
+Malecon Reserva Imperial Rum 18 Year  , 40.0 , Aged Rum , Malecon , $41.43 - $89.99 , {Cuba, North America} 
+Montecristo Spice Blended Rum , 40.0 , Spiced Rum , Montecristo , $19.99 - $21.99 , { 
+Diplomatico Collection No. 1 Batch Kettle Rum , 47.0 , Rum , Diplomatico , $61.99 - $104.99 , {Venezuela, South America} 
+Admiral Nelson's Black Patch Spiced Rum , 47.0 , Spiced Rum , Admiral Nelson , $8.99 - $19.79 , {Kentucky, North America, United States} 
+Kula Organic Rum , 40.0 , White Rum , Kula Rum , $19.99 - $24.99 , {Hawaii, North America, United States} 
+Ron Centenario 9 year Conmemorativo Rum , 40.0 , Aged Rum , Ron Centenario , $18.15 - $34.99 , {Costa Rica, North America} 
+El Ron Prohibido 15 years , 40.0 , Dark Rum , El Ron Prohibido , $50.39 - $53.99 , {Mexico, North America} 
+Atlántico Cognac Cask , 40.0 , Spiced Rum , Atlantico , $47.95 - $52.79 , {Dominican Republic, North America} 
+Thomas Tew Widows Walk Overproof White Rum , 67.5 , White Rum , Thomas Tew ,  , {Rhode Island, North America, United States} 
+Plantation Fiji Rum , 44.8 , Rum , Plantation , $59.99 , {Fiji, Oceania} 
+Cannes Royale Extra Old Rum , 40.0 , Aged Rum , Cannes Royale , $36.99 , { 
+Capovilla Rhum Rhum PMG Blanc Agricole , 56.0 , Rum , Vittorio Capovilla , $82.99 - $91.00 , {Guadeloupe, North America} 
+BenRiach Dark Rum Finish Aged 15 Years , 46.0 , Dark Rum , The BenRiach Distillery , $70.00 - $137.49 , {Scotland, Europe} 
+Oronoco Rum , 40.0 , Rum , Oronoco , $16.99 - $42.99 , {Brazil, South America} 
+Maui Platinum Rum , 40.0 , White Rum , Haleakala Distillers , $19.99 , {Hawaii, North America, United States} 
+Cockspur VSOR 12 Year Old Rum , 40.0 , Rum , Cockspur , $26.20 - $46.09 , {Barbados, North America} 
+Montanya Oro Dark Rum , 40.0 , Dark Rum , Montanya , $31.99 , {Colorado, North America, United States} 
+Old Monk Gold Reserve , 40.0 , Rum , Old Monk , $17.84 - $33.99 , {India, Asia} 
+Maestro Dobel Diamante With Drum Case , 40.0 , Rum , Maestro Dobel , $36.97 - $69.99 , {Mexico, North America} 
+Whalers Rum Big Island Banana , 24.0 , Flavored Rum ,  , $8.99 - $16.24 , {United States, North America} 
+Tesouro Rum Small Batch , 40.0 , Rum ,  , $23.99 - $29.99 , {United States, North America} 
+Seco Herrerano Rum , 40.0 , Rum ,  , $10.99 - $20.99 , {Panama, North America} 
+Calypso White Rum , 35.0 , White Rum ,  ,  , { 
+Ron Rico Rum Pineapple Coco , 30.0 , Flavored Rum ,  ,  , {Puerto Rico, North America} 
+Calico Jack Rum Silver , 40.0 , White Rum , Calico Jack , $8.63 - $18.99 , {US Virgin Islands, North America} 
+Calico Jack Flavored Rum Tropical , 21.0 , Flavored Rum , Calico Jack , $9.99 - $18.99 , {US Virgin Islands, North America} 
+English Harbor 10 Yr Rum , 35.0 , Rum ,  , $38.99 - $115.09 , {Antigua and Barbuda, North America} 
+Prichards Key Lime Rum , 40.0 , Flavored Rum ,  , $12.00 - $39.99 , {Tennessee, North America, United States} 
+Prichards Rum , 40.0 , Rum ,  , $40.31 - $40.98 , {Tennessee, North America, United States} 
+Ron De Jeremy Rum , 50.0 , Rum , Ron de Jeremy , $24.99 - $33.99 , {Barbados, North America} 
+Mr Boston Gold Rum , 35.0 , Gold Rum ,  ,  , {Kentucky, North America, United States} 
+Gun Powder Rum , 51.6 , Rum ,  , $17.59 - $44.99 , { 
+Opthimus Malt Whisky Finished Rum 25 Year , 43.0 , Aged Rum ,  , $96.99 - $149.99 , {Dominican Republic, North America} 
+Gun Powder Rum , 51.6 , Rum ,  , $17.59 - $44.99 , { 
+Opthimus Malt Whisky Finished Rum 25 Year , 43.0 , Aged Rum ,  , $96.99 - $149.99 , {Dominican Republic, North America} 
+El Dorado 15 Year Ruby Port Cask Rum , 43.0 , Flavored Rum , El Dorado , $99.99 - $169.99 , {Guyana, South America} 
+Timber Creek Apple Pie Rum , 45.75 , Flavored Rum , Timber Creek , $18.39 - $30.99 , {Florida, North America, United States} 
+Mezan Jamaica 2000 , 40.0 , Aged Rum ,  , $36.99 - $77.99 , {Jamaica, North America} 
+El Dorado 25 Year Old Rum , 40.0 , Aged Rum , El Dorado , $350.09 - $799.00 , {Guyana, South America} 
+El Dorado Madeira Sweet Cask 15 Year Rum , 43.0 , Aged Rum , El Dorado , $84.99 - $137.99 , {Guyana, South America} 
+San Diego County Spiced Rum , 40.0 , Spiced Rum , Malahat , $29.99 , {San Diego County, North America, United States, California, South Coast} 
+Rum Hispaniola Anejo , 40.0 , Dark Rum , Rum Hispaniola , $9.99 , { 
+Eastside Distilling Below Deck Coffee Rum , 35.0 , Flavored Rum , Eastside Distilling , $19.79 - $21.99 , {Oregon, North America, United States} 
+Eastside Distilling Below Deck Silver Rum , 40.0 , White Rum , Eastside Distilling , $12.99 , {Oregon, North America, United States} 
+Foursquare Zinfandel Cask Blend Rum  , 43.0 , Rum , Foursquare , $50.99 - $89.99 , { 
+Mezan Distiller In Guyana Rum 2005 , 40.0 , Rum , Mezan , $49.99 - $72.99 , { 
+Wild Tiger Special Reserve Rum , 40.0 , Aged Rum , Wild Tiger , $17.99 - $34.99 , {India, Asia} 
+Largo Bay Spiced Rum , 35.0 , Spiced Rum , Largo Bay , $10.98 , { 
+Olo Brazilian Silver Rum , 40.0 , White Rum , OLO Brazilian , $9.99 - $21.99 , { 
+3 Howls Gold Label Rum , 40.0 , Gold Rum , 3 Howls , $19.98 - $31.99 , { 
+Kingston Spiced Rum , 35.0 , Spiced Rum , Kingston , $14.99 , { 
+Kaniche Reserve Rum , 40.0 , Aged Rum , Kaniche , $16.98 - $25.71 , { 
+Capitan Bucanero Rum Anejo , 40.0 , Aged Rum , Capitan Bucanero , $15.98 , { 
+Grander Panama Rum Single Barrel  , 55.0 , Aged Rum , Grander Rum , $10.49 , {Panama, North America} 
+Gracias Madre Spiced Rum , 40.0 , Spiced Rum ,  , $39.99 , {California, North America, United States} 
+Barrelman Rum Original Spirit , 40.0 , Rum , Pilot House , $31.99 , {Oregon, North America, United States} 
+Cannes Royale Extra Old Rum , 40.0 , Aged Rum , Cannes Royale , $36.99 , { 
+Thomas Tew Widows Walk Overproof White Rum , 67.5 , White Rum , Thomas Tew ,  , {Rhode Island, North America, United States} 
+Plantation Fiji Rum , 44.8 , Rum , Plantation , $59.99 , {Fiji, Oceania} 
+Capovilla Rhum Rhum PMG Blanc Agricole , 56.0 , Rum , Vittorio Capovilla , $82.99 - $91.00 , {Guadeloupe, North America} 
+Ron Del Barrilito 5 Star Rum , 43.0 , Gold Rum , Ron del Barrilito , $939.99 - $1499.99 , {Puerto Rico, North America} 
+El Dorado Spiced Rum , 40.0 , Spiced Rum , El Dorado , $9.99 - $32.09 , {Guyana, South America} 
+Santa Teresa Rum Selecto , 40.0 , Rum , Santa Teresa , $25.29 - $37.99 , {Venezuela, South America} 
+Jenkins Dark Rum , 40.0 , Dark Rum , Jenkins ,  , {Russian River Valley, North America, United States, California, North Coast, Sonoma County} 
+Rougaroux Sugarshine Rum , 50.5 , Rum , Donner-Peltier Distillers , $21.99 - $26.94 , {Louisiana, North America, United States} 
+Dancing Pines Rum , 40.0 , Rum , Dancing Pines , $29.00 - $42.99 , {Colorado, North America, United States} 
+Cuca Fresca Rum Ouro , 40.0 , Rum ,  , $19.99 - $29.99 , {Brazil, South America} 
+Calico Jack Black Spiced Rum , 47.0 , Spiced Rum , Calico Jack , $9.59 - $18.99 , {US Virgin Islands, North America} 
+Calypso Whipped Rum , 35.0 , Flavored Rum ,  , $10.99 , { 
+Pink Pigeon Rum , 40.0 , Rum , Pink Pigeon , $19.99 - $49.99 , {Mauritius, Africa} 
+Coruba Rum Coconut , 21.0 , Flavored Rum , Coruba , $8.99 - $20.99 , {Jamaica, North America} 
+Mezan Rum Xo , 40.0 , Rum ,  , $19.99 - $54.99 , {Jamaica, North America} 
+Sammys Beach Bar Rum Red Hd70 , 35.0 , Rum ,  , $14.99 - $35.99 , {Hawaii, North America, United States} 
+Downslope Vanilla Rum , 36.0 , Flavored Rum , Downslope , $23.99 - $36.99 , {Colorado, North America, United States} 
+Club Caribe Coconut Rum , 46.0 , Flavored Rum ,  , $8.79 - $15.99 , {Puerto Rico, North America} 
+Downslope Vanilla Rum , 36.0 , Flavored Rum , Downslope , $23.99 - $36.99 , {Colorado, North America, United States} 
+Sammys Beach Bar Rum Red Hd70 , 35.0 , Rum ,  , $14.99 - $35.99 , {Hawaii, North America, United States} 
+Prichards Rum Peach Mango , 35.0 , Flavored Rum ,  , $15.00 - $39.95 , {United States, North America} 
+Berrys Bros Rum Barbados 11 Yr , 46.0 , Rum ,  , $85.00 - $99.99 , {Barbados, North America} 
+Hooks Black Spiced Rum Pch , 46.0 , Spiced Rum ,  ,  , {British Virgin Islands, North America} 
+Berrys Bros Rum St Lucia 11 Yr , 46.0 , Rum ,  , $99.99 - $126.50 , {Saint Lucia, North America} 
+George Ocean White Rum , 40.0 , White Rum , George Ocean , $9.95 - $19.99 , { 
+Seven Fathoms Premium Rum , 40.0 , Gold Rum , Seven Fathoms , $29.99 - $64.99 , {Cayman Islands, North America} 
+RumChata Coffee Mug Gift Set , 13.75 , Rum , RumChata , $13.99 - $22.99 , {United States, North America} 
+Vivacity Traditional Rum , 42.5 , Spiced Rum , Vivacity , $21.99 - $29.99 , {Oregon, North America, United States} 
+Beenleigh Rum Queensland Australia , 37.5 , White Rum , Beenleigh ,  , {Queensland, Oceania, Australia} 
+Eastside Distilling Below Deck Spiced Rum , 40.0 , Spiced Rum , Eastside Distilling , $17.28 - $21.99 , {Oregon, North America, United States} 
+Lagaroo White Rum , 40.0 , White Rum , Lagaroo , $11.99 , { 
+Rhum Jm 15yr 1999 , 42.6 , Aged Rum , Rhum J. M. , $274.88 - $299.99 , {Martinique, North America} 
+La Cana Grande Gold Rum , 40.0 , Gold Rum , La Cana Grande , $10.98 , { 
+Bunnahabhain Samaroli Yehmon Evolution Rum , 45.0 , Rum , Bunnahabhain , $199.99 - $275.00 , { 
+Largo Bay Gold Rum , 40.0 , Gold Rum , Largo Bay , $10.98 , { 
+Vanua Rum , 40.0 , Aged Rum , Vanua , $24.98 , { 
+Capitan Bucanero Rum Blanco , 40.0 , White Rum , Capitan Bucanero , $11.98 , { 
+Papas Pilar Platinum Blonde Rum , 46.0 , White Rum , Papa's Pilar , $29.95 - $43.99 , {United States, North America} 
+18th Street Distillery Rum , 45.0 , White Rum , 18th Street Distillery , $34.99 , {Indiana, North America, United States} 
+Drake's Organic Spiced Rum , 40.0 , Spiced Rum , Drake's Organic Spirits , $15.99 - $24.99 , {United States, North America} 
+Brinley Gold Shipwreck Coconut Cream Rum , 15.0 , Rum , Shipwreck , $19.99 - $35.99 , { 
+Ron Zacapa Rum XO , 40.0 , Rum , Ron Zacapa , $109.99 - $179.99 , {Guatemala, North America} 
+Diplomatico Collection No.2 Barbet Rum , 47.0 , Rum , Diplomatico , $69.99 - $94.99 , {Venezuela, South America} 
+HSE Habitation Black Sheriff Martinique Rum , 40.0 , Rum , HSE Habitation Saint Etienne , $37.99 , {Martinique, North America} 
+Whistling Hare White Rum , 40.0 , White Rum , Whistling Hare Distillery , $27.99 , {Colorado, North America, United States} 
+Santa Teresa Claro , 40.0 , Rum , Santa Teresa , $11.55 - $41.99 , {Venezuela, South America} 
+Stroh Rum 60 , 60.0 , Rum , Stroh , $31.99 - $44.99 , {Austria, Europe} 
+Van Brunt Due North Rum , 40.0 , Rum , Van Brunt Stillhouse , $35.99 - $48.99 , {New York, North America, United States} 
+Rum Jumbie Rum Mango Splash , 24.0 , Flavored Rum , Rum Jumbie , $12.99 - $18.99 , {Panama, North America} 
+Amrut Two Indies Rum , 42.8 , Rum , Amrut , $19.99 - $29.99 , {India, Asia} 
+11 Wells Maelstrom Rum , 42.0 , Rum , 11 Wells , $25.99 - $32.99 , {Minnesota, North America, United States} 
+Topper's Spiced Rhum , 40.0 , Spiced Rum , Topper's , $15.99 - $23.99 , {Sint Maarten, North America} 
+Brugal Papa Andres Dark Rum , 40.0 , Dark Rum , Brugal , $1559.99 , {Dominican Republic, North America} 
+Puerto Angel Blanco Rum , 40.0 , Rum , Puerto Angel , $21.99 - $33.99 , {Puerto Rico, North America} 
+Squeal Spiced Black Rum , 45.0 , Spiced Rum , Squeal , $21.99 , {Colorado, North America, United States} 
+El Dorado Rum Single Barrel Icbu , 40.0 , Rum , El Dorado , $69.99 - $114.99 , {Guyana, South America} 
+Jack Flavored Rum Cake 42 , 21.0 , Flavored Rum ,  , $8.99 - $12.95 , {US Virgin Islands, North America} 
+Dancing Pines Cask Rum , 40.0 , Rum , Dancing Pines , $35.99 , {Colorado, North America, United States} 
+Dek San Tropique , 40.0 , Rum ,  ,  , { 
+Diplomatico Ambassador Rum , 47.0 , Rum , Diplomatico , $239.99 - $399.99 , {Venezuela, South America} 
+Adm Nelson Vanilla Rum , 35.0 , Flavored Rum ,  ,  , {Puerto Rico, North America} 
+Downslope Gold Rum , 30.0 , Gold Rum , Downslope , $24.99 - $27.99 , {Colorado, North America, United States} 
+Barbarossa Spiced Rum , 40.0 , Spiced Rum , Barbarossa , $8.49 - $12.09 , { 
+Florida Old Reserve Rum , 40.0 , Flavored Rum ,  , $16.99 - $31.99 , {Florida, North America, United States} 
+Hooks Spiced Rum Black , 30.0 , Spiced Rum ,  , $8.99 - $22.99 , {Missouri, North America, United States} 
+Ronrico Dark , 40.0 , Dark Rum , Ronrico ,  , {Puerto Rico, North America} 
+San Juan Spiced Rum , 40.0 , Spiced Rum ,  ,  , {San Juan, South America, Argentina} 
+Trigo Reserva Aneja Rum , 40.0 , Rum ,  , $20.63 - $49.99 , {Puerto Rico, North America} 
+Capt Morgan Parrot Bay Pinea42 , 21.0 , Flavored Rum ,  ,  , {Puerto Rico, North America} 
+Moraga Cay Rum , 40.0 , Rum , Moraga Cay , $8.99 - $12.99 , {Bahamas, North America} 
+Voodoo Spiced Rum Hemp , 46.0 , Spiced Rum ,  , $10.99 - $25.99 , {United States, North America} 
+Barbarossa Spiced Rum , 40.0 , Spiced Rum , Barbarossa , $8.49 - $12.09 , { 
+Florida Old Reserve Rum , 40.0 , Flavored Rum ,  , $16.99 - $31.99 , {Florida, North America, United States} 
+Voodoo Spiced Rum Hemp , 46.0 , Spiced Rum ,  , $10.99 - $25.99 , {United States, North America} 
+Peter Brum Bacchus Rheinhessen Red , 40.0 , Rum , Peter Brum , $9.99 - $13.43 , {Rheinhessen, Europe, Germany} 
+Capt Morgan Parrot Bay Pinea42 , 21.0 , Flavored Rum ,  ,  , {Puerto Rico, North America} 
+Moraga Cay Rum , 40.0 , Rum , Moraga Cay , $8.99 - $12.99 , {Bahamas, North America} 
+Ron Richardson 22 Yr Solera Rum , 40.0 , Rum ,  , $38.00 - $51.99 , {Mexico, North America} 
+Opthimus Rum 21 Yr , 38.0 , Rum ,  , $69.99 - $89.99 , {Dominican Republic, North America} 
+Bear Creek Silver Rum , 40.0 , White Rum ,  , $18.99 - $28.99 , {Colorado, North America, United States} 
+Dunc's Mill Backwoods Reserve , 40.0 , Rum , Dunc's Mill , $59.99 , {Vermont, North America, United States} 
+Crows Nest Spiced Rum , 40.0 , Spiced Rum , Crows Nest , $14.99 - $37.08 , { 
+Black Mamba Spiced Rum , 46.0 , Spiced Rum , Black Mamba , $19.99 - $31.99 , {Mauritius, Africa} 
+Ron Cartavio Solera Rum 12 Year , 40.0 , Aged Rum , Ron Cartavio , $13.99 - $44.99 , {Peru, South America} 
+Appleton Joy Anniversary Rum 25 Year , 45.0 , Dark Rum , Appleton , $242.99 - $399.99 , {Jamaica, North America} 
+Calwise Blonde Rum , 40.0 , White Rum , Calwise Spirits Co. , $29.99 - $45.99 , {California, North America, United States} 
+Ron Cartavio Black Rum , 40.0 , Dark Rum , Ron Cartavio , $13.99 - $16.79 , {Peru, South America} 
+Roaring Dan's Maple Rum , 45.0 , Flavored Rum , Great Lakes Distillery , $30.00 - $49.99 , {Wisconsin, North America, United States} 
+Taconic Distillery Rolling Hills Rum , 40.0 , Rum , Taconic Distillery , $25.99 - $35.99 , {New York, North America, United States} 
+Ron Virgin Coconut Rum , 21.0 , Flavored Rum , Ron Virgin ,  , {British Virgin Islands, North America} 
+Mount Gay Rum 1703 Master Select , 43.0 , Aged Rum , Mount Gay , $133.99 - $249.99 , {Barbados, North America} 
+Largo Bay Silver Rum , 40.0 , White Rum , Largo Bay , $10.98 , { 
+La Cana Grande Silver Rum , 40.0 , Gold Rum , La Cana Grande , $10.98 , { 
+Jav's Rum 7 Year , 40.0 , Aged Rum , Jav's , $19.99 - $49.99 , {Mexico, North America} 
+Brinley Gold Shipwreck Rum , 36.0 , Flavored Rum , Brinley Gold Shipwreck , $24.99 - $47.99 , {British Virgin Islands, North America} 
+Bacardi Humidor With Bacardi 8 Year And 10 Year Rum , 40.0 , Rum , Bacardi ,  , {Puerto Rico, North America} 
+Ron Hacienda Santa Ana Cask Strength Rum , 69.0 , Rum , Ron del Barrilito , $19.99 - $46.99 , {Puerto Rico, North America} 
+Admiral Rodney 'Royal Oak' Extra Old Rum  , 40.0 , Aged Rum , Admiral Rodney , $103.99 , {Saint Lucia, North America} 
+Cutwater Three Sheets White Rum , 40.0 , White Rum , Cutwater Spirits , $29.99 - $33.99 , {California, North America, United States} 
+Sebago Lake Original Rum , 40.0 , Rum , Sebago Lake Distillery , $28.99 - $29.99 , {Maine, North America, United States} 
+Ron Llave Premium Rum , 40.0 , Rum , Ron Llave , $9.99 , {Cuba, North America} 
+Santa Teresa Araku , 28.0 , Ready-to-Drink , Santa Teresa , $19.99 - $39.99 , {Venezuela, South America} 
+Monarch Rum Gold , 40.0 , Gold Rum , Monarch , $8.99 - $9.99 , {Oregon, North America, United States} 
+Botran Rum Reserva , 40.0 , Rum ,  , $9.39 - $49.99 , {Guatemala, North America} 
+Venado Rum Especial , 40.0 , Rum ,  , $9.99 - $29.99 , {Guatemala, North America} 
+Mad River Distilling Maple Rum , 48.0 , Rum , Mad River ,  , {Vermont, North America, United States} 
+Cachaca Da Roca Rum , 40.0 , Rum , Cachaca Da Roca ,  , {Brazil, South America} 
+Governor General Golden Rum , 40.0 , Gold Rum , Governor General , $8.79 - $24.99 , {Canada, North America} 
+South Bay Rum , 40.0 , Rum , South Bay , $24.99 - $44.99 , {Dominican Republic, North America} 
+Prichards Rum Cranberry , 35.0 , Flavored Rum ,  , $19.99 - $39.99 , {United States, North America} 
+Dancing Pines Spice Rum , 40.0 , Spiced Rum , Dancing Pines , $26.99 - $39.99 , {Colorado, North America, United States} 
+Calico Jack Flavored Rum Cake , 21.0 , Flavored Rum , Calico Jack , $8.99 - $13.99 , {US Virgin Islands, North America} 
+Arehucas Carta Oro Rum 75 , 37.5 , Rum ,  , $17.99 - $29.99 , {Canary Islands, Europe, Spain} 
+Conch Republic Light , 40.0 , White Rum , Conch Republic ,  , {Florida, North America, United States} 
+Key West Legal Rum , 44.0 , Rum ,  , $25.99 - $26.99 , {Florida, North America, United States} 
+Hooks Spiced Rum Cntr Unit Pouch , 35.0 , Spiced Rum ,  ,  , {United States, North America} 
+Tropical Breeze Gold Rum , 40.0 , Gold Rum ,  , $11.19 , { 
+Witherspoons River Rum , 40.0 , Rum ,  , $19.99 - $24.07 , {Texas, North America, United States} 
+Peter Brum Liebfraumilch Rheinhessen Blue , 40.0 , Rum , Peter Brum , $8.99 - $10.99 , {Rheinhessen, Europe, Germany} 
+Opthimus Rum 25 Yr , 38.0 , Rum ,  , $79.99 - $119.99 , {Dominican Republic, North America} 
+Ron Millonario Rum , 40.0 , Rum ,  , $36.99 - $45.99 , {Peru, South America} 
+Bacardi Ciclon Gold Rum , 35.0 , Rum ,  ,  , {Puerto Rico, North America} 
+Lagaroo Spiced Rum , 50.0 , Rum ,  , $11.99 - $30.09 , {United States, North America} 
+Appleton Estate 50 Year Old Rum , 45.0 , Aged Rum , Appleton , $4499.99 - $6999.99 , {Jamaica, North America} 
+Wicked Dolphin Gold Reserve Rum , 40.0 , Gold Rum , Wicked Dolphin , $15.99 - $42.99 , {Florida, North America, United States} 
+Calwise Spiced Rum , 40.0 , Spiced Rum , Calwise Spirits Co. , $24.99 - $45.99 , {California, North America, United States} 
+Ron Matusalem Gran Reserve 23 Year , 40.0 , Aged Rum , Ron Matusalem , $41.25 - $100.09 , {Dominican Republic, North America} 
+Stark Spirits Silver Rum , 43.0 , White Rum , Stark Spirits , $24.19 , {California, North America, United States} 
+Neisson Blanc 52.5 Rhum , 52.5 , Aged Rum , Neisson ,  , {Martinique, North America} 
+Twenty Boat Amber Rum , 42.0 , Rum , Twenty Boat ,  , {Massachusetts, North America, United States} 
+3 Howls Spiced Rum , 40.0 , Spiced Rum , 3 Howls , $19.98 - $41.99 , {Washington, North America, United States} 
+Siesta Key Gold Rum , 40.0 , Gold Rum , Siesta Key , $26.99 - $27.99 , { 
+Capitan Bucanero Rum Reserva , 40.0 , Dark Rum , Capitan Bucanero , $17.98 , { 
+Barrell Tales Of Two Islands Rum 8 Year , 66.4 , Aged Rum , Barrell Bourbon , $74.99 - $99.99 , {Jamaica, North America} 
+Big 5 Silver Rum , 40.0 , White Rum , Big 5 , $10.99 - $29.99 , {Florida, North America, United States} 
+The Kraken Black Spiced Rum & Cola Gift Set , 47.0 , Dark Rum , The Kraken , $18.99 - $19.99 , {Trinidad and Tobago, North America} 
+Jav's Rum 4 Year , 40.0 , Rum , Jav's , $29.99 , {Mexico, North America} 
+ZIAMI Ruby Rush Rum , 35.0 , Flavored Rum , ZIAMI , $23.00 - $50.99 , {Florida, North America, United States} 
+New Grove Dark Rum , 40.0 , Dark Rum , New Grove , $33.99 , {Mauritius, Africa} 
+Old Line Aged Caribbean Single Malt Cask-Finished Rum  , 45.0 , Dark Rum , Old Line Spirits , $33.99 - $59.99 , {Maryland, North America, United States} 
+Hotel Tango Rum , 45.0 , Rum , Hotel Tango , $29.99 - $33.00 , {Indiana, North America, United States} 
+Diablo's Shadow Silver Rum , 45.0 , White Rum , Sutherland Distilling Co. , $29.99 - $39.99 , {California, North America, United States} 
+Cedar Ridge Dark Rum , 40.0 , Dark Rum , Cedar Ridge , $32.99 - $61.99 , {Iowa, North America, United States} 
+Stroh Rum 40 , 40.0 , Rum , Stroh , $20.99 - $39.99 , {Austria, Europe} 
+New Holland Michigan Amber Rum , 40.0 , Rum , New Holland , $24.99 - $33.99 , {Michigan, North America, United States} 
+Sx Liquors Calypso , 35.0 , Rum , Sx Liquors , $24.99 - $38.99 , {Mexico, North America} 
+Ron Corina Black Rum , 40.0 , Rum , Ron Corina ,  , {United States, North America} 
+Bowmans Imp White Rum , 45.0 , White Rum ,  ,  , { 
+Flipflop Spiced Rum , 35.0 , Spiced Rum ,  ,  , {California, North America, United States} 
+Club Caribe Raspberry Rum , 40.0 , Flavored Rum ,  , $8.99 - $16.99 , {Puerto Rico, North America} 
+Coruba Jamaican Coconut Rum , 42.0 , Flavored Rum , Coruba ,  , {Jamaica, North America} 
+Coyopa Dark Rum , 40.0 , Dark Rum ,  , $24.41 - $64.99 , {Barbados, North America} 
+Hooks Spiced Rum Black Pouch , 30.0 , Spiced Rum ,  ,  , {Missouri, North America, United States} 
+Orchata Cinn Cream Rum , 35.0 , Liqueur, Cordials, & Schnapps ,  ,  , {Kentucky, North America, United States} 
+Twisted Sun Gold Rum , 43.0 , Gold Rum , Twisted , $28.99 - $33.99 , {United States, North America} 
+Old Lahaina Rum Dark , 40.0 , Dark Rum ,  , $12.99 , {United States, North America} 
+Whaler's Great White Rum , 40.0 , White Rum , Whaler's , $9.99 - $31.07 , {Kentucky, North America, United States} 
+Ron Abuelo Anejo Rum 12 Yr , 40.0 , Rum , Ron Abuelo , $38.99 - $49.99 , {Panama, North America} 
+Bear Creek Cask Strgth Rum , 50.0 , Rum ,  , $33.99 - $51.99 , {Colorado, North America, United States} 
+Short Path White Rum , 40.0 , White Rum , Short Path , $27.99 - $32.00 , {Massachusetts, North America, United States} 
+Montanya Mountain Rum Exclusiva , 40.0 , Rum , Montanya , $50.99 - $59.99 , {Colorado, North America, United States} 
+Ron Cubaney Spiced Solera Rum 15 Year , 34.0 , Spiced Rum , Ron Cubaney , $49.99 - $69.99 , {Australia, Oceania} 
+Ron Cartavio Selecto Rum , 40.0 , Aged Rum , Ron Cartavio , $17.99 - $28.99 , {Peru, South America} 
+Yolo Rum Clear , 40.0 , White Rum , YOLO , $13.99 - $16.99 , {Colorado, North America, United States} 
+Ron Duran 12 Year , 40.0 , Aged Rum , Ron Duran , $34.99 - $35.99 , {Panama, North America} 
+Black Tot British Navy Rum , 54.3 , Dark Rum , Black Tot , $1199.99 - $1800.00 , {England, Europe, United Kingdom} 
+Twenty Boat Cape Cod White Rum , 40.0 , White Rum , Twenty Boat , $26.99 - $34.99 , {Massachusetts, North America, United States} 
+Ron Diaz 93 Spiced Rum , 46.5 , Spiced Rum , Rondiaz , $10.99 - $13.19 , {Puerto Rico, North America} 
+Rondiaz Gran Reserva Spiced Rum , 35.0 , Spiced Rum , Rondiaz , $14.99 - $18.00 , {Puerto Rico, North America} 
+Black Coral White Rum , 40.0 , White Rum , Black Coral , $19.99 - $26.99 , {Florida, North America, United States} 
+Pumpkin Face Rum 23 Year , 40.0 , Aged Rum , Pumpkin Face , $52.18 - $59.99 , {Dominican Republic, North America} 
+Pumpkin Face Reserve Rum , 40.0 , Aged Rum , Pumpkin Face , $18.99 - $62.99 , {Dominican Republic, North America} 
+R. L. Seale's Finest 10 Yr Old Rum , 43.0 , Aged Rum , R.L. Seale , $21.99 - $22.98 , { 
+Kaniche Xo Artisanal Rum , 40.0 , Aged Rum , Kaniche , $24.99 - $34.47 , { 
+Relicario Rum Superior , 40.0 , Aged Rum ,  , $29.98 - $29.99 , { 
+Tapping House Rum , 40.0 , Dark Rum ,  , $16.98 , { 
+Doorly's 12yo Rum , 40.0 , Aged Rum , Doorly's , $21.99 - $29.99 , { 
+Denver Distillery Navy Strength Spiced Rum , 57.0 , Spiced Rum , Denver Distillery ,  , {Colorado, North America, United States} 
+Island Company Rum , 40.0 , Rum , Island Company , $37.99 , {Trinidad and Tobago, North America} 
+Surfrider Rum , 42.0 , White Rum , Surf City Still Works , $26.99 , {California, North America, United States} 
+Santa Teresa Anejo Gran Reserva Rum , 40.0 , Aged Rum , Santa Teresa , $13.99 - $18.99 , {Venezuela, South America} 
+Rum-Bar Gold Rum , 40.0 , Gold Rum , Rum-Bar ,  , {Jamaica, North America} 
+Diablo's Shadow Silver Rum , 45.0 , White Rum , Sutherland Distilling Co. , $29.99 - $39.99 , {California, North America, United States} 
+Clement 6 Year Rum , 44.0 , Rum , Clement , $49.99 - $101.99 , {France, Europe} 
+Ron De Jeremy Rum Signed , 40.0 , Rum , Ron de Jeremy , $35.99 , {Barbados, North America} 
+Jj Prum Graacher Himmel Kabinett 2009 , 58.0 , Rum , J.J. Prum , $21.99 - $58.99 , {Mosel, Europe, Germany} 
+Don Pancho Reserva 30 Year Rum , 40.0 , Rum , Don Pancho , $299.97 - $729.99 , {Panama, North America} 
+Plantation 5 Year Barbados Rum , 40.0 , Rum , Plantation , $19.99 - $64.99 , {Barbados, North America} 
+Silver Wolf Silver Rum , 40.0 , White Rum , Silver Wolf ,  , {New Mexico, North America, United States} 
+Jack Flavored Rum Whipped , 21.0 , Flavored Rum ,  , $9.99 - $16.99 , {US Virgin Islands, North America} 
+Westerhall Plantation Rum , 43.0 , Rum ,  , $23.99 - $36.99 , {Grenada, North America} 
+Lost Spirits Distillery Cuban Inspired Rum , 75.5 , Rum , Lost Spirits Distillery , $33.99 - $54.99 , {California, North America, United States} 
+San Juan White Rum , 35.0 , White Rum ,  ,  , {San Juan, South America, Argentina} 
+Margaritaville Spiced Rum , 35.0 , Spiced Rum , Margaritaville , $8.49 - $22.99 , {Florida, North America, United States} 
+Jack Flavored Rum Whipped , 21.0 , Flavored Rum ,  , $9.99 - $16.99 , {US Virgin Islands, North America} 
+Westerhall Plantation Rum , 43.0 , Rum ,  , $23.99 - $36.99 , {Grenada, North America} 
+Plantation 5 Year Barbados Rum , 40.0 , Rum , Plantation , $19.99 - $64.99 , {Barbados, North America} 
+Lost Spirits Distillery Cuban Inspired Rum , 75.5 , Rum , Lost Spirits Distillery , $33.99 - $54.99 , {California, North America, United States} 
+San Juan White Rum , 35.0 , White Rum ,  ,  , {San Juan, South America, Argentina} 
+Prichards Spiced Rum , 35.0 , Spiced Rum ,  , $23.99 - $33.99 , {Tennessee, North America, United States} 
+Grand Dutch Chocorumba , 40.0 , Rum ,  , $8.79 - $19.99 , {Netherlands, Europe} 
+Whalers Orig Dark Topping Rum , 40.0 , Dark Rum ,  ,  , {United States, North America} 
+St George Agricole California Reserve Rum , 43.0 , Rum , St. George , $10.99 - $79.99 , {California, North America, United States} 
+Margaritaville Spiced Rum , 35.0 , Spiced Rum , Margaritaville , $8.49 - $22.99 , {Florida, North America, United States} 
+Trumpeter Torrontes , 13.3 , Rum , Trumpeter , $9.49 - $18.99 , {Argentina, South America} 
+Juan Santos Gran Reserva Rum , 40.0 , Rum , Juan Santos , $56.99 - $63.07 , {Colombia, South America} 
+Witherspoons Bonfire Rum , 45.0 , Rum ,  , $24.99 - $35.00 , {Texas, North America, United States} 
+Diplomatico Res Exclusiva Rum , 40.0 , Rum , Diplomatico ,  , {Venezuela, South America} 
+Opthimus Rum 25 Yr Port Finish , 43.0 , Rum ,  , $96.99 - $259.95 , {Dominican Republic, North America} 
+Plantation Trinadad Rum 2003 , 42.0 , Aged Rum , Plantation , $39.99 - $89.99 , {Trinidad and Tobago, North America} 
+Cannon Beach Dorymen's Rum , 40.0 , Spiced Rum , Cannon Beach , $24.99 , {Oregon, North America, United States} 
+Rhum Clement Cask  , 42.8 , Aged Rum , Clement , $37.99 - $48.99 , {France, Europe} 
+Rum Hispaniola Gran Anejo , 40.0 , Dark Rum , Rum Hispaniola , $9.99 , {Dominican Republic, North America} 
+Hamilton St. Lucia Rum 9 Year , 67.4 , Aged Rum , Hamilton , $49.99 - $83.60 , {Saint Lucia, North America} 
+Angostura Fernandes Black Label Rum , 40.0 , Gold Rum , Angostura , $15.99 - $16.08 , {Trinidad and Tobago, North America} 
+Batiste Rhum Gold , 40.0 , Gold Rum , Ecostie Batiste , $29.00 - $38.39 , {California, North America, United States} 
+Cihuatan Reserva Especial Rum 12 Year , 40.0 , Aged Rum , Cihuatan Rum , $28.99 - $59.99 , {El Salvador, North America} 
+BLY Rum Silver , 40.0 , White Rum , BLY Silver Rum , $28.50 - $28.72 , {Pennsylvania, North America, United States} 
+SoCal Silver Rum , 40.0 , White Rum , SoCal Rum , $12.99 - $16.99 , {California, North America, United States} 
+Diablo's Shadow California Gold Rum , 42.5 , Gold Rum , Sutherland Distilling Co. , $41.99 - $43.99 , {California, North America, United States} 
+Bogart's Rum , 80.0 , White Rum , Bogart's , $19.99 - $25.57 , {California, North America, United States} 
+Dos Maderos Luxus Double Aged Rum , 40.0 , Aged Rum , Dos Maderas , $124.99 - $219.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 

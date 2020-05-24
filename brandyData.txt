@@ -1,0 +1,836 @@
+Hennessy V.S Cognac , 40.0 , Cognac , Hennessy , $28.99 - $499.99 , {Cognac, Europe, France} 
+Rémy Martin VSOP , 40.0 , Cognac , Remy Martin , $32.23 - $95.00 , {Cognac, Europe, France} 
+E&J VS Brandy , 40.0 , Brandy , E&J , $8.99 - $29.09 , {California, North America, United States} 
+D’USSÉ® VSOP Cognac , 40.0 , Cognac , D'usse , $13.98 - $299.99 , {Cognac, Europe, France} 
+Hennessy V.S.O.P Privilege Cognac , 40.0 , Cognac , Hennessy , $43.99 - $150.00 , {Cognac, Europe, France} 
+Courvoisier VS Cognac , 40.0 , Cognac , Courvoisier , $12.99 - $69.99 , {Cognac, Europe, France} 
+Paul Masson Grande Amber Brandy , 40.0 , Brandy , Paul Masson , $8.79 - $32.99 , {California, North America, United States} 
+E&J VSOP Premium Brandy , 40.0 , Brandy , E&J , $9.90 - $45.57 , {California, North America, United States} 
+Christian Brothers Brandy VS , 40.0 , Brandy , Christian Brothers , $8.21 - $23.99 , {California, North America, United States} 
+Rémy Martin 1738® Accord Royal , 40.0 , Cognac , Remy Martin , $42.50 - $120.00 , {Cognac, Europe, France} 
+Courvoisier VSOP Cognac , 40.0 , Cognac , Courvoisier , $16.99 - $162.99 , {Cognac, Europe, France} 
+Hennessy Black Cognac , 43.0 , Cognac , Hennessy , $21.99 - $97.00 , {Cognac, Europe, France} 
+Paul Masson Grande Amber Peach Brandy , 27.0 , Flavored Brandy , Paul Masson , $8.25 - $56.00 , {California, North America, United States} 
+Salignac Cognac , 40.0 , Cognac , Salignac , $15.99 - $39.05 , {Cognac, Europe, France} 
+E&J Brandy XO , 40.0 , Brandy , E&J , $11.49 - $29.89 , {Russian River Valley, North America, United States, California, North Coast, Sonoma County} 
+E&J Apple Brandy , 30.0 , Brandy , E&J , $9.49 - $49.99 , {California, North America, United States} 
+Tuaca , 35.0 , Brandy , Tuaca , $16.99 - $42.99 , {Italy, Europe} 
+St-Rémy VSOP , 40.0 , Cognac , St Remy , $9.99 - $29.99 , {France, Europe} 
+Hennessy X.O Cognac , 40.0 , Cognac , Hennessy , $99.99 - $350.00 , {Cognac, Europe, France} 
+Laird's Applejack Brandy , 40.0 , Fruit Brandy , Laird & Company , $9.99 - $35.99 , {New Jersey, North America, United States} 
+E&J Vanilla Brandy , 40.0 , Flavored Brandy , E&J , $9.90 - $18.99 , {United States, North America} 
+Hiram Walker Blackberry Brandy , 35.0 , Fruit Brandy , Hiram Walker , $8.75 - $23.99 , {United States, North America} 
+ Korbel California Brandy , 40.0 , Brandy , Korbel , $8.99 - $37.99 , {California, North America, United States} 
+Leroux Polish Blackberry Flavored Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Leroux , $8.99 - $20.89 , {United States, North America} 
+Paul Masson Apple Grande Amber Brandy , 40.0 , Fruit Brandy , Paul Masson , $8.99 - $58.00 , {California, North America, United States} 
+Paul Masson Grande Amber VSOP Brandy , 40.0 , Brandy , Paul Masson , $8.99 - $23.99 , {California, North America, United States} 
+Capel Pisco Premium , 40.0 , Pisco , Pisco Capel , $12.79 - $32.99 , {Coquimbo, South America, Chile} 
+Martell Blue Swift , 40.0 , Cognac , Martell , $34.99 - $99.99 , {Cognac, Europe, France} 
+Pierre Ferrand Ambre , 40.0 , Cognac , Pierre Ferrand , $32.99 - $89.99 , {Cognac, Europe, France} 
+Mr. Boston Blackberry Brandy , 35.0 , Brandy , Mr. Boston , $8.99 - $18.68 , {Kentucky, North America, United States} 
+Presidente Brandy , 40.0 , Brandy , Pedro Domecq , $8.99 - $65.00 , {Mexico, North America} 
+Hennessy V.S Gift Box Cognac , 40.0 , Cognac , Hennessy , $27.99 - $52.79 , {Cognac, Europe, France} 
+Hiram Walker Brandy Apricot , 30.0 , Liqueur, Cordials, & Schnapps , Hiram Walker , $8.99 - $19.99 , {Kentucky, North America, United States} 
+Hartley VSOP , 40.0 , Brandy , Hartley Brandy , $8.00 - $21.94 , {Kentucky, North America, United States} 
+Rémy Martin V , 40.0 , Cognac , Remy Martin , $29.99 - $100.00 , {Cognac, Europe, France} 
+Rémy Martin XO Excellence , 40.0 , Cognac , Remy Martin , $12.99 - $335.99 , {Cognac, Europe, France} 
+Hennessy V.S Limited Edition by JonOne Cognac , 40.0 , Cognac , Hennessy , $30.80 - $109.99 , {Cognac, Europe, France} 
+DeKuyper Blackberry Flavored Brandy , 30.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $8.49 - $25.99 , {United States, North America} 
+Martell V.S. Cognac , 40.0 , Cognac , Martell , $24.99 - $89.99 , {Cognac, Europe, France} 
+Allen's Coffee Brandy , 30.0 , Flavored Brandy , Allen's , $9.49 - $12.99 , {Massachusetts, North America, United States} 
+Maison Rouge Cognac V.S.O.P. , 40.0 , Cognac , Maison Rouge , $9.99 - $49.99 , {Cognac, Europe, France} 
+Hennessy V.S Futura Limited Edition , 40.0 , Cognac , Hennessy , $31.99 - $54.99 , {Cognac, Europe, France} 
+Raynal Brandy VSOP Napoleon , 40.0 , Brandy , Raynal , $12.38 - $24.95 , {France, Europe} 
+Twenty Grand Vodka Infused With Cognac , 40.0 , Cognac , Twenty Grand , $16.99 - $42.63 , {Kentucky, North America, United States} 
+Caravedo Mosto Verde Pisco , 43.0 , Pisco , La Caravedo , $25.99 - $55.99 , {Peru, South America} 
+Metaxa 5 Stars , 38.0 , Brandy , Metaxa , $16.99 - $39.99 , {Greece, Europe} 
+Hiram Walker Coffee Brandy , 30.0 , Flavored Brandy , Hiram Walker , $8.99 - $22.99 , {United States, North America} 
+Metaxa 7 Stars , 40.0 , Brandy , Metaxa , $10.99 - $49.95 , {Greece, Europe} 
+99 Peach Brandy , 49.5 , Flavored Brandy , 99 Brand ,  , {Kentucky, North America, United States} 
+Meukow VS Cognac , 40.0 , Cognac , Meukow , $17.99 - $59.95 , {Cognac, Europe, France} 
+Grand Marnier Cuvée Louis Alexandre Liqueur Cognac , 40.0 , Cognac , Grand Marnier , $38.99 - $99.00 , {France, Europe} 
+Alto del Carmen Pisco Reservado , 40.0 , Fruit Brandy , Alto del Carmen , $14.44 - $29.99 , {Coquimbo, South America, Chile} 
+D’USSÉ® XO Cognac , 40.0 , Cognac , D'usse , $42.99 - $375.19 , {Cognac, Europe, France} 
+Daron Calvados , 40.0 , Calvados , Daron Calvados , $21.99 - $59.99 , {Calvados, Europe, France} 
+Courvoisier XO Cognac , 40.0 , Cognac , Courvoisier , $76.99 - $258.99 , {Cognac, Europe, France} 
+Hennessy VSOP Limited Edition Lunar New Year Gift Pack , 40.0 , Cognac , Hennessy , $49.99 - $99.99 , {Cognac, Europe, France} 
+Macchu Pisco Macchu Pisco , 40.0 , Brandy , Macchu , $21.99 - $44.99 , {Peru, South America} 
+Torres 10 Gran Reserva Brandy , 40.0 , Brandy , Torres , $15.99 - $85.00 , {Penedes, Europe, Spain, Catalunya} 
+Maraska Slivovitz Kosher , 40.0 , Fruit Brandy , Maraska , $21.97 - $40.45 , {Croatia, Europe} 
+Hennessy Master Blender's Selection No 3 Cognac , 43.0 , Cognac , Hennessy , $54.99 - $269.99 , {Cognac, Europe, France} 
+Cardenal Mendoza Solera Spanish Brandy , 40.0 , Brandy , Cardenal Mendoza , $27.06 - $79.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+R Jelinek Slivovitz Plum Brandy 5 Year , 50.0 , Fruit Brandy , R. Jelinek , $19.99 - $50.09 , {Czech Republic, Europe, Serbia} 
+Camuus VS Elegance , 40.0 , Cognac , Camus Cognac , $18.00 - $54.99 , {Cognac, Europe, France} 
+Asbach Uralt Brandy , 38.0 , Brandy , Asbach Uralt , $19.99 - $49.99 , {Germany, Europe} 
+Mr Boston Coffee Brandy , 35.0 , Brandy , Mr. Boston , $8.99 - $13.65 , {Kentucky, North America, United States} 
+Felipe II Brandy de Jerez , 40.0 , Brandy , Felipe II , $14.85 - $29.99 , {Spain, Europe} 
+Lairds Straight Applejack 86 , 43.0 , Fruit Brandy , Lairds , $14.99 - $34.99 , {New Jersey, North America, United States} 
+DeKuyper Peach Flavored Brandy , 30.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $8.99 - $19.99 , {Ohio, North America, United States} 
+Marie Duffau Napoleon Bas Armagnac , 40.0 , Armagnac , Marie Duffau Bas Armagnac , $28.00 - $69.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Hennessy Cognac V.S.O.P + Privilège Nip (50ml) , 40.0 , Cognac , Hennessy , $35.99 - $69.99 , {Cognac, Europe, France} 
+Martell VSOP Medaillon Cognac , 40.0 , Cognac , Martell , $24.99 - $99.99 , {Cognac, Europe, France} 
+Hennessy Master Blender's Selection No 1 Cognac , 43.0 , Cognac , Hennessy , $29.99 - $599.99 , {United States, North America} 
+Hiram Walker Cherry , 30.0 , Liqueur, Cordials, & Schnapps , Hiram Walker , $8.99 - $46.99 , {United States, North America} 
+De Luze VS Cognac , 40.0 , Cognac , De Luze , $18.99 - $43.99 , {Cognac, Europe, France} 
+Boulard VSOP Calvados , 40.0 , Calvados , Calvados Boulard , $16.99 - $98.99 , {Calvados Pays d'Auge, Europe, France, Calvados} 
+Hiram Walker Kirschwasser , 45.0 , Liqueur, Cordials, & Schnapps , Hiram Walker , $9.99 - $29.99 , {United States, North America} 
+Martell Cordon Bleu , 40.0 , Cognac , Martell , $31.99 - $329.99 , {Cognac, Europe, France} 
+Raynal VSOP Brandy , 40.0 , Brandy , Raynal , $12.99 - $65.00 , {France, Europe} 
+Mr Boston Apricot Brandy , 35.0 , Brandy , Mr. Boston , $8.99 - $12.99 , {Kentucky, North America, United States} 
+Chalfonte V.S.O.P Cognac , 40.0 , Cognac , Chalfonte , $24.99 - $48.00 , {France, Europe} 
+DeKuyper Apricot Flavored Brandy , 35.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $8.53 - $19.99 , {United States, North America} 
+Pierre Ferrand Pineau des Charentes , 15.0 , Cognac , Pierre Ferrand , $24.99 - $37.99 , {France, Europe} 
+Hennessy Master Blender's Selection No 2 Cognac , 43.0 , Cognac , Hennessy , $69.99 - $344.99 , {Cognac, Europe, France} 
+Hine Rare VSOP Fine Champagne Cognac , 40.0 , Cognac , Hine Cognac , $47.29 - $89.95 , {Cognac, Europe, France} 
+Jacquin's Ginger Brandy , 35.0 , Flavored Brandy , Jacquin's , $10.99 - $17.99 , {Pennsylvania, North America, United States} 
+Christian Brothers V.S.O.P. Brandy , 40.0 , Brandy , Christian Brothers , $8.49 - $19.99 , {California, North America, United States} 
+St-Rémy XO , 40.0 , Brandy , St Remy , $14.03 - $184.99 , {France, Europe} 
+Santiago Queirolo Acholado Pisco , 42.0 , Pisco ,  , $17.99 - $34.99 , {Peru, South America} 
+Hennessy Privilege V.S.O.P Gift Set Cognac , 40.0 , Cognac , Hennessy , $49.89 - $85.79 , {France, Europe} 
+De Luze VSOP Cognac , 40.0 , Cognac , De Luze , $22.00 - $61.99 , {Cognac, Europe, France} 
+Clear Creek Pear Brandy , 40.0 , Brandy , Clear Creek ,  , {Oregon, North America, United States} 
+Nardini l'Amaro , 29.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Stock 84 Original Brandy , 40.0 , Brandy , Stock , $9.99 - $29.09 , {Italy, Europe} 
+Ansac VS Brandy , 40.0 , Cognac , Ansac , $8.99 - $28.99 , {Cognac, Europe, France} 
+A.E. Dor Cognac Rodell Napoleon , 40.0 , Cognac , A.E. Dor , $10.10 - $20.94 , {Cognac, Europe, France} 
+Remy Martin Tercet , 42.0 , Cognac , Remy Martin , $76.99 - $169.99 , {Cognac, Europe, France} 
+Chateau de Laubade Armagnac V.S.O.P. , 40.0 , Armagnac , Chateau de Laubade , $35.99 - $79.99 , {Armagnac, Europe, France} 
+Pierre Ferrand Cognac Reserve , 40.0 , Cognac , Pierre Ferrand , $43.99 - $129.99 , {Cognac, Europe, France} 
+Lautrec Cognac V.S.O.P. , 40.0 , Cognac , Lautrec , $29.99 - $149.95 , {Cognac, Europe, France} 
+Korbel XS Brandy , 40.0 , Brandy , Korbel , $10.00 - $19.99 , {California, North America, United States} 
+Pierre Patou V.S.O.P. , 40.0 , Cognac , Pierre Patou , $22.99 - $44.99 , {France, Europe} 
+Blansac Brandy V.S.O.P. , 40.0 , Cognac , Blansac , $15.39 - $28.99 , {Cognac, Europe, France} 
+Landy Cognac VS , 40.0 , Cognac , Landy , $19.79 - $43.99 , {Cognac, Europe, France} 
+Harlequin Orange Liqueur , 40.0 , Cognac , Harlequin , $15.99 - $38.99 , {France, Europe} 
+Fundador Brandy , 40.0 , Brandy , Fundador , $9.99 - $75.00 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+Courvoisier Cognac VS With Two Glasses , 40.0 , Cognac , Courvoisier , $21.99 - $55.99 , {Cognac, Europe, France} 
+Kelt VSOP Cognac , 40.0 , Cognac , Kelt , $39.99 - $99.99 , {Gers, Europe, France, Vin de Pays } 
+Courvoisier VSOP Cognac with Glass & Stopper , 40.0 , Cognac , Courvoisier , $26.99 - $67.09 , {Cognac, Europe, France} 
+Copper & Kings American Craft Brandy , 45.0 , Brandy , Copper & Kings , $24.99 - $47.99 , {Kentucky, North America, United States} 
+Deau Cognac VS , 40.0 , Cognac , DEAU , $16.99 - $43.99 , {Cognac, Europe, France} 
+Camus VSOP Borderies , 40.0 , Cognac , Camus Cognac , $34.99 - $79.50 , {France, Europe} 
+Don Benedicto Pisco , 40.0 , Brandy ,  , $14.99 - $31.99 , {Peru, South America} 
+Control Pisco , 40.0 , Pisco , Control , $18.74 - $38.49 , {Chile, South America} 
+Comte Joseph Cognac VSOP , 40.0 , Cognac , Comte Joseph , $30.99 - $33.59 , {Cognac, Europe, France} 
+Caravedo Quebranta Pisco , 40.0 , Brandy , La Caravedo , $12.79 - $34.99 , {Peru, South America} 
+Calvados Coquerel Fine , 40.0 , Calvados , Domaine du Coquerel , $25.43 - $41.39 , {Calvados, Europe, France} 
+Rodell Napoleon Vsop 1. , 40.0 , Brandy , Rodell ,  , {France, Europe} 
+Hartley Peach Brandy , 27.0 , Fruit Brandy , Hartley Brandy , $8.04 - $16.99 , {Italy, Europe} 
+Ararat Akhtamar Brandy 10 Year , 40.0 , Brandy , Ararat , $34.99 - $139.99 , {Armenia, Europe} 
+Leroux Kirschwasser Flavored Brandy , 45.0 , Liqueur, Cordials, & Schnapps , Leroux , $9.99 - $24.99 , {Pennsylvania, North America, United States} 
+Singani 63 , 40.0 , Brandy , Singani , $24.00 - $42.99 , {Bolivia, South America} 
+Martell Caractere Cognac , 40.0 , Cognac , Martell , $19.99 - $104.99 , {Cognac, Europe, France} 
+Caravedo Acholado Pisco , 40.0 , Pisco , La Caravedo , $29.99 - $42.89 , {Peru, South America} 
+Marie Duffau Armagnac Hors D'age , 40.0 , Armagnac , Marie Duffau Bas Armagnac , $44.00 - $81.99 , {Armagnac, Europe, France} 
+Gautier VS , 40.0 , Cognac , Gautier , $18.99 - $39.99 , {Cognac Bois Ordinaires, Europe, France, Cognac} 
+Bistra Slivovitz Plum Brandy , 50.0 , Brandy , Bistra Slivovitz , $22.99 - $35.99 , {Serbia, Europe} 
+Odessa VSOP Brandy , 40.0 , Brandy , Odessa , $9.39 - $17.99 , {Ukraine, Europe} 
+DeKuyper Kirschwasser Flavored Brandy , 45.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $8.97 - $23.09 , {United States, North America} 
+Zwack Brandy Plum Slivovitz Kosher , 47.0 , Brandy , Zwack , $21.19 - $34.99 , {Hungary, Europe} 
+Pierre Patou V.S.  , 40.0 , Cognac , Pierre Patou , $22.13 - $28.00 , {France, Europe} 
+Korbel VSOP Brandy , 40.0 , Brandy , Korbel , $10.88 - $22.99 , {California, North America, United States} 
+Hardy VS Cognac , 40.0 , Cognac , Hardy , $16.99 - $60.99 , {Cognac, Europe, France} 
+Mathilde Grand XO , 40.0 , Cognac , Mathilde , $17.99 - $38.99 , {France, Europe} 
+Alize Pineapple Liqueur , 16.0 , Cognac , Alize , $8.99 - $28.99 , {France, Europe} 
+St. George Pear Brandy , 40.0 , Fruit Brandy , St. George , $33.99 - $51.99 , {California, North America, United States} 
+R. Jelinek Silver Slivovitz , 50.0 , Brandy , R. Jelinek , $24.16 - $44.95 , {Czech Republic, Europe} 
+Leroux Apricot Flavored Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Leroux , $8.74 - $16.99 , {United States, North America} 
+Alizé Peach , 16.0 , Cognac , Alize , $14.99 - $29.11 , {France, Europe} 
+Grand Ten North County Apple Brandy , 40.0 , Brandy , Grand Ten , $39.99 - $41.99 , {Massachusetts, North America, United States} 
+Busnel Calvados Fine , 40.0 , Calvados , Busnel , $13.90 - $42.99 , {Calvados, Europe, France} 
+Massenez Poire-Williams Pear Brandy , 40.0 , Brandy , Massenez , $19.99 - $99.99 , {Alsace, Europe, France} 
+Hardy VSOP Cognac , 40.0 , Cognac , Hardy , $12.99 - $89.99 , {Cognac, Europe, France} 
+Ararat 5 Year Armenian Brandy , 40.0 , Brandy , Ararat , $16.79 - $49.95 , {Armenia, Europe} 
+Drouin Coeur de Lion Calvados , 40.0 , Calvados , Drouin Coeur de Lion Calvados , $15.99 - $54.99 , {Calvados, Europe, France} 
+Schladerer Brandy Kirschwasser Cherry , 37.5 , Liqueur, Cordials, & Schnapps , Schladerer , $21.99 - $62.99 , {Germany, Europe} 
+Arrow Blackberry Brandy , 30.0 , Brandy , Arrow , $9.99 - $14.90 , {California, North America, United States} 
+Delord Bas Armagnac XO , 40.0 , Brandy , Delord , $45.00 - $83.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Clear Creek Apple Brandy , 40.0 , Brandy , Clear Creek , $27.25 - $39.99 , {Oregon, North America, United States} 
+Santiago Queirolo Quebranta Grape Pisco , 42.0 , Pisco ,  , $17.99 - $30.79 , {Peru, South America} 
+Tabernero La Botija Quebranta Pisco , 40.0 , Pisco ,  , $12.99 - $29.99 , {Peru, South America} 
+Grand Marnier Cognac XO , 40.0 , Cognac , Grand Marnier , $69.99 - $199.99 , {Cognac, Europe, France} 
+Christian Brothers Frost White Brandy , 35.0 , Brandy , Christian Brothers , $8.04 - $16.34 , {California, North America, United States} 
+Pineau des Charentes , 17.0 , Cognac , Pineau des Charentes , $17.99 - $39.99 , {Cognac, Europe, France} 
+Lecompte Calvados Originel 3 Year , 40.0 , Fruit Brandy , Lecompte , $27.99 - $51.99 , {Calvados, Europe, France} 
+De Montal VS Armagnac , 40.0 , Armagnac , De Montal , $28.99 - $54.99 , {Armagnac, Europe, France} 
+DeKuyper Mixologist Collection Ginger Liqueur , 15.0 , Flavored Brandy , DeKuyper , $9.99 - $23.99 , {United States, North America} 
+TRA-KAL , 42.0 , Brandy , Trakal , $34.99 - $45.99 , {Chile, South America} 
+Arrow Coffee Brandy , 30.0 , Brandy , Arrow , $9.99 - $17.99 , {California, North America, United States} 
+Hardy Legend 1863 Cognac , 40.0 , Cognac , Hardy , $39.99 - $81.99 , {Cognac, Europe, France} 
+Christian Brothers Peach Brandy , 40.0 , Liqueur, Cordials, & Schnapps , Christian Brothers , $8.99 - $18.86 , {California, North America, United States} 
+Busnel Calvados V.S.O.P. , 40.0 , Calvados , Busnel , $20.99 - $60.00 , {Calvados, Europe, France} 
+Tabernero La Botija Acholado Pisco , 40.0 , Pisco ,  , $12.99 - $29.99 , {Peru, South America} 
+Kappa Pisco , 42.5 , Brandy , Kappa , $9.99 - $47.99 , {Chile, South America} 
+Poli Grappa Sarpa Di Poli , 40.0 , Grappa , Poli , $42.99 - $79.99 , { 
+Barking Irons Applejack , 50.0 , Brandy , Barking Irons , $37.99 - $53.99 , {New York, North America, United States} 
+Western Grace Brandy , 40.0 , Brandy , Western Grace , $31.89 - $43.99 , {California, North America, United States} 
+Hine Rare VSOP Cognac , 40.0 , Cognac , Hine Cognac , $39.99 - $175.99 , {France, Europe} 
+Louis XIII Cognac , 40.0 , Cognac , Louis XIII , $1650.00 - $5389.99 , {Cognac, Europe, France} 
+Hennessy VSOP Limited Edition Lunar New Year Gift Box , 40.0 , Cognac , Hennessy , $49.99 - $65.99 , {Cognac, Europe, France} 
+Hardy Organic VSOP Cognac , 40.0 , Cognac , Hardy , $40.99 - $69.99 , {Cognac, Europe, France} 
+Hennessy Pure White , 40.0 , Cognac , Hennessy , $99.99 - $249.99 , {France, Europe} 
+Capurro Pisco , 40.0 , Pisco , Capurro , $31.99 - $49.99 , {Peru, South America} 
+Branson Phantom V.S. Cognac , 40.0 , Cognac , Branson , $36.99 - $59.99 , { 
+Haraki Cretan Tsikoudia , 40.0 , Brandy , Heraki , $17.99 - $22.99 , {Crete, Europe, Greece} 
+Zuta Osa Brandy Flores Plum Slivovitz , 45.0 , Brandy , Zuta Osa , $22.99 - $40.24 , {Serbia, Europe} 
+Landy Cognac V.S.O.P. , 40.0 , Cognac , Landy , $29.99 - $59.00 , {Cognac, Europe, France} 
+Maraska Pelinkovac , 28.0 , Brandy , Maraska , $9.99 - $33.99 , {Croatia, Europe} 
+Delord Napoleon Bas Armagnac , 40.0 , Armagnac , Delord , $36.99 - $189.99 , {Armagnac, Europe, France} 
+Alexander Grappa , 40.0 , Grappa ,  , $22.37 - $75.99 , {Italy, Europe} 
+Martell Cognac Blue Swift , 42.0 , Cognac , Martell , $40.49 - $89.99 , {New York, North America, United States} 
+Chateau de Laubade Armagnac XO , 40.0 , Armagnac , Chateau de Laubade , $62.99 - $109.99 , {Armagnac, Europe, France} 
+Gautier VSOP Cognac , 40.0 , Cognac , Gautier , $24.99 - $50.99 , {Cognac Bois Ordinaires, Europe, France, Cognac} 
+Pisco 1615 Puro Quebranta Pisco , 42.0 , Pisco , Pisco 1615 , $25.00 - $26.99 , {Peru, South America} 
+1920 Brandy , 40.2 , Brandy , 1920 Brandy ,  , {Portugal, Europe} 
+Leroux Ginger Flavored Brandy , 40.0 , Flavored Brandy , Leroux , $8.99 - $16.99 , {United States, North America} 
+Camus XO Elegance , 40.0 , Cognac , Camus Cognac , $98.99 - $249.99 , {France, Europe} 
+Hennessy V.S Limited Edition by Shepard Fairey , 40.0 , Brandy , Hennessy , $31.99 - $299.99 , {Cognac, Europe, France} 
+Du Peyrat Organic Cognac , 40.0 , Cognac , Du Peyrat , $29.95 - $59.99 , {Cognac, Europe, France} 
+McGuinness Apricot Brandy , 17.0 , Fruit Brandy , McGuinness , $19.99 - $28.09 , {Canada, North America} 
+Clear Creek Brandy Williams Pear , 40.0 , Brandy , Clear Creek , $36.99 - $77.99 , {Oregon, North America, United States} 
+Gran Duque D'Alba Brandy , 40.0 , Brandy , Gran Duque , $26.24 - $74.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+Torres Solera 5 Yr Brandy , 38.0 , Brandy , Torres , $13.99 - $30.99 , {Spain, Europe} 
+Vendome VSOP Brandy , 40.0 , Brandy , Vendome , $11.99 - $21.81 , {France, Europe} 
+Clear Creek Brandy Plum , 40.0 , Brandy , Clear Creek , $38.99 - $74.99 , {Oregon, North America, United States} 
+De Montal Armagnac VSOP , 40.0 , Armagnac , De Montal , $39.52 - $59.99 , {Armagnac, Europe, France} 
+Lustau Brandy Solera Gran Reserve , 40.0 , Brandy , Lustau , $19.95 - $49.99 , {Andalucia, Europe, Spain} 
+Soldeica Pisco Brandy , 40.0 , Brandy ,  , $16.99 - $34.49 , {Peru, South America} 
+St George Apple Brandy California Reserve , 35.0 , Brandy , St. George , $47.43 - $89.99 , {California, North America, United States} 
+Mathilde Liqueur Grande Mathilde XO , 40.0 , Cognac , Mathilde ,  , {France, Europe} 
+Chateau De Laubade Signature Armagnac , 40.0 , Armagnac , Chateau de Laubade , $29.98 - $49.99 , { 
+Gran Duque d'Alba Brandy Solera Gran Reserva , 40.0 , Brandy , Gran Duque , $24.75 - $63.59 , {Andalucia, Europe, Spain} 
+Nonino Vigneti Moscato Gr , 41.0 , Grappa ,  , $59.99 - $89.50 , {Friuli-Venezia Giulia, Europe, Italy} 
+Piave Selezione Cuore Grappa , 40.0 , Grappa , Piave ,  , {Piave, Europe, Italy, Veneto} 
+Ararat Otborny Armenian Brandy 7 Year , 40.0 , Brandy , Ararat , $24.99 - $54.99 , {Armenia, Europe} 
+Grappa Asteggiana Cristiani , 40.0 , Grappa , Distilleria Cristiani , $24.99 - $44.99 , {Piedmonte, Europe, Italy} 
+Hennessy XO Gift Set , 40.0 , Cognac , Hennessy , $169.99 - $329.99 , {France, Europe} 
+Delamain Pale and Dry X.O Cognac , 40.0 , Cognac , Delamain , $64.99 - $159.99 , {Cognac, Europe, France} 
+Camus VSOP Elegance , 40.0 , Cognac , Camus Cognac , $23.99 - $69.99 , {Cognac, Europe, France} 
+Kammer Brandy Williams Birne Pear In The Bottle , 40.0 , Brandy , Kammer , $22.67 - $87.99 , {Germany, Europe} 
+Torres 20 Year Brandy , 40.0 , Brandy , Torres , $43.99 - $99.99 , {Spain, Europe} 
+Poggio Al Tesoro Vermentino 2013 , 13.5 , Brandy , Poggio Al Tesoro , $14.99 - $32.99 , {Tuscany, Europe, Italy} 
+Louis Royer Cognac V.S.O.P. , 40.0 , Cognac , Louis Royer , $39.99 - $79.99 , {Cognac, Europe, France} 
+Bols Blackberry Brandy , 35.0 , Brandy , Bols , $9.99 - $19.99 , {Netherlands, Europe} 
+Arrow Apricot Brandy , 30.0 , Brandy , Arrow , $8.99 - $17.99 , {United States, North America} 
+Candolini Grappa Bianca , 40.0 , Grappa , Candolini Grappa ,  , {Italy, Europe} 
+Morin Calvados , 40.0 , Calvados , Morin , $17.99 - $33.49 , {Calvados, Europe, France} 
+Delord Bas Armagnac 25 Year , 40.0 , Brandy , Delord , $64.99 - $149.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Pere Magloire Vsop Calvados , 40.0 , Calvados , Pere Ventura , $32.99 - $45.99 , {Calvados, Europe, France} 
+Zwack Brandy Plum Slivovitz , 40.0 , Brandy , Zwack , $18.49 - $32.99 , {Hungary, Europe} 
+Larressingle V.S.O.P Armagnac , 40.0 , Armagnac , Larressingle , $38.99 - $79.99 , {Armagnac, Europe, France} 
+Torres Pisco El Gobernador , 40.0 , Pisco , Torres , $27.21 - $42.00 , {Limari Valley, South America, Chile, Coquimbo} 
+Pisco 100 , 42.0 , Brandy , Pisco 100 , $28.99 - $47.03 , {Peru, South America} 
+Maison Rouge VS Cognac , 40.0 , Cognac , Maison Rouge , $19.99 - $39.99 , {Cognac, Europe, France} 
+Hennessy VS Gift Set , 40.0 , Cognac , Hennessy , $35.99 - $169.99 , {France, Europe} 
+Tesseron Cognac XO Selection Lot No. 90 , 40.0 , Cognac , Tesseron , $59.99 - $129.99 , {Cognac, Europe, France} 
+Marie Brizard Apry , 30.0 , Liqueur, Cordials, & Schnapps , Marie Brizard , $16.99 - $27.49 , {France, Europe} 
+Barsol Pisco Selecto Acholado , 41.3 , Pisco , Barsol Pisco , $18.99 - $36.99 , {Peru, South America} 
+Christian Brothers Brandy Peach Harv , 35.0 , Liqueur, Cordials, & Schnapps , Christian Brothers ,  , {United States, North America} 
+Clear Creek Brandy Kirschwasser , 40.0 , Brandy , Clear Creek ,  , {Oregon, North America, United States} 
+Belle de Brillet Pear and Cognac Liqueur , 30.0 , Brandy , Belle de Brillet ,  , {Cognac, Europe, France} 
+Mr. Boston Five Star Brandy , 40.0 , Brandy , Mr. Boston ,  , {Kentucky, North America, United States} 
+P Masson Brandy Gr Amb Red Bry12 , 27.0 , Liqueur, Cordials, & Schnapps ,  ,  , {California, North America, United States} 
+Macchu Pisco La Diablada , 40.0 , Pisco , Macchu , $34.99 - $59.99 , {Peru, South America} 
+Kelt Cognac Tour du Monde Commodore , 40.0 , Cognac , Kelt , $71.99 - $149.99 , {Cognac, Europe, France} 
+CRF Reserva Brandy , 37.5 , Brandy , C.R.F , $27.99 - $45.99 , {Andalucia, Europe, Spain} 
+Hennessy 250 Collectors Blend Cognac , 40.0 , Cognac , Hennessy ,  , {Cognac, Europe, France} 
+R. Jelinek 7yr Gold Slivovitz , 50.0 , Brandy , R. Jelinek , $23.99 - $40.24 , {Czech Republic, Europe} 
+Chateau du Breuil Fine Calvados , 40.0 , Fruit Brandy , Chateau du Breuil , $39.60 - $85.99 , {Calvados, Europe, France} 
+Louis Royer VS Cognac , 40.0 , Cognac , Louis Royer , $40.69 - $69.99 , {Cognac, Europe, France} 
+St. George Raspberry Brandy , 40.0 , Brandy , St. George , $29.99 - $59.99 , {California, North America, United States} 
+Mr. Boston Ginger Brandy , 35.0 , Brandy , Mr. Boston , $8.99 - $13.65 , {Kentucky, North America, United States} 
+Starlight Applejack Brandy , 41.5 , Brandy , Starlight , $20.99 - $39.99 , {Indiana, North America, United States} 
+Boulard Gran Solage Calvados , 40.0 , Calvados , Calvados Boulard , $36.75 - $69.99 , {Calvados, Europe, France} 
+St Vivant Armagnac , 40.0 , Armagnac ,  , $26.99 - $59.99 , {Armagnac, Europe, France} 
+Peach Street Peach Brandy , 40.0 , Fruit Brandy ,  , $41.99 - $77.00 , {Colorado, North America, United States} 
+G.E. Massenez Poire Williams , 40.0 , Eau de Vie , G.E. Massenez ,  , {France, Europe} 
+Courvoisier Connoisseur 12 Year Old Cognac , 40.0 , Cognac , Courvoisier , $26.99 - $199.99 , {Cognac, Europe, France} 
+Chauffe Coeur Calvados VSOP , 43.0 , Calvados , Chais Chauffe-Coeur , $37.98 - $79.99 , {Calvados, Europe, France} 
+Landy Cognac XO , 40.0 , Cognac , Landy , $49.99 - $146.71 , {Cognac, Europe, France} 
+Macieira Five Star Brandy , 36.0 , Brandy , Macieira Five Star Brandy , $9.99 - $23.99 , {Portugal, Europe} 
+Fundador Solera Reserva , 40.0 , Brandy , Fundador ,  , {Andalucia, Europe, Spain} 
+Chateau De Lacquy Armagnac Vsop , 40.0 , Armagnac , Chateau de Lacquy , $50.46 - $64.99 , {Armagnac, Europe, France} 
+Darroze 8 Yr Armagnac , 43.0 , Armagnac , Les Grands Assemblages , $41.99 - $96.99 , {Armagnac, Europe, France} 
+Noy Armenian Brandy 5 Year , 40.0 , Brandy , Noy , $16.79 - $39.99 , {Armenia, Europe} 
+Fundador Solera Reserva , 40.0 , Brandy , Fundador ,  , {Andalucia, Europe, Spain} 
+Bache Gabrielsen Tre Kors Cognac , 40.0 , Cognac , Bache Gabrielsen , $22.50 - $48.99 , {Norway, Europe} 
+Sound Spirits Aquavit , 40.0 , Brandy , Sound Spirits , $24.99 - $39.99 , {Washington, North America, United States} 
+Park Cognac Vsop , 40.0 , Cognac ,  , $34.99 - $82.99 , {Cognac, Europe, France} 
+Ocucaje Pisco Quebranta , 44.8 , Pisco , Ocucaje , $19.99 - $30.99 , {Peru, South America} 
+Meukow Vanilla Cognac , 30.0 , Cognac , Meukow , $17.99 - $44.99 , {Cognac, Europe, France} 
+Symbole National Brandy Xo , 40.0 , Brandy ,  , $14.98 - $16.99 , { 
+Poli Sarpa Grappa , 40.0 , Grappa , Poli , $40.99 - $64.99 , { 
+Pierre Ferrand Reserve Double Cask Cognac , 42.3 , Cognac , Pierre Ferrand , $69.95 - $99.95 , {Cognac, Europe, France} 
+Massenez Mirabelle Plum Brandy , 40.0 , Brandy , Massenez , $27.99 - $59.99 , {France, Europe} 
+Frapin Cognac XO Chateau de Fontpinot , 41.0 , Cognac , Frapin , $54.99 - $179.99 , {Cognac, Europe, France} 
+Clear Creek Eau de Vie de Pomme Barrel Aged 8 Year , 40.0 , Eau de Vie , Clear Creek ,  , {Oregon, North America, United States} 
+P Masson Brandy Gr Amb Red Berry , 27.0 , Liqueur, Cordials, & Schnapps ,  ,  , {California, North America, United States} 
+Lorenzo Inga Grappa Di Prosecco , 40.0 , Grappa , Inga ,  , {Prosecco, Europe, Italy, Veneto} 
+Moletto Grappa di Barolo Nebbiolo , 43.0 , Grappa , Moletto , $34.99 - $52.79 , {Piedmonte, Europe, Italy} 
+Takovo Kajsija Apricot Brandy , 40.0 , Flavored Brandy , Takovo , $19.99 - $28.74 , {Serbia, Europe} 
+Levon Le Maginfique Cognac VSOP , 40.0 , Cognac , Levon Le Maginfique , $34.99 - $60.59 , {Cognac, Europe, France} 
+Pierre Ferrand Reserve Double Cask Cognac , 42.3 , Cognac , Pierre Ferrand , $69.95 - $99.95 , {Cognac, Europe, France} 
+Camus XO Borderies , 40.0 , Cognac , Camus Cognac , $129.99 - $191.99 , {Cognac, Europe, France} 
+Reisetbauer Carrot Eau De Vie , 41.5 , Eau de Vie , Reisetbauer ,  , {Austria, Europe} 
+Comandon XO Signature , 40.0 , Cognac , Comandon , $109.99 - $899.99 , {Cognac, Europe, France} 
+Troyanska Slivovitz Plum Brandy 4 Year , 40.0 , Fruit Brandy , Troyanska Slivovitz , $17.99 - $28.74 , {Bulgaria, Europe} 
+Osborne Magno Brandy , 36.0 , Brandy , Osborne , $14.39 - $26.99 , {Spain, Europe} 
+Christian Brothers Sacred Bond Brandy , 50.0 , Brandy , Christian Brothers , $9.99 - $39.99 , {California, North America, United States} 
+Camus Ile de Re Fine Island Cognac , 40.0 , Cognac , Camus Cognac , $42.58 - $69.99 , {Cognac, Europe, France} 
+Arrow Ginger Brandy , 30.0 , Brandy , Arrow , $9.99 - $14.90 , {California, North America, United States} 
+Hennessy V.S Luminous , 40.0 , Cognac , Hennessy , $59.99 , {Cognac, Europe, France} 
+Hardy XO Rare Cognac , 40.0 , Cognac , Hardy , $80.99 - $249.95 , {Cognac, Europe, France} 
+Dubouchett Blackberry Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Dubouchett , $8.99 - $69.99 , {United States, North America} 
+Mad River Malvados Apple Brandy 100pf , 50.0 , Fruit Brandy , Mad River ,  , {Vermont, North America, United States} 
+Tatrzanska Kosher Slivovitz , 72.0 , Fruit Brandy , Tatrzanska , $26.99 , {Poland, Europe} 
+Leroux Coffee Flavored Brandy , 30.0 , Flavored Brandy , Leroux , $9.99 - $19.99 , {United States, North America} 
+Lepanto Brandy Solera Gran Reserva , 40.0 , Brandy , Gonzalez Byass , $21.99 - $76.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+R. Jelinek Pear Williams Brandy , 42.0 , Fruit Brandy , R. Jelinek , $25.99 - $45.99 , {Czech Republic, Europe} 
+Hennessy Paradis Extra Rare Cognac , 40.0 , Cognac , Hennessy , $200.00 - $2999.99 , {Cognac, Europe, France} 
+Constantino Brandy , 40.0 , Brandy , Costantino Winery ,  , {Douro, Europe, Portugal} 
+Romate Brandy De Jerez Solera Reserva , 40.0 , Brandy ,  ,  , {Spain, Europe} 
+Nardini Grappa Riserva , 50.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Guillon Painturaud Cognac VSOP Grande Champagne , 40.0 , Cognac , Guillon-Painturaud , $53.00 - $79.99 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Clear Creek Eau de Vie de Poire Pear In The Bottle , 40.0 , Eau de Vie , Clear Creek , $63.99 - $94.99 , {Oregon, North America, United States} 
+Mr. Boston Cherry Brandy , 35.0 , Brandy , Mr. Boston , $8.99 - $13.65 , {Kentucky, North America, United States} 
+Alexander Grappa Cabernet , 43.0 , Grappa ,  , $30.99 - $52.99 , {Veneto, Europe, Italy} 
+Cognac Du Peyrat , 40.0 , Cognac ,  , $45.00 - $139.95 , {Cognac, Europe, France} 
+Bols Ginger Brandy , 35.0 , Flavored Brandy , Bols ,  , {Netherlands, Europe} 
+Candolini Grappa Rue Flavor , 40.0 , Grappa , Candolini Grappa ,  , {Italy, Europe} 
+Kelt Cognac XO , 46.0 , Cognac , Kelt , $139.99 - $259.99 , {Cognac, Europe, France} 
+Raki Rrushi Brandy , 47.0 , Brandy , Raki Rrushi , $19.99 - $39.99 , {Albania, Europe} 
+Navarre Vieille Reserve Cognac , 45.0 , Cognac , Navarre , $219.99 - $279.99 , {Cognac, Europe, France} 
+Jacopo Poli Di Secca Dry Grappa Merlot , 40.0 , Eau de Vie , Jacopo Poli , $49.99 - $69.99 , {Veneto, Europe, Italy} 
+Torres 15 Year Brandy , 40.0 , Brandy , Torres , $26.99 - $65.00 , {Penedes, Europe, Spain, Catalunya} 
+Drouin Coeur De Lion Calvados XO , 40.0 , Calvados , Drouin Coeur de Lion Calvados , $59.99 - $159.99 , {Calvados, Europe, France} 
+Branson Grand Champagne V.S.O.P Cognac , 40.0 , Cognac ,  , $54.99 - $83.99 , { 
+Clear Creek Kirschwasser , 40.0 , Brandy , Clear Creek , $29.99 - $59.99 , {Oregon, North America, United States} 
+Barsol Pisco Supremo Mosto Verde Italia , 41.0 , Brandy , Barsol Pisco , $21.97 - $68.99 , {Peru, South America} 
+Rodell Napoleon Brandy VSOP , 40.0 , Brandy , Rodell , $11.09 - $21.99 , {France, Europe} 
+Torres Jaime 1 Brandy , 40.0 , Brandy , Torres , $99.99 - $201.99 , {Penedes, Europe, Spain, Catalunya} 
+Tariquet Bas Armagnac VS , 40.0 , Armagnac , Tariquet , $29.99 - $49.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Bols Apricot Brandy , 35.0 , Fruit Brandy , Bols , $9.89 - $27.09 , {Netherlands, Europe} 
+Osborne Veterano Solera Brandy , 30.0 , Brandy , Osborne , $11.59 - $19.99 , {Andalucia, Europe, Spain} 
+Stara Sokolova Plum Brandy , 40.0 , Brandy , Stara Sokolova , $26.99 - $40.24 , {Serbia, Europe} 
+Cognac Tesseron Lot 53 , 40.0 , Cognac , Tesseron , $244.99 - $499.99 , {Cognac, Europe, France} 
+Delacour Brandy , 40.0 , Brandy , Delacour ,  , {France, Europe} 
+Paul Beau Hors d'Age Cognac , 43.0 , Cognac , Paul Beau , $99.98 - $165.00 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Barsol Pisco Selecto Italia , 40.0 , Brandy , Barsol Pisco , $29.99 - $54.99 , {Peru, South America} 
+Inga Grappa Gavi Di Gavi , 40.0 , Eau de Vie , Inga ,  , {Gavi, Europe, Italy, Piedmonte} 
+A.E. Dor VS , 40.0 , Cognac , A.E. Dor , $28.41 - $62.99 , {France, Europe} 
+Ararat Ani Armenian Brandy 6 Year , 40.0 , Brandy , Ararat Ani , $22.99 - $34.99 , {Armenia, Europe} 
+Nardini Grappa Infused With Rue , 43.0 , Grappa , Nardini ,  , {Veneto, Europe, Italy} 
+Ferrand Cognac Ambre , 40.0 , Cognac , Pierre Ferrand ,  , {Cognac, Europe, France} 
+Jacopo Poli Grappa di Sassicaia , 40.0 , Brandy , Poli ,  , {Italy, Europe} 
+Domaine Dupont Fine Reserve Calvados , 42.0 , Calvados , Domaine Dupont , $38.61 - $52.99 , {Calvados, Europe, France} 
+Alize Coco W/Shaker , 20.0 , Cognac , Alize , $10.99 - $20.99 , {France, Europe} 
+Larressingle X.O Armagnac , 43.0 , Armagnac , Larressingle , $59.99 - $122.09 , {Armagnac, Europe, France} 
+Cardenal Mendoza Angelus Liquor , 40.0 , Flavored Brandy , Cardenal Mendoza , $10.99 - $43.99 , {Spain, Europe} 
+Clear Creek Cherry Liqueur , 40.0 , Fruit Brandy , Clear Creek ,  , {Oregon, North America, United States} 
+Maxime Trijol XO Cognac , 40.0 , Cognac , Maxime Trijol , $94.99 - $139.99 , {France, Europe} 
+Jersey Apple Brandy , 41.0 , Fruit Brandy , La Mare Estate , $11.99 - $13.99 , {New Jersey, North America, United States} 
+DeKuyper Coffee Flavored Brandy , 30.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $9.99 - $15.59 , {United States, North America} 
+Twenty Grand Black Cognac Infused Vodka , 40.0 , Cognac , Twenty Grand , $22.67 - $42.99 , {Kentucky, North America, United States} 
+Camus Cognac Borderies Xo 80 Gb , 40.0 , Cognac , Camus Cognac , $94.49 - $211.00 , {Cognac Borderies, Europe, France, Cognac} 
+Huber Apple Brandy , 40.0 , Brandy , Huber , $44.99 - $59.99 , {Indiana, North America, United States} 
+H Walker Amaretto & Cognac , 25.0 , Cognac ,  , $11.99 - $21.99 , {United States, North America} 
+Tj Claude Chatelier Vs Cognac 91379 , 35.0 , Cognac ,  , $16.98 - $29.99 , {Cognac, Europe, France} 
+Baron Lustrac XO Bas Armagnac 25 Year  , 40.0 , Armagnac , Baron , $69.99 - $109.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Copper & Kings Floodwall Apple Brandy . , 50.0 , Fruit Brandy , Copper & Kings , $28.99 - $52.99 , {Kentucky, North America, United States} 
+Copper Kings American Craft Apple Brandy , 46.0 , Brandy , Copper & Kings , $26.99 - $59.99 , {Kentucky, North America, United States} 
+Metaxa Grande Fine , 40.0 , Brandy , Metaxa , $29.93 - $65.99 , {Greece, Europe} 
+Argonaut Fat Thumb Brandy , 43.0 , Brandy , Argonaut , $54.99 - $59.99 , {California, North America, United States} 
+Emperador Solera Brandy , 40.0 , Brandy , Emperador , $9.99 - $31.99 , {Philippines, Asia} 
+Bertoux Brandy , 40.0 , Brandy , Bertoux , $10.99 - $59.99 , {California, North America, United States} 
+Schladerer Himbeergeist Rasperry Brandy , 42.0 , Liqueur, Cordials, & Schnapps , Schladerer , $34.99 - $59.99 , {Germany, Europe} 
+Tesseron Cognac XO Tradition Lot No 76 , 40.0 , Cognac , Tesseron , $79.99 - $232.29 , {Cognac, Europe, France} 
+Hennessy Cognac V.S + Hennessy Black Nip (50ml) , 40.0 , Cognac , Hennessy , $32.99 - $44.99 , {Cognac, Europe, France} 
+Hardy Noces D'or Cognac 50 Year , 40.0 , Cognac , Hardy , $149.99 - $451.99 , {Cognac, Europe, France} 
+Maxime Trijol VS Cognac , 40.0 , Cognac , Maxime Trijol , $26.99 - $39.99 , {France, Europe} 
+Argonaut Fat Thumb Brandy , 43.0 , Brandy , Argonaut , $54.99 - $59.99 , {California, North America, United States} 
+Osborne Carlos I Brandy , 40.0 , Brandy , Osborne , $34.99 - $55.99 , {Spain, Europe} 
+Bertoux Brandy , 40.0 , Brandy , Bertoux , $10.99 - $59.99 , {California, North America, United States} 
+Emperador Solera Brandy , 40.0 , Brandy , Emperador , $9.99 - $31.99 , {Philippines, Asia} 
+Metaxa Grande Fine , 40.0 , Brandy , Metaxa , $29.93 - $65.99 , {Greece, Europe} 
+Catoctin Creek Quarter Branch Apple Brandy , 40.0 , Fruit Brandy , Catoctin Creek ,  , {Virginia, North America, United States} 
+Delamain Vesper Cognac , 40.0 , Cognac , Delamain , $139.99 - $289.99 , {Oaxaca, North America, Mexico} 
+Fleischman Brandy , 45.0 , Brandy ,  ,  , {Kentucky, North America, United States} 
+Clear Creek  Douglas Fir , 47.73 , Eau de Vie , Clear Creek ,  , {Oregon, North America, United States} 
+Leroux Brandy Flavored Peach Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Leroux , $8.99 - $20.99 , {United States, North America} 
+Allens Brandy Apricot , 30.0 , Flavored Brandy ,  ,  , {United States, North America} 
+Cardenal Mendoza Brandy Gift , 40.0 , Brandy , Cardenal Mendoza , $22.54 - $61.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+Jacopo Poli Barrique , 55.0 , Grappa , Jacopo Poli , $45.99 - $64.99 , { 
+Black Currant Apple Brandy Wine , 18.5 , Brandy , Finnriver Cidery ,  , {Washington, North America, United States} 
+Askalon Brandy , 40.0 , Brandy , Askalon , $13.99 - $29.99 , {Israel, Asia} 
+Stara Sokolova Kajsija Apricot Brandy , 40.0 , Flavored Brandy , Stara Sokolova , $31.99 - $39.99 , {Serbia, Europe} 
+Stara Viljamovka Pear Brandy , 40.0 , Fruit Brandy , Stara Sokolova , $27.99 - $40.24 , {Serbia, Europe} 
+Le Pere Jules 3 Years Calvados , 41.0 , Calvados , Le Père Jules , $52.99 - $68.99 , {Calvados, Europe, France} 
+Courvoisier Napoleon Cognac , 40.0 , Cognac , Courvoisier , $38.99 - $279.99 , {Cognac, Europe, France} 
+Dekuyper Vanilla Schnapps Liqueur , 15.0 , Liqueur, Cordials, & Schnapps , DeKuyper , $9.99 - $15.49 , {United States, North America} 
+Hennessy Paradis Imperial Cognac , 45.0 , Cognac , Hennessy , $999.99 - $3999.00 , {Cognac, Europe, France} 
+Don Pedro Brandy Reserve Esp , 40.0 , Brandy ,  , $14.99 - $65.00 , {Mexico, North America} 
+Gaston De Lagrange VS Cognac , 40.0 , Cognac , Gaston de Lagrange , $20.69 - $48.09 , {Cognac, Europe, France} 
+Tabernero La Botija Italia Pisco , 40.0 , Pisco ,  , $12.99 - $29.99 , {Peru, South America} 
+Frapin 1er Cru , 40.0 , Cognac , Frapin , $38.50 - $59.99 , {Cognac, Europe, France} 
+Rujero Bolivian Singani Brandy , 40.0 , Brandy ,  , $16.95 - $46.19 , {Bolivia, South America} 
+Pisco Logia Acholado , 40.0 , Pisco , Pisco Logia , $31.00 - $48.99 , {Peru, South America} 
+Le Reviseur V.S. Cognac , 40.0 , Cognac , Le Reviseur , $34.99 - $46.99 , {Cognac Petite Champagne, Europe, France, Cognac} 
+Esperance Armagnac Xo , 40.0 , Armagnac , Esperance , $86.99 - $126.00 , {Armagnac, Europe, France} 
+Rising Sun Colorado Peach Liqueur , 40.0 , Fruit Brandy , Rising Sun Distlillery ,  , {Colorado, North America, United States} 
+Cognac Park Borderies Single Vineyard Cognac , 40.0 , Cognac , Cognac Park , $43.99 - $119.95 , {Cognac Borderies, Europe, France, Cognac} 
+Germain-Robin Apple Brandy , 40.6 , Brandy , Germain Robin , $53.99 - $89.99 , {California, North America, United States} 
+Blume Marillen Apricot Eau-de-Vie , 40.0 , Eau de Vie , Blume ,  , {Austria, Europe} 
+Marolo Grappa Di Moscato , 42.0 , Brandy , Marolo , $52.99 - $74.99 , {Italy, Europe} 
+Camus Cognac Xo Elegance 80 Gw , 40.0 , Cognac , Camus Cognac , $85.99 - $206.99 , {Cognac, Europe, France} 
+Clear Creek Grappa Muscat , 40.0 , Grappa , Clear Creek ,  , {Oregon, North America, United States} 
+Christian Drouin Coeur de Lion Calvados Sélection , 40.0 , Brandy , Coeur De Lion , $32.00 - $39.99 , {Calvados, Europe, France} 
+Rikaloff Vsop Brandy , 40.0 , Brandy ,  ,  , {Maryland, North America, United States} 
+Bache Gabrielsen American Oak Aged Cognac , 40.0 , Cognac , Bache Gabrielsen , $34.95 - $54.99 , {Cognac, Europe, France} 
+Philbert Rare Cask Sherry Finish Grande Champagne Cognac , 41.5 , Cognac , Philbert , $49.99 - $67.99 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Delpech-Fougerat XO Cognac , 40.0 , Cognac , Vinet Delpech , $61.99 - $189.95 , {Cognac, Europe, France} 
+Jacopo Poli Aromatic Grappa Traminer "PO 'di Poli" , 40.0 , Grappa , Jacopo Poli , $46.99 - $69.99 , {Italy, Europe} 
+New Deal Pear Brandy , 40.0 , Fruit Brandy , New Deal Distillery , $39.99 - $58.99 , {Oregon, North America, United States} 
+Catoctin Creek Pearousia Pear Brandy , 40.0 , Fruit Brandy , Catoctin Creek ,  , {Virginia, North America, United States} 
+Hangar 1 Bentwing Brandy , 40.0 , Brandy , Hangar 1 , $24.99 - $39.99 , {California, North America, United States} 
+Schladerer Brandy Williams Birne Pear , 40.0 , Brandy , Schladerer , $37.99 - $69.99 , {Germany, Europe} 
+Osocalis Rare Alambic Brandy , 40.0 , Brandy , Osocalis Distillery , $39.99 - $56.99 , {California, North America, United States} 
+Tariquet VSOP Armagnac , 40.0 , Armagnac , Tariquet , $10.99 - $76.99 , {Armagnac, Europe, France} 
+Park Cognac Vs , 40.0 , Cognac ,  , $25.99 - $59.99 , {Cognac, Europe, France} 
+Park Cognac Xo , 40.0 , Cognac ,  , $113.11 - $159.99 , {Cognac, Europe, France} 
+Moletto Grappa di Barbera , 43.0 , Grappa , Moletto , $29.99 - $47.29 , {Piedmonte, Europe, Italy} 
+Pisco Porton La Caravedo , 41.0 , Brandy , La Caravedo , $19.39 - $49.99 , {Peru, South America} 
+Bols Cherry Brandy , 30.0 , Flavored Brandy , Bols , $16.99 - $26.99 , {Netherlands, Europe} 
+Chateau Arton Fine Blanche Haut Armagnac , 45.0 , Armagnac , Chateau Arton , $30.99 - $49.99 , {Haut Armagnac, Europe, France, Armagnac} 
+Les Reserves d'Arton Vielle Plum du Perigord , 42.0 , Eau de Vie , Chateau Arton , $59.99 , {France, Europe} 
+Hennessy Cogn XO Fathers , 40.0 , Cognac , Hennessy , $175.99 , {France, Europe} 
+Spirit Of Solomon Slivovitz , 40.0 , Brandy , Spirit Of Solomon ,  , {New York, North America, United States} 
+Chateau Arton Fine Blanche Haut Armagnac , 45.0 , Armagnac , Chateau Arton , $30.99 - $49.99 , {Haut Armagnac, Europe, France, Armagnac} 
+Les Reserves d'Arton Vielle Plum du Perigord , 42.0 , Eau de Vie , Chateau Arton , $59.99 , {France, Europe} 
+Hennessy Cogn XO Fathers , 40.0 , Cognac , Hennessy , $175.99 , {France, Europe} 
+Clear Creek Brandy Eau de Vie Pomme 8 Year , 40.0 , Eau de Vie , Clear Creek , $30.99 - $50.99 , {Oregon, North America, United States} 
+Coronet Vsq Brandy , 40.0 , Brandy , Coronet , $8.99 - $16.79 , {California, North America, United States} 
+Nonino il Moscato Grappa , 41.0 , Brandy , Nonino Grappa , $20.99 - $87.99 , {Italy, Europe} 
+Guillon-Painturaud VSOP Cognac , 40.0 , Cognac , Guillon-Painturaud , $62.99 , {Cognac, Europe, France} 
+Courvoisier Initiale Cognac , 40.0 , Cognac , Courvoisier , $299.99 - $499.99 , {Cognac, Europe, France} 
+Jacopo Poli Cherry Brandy Ciliegie di Poli , 40.0 , Brandy , Jacopo Poli , $61.99 - $65.99 , {Italy, Europe} 
+Busnel 12 Year Old Brandy , 43.0 , Brandy , Busnel , $65.99 - $99.99 , {France, Europe} 
+Camut 6 Year Calvados , 43.0 , Calvados , Camut , $71.99 - $123.20 , {Calvados, Europe, France} 
+Hans Reisetbauer Rowanberry Eau de Vie Brandy , 41.5 , Eau de Vie , Hans Reisetbauer ,  , {Austria, Europe} 
+Adet Cognac V.S.O.P. , 40.0 , Cognac , Adet , $17.99 , {Cognac, Europe, France} 
+Idoniko Tsipouro Grappa Anise , 46.0 , Brandy , Idoniko Tsipouro , $20.99 - $26.99 , {Italy, Europe} 
+Delamain Gift Pack , 40.0 , Cognac , Delamain ,  , {Oaxaca, North America, Mexico} 
+Cerbois Armagnac Vsop Cs/6 , 40.0 , Armagnac , Cerbois Armagnac , $41.49 - $79.99 , {Armagnac, Europe, France} 
+Carpene Malvolti Grappa Vecch , 38.0 , Grappa , Carpene Malvolti , $25.29 - $33.00 , {Veneto, Europe, Italy} 
+Don Cesar Pisco Italia , 42.95 , Brandy ,  , $19.99 - $36.99 , {Peru, South America} 
+P Magloire Calvados VSOP , 40.0 , Eau de Vie ,  , $36.74 - $59.99 , {Calvados, Europe, France} 
+Leopold Raffin Cognac Napolean , 40.0 , Cognac ,  , $39.97 - $90.99 , {Cognac, Europe, France} 
+E&J Brandy Vs 80 Flask , 40.0 , Brandy ,  ,  , {California, North America, United States} 
+Pegasus Brandy , 40.0 , Brandy ,  ,  , {Armenia, Europe} 
+Grand Montand Brandy Vsop , 38.0 , Brandy ,  , $13.99 - $15.67 , {France, Europe} 
+Glunz Tradition Apricot Brandy , 40.0 , Brandy ,  ,  , {Austria, Europe} 
+Saint Paul Cognac Vs , 40.0 , Cognac ,  , $27.99 , {Cognac, Europe, France} 
+Normandin-Mercier V.S.O.P. Petite Champagne Cognac , 40.0 , Cognac , Normandin-Mercier , $55.78 - $69.99 , {Cognac Petite Champagne, Europe, France, Cognac} 
+Bowen VSOP Cognac , 40.0 , Cognac , Bowen , $49.99 - $60.49 , {Cognac, Europe, France} 
+Les Antiquaires du Cognac Grande Champagne 1968 , 46.5 , Cognac , Les Antiquaires , $3999.99 , {Cognac, Europe, France} 
+Courvoisier Erte No. 3 Distillation , 40.0 , Cognac , Courvoisier , $1499.00 - $1999.99 , {Cognac, Europe, France} 
+Cognac Park Xo Extra Grande Champagne Cognac , 40.0 , Cognac , Cognac Park , $199.99 - $299.99 , {Cognac, Europe, France} 
+Strykover Premium Slivovitz Plum Brandy , 72.0 , Fruit Brandy , Strykover , $24.99 - $34.99 , {Poland, Europe} 
+Lepanto P.X. Gran Reserve , 40.0 , Brandy , Gonzalez Byass , $57.99 - $60.99 , {Andalucia, Europe, Spain} 
+Philbert Rare Cask Sherry Finish Petite Champagne Cognac , 41.5 , Cognac , Philbert , $58.29 - $62.49 , {Cognac Petite Champagne, Europe, France, Cognac} 
+Berneroy Vsop Calvados , 40.0 , Calvados , Berneroy , $19.99 - $26.39 , { 
+Poli Grappa Miele , 35.0 , Grappa , Poli , $30.94 , { 
+Chabot 30 Yr Armagnac , 40.0 , Armagnac , Chabot , $196.99 , { 
+Abk6 Vsop Cognac , 40.0 , Cognac , ABK6 , $29.99 - $34.98 , { 
+A. de Fussigny Grand Champagne VSOP , 40.0 , Cognac , A. de Fussigny , $44.99 - $54.98 , { 
+Paulet Cognac VSOP , 40.0 , Cognac , Paulet ,  , { 
+Mr. Boston Wild Cherry Brandy , 35.0 , Fruit Brandy , Mr. Boston , $10.49 , {Kentucky, North America, United States} 
+Vieille France VSOP , 40.0 , Cognac ,  , $17.99 - $27.99 , { 
+Spirit Of Solomon Slivovitz , 40.0 , Brandy , Spirit Of Solomon ,  , {New York, North America, United States} 
+KVINT Divin VS 3 Years , 40.0 , Eau de Vie , KVINT , $13.99 - $21.99 , {Moldova, Europe} 
+Chateau Arton Fine Blanche Haut Armagnac , 45.0 , Armagnac , Chateau Arton , $30.99 - $49.99 , {Haut Armagnac, Europe, France, Armagnac} 
+Les Reserves d'Arton Vielle Plum du Perigord , 42.0 , Eau de Vie , Chateau Arton , $59.99 , {France, Europe} 
+Hennessy Cogn XO Fathers , 40.0 , Cognac , Hennessy , $175.99 , {France, Europe} 
+Bache Gabrielsen Extra Serenite , 42.0 , Cognac , Bache Gabrielsen , $199.99 , {Cognac, Europe, France} 
+Hine Triomphe Cognac , 40.0 , Cognac , Hine Cognac , $67.99 - $999.99 , {Cognac, Europe, France} 
+Monteru French Brandy Sauternes Cask Finish , 40.8 , Brandy , Monteru , $34.00 - $59.99 , { 
+L'Encantada X.O. Bas-Armagnac  , 48.8 , Armagnac , PM Spirits , $84.99 - $136.99 , { 
+Branson Royal V.S.O.P Cognac , 40.0 , Cognac , Branson , $49.99 - $79.99 , { 
+Stock 84 Reserve Brandy , 38.0 , Brandy , Stock 84 , $9.99 - $25.81 , {Czech Republic, Europe} 
+Hennessy VSOP Oh So Classic Gift Set , 40.0 , Cognac , Hennessy , $52.99 - $94.99 , {Cognac, Europe, France} 
+A.E. Dor Napoleon , 40.0 , Cognac , A.E. Dor , $72.99 - $90.99 , {France, Europe} 
+Luxardo Anisette Liqueur , 27.0 , Cognac , Luxardo , $11.99 - $28.99 , {Italy, Europe} 
+Bache Gabrielsen Cognac XO Natur & Eleganse , 40.0 , Cognac , Bache Gabrielsen , $39.99 - $159.99 , {Cognac, Europe, France} 
+Merlet Brothers Blend Cognac , 40.0 , Cognac , Merlet , $38.99 - $46.99 , {Cognac, Europe, France} 
+Cerbois Armagnac Rp/Xo , 40.0 , Armagnac , Cerbois Armagnac , $70.99 - $102.99 , {Armagnac, Europe, France} 
+Castello De Volpaia Grappa , 14.0 , Grappa , Volpaia ,  , {Chianti, Europe, Italy, Tuscany} 
+Christian Drouin Calvados XO , 40.0 , Cognac , Domaine Drouhin , $110.00 - $134.99 , {Calvados, Europe, France} 
+Tesseron Royal Blend , 40.0 , Cognac , Tesseron , $1299.99 - $1799.99 , {France, Europe} 
+Monarch Brandy , 40.0 , Brandy , Monarch , $9.74 - $14.99 , {Oregon, North America, United States} 
+Chateau Montifaud Xo Cognac , 40.0 , Cognac ,  , $108.99 - $169.99 , {Cognac, Europe, France} 
+Lairds Brandy Apple Jersey Lght , 50.0 , Brandy , Lairds , $18.99 - $35.00 , {New Jersey, North America, United States} 
+Maraska Kirschwasser Brandy , 40.0 , Brandy ,  , $15.74 - $29.99 , {Croatia, Europe} 
+Etter Framboise , 35.0 , Eau de Vie ,  ,  , {Switzerland, Europe} 
+F Meyer Mirabelle , 45.0 , Brandy ,  ,  , {France, Europe} 
+Pocket Shots Brandy , 40.0 , Brandy ,  ,  , { 
+Nardini Grappa Riserva Green Label , 40.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Coeur De Lion Reserve Des Fiefs , 45.0 , Brandy , Coeur De Lion , $39.99 - $79.99 , {France, Europe} 
+Frapin Cognac Vip Xo , 40.0 , Cognac , Frapin , $170.34 - $300.00 , {Cognac, Europe, France} 
+Grand Monarch Orange & Brandy , 40.0 , Brandy ,  , $15.83 - $23.99 , {Oregon, North America, United States} 
+Antinori Grappa Tignanello , 42.0 , Brandy , Antinori ,  , {Tuscany, Europe, Italy} 
+Pocket Shots Brandy , 40.0 , Brandy ,  ,  , { 
+Nardini Grappa Riserva Green Label , 40.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Coeur De Lion Reserve Des Fiefs , 45.0 , Brandy , Coeur De Lion , $39.99 - $79.99 , {France, Europe} 
+Frapin Cognac Vip Xo , 40.0 , Cognac , Frapin , $170.34 - $300.00 , {Cognac, Europe, France} 
+Maraska Kirschwasser Brandy , 40.0 , Brandy ,  , $15.74 - $29.99 , {Croatia, Europe} 
+Grand Monarch Orange & Brandy , 40.0 , Brandy ,  , $15.83 - $23.99 , {Oregon, North America, United States} 
+Antinori Grappa Tignanello , 42.0 , Brandy , Antinori ,  , {Tuscany, Europe, Italy} 
+Raynal Napoleon Brandy , 40.0 , Brandy , Raynal , $13.99 - $22.99 , {France, Europe} 
+Hennessy V.S Limited Edition by Scott Campbell , 40.0 , Cognac , Hennessy , $31.99 - $169.99 , {United States, North America} 
+Courvoisier Extra Erte Cognac , 40.0 , Cognac , Courvoisier , $2999.99 , {Cognac, Europe, France} 
+Dartigalongue XO Armagnac , 40.0 , Armagnac , Dartigalongue , $49.95 - $62.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Zanin Grappa Di Prosecco , 40.0 , Grappa , Zanin , $33.59 , {Veneto, Europe, Italy} 
+Suau Brandy 8 Year , 40.0 , Brandy , Suau , $22.99 - $24.95 , {Mallorca , Europe, Spain, Balearic Islands} 
+St George Aqua Perfecta Basil Eau De Vie , 40.0 , Brandy , St. George , $34.99 - $38.99 , {California, North America, United States} 
+Overload XO French Brandy , 40.0 , Brandy , Overload ,  , {France, Europe} 
+Guillon Painturaud Hors D'age Grande Champagne Cognac , 40.0 , Cognac , Guillon-Painturaud , $199.00 - $225.99 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Leopold Raffin Vsop Cognac , 40.0 , Cognac , Leopard Raffin Cognac , $32.99 - $59.99 , {Cognac, Europe, France} 
+Darroze 40 Year Bas Armagnac , 43.0 , Armagnac , Darroze , $130.99 - $319.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Grands Domaines Cognac Vs , 40.0 , Cognac , Grands Domaines , $18.98 , { 
+Deux Freres Cognac Vs , 40.0 , Cognac , Deux Freres ,  , { 
+Sarajishvili Brandy VSOP , 40.0 , Brandy , Sarajishvili , $29.99 - $40.99 , {Republic of Georgia, Europe} 
+Rémy Martin Carte Blanche à Baptiste Loiseau Cognac , 44.1 , Cognac , Remy Martin , $363.46 - $804.99 , {Cognac, Europe, France} 
+Maison Surrene Cognac Borderies , 40.0 , Cognac , Maison Surrenne , $1250.99 , {Cognac Borderies, Europe, France, Cognac} 
+Delmain 1963 Grande Champagne Cognac , 40.0 , Cognac ,  , $599.99 - $1499.99 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Sljivovica Old Plum Brandy , 40.0 , Fruit Brandy , Sljivovica , $26.66 - $31.09 , { 
+Hine Cognac 250th Anniversary Decanter , 40.0 , Cognac , Hine Cognac , $17048.90 , {Cognac, Europe, France} 
+Hine Homage Cognac , 40.0 , Cognac , Hine Cognac , $123.72 - $192.99 , {Cognac, Europe, France} 
+Frapin Cigar Blend Cognac , 40.0 , Cognac , Frapin , $93.50 - $159.95 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Labiette Castille Armagnac XO , 40.0 , Armagnac , Domaine Labiette-Castille , $104.99 , {Armagnac, Europe, France} 
+Osocalis XO Alambic Brandy , 40.0 , Brandy , Osocalis Distillery , $99.99 - $175.00 , {California, North America, United States} 
+K Schreiber Br Juff Kab 2011 , 40.0 , Brandy , K Schreiber , $13.29 - $16.27 , {Mosel, Europe, Germany} 
+A. de Fussigny Extra Cognac , 40.0 , Cognac , A. de Fussigny , $249.98 , { 
+Dubouchett Apricot Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Dubouchett , $9.99 - $15.99 , {United States, North America} 
+Tosolini Cividina Grappa , 40.0 , Brandy ,  ,  , {Italy, Europe} 
+De Luze Xo Cognac , 53.4 , Cognac ,  , $114.81 - $219.99 , {Cognac, Europe, France} 
+Martell Cognac Tricentenaire , 40.0 , Cognac , Martell ,  , {Cognac, Europe, France} 
+Alexander Grappolo Grappa , 40.0 , Grappa ,  , $39.99 - $127.74 , {Italy, Europe} 
+Busnel Calvados D Age 12 Year , 43.0 , Fruit Brandy , Busnel , $54.99 - $84.99 , {Calvados, Europe, France} 
+Coquerel VSOP Calvados , 40.0 , Cognac , Domaine du Coquerel , $39.99 - $47.99 , {Calvados, Europe, France} 
+Claude Chateleir Xo , 40.0 , Cognac ,  , $45.98 - $50.52 , {France, Europe} 
+Germain Robin Semillon Brandy Single Barrel , 60.0 , Brandy , Germain Robin , $129.99 - $234.99 , {California, North America, United States} 
+P Magloire Fine VS Calvados , 40.0 , Eau de Vie ,  , $18.95 - $54.99 , {Calvados, Europe, France} 
+Leopold Raffin Cognac Xo , 40.0 , Cognac ,  , $134.39 - $199.99 , {Cognac, Europe, France} 
+Dubouchett Cherry Brandy , 35.0 , Flavored Brandy , Dubouchett , $10.99 - $14.89 , {United States, North America} 
+Jacques Cardin Cognac Apple , 40.0 , Cognac ,  , $19.99 - $32.99 , {Cognac, Europe, France} 
+Lustau Brandy G Reserve Finest Sel , 40.0 , Brandy , Lustau , $27.99 - $68.99 , {Andalucia, Europe, Spain} 
+Comte Joseph Cognac Xo , 40.0 , Cognac , Comte Joseph , $67.19 - $69.99 , {Cognac, Europe, France} 
+Grand Montand Brandy Xo , 40.0 , Brandy ,  , $12.99 - $17.91 , {France, Europe} 
+Rubi Brandy , 40.0 , Brandy ,  ,  , {France, Europe} 
+Pecsetes Cherry Brandy , 45.0 , Brandy ,  , $18.69 - $22.99 , {Hungary, Europe} 
+A.E. Dor Pineau Des Charentes , 40.0 , Cognac , A.E. Dor , $21.99 - $39.99 , {Cognac, Europe, France} 
+Saint Paul Cognac Vsop , 40.0 , Cognac ,  , $36.95 , {Cognac, Europe, France} 
+Troyanska Plum Brandy Kosher For Passover 7 Year , 40.0 , Fruit Brandy , Troyanska Slivovitz , $22.99 - $29.99 , {Bulgaria, Europe} 
+Capurro Premium Pisco Acholado , 40.0 , Pisco , Capurro , $36.99 , { 
+Lheraud VSOP , 40.0 , Cognac , Lheraud , $81.99 , {Cognac, Europe, France} 
+H. Shiraz XO 8 Year Armenian Brandy , 40.0 , Brandy , Armenian Brandy , $32.99 , {Armenia, Europe} 
+Tsar Alexander Vsop Cognac , 40.0 , Cognac , Alexander , $21.99 - $36.99 , {Cognac, Europe, France} 
+Massenez Calvados Apple , 40.0 , Cognac , Massenez , $43.99 - $72.47 , {Calvados, Europe, France} 
+Baron Otard VSOP Cognac , 40.0 , Cognac , Baron Otard , $44.99 - $70.09 , {Cognac, Europe, France} 
+Du Peyrat Rare Prestige Cognac , 40.0 , Cognac , Du Peyrat ,  , {Cognac, Europe, France} 
+Croizet XO Gold Cognac , 40.0 , Cognac , Croizet , $79.99 - $199.99 , {Cognac, Europe, France} 
+Chabanneau Vsop Cognac , 40.0 , Cognac , Chabanneau , $28.99 - $49.99 , { 
+Decourtet Vsop Cognac , 40.0 , Cognac , Decourtet , $28.99 - $32.98 , { 
+Wolfberger Fleur De Biere , 40.0 , Eau de Vie , Wolfberger , $31.99 , { 
+Phillips Blackberry Brandy , 35.0 , Flavored Brandy , Phillips Distilling , $13.64 - $15.39 , { 
+Surprise XO Brandy , 40.0 , Brandy , Surprise Brandy , $26.99 - $50.00 , {Moldova, Europe} 
+Maison Dudognon 40 Year Cognac , 41.0 , Cognac , Dudognon , $169.99 , {Cognac, Europe, France} 
+Gautier XO , 40.0 , Cognac , Gautier , $74.99 - $180.00 , {France, Europe} 
+D'Eaubonne VSOP Brandy , 40.0 , Brandy , D'Eaubonne , $22.49 - $27.09 , { 
+Labiette Castille Armagnac XO , 40.0 , Armagnac , Domaine Labiette-Castille , $104.99 , {Armagnac, Europe, France} 
+Frapin Cigar Blend Cognac , 40.0 , Cognac , Frapin , $93.50 - $159.95 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Marquis De Villard Brandy VSOP , 40.0 , Brandy ,  , $24.99 - $30.99 , { 
+Chateau de Leberon Solera Armagnac , 43.2 , Armagnac , Chateau de Leberon , $92.99 - $108.95 , {Armagnac, Europe, France} 
+Roger Groult Reserve 3 Year Calvados , 40.0 , Calvados ,  , $33.00 - $54.99 , { 
+Tesseron Miniature Collection XO , 40.0 , Brandy , Tesseron ,  , {Cognac, Europe, France} 
+KVINT Kosher Brandy , 40.0 , Brandy , KVINT , $16.99 - $29.99 , {Moldova, Europe} 
+Hine Antique XO Premier Cru Cognac , 40.0 , Cognac , Hine Cognac , $159.99 - $254.99 , {Cognac, Europe, France} 
+Hine Antique Fine Champagne , 40.0 , Cognac , Hine Cognac , $169.99 - $225.69 , {Champagne, Europe, France} 
+Trimbach Kirsch Cherry Brandy , 45.0 , Brandy , Trimbach , $38.99 - $59.99 , {Italy, Europe} 
+Normandin-Mercier XO Grande Champagne Cognac , 42.0 , Cognac , Normandin-Mercier , $89.99 - $140.00 , {Cognac, Europe, France} 
+Normandin-Mercier XO Grande Champagne Cognac , 42.0 , Cognac , Normandin-Mercier , $89.99 - $140.00 , {Cognac, Europe, France} 
+Idoniko Tsipouro Grappa Greek , 43.0 , Brandy , Idoniko Tsipouro , $16.99 - $29.99 , {Italy, Europe} 
+Berneroy Calvados , 40.0 , Calvados , Berneroy , $16.99 - $17.99 , {Calvados, Europe, France} 
+Camut 12 Year Calvados , 40.0 , Calvados , Camut , $97.99 - $134.99 , {Calvados, Europe, France} 
+Reisetbauer Red Williams Pear Brandy , 41.5 , Brandy , Reisetbauer ,  , {Germany, Europe} 
+Gonzalez Brandy Soberano , 40.0 , Brandy ,  , $17.99 - $25.99 , {La Mancha, Europe, Spain, Castilla La Mancha} 
+Poli Grappa Poli Moscato Morbida , 40.0 , Grappa , Poli , $49.99 - $89.99 , {Maine, North America, United States} 
+Hennessy V.S Limited Edition by Ryan McGinness Deluxe Pack , 40.0 , Cognac , Hennessy ,  , {Cognac, Europe, France} 
+Arrow Peach Brandy , 30.0 , Brandy , Arrow ,  , {California, North America, United States} 
+Encanto Reserve Pisco Moscatel , 40.5 , Pisco , Campo De Encanto , $29.99 - $56.99 , {Peru, South America} 
+Croft Brandy , 36.0 , Brandy , Croft ,  , {Portugal, Europe} 
+Daniel Bouju Selection Speciale , 40.0 , Cognac , Danial Bouju , $42.99 - $43.99 , {France, Europe} 
+Martell Grand Creation , 40.0 , Brandy , Martell , $399.99 - $459.99 , {Cognac, Europe, France} 
+Clear Creek Brandy Barrel Aged , 42.5 , Brandy , Clear Creek , $37.99 - $64.99 , {Oregon, North America, United States} 
+Asbach Brandy 8 Yr , 40.0 , Brandy ,  , $34.29 - $69.99 , {Germany, Europe} 
+Baron Gaston Bas Armagnac 1985 , 40.0 , Armagnac , Baron , $199.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Courvoisier Napoleon , 40.0 , Brandy , Courvoisier , $54.99 - $119.00 , {Cognac, Europe, France} 
+Germain Robin Muscat Single Barrel , 60.0 , Fruit Brandy , Germain Robin , $159.99 , {California, North America, United States} 
+Opuntia Prickly Pear Spirit , 41.0 , Eau de Vie , Ventura Spirits , $39.99 - $57.99 , {United States, North America} 
+Metaxa 5 Star W/2 Gls , 38.0 , Brandy , Metaxa , $22.99 - $32.99 , {Greece, Europe} 
+Jacques Cardin Vsop , 40.0 , Brandy ,  ,  , {Cognac, Europe, France} 
+Pere Magloire Calvados XO , 40.0 , Eau de Vie , Pere Ventura , $56.99 - $89.99 , {Calvados, Europe, France} 
+Kammer Blackforest Chry Brandy , 40.0 , Brandy , Kammer , $37.95 - $52.79 , {Germany, Europe} 
+Dom D'esperance Bas Armagnac 5 Y , 40.0 , Armagnac ,  , $51.99 - $80.99 , {Bas Armagnac, Europe, France, Armagnac} 
+De Luze Cognac Alfred 86° , 43.0 , Cognac ,  , $47.99 - $60.47 , {Cognac, Europe, France} 
+Grand Montand Brandy Vs , 38.0 , Brandy ,  , $9.99 - $13.43 , {France, Europe} 
+Cleopatra Xo Armenian Brandy , 40.0 , Brandy ,  , $39.99 - $44.99 , {Armenia, Europe} 
+Vendome Brandy Xo , 40.0 , Brandy , Vendome , $14.99 - $24.99 , {France, Europe} 
+Armenian Brandy "Dq" Brandy , 40.0 , Brandy ,  , $9.99 - $24.98 , { 
+Rastignac XO Cognac , 40.0 , Cognac , Rastignac , $35.99 - $65.99 , {Cognac, Europe, France} 
+Strykover Luxury Slivovitz Plum Brandy , 40.0 , Fruit Brandy , Strykover , $23.99 - $32.99 , {Poland, Europe} 
+Courvoisier Erte No. 1 Vigne , 40.0 , Cognac , Courvoisier , $2499.99 , {Cognac, Europe, France} 
+Wine Shine Hibiscus Lemon Brandy , 40.0 , Flavored Brandy , Wine Shine , $33.99 , {Paso Robles, North America, United States, California, Central Coast, San Luis Obispo County} 
+Delpech-Fougerat VSOP Cognac , 40.0 , Cognac , Vinet Delpech , $40.00 - $149.95 , {Cognac, Europe, France} 
+Queen Tamara 3 Year Armenian Brandy , 40.0 , Brandy , Armenian Brandy , $10.99 - $17.99 , { 
+Chateau Arton La Reserve Haut Armagnac , 45.0 , Armagnac , Chateau Arton , $39.99 - $94.99 , {Armagnac, Europe, France} 
+Arkansas Black 21 Year Applejack , 46.0 , Fruit Brandy , Arkansas Black , $95.99 - $153.99 , {California, North America, United States} 
+Chateau Du Breuil 20 Year Calvados , 41.0 , Calvados , Chateau du Breuil , $149.99 , {France, Europe} 
+Ararat Nairi 20 Year Armenian Brandy , 40.0 , Brandy , Ararat , $71.99 - $169.99 , {Armenia, Europe} 
+Berneroy Xo Calvados , 40.0 , Calvados , Berneroy ,  , { 
+Decourtet Vs Cognac , 40.0 , Cognac , Decourtet , $19.40 - $21.99 , { 
+Drillaud Pear Liqueur , 18.0 , Flavored Brandy , Drillaud , $11.98 , { 
+Abk6 Xo Cognac , 40.0 , Cognac , ABK6 , $79.98 - $87.99 , { 
+Château Des Plassons XO Cognac , 40.0 , Cognac , Château Des Plassons , $34.99 , {Cognac, Europe, France} 
+Driftless Glen 5 Year Reserve Brandy , 46.0 , Brandy , Driftless Glen , $29.99 , {Bordeaux, Europe, France} 
+Normandin Mercier Vieille Fine Champagne Cognac , 40.0 , Cognac , Normandin-Mercier , $95.99 , {France, Europe} 
+Distillerio Gualco Grappa Rubinia , 42.0 , Grappa , Distillerio Gualco , $49.99 , {Piedmonte, Europe, Italy} 
+Catoctin Creek 1757 Virginia Brandy , 40.0 , Brandy , Catoctin Creek , $44.99 - $54.99 , {Virginia, North America, United States} 
+Boulard XO Calvados , 40.0 , Calvados , Calvados Boulard , $43.99 - $140.99 , {Calvados Pays d'Auge, Europe, France, Calvados} 
+Hine Domaines Bonneuil Cognac , 43.0 , Cognac , Hine Cognac , $59.99 - $149.99 , {Cognac, Europe, France} 
+Bols Peach Brandy , 30.0 , Fruit Brandy , Bols ,  , {Netherlands, Europe} 
+Paul Beau VSOP Cognac , 40.0 , Cognac , Paul Beau , $32.47 - $75.00 , {Cognac, Europe, France} 
+Pierre Ferrand Cigare Cognac , 40.0 , Cognac , Pierre Ferrand , $40.99 - $179.99 , {Cognac, Europe, France} 
+Meukow Cognac V.S.O.P. , 40.0 , Cognac , Meukow , $33.99 - $57.95 , {Cognac, Europe, France} 
+Meikow Cognac XO , 40.0 , Cognac , Meukow , $153.99 , {Cognac, Europe, France} 
+Louis Royer XO Cognac , 40.0 , Cognac , Louis Royer , $119.99 - $169.99 , {Cognac, Europe, France} 
+Noy Armenian Brandy 25 Year , 45.0 , Brandy , Noy , $129.99 - $259.99 , {Armenia, Europe} 
+Extase XO Orange Cognac , 41.0 , Cognac , Extrase , $49.99 - $89.99 , {Cognac, Europe, France} 
+Deville Brandy , 40.0 , Brandy , Deville , $10.99 - $19.99 , {France, Europe} 
+Tesseron Cognac XO Perfection Lot No. 53 , 40.0 , Cognac , Tesseron , $359.99 - $549.99 , {Cognac, Europe, France} 
+Trimbach Liqueur de Poire William Brandy , 35.0 , Liqueur, Cordials, & Schnapps , Trimbach , $38.99 - $59.99 , {Alsace, Europe, France} 
+Vecchia Romagna Brandy Etichetta Nera , 38.0 , Brandy , Montenegro S.R.L. , $19.99 - $56.99 , {Romagna, Europe, Italy, Emilia-Romagna} 
+Camus Ile De Re Cliffside , 40.0 , Cognac , Camus Cognac , $59.99 - $123.99 , {Cognac, Europe, France} 
+Boncourt XO Brandy , 38.0 , Brandy , Boncourt , $9.99 - $20.00 , {France, Europe} 
+Osocalis Apple Brandy , 40.0 , Brandy , Osocalis Distillery , $79.99 - $89.99 , {California, North America, United States} 
+Elation Pear Cognac , 30.0 , Cognac ,  , $24.99 - $45.99 , {Cognac, Europe, France} 
+Adega Velha Brandy , 40.0 , Brandy , Adega Velha , $36.99 - $49.99 , {Portugal, Europe} 
+Daron Calvados Xo Reserve , 40.0 , Brandy , Daron Calvados , $71.99 - $109.99 , {Calvados Pays d'Auge, Europe, France, Calvados} 
+A. de Fussigny Superieur , 40.0 , Cognac , A. de Fussigny , $34.99 - $74.99 , {Cognac, Europe, France} 
+Marolo Grappa Barolo , 50.0 , Brandy , Grappa Marolo , $34.99 - $81.99 , {Barolo, Europe, Italy, Piedmonte} 
+Delamain Gr Reserve La Famille , 43.0 , Brandy , Delamain , $359.99 - $692.99 , {Cognac, Europe, France} 
+Caprock Pear Brandy , 40.0 , Brandy , CapRock ,  , {Colorado, North America, United States} 
+Camus Cognac Ex El Lux Bx W/Cradle , 40.0 , Cognac , Camus Cognac ,  , {Cognac, Europe, France} 
+Azteca De Oro Brandy , 40.0 , Brandy , Azteca , $23.99 - $49.99 , {Mexico, North America} 
+Busca Hors D Age , 40.0 , Brandy ,  , $114.99 - $129.99 , {Armagnac, Europe, France} 
+Nardini Bianca Grappa Reserve , 40.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Germain Robin Craft Brandy Method , 60.0 , Brandy , Germain Robin , $70.40 , {California, North America, United States} 
+Allens Brandy Blackberry , 30.0 , Flavored Brandy ,  ,  , {United States, North America} 
+Ferrand Cognac Ancestrale , 40.0 , Cognac , Pierre Ferrand , $722.99 - $2999.95 , {Cognac, Europe, France} 
+Arman Cognac Xo , 40.0 , Cognac , Arman , $109.99 - $149.99 , {Cognac, Europe, France} 
+Camus Cognac Ex El Lux Bx W/Cradle , 40.0 , Cognac , Camus Cognac ,  , {Cognac, Europe, France} 
+Azteca De Oro Brandy , 40.0 , Brandy , Azteca , $23.99 - $49.99 , {Mexico, North America} 
+Busca Hors D Age , 40.0 , Brandy ,  , $114.99 - $129.99 , {Armagnac, Europe, France} 
+Nardini Bianca Grappa Reserve , 40.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Germain Robin Craft Brandy Method , 60.0 , Brandy , Germain Robin , $70.40 , {California, North America, United States} 
+Allens Brandy Blackberry , 30.0 , Flavored Brandy ,  ,  , {United States, North America} 
+Louis Royer Cognac Force 53 Vsop , 53.0 , Cognac , Louis Royer , $47.99 - $61.19 , {Cognac, Europe, France} 
+Ferrand Cognac Ancestrale , 40.0 , Cognac , Pierre Ferrand , $722.99 - $2999.95 , {Cognac, Europe, France} 
+Arman Cognac Xo , 40.0 , Cognac , Arman , $109.99 - $149.99 , {Cognac, Europe, France} 
+Montmarte Napoleon Brandy , 40.0 , Brandy , Montmarte , $10.98 - $20.15 , {France, Europe} 
+Planat Xo Cognac , 40.0 , Cognac ,  , $48.00 - $69.99 , {Cognac, Europe, France} 
+Peach Street Pear Brandy/No Pear , 40.0 , Brandy ,  , $42.99 - $80.49 , {Colorado, North America, United States} 
+Frapin Xo Cognac , 40.0 , Cognac , Frapin , $99.74 - $172.49 , {Cognac, Europe, France} 
+Frapin VS Cognac , 40.0 , Cognac , Frapin , $25.00 - $59.99 , {Cognac, Europe, France} 
+Philbert XO Cognac , 40.0 , Cognac , Philbert , $79.99 - $94.73 , {Cognac, Europe, France} 
+Samalens Very Superior Old Pale Bas Armagnac , 40.0 , Brandy , Samalens , $43.99 - $67.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Moletto Moscato Grappa , 43.0 , Eau de Vie , Moletto , $29.99 - $47.29 , {Piedmonte, Europe, Italy} 
+Dartigalongue Hors D' Age , 40.0 , Brandy , Dartigalongue , $52.99 - $79.99 , {Armagnac, Europe, France} 
+Stone Barn Oregon Apple Brandy , 42.0 , Fruit Brandy , Stone Barn Brandyworks ,  , {Oregon, North America, United States} 
+Castarede VSOP , 40.0 , Cognac , Armagnac Castarede , $49.99 - $69.99 , {France, Europe} 
+Knight Gabriello Grappa Di Chianti , 40.0 , Grappa , Knight Gabriello , $24.98 , { 
+Fidelitas Williams Birne , 40.0 , Eau de Vie , Fidelitas , $29.98 , { 
+Abk6 Vs Cognac , 40.0 , Cognac , ABK6 , $26.98 - $33.99 , { 
+Leyrat Vsop Cognac , 40.0 , Cognac , Leyrat , $39.98 - $54.99 , { 
+Grands Domaines Cognac Xo , 40.0 , Cognac , Grands Domaines , $69.98 - $74.99 , { 
+Chapman's Apple Brandy , 46.0 , Fruit Brandy , Republic Restoratives , $49.98 - $59.99 , {Washington, DC, North America, United States} 
+Levon Le Magnifique Cognac XO , 40.0 , Cognac , Levon Le Maginfique , $110.99 - $164.99 , {Cognac, Europe, France} 
+Monteru Sauternes Cask Finished Brandy , 40.8 , Brandy , Monteru , $41.99 , {Sauternes, Europe, France, Bordeaux} 
+Katsaros Jivaeri Tsipouro , 40.0 , Eau de Vie ,  , $22.99 , {Greece, Europe} 
+Intipalka Mosto Verde Torontel Pisco , 40.0 , Pisco , Intipalka Valle del Sol , $36.99 - $39.99 , {Peru, South America} 
+De Valcourt Napoleon VSOP , 40.0 , Brandy , De Valcourt , $15.99 , {France, Europe} 
+Hartley Apple Brandy , 27.0 , Fruit Brandy , Hartley Brandy , $9.99 - $11.99 , {Kentucky, North America, United States} 
+Denning's Point Beacon Apple Brandy , 40.0 , Fruit Brandy , Denning's Point Distillery , $45.99 - $62.99 , {New York, North America, United States} 
+Laird's Apple Brandy 12 Year Rare , 44.0 , Brandy , Laird & Company , $121.00 , {New Jersey, North America, United States} 
+Ocean Hill Apple Brandy , 40.0 , Fruit Brandy ,  ,  , {New York, North America, United States} 
+Pomorie Rakia Classic Brandy , 40.0 , Fruit Brandy , Pomorie ,  , {Bulgaria, Europe} 
+Carmel 777 , 40.0 , Brandy , Carmel Winery , $17.99 - $43.99 , {Israel, Asia} 
+Sarajishvili V.S. , 40.0 , Brandy , Sarajishvili , $23.99 - $32.99 , {Republic of Georgia, Europe} 
+Arman Cognac V.S.O.P. , 40.0 , Brandy , Arman , $49.99 - $64.99 , {Cognac, Europe, France} 
+Comandon VS Cognac , 40.0 , Cognac , Comandon , $29.99 - $49.99 , {Cognac, Europe, France} 
+Encanto Reserve Pisco Quebranta , 40.5 , Brandy , Campo De Encanto , $29.99 - $52.49 , {Peru, South America} 
+Richard Hennessy , 40.0 , Cognac , Hennessy , $2399.99 - $6000.00 , {Cognac, Europe, France} 
+Daniel Bouju Vsop , 40.0 , Cognac , Danial Bouju , $47.99 - $54.99 , {France, Europe} 
+Arrow Wild Cherry Brandy , 30.0 , Brandy , Arrow , $9.99 - $14.90 , {California, North America, United States} 
+Pierre Ferrand Cognac Abel , 40.0 , Cognac , Pierre Ferrand , $319.99 - $1895.95 , {Cognac, Europe, France} 
+Cognac Park XO Cigar Blend , 40.0 , Cognac , Cognac Park , $99.99 - $209.99 , {Cognac, Europe, France} 
+Majeste Le Roi Cognac VSOP , 40.0 , Cognac , Majeste Le Roi , $29.99 - $87.99 , {Cognac, Europe, France} 
+L Gourmel Cognac Bio Attitude Org , 42.0 , Cognac ,  , $36.99 - $87.99 , {Cognac, Europe, France} 
+Courvoisier Cognac Vs Gift Set , 40.0 , Cognac , Courvoisier , $26.99 - $39.59 , {Cognac, Europe, France} 
+Alexander Grappa Aldo Bottega , 43.0 , Grappa ,  ,  , {Italy, Europe} 
+Etter Williams Pear , 35.0 , Eau de Vie ,  ,  , {Switzerland, Europe} 
+Dek Ginger Brandy , 30.0 , Liqueur, Cordials, & Schnapps ,  ,  , {United States, North America} 
+Paramount Blkbry Brandy , 40.0 , Brandy ,  , $9.99 , {Missouri, North America, United States} 
+Martell L Or , 35.0 , Brandy , Martell , $5059.99 , {Cognac, Europe, France} 
+Comte Joseph Cognac Hors D'age 20 Year , 40.0 , Cognac , Comte Joseph , $100.79 - $131.99 , {Cognac, Europe, France} 
+Pirate Sword Brandy , 40.0 , Brandy ,  ,  , {Armenia, Europe} 
+Confident Brandy Xo , 42.0 , Brandy ,  , $33.59 , { 
+Glunz Tradition Apple And Pear Brandy , 40.0 , Brandy ,  ,  , {Austria, Europe} 
+Feisty Spirits Brandy Apple , 45.0 , Fruit Brandy , Feisty Spirits ,  , {Colorado, North America, United States} 
+Veuve Pasquinet VSOP 5 Year , 40.0 , Cognac ,  , $31.99 - $44.99 , {France, Europe} 
+Dudognon Reserve Cognac , 66.85 , Cognac , Dudognon , $39.99 , {Cognac, Europe, France} 
+Delord Bas Armagnac 1981 , 40.0 , Fruit Brandy , Delord , $95.99 - $143.99 , {Bas Armagnac, Europe, France, Armagnac} 
+Suau Brandy 15 Year , 37.0 , Brandy , Suau , $15.99 , {Spain, Europe} 
+Aalborg Akvavit Jubilaems , 40.0 , Eau de Vie , Aalborg Akvavit , $21.97 - $37.19 , {Denmark, Europe} 
+Moletto Arneis Grappa , 43.0 , Grappa , Moletto , $34.00 - $47.99 , {Italy, Europe} 
+Raynal XO Brandy , 40.0 , Brandy , Raynal , $14.99 - $49.99 , {France, Europe} 
+Gourry De Chadeville Cognac , 55.0 , Cognac , Gourry De Chadeville , $55.00 - $129.99 , {France, Europe} 
+Suprema Grappa Tocai , 40.0 , Grappa , Suprema Grappa , $49.99 - $59.39 , {Italy, Europe} 
+Pasquinet VS Cognac  3 Year , 40.0 , Cognac , Pasquinet , $19.99 - $39.99 , {Cognac, Europe, France} 
+Coeur De Lion VSOP Calvados , 40.0 , Eau de Vie , Coeur De Lion , $74.99 - $94.99 , {Calvados, Europe, France} 
+Stone Barn Oregon Pear Brandy , 42.0 , Fruit Brandy , Stone Barn Brandyworks ,  , {Oregon, North America, United States} 
+Chabanneau Xo Cognac , 40.0 , Cognac , Chabanneau , $54.99 - $65.99 , { 
+Chateau De Laubade Intemporel N5 Armagnac , 40.0 , Armagnac , Chateau de Laubade , $129.98 - $188.99 , { 
+Leyrat Vs Cognac , 40.0 , Cognac , Leyrat , $29.98 - $44.99 , { 
+Wolfberger Kirsch , 45.0 , Eau de Vie , Wolfberger , $49.98 , { 
+1889 Royal Brandy , 40.0 , Brandy , 1889 , $8.99 , { 
+A. de Fussigny Borderies VSOP , 40.0 , Cognac , A. de Fussigny , $54.98 , { 
+Grands Domaines Cognac Vsop , 40.0 , Cognac , Grands Domaines , $24.98 , { 
+Paulet Cognac Vs , 40.0 , Cognac , Paulet , $21.98 , { 
+Chateau De Laubade Armagnac Vsop , 40.0 , Armagnac , Chateau de Laubade ,  , { 
+Bellini Grappa Del Chianti , 42.0 , Grappa , Bellini ,  , { 
+Petri Five Star Brandy , 40.0 , Brandy , Petri ,  , {Minnesota, North America, United States} 
+Castle D'ajac XO Brandy , 40.0 , Brandy , Castle D'ajac , $18.99 - $35.99 , {France, Europe} 
+Odessa XO Brandy 8 Year , 40.0 , Brandy , Odessa , $22.99 , {Ukraine, Europe} 
+Odessa VS Brandy 3 Year , 40.0 , Brandy , Odessa , $14.99 , {Ukraine, Europe} 
+Sahara Date Brandy , 40.0 , Fruit Brandy , Sahara , $24.99 , {California, North America, United States} 
+Dujardin VSOP Brandy , 40.0 , Brandy , Dujardin , $21.80 - $55.99 , {Germany, Europe} 
+Denning's Point Beacon Apple Brandy , 40.0 , Fruit Brandy , Denning's Point Distillery , $45.99 - $62.99 , {New York, North America, United States} 
+Laird's Apple Brandy 12 Year Rare , 44.0 , Brandy , Laird & Company , $121.00 , {New Jersey, North America, United States} 
+Ocean Hill Apple Brandy , 40.0 , Fruit Brandy ,  ,  , {New York, North America, United States} 
+Pomorie Rakia Classic Brandy , 40.0 , Fruit Brandy , Pomorie ,  , {Bulgaria, Europe} 
+De Valcourt Napoleon VSOP , 40.0 , Brandy , De Valcourt , $15.99 , {France, Europe} 
+Hartley Apple Brandy , 27.0 , Fruit Brandy , Hartley Brandy , $9.99 - $11.99 , {Kentucky, North America, United States} 
+Les Reserves d'Arton Poire Ancienne , 42.0 , Eau de Vie , Chateau Arton , $59.99 - $64.99 , {France, Europe} 
+Bonollo Grappa Of Amarone Barrique , 42.0 , Grappa , Distillerie Bonollo Umberto Spa , $44.00 - $55.00 , {Grappa di Amarone, Europe, Italy, Veneto, Amarone della Valpolicella} 
+Emperador Hot Shot Brandy , 31.0 , Brandy , Emperador , $15.99 - $31.99 , {Philippines, Asia} 
+Jean Fillioux Coq Cognac , 40.0 , Cognac , Jean Fillioux , $45.00 - $65.99 , {Cognac Grande Champagne, Europe, France, Cognac} 
+Martell Cognac VS Gift Set With 2 Glasses , 40.0 , Cognac , Martell , $44.99 , {Cognac, Europe, France} 
+Martell Vsop W/2 Snifters , 40.0 , Cognac , Martell , $34.99 - $56.79 , {France, Europe} 
+Merlet C2 Citron , 33.0 , Cognac , Merlet , $25.99 - $35.83 , {France, Europe} 
+Conjure Cognac , 40.0 , Cognac ,  , $21.99 - $49.99 , {Cognac, Europe, France} 
+Park Cognac Xo Trad Reserve , 40.0 , Cognac ,  , $80.99 - $165.99 , {Cognac, Europe, France} 
+Hardy Red Corner VS Cognac , 40.0 , Cognac , Hardy ,  , {Cognac, Europe, France} 
+Zwack Slivovitz Plum Brandy 90 Rw , 45.0 , Brandy , Zwack , $20.99 - $31.99 , {Hungary, Europe} 
+Delamain Tres Venerable , 40.0 , Brandy , Delamain , $249.99 - $499.99 , {Cognac, Europe, France} 
+Meyer Poire William , 45.0 , Brandy ,  ,  , {France, Europe} 
+Baron Gaston Bas Armagnac 1955 , 40.0 , Armagnac , Baron , $999.99 , {Bas Armagnac, Europe, France, Armagnac} 
+White Christmas Rum&Brandy , 30.0 , Brandy ,  , $8.99 - $15.00 , {United States, North America} 
+Christian Drouin Calvados Vsop , 40.0 , Brandy , Christian Drouin , $29.99 - $99.99 , {Calvados, Europe, France} 
+Frapin Cognac Ex Reserve Patrimon , 40.0 , Cognac , Frapin , $364.99 - $699.99 , {Cognac, Europe, France} 
+Cardenal Mendoza Brandy W/Dectr Li , 40.0 , Brandy , Cardenal Mendoza , $32.99 - $69.99 , {Jerez-Xeres-Sherry, Europe, Spain, Andalucia} 
+H By Hine Cognac , 35.0 , Cognac ,  , $30.18 - $65.99 , {Cognac, Europe, France} 
+Jacopo Poli Uva Viva Italiana , 35.0 , Grappa , Jacopo Poli , $29.99 - $89.99 , {Italy, Europe} 
+Jacquins Peach Brandy , 40.0 , Brandy ,  , $8.49 - $15.99 , {Pennsylvania, North America, United States} 
+The Last Drop Cognac , 41.8 , Cognac , The Last Drop , $2967.99 - $3499.99 , {Cognac, Europe, France} 
+A. de Fussigny Cognac Cigare 80 Canst , 40.0 , Cognac ,  , $29.99 - $149.99 , {Cognac, Europe, France} 
+Il Poggione Grappa Brunello , 45.0 , Brandy , Il Poggione , $39.99 - $79.99 , {Tuscany, Europe, Italy} 
+Cognac Park Chai No. 8 21 Year Old , 43.0 , Cognac , Cognac Park ,  , {Cognac, Europe, France} 
+Pierre Ferrand 1914 Cognac , 40.0 , Cognac , Pierre Ferrand ,  , {Cognac, Europe, France} 
+The Last Drop Cognac , 41.8 , Cognac , The Last Drop , $2967.99 - $3499.99 , {Cognac, Europe, France} 
+A. de Fussigny Cognac Cigare 80 Canst , 40.0 , Cognac ,  , $29.99 - $149.99 , {Cognac, Europe, France} 
+Il Poggione Grappa Brunello , 45.0 , Brandy , Il Poggione , $39.99 - $79.99 , {Tuscany, Europe, Italy} 
+Cognac Park Chai No. 8 21 Year Old , 43.0 , Cognac , Cognac Park ,  , {Cognac, Europe, France} 
+Pierre Ferrand 1914 Cognac , 40.0 , Cognac , Pierre Ferrand ,  , {Cognac, Europe, France} 
+Five Star Armenian Brandy , 40.0 , Brandy ,  , $16.99 - $24.99 , {Armenia, Europe} 
+Ayo Xo Brandy , 40.0 , Brandy ,  , $111.99 , { 
+Oscar Heart Xo Brandy , 40.0 , Brandy ,  , $22.99 , { 
+Azteca D'oro Brandy , 40.0 , Brandy ,  , $23.99 - $28.99 , {Mexico, North America} 
+Saint Paul Cognac Xo , 40.0 , Cognac ,  , $50.39 , {Cognac, Europe, France} 
+Planat Cognac Vsop , 40.0 , Cognac ,  , $19.99 - $57.99 , {Cognac, Europe, France} 
+Romeo Grappa , 40.0 , Grappa , Romeo , $18.99 - $19.99 , {Italy, Europe} 
+Massenez Wild Raspberry Brandy , 40.0 , Fruit Brandy , Massenez , $41.99 - $54.99 , {France, Europe} 
+Comandon Xo Extra Old Limited Release , 40.0 , Cognac , Comandon , $139.99 - $159.99 , {France, Europe} 
+Clear Creek Mirabelle Eau De Vie , 40.0 , Fruit Brandy , Clear Creek ,  , {Oregon, North America, United States} 
+Vivacity Treos Brandy , 42.5 , Brandy , Vivacity , $27.99 , {Oregon, North America, United States} 
+Chateau Du Breuil VSOP Calvados , 40.0 , Calvados , Chateau du Breuil , $49.99 - $64.99 , {Calvados, Europe, France} 
+Ferrand Cognac Renegade #1 , 48.0 , Cognac , Pierre Ferrand , $71.99 - $109.99 , {Cognac, Europe, France} 
+Wolfberger Litchi , 21.0 , Eau de Vie , Wolfberger , $8.99 - $44.28 , { 
+Knight Gabriello Grappa Di Nobile , 40.0 , Grappa , Knight Gabriello , $29.98 , { 
+Knight Gabriello Grappa Di Brunello , 45.0 , Grappa , Knight Gabriello , $34.98 , { 
+Amber Select Brandy , 40.0 , Brandy ,  , $10.98 , { 
+Fidelitas Kirschwasser , 40.0 , Eau de Vie , Fidelitas , $22.95 - $26.98 , { 
+Fidelitas Obstler , 40.0 , Eau de Vie , Fidelitas , $19.98 , { 
+Comte Louis De Lauriston Vsop Calvados , 42.0 , Calvados , Calvados Lauriston , $49.98 , { 
+Ararat 15 Years , 40.0 , Brandy , Ararat , $59.99 - $99.99 , {Armenia, Europe} 
+Mette Poire Williams Eau-De-Vie , 42.0 , Eau de Vie , Mette Poire Williams , $119.99 , {Alsace, Europe, France} 
+Pierre Vallet Single Cask 1995 Cognac , 48.0 , Cognac , Pierre Vallet , $99.99 - $116.59 , {Cognac, Europe, France} 
+Catoctin Creek Short Hill Mountain Peach Brandy , 40.0 , Fruit Brandy , Catoctin Creek ,  , {Virginia, North America, United States} 
+Madatoff Armenian Brandy 10 Year , 40.0 , Brandy , Madatoff , $26.99 - $28.59 , {Armenia, Europe} 
+Augier Le Singulier Cognac , 41.7 , Cognac , Augier , $59.99 - $85.99 , {Cognac, Europe, France} 
+A.E. Dor Cognac For Cigar , 42.0 , Cognac , A.E. Dor , $61.99 - $139.99 , {Cognac, Europe, France} 
+Nardini Grappa Mandorla , 50.0 , Grappa , Nardini ,  , {Italy, Europe} 
+Kammer Cherry Brandy , 45.0 , Brandy , Kammer , $19.99 - $53.89 , {Germany, Europe} 
+Chabanneau VS Cognac , 40.0 , Cognac , Chabanneau , $21.99 - $25.29 , {Cognac, Europe, France} 
+Rubin Loza Prepecenica Plum Slivotiz , 45.0 , Brandy , Rubin Loza , $21.99 , {Serbia, Europe} 
+Busnel Hors d'Age Calvados du Pays d'Auge , 40.0 , Calvados , Distillerie Busnel , $29.99 , {Calvados Pays d'Auge, Europe, France, Calvados} 
+Kelt Captain's Barrel , 40.0 , Cognac , Kelt , $55.99 - $69.99 , {Cognac, Europe, France} 
+A. de Fussigny Cognac Selection , 40.0 , Cognac , A. de Fussigny , $29.99 - $81.99 , {Cognac, Europe, France} 
+Landy Cognac Desir Lady , 40.0 , Cognac , Landy , $39.99 - $107.00 , {Cognac, Europe, France} 
+LeMarque Armagnac VSOP , 40.0 , Armagnac ,  , $59.99 , {Armagnac, Europe, France} 
+Daniel Bouju Royal , 60.0 , Cognac , Danial Bouju , $99.99 , {France, Europe} 
+A. de Fussigny XO , 40.0 , Cognac , A. de Fussigny , $69.95 - $199.99 , {Cognac, Europe, France} 
+Starlight Grappa , 40.0 , Brandy , Starlight ,  , {Indiana, North America, United States} 
+Chateau Montifaud Cognac VSOP , 40.0 , Cognac ,  , $59.99 - $79.99 , {Cognac, Europe, France} 
+Don Pedro Brandy 80 , 40.0 , Brandy ,  , $14.99 - $33.99 , {Mexico, North America} 
+Jacques Cardin Cognac Jasmin , 40.0 , Cognac ,  , $9.35 - $34.99 , {Cognac, Europe, France} 
+Alize Bleu Rd , 17.0 , Cognac , Alize ,  , {France, Europe} 
+California 5 Star Brandy , 40.0 , Brandy ,  ,  , {California, North America, United States} 
+Hardy Noces D'Argent Cognac 25 Year , 40.0 , Cognac , Hardy , $164.99 - $229.99 , {France, Europe} 
+Wine Shine Mango Ginger Black Pepper Brandy , 40.0 , Flavored Brandy , Wine Shine , $33.99 - $41.99 , {Paso Robles, North America, United States, California, Central Coast, San Luis Obispo County} 
+Meyer Kirsch , 45.0 , Fruit Brandy , Anchor Distilling Company ,  , {France, Europe} 
+Tsar Alexander 1 Excellence Cognac , 40.0 , Brandy , Alexander , $45.99 , {Cognac, Europe, France} 
+Noy Classic Armenian Brandy 15 Year , 40.0 , Brandy , Armenian Brandy , $52.99 - $110.00 , {Armenia, Europe} 
+Aga Vie Agave & Cognac , 40.0 , Cognac , Aga Vie , $39.99 - $54.99 , {Cognac, Europe, France} 
+Maraska Komovica , 40.0 , Fruit Brandy , Maraska , $9.98 - $33.99 , {Croatia, Europe} 
+Strawberry Brandy , 42.5 , Fruit Brandy , Ventura Spirits , $37.99 - $49.99 , {California, North America, United States} 
+Baron Otard XO Cognac , 40.0 , Cognac , Baron Otard , $139.99 - $187.09 , {Cognac, Europe, France} 
+Decourtet Xo Cognac , 40.0 , Cognac ,  , $36.30 - $47.98 , { 
+Jollite Armagnac Xo , 40.5 , Armagnac , Jollite , $42.98 , { 
+A. de Fussigny Petite Champ VSOP , 40.0 , Cognac , A. de Fussigny , $49.99 - $54.98 , { 
+Ch De Laubade Armagnac 1998 , 40.0 , Armagnac , Chateau de Laubade , $125.99 , { 
+Ile De Re Cliffside Cellar , 40.0 , Brandy , Ile De Re , $99.99 , { 
+Maxime Trijol Vsop Cognac , 40.0 , Cognac , Maxime Trijol , $32.99 - $54.99 , {France, Europe} 
+Arkansas Black Straight Applejack , 49.0 , Fruit Brandy , Arkansas Black , $37.99 , {California, North America, United States} 
+Davidoff VSOP Cognac , 80.0 , Cognac , Davidoff , $39.99 - $61.59 , {Cognac, Europe, France} 
+Hennessy Private Reserve 1865 , 40.0 , Cognac ,  , $399.99 - $999.99 , {Cognac, Europe, France} 
+A. de Fussigny Petite Champ VSOP , 40.0 , Cognac , A. de Fussigny , $49.99 - $54.98 , { 
+Ch De Laubade Armagnac 1998 , 40.0 , Armagnac , Chateau de Laubade , $125.99 , { 
+Jollite Armagnac Xo , 40.5 , Armagnac , Jollite , $42.98 , { 
+Maxime Trijol Vsop Cognac , 40.0 , Cognac , Maxime Trijol , $32.99 - $54.99 , {France, Europe} 
+Davidoff VSOP Cognac , 80.0 , Cognac , Davidoff , $39.99 - $61.59 , {Cognac, Europe, France} 
+Arkansas Black Straight Applejack , 49.0 , Fruit Brandy , Arkansas Black , $37.99 , {California, North America, United States} 
+Hennessy Private Reserve 1865 , 40.0 , Cognac ,  , $399.99 - $999.99 , {Cognac, Europe, France} 
+Pierre Vallet Single Cask 1988 Cognac , 48.0 , Cognac , Pierre Vallet , $134.19 - $11250.00 , {Cognac, Europe, France} 
+Hine Vintage , 30.0 , Brandy , Hine Cognac , $38.99 , {France, Europe} 
+LOUIS XIII Time Collection: The Origin – 1874 , 40.0 , Cognac , Louis XIII , $6000.00 - $6299.99 , {Cognac, Europe, France} 
+Louis XIII Black Pearl Anniversary Edition , 40.0 , Cognac , Louis XIII , $31000.00 , {Cognac, Europe, France} 
