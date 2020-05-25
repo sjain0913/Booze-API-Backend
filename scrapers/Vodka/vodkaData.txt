@@ -1210,7 +1210,7 @@ Organika Life Vodka , 40.0 , Vodka , Organika ,  , {Russia, Europe}
 Organika Vodka , 40.0 , Vodka , Organika ,  , {Russia, Europe} 
 Surf City Still Works Shorebreak Vodka , 41.0 , Vodka , Surf City Still Works , $26.99 - $34.99 , {California, North America, United States} 
 Ciroc Moschino Gift Set With 2 Shot Glasses , 40.0 , Flavored Vodka , CIROC , $29.99 - $49.39 , {France, Europe} 
-Manifest Vodka , 40.0 , Vodka , Manifest Distilling , $29.99 - $31.49 , OriginNotFound 
+Manifest Vodka , 40.0 , Vodka , Manifest Distilling , $29.99 - $31.49 , {OriginNotFound 
 Mill Six Hemp, White Tea & Ginger Flavored Vodka , 35.0 , Flavored Vodka , Mill Six , $27.99 , {Kentucky, North America, United States} 
 Plume & Petal Cucumber Splash Vodka , 20.0 , Flavored Vodka , Plume & Petal , $14.99 - $22.99 , {United States, North America} 
 Seven Stills California Courage Vodka , 40.0 , Vodka , Seven Stills , $23.99 - $34.99 , {California, North America, United States} 
