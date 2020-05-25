@@ -9,7 +9,7 @@ line = "https://drizly.com/beer/lager/pale-lager/american-style-lager/corona-ext
 currentLine = 1
 for line in fURL:
     output = ""
-    fData = open('beerData.txt', 'a')
+    fData = open('beerData.txt', 'a', encoding='utf-8')
     print(currentLine)
     page = scraper.get(line.strip())
     soup = BeautifulSoup(page.content, 'html.parser')
