@@ -30,4 +30,5 @@ Through the Booooze API, you can access the following data for every product of 
 - **PATCH**: Through ObjectID
 
 ## Demo
-!{API Demo](demo/apidemo.gif)
+![API Demo](https://github.com/sjain0913/Booooze-API/blob/master/demo/apidemo.gif "API Demo")
+
