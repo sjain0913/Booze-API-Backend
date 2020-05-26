@@ -19,3 +19,6 @@ Through the Booooze API, you can access the following data for every product of 
 - Data scraped through Python `(Beautiful Soup, JSON, Pickle, CloudScraper)`
 - Data stored in `MongoDB` database
 - Data transmission through `Postman`
+
+#### Frontend (Coming Soon)
+- Interface through React.js
