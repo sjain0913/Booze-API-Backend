@@ -22,3 +22,11 @@ Through the Booooze API, you can access the following data for every product of 
 
 #### Frontend (Coming Soon)
 - Interface through `React.js`
+
+## Access Points
+- **GET**: Through ObjectID, Name, or list of all objects in collection
+- **POST**: Through specified parameters or entire JSON of objects
+- **DELETE**: Through ObjectID
+- **PATCH**: Through ObjectID
+
+## Sample
