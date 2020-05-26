@@ -29,4 +29,5 @@ Through the Booooze API, you can access the following data for every product of 
 - **DELETE**: Through ObjectID
 - **PATCH**: Through ObjectID
 
-## Sample
+## Demo
+!{API Demo](demo/apidemo.gif)
