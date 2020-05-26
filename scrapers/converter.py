@@ -1,8 +1,8 @@
 import json
 #'beerData.txt','brandyData.txt','ginData.txt','liqueurData.txt','rumData.txt','tequilaData.txt','vodkaData.txt'
 #'beerData','brandyData','ginData','liqueurData','rumData','tequilaData','vodkaData'
-files = ['brandyData.txt']
-fileNames = ['brandyData']
+files = ['liqueurData.txt']
+fileNames = ['liqueurData']
 time = 0
 for f in range(len(files)):
     filename = files[f]
@@ -12,7 +12,7 @@ for f in range(len(files)):
         for line in fh:
             regionSplit = line.split('{')
             if "Liqueur, Cordials, & Schnapps" in line:
-                line.replace("Liqueur, Cordials, & Schnapps", "")
+                regionSplit[0] = regionSplit[0].replace("Liqueur, Cordials, & Schnapps", "")
             vals = regionSplit[0].split(',')
             name = vals[0].strip()
             concentration = vals[1].strip() + "%"
