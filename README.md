@@ -1,6 +1,6 @@
 # Booooze-API
 ## Copyright © 2020 Saumya Jain
-Coming Soon: Public access to API data with a React.js frontend
+Coming Soon: Public access to API data with a React.js frontend \n
 Through the Booooze API, you can access the following data for every product of Beer, Brandy, Gin, Liqueur, Rum, Tequila, Vodka and Whiskey sold in the United States:
 - **Name**: Name of product
 - **Concentration (ABV)**: An alcohol by volume percentage of product
