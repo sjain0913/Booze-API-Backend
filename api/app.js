@@ -21,7 +21,7 @@ const tequilaRoute = require('./routes/tequila.js');
 const liqueurRoute = require('./routes/liqueur.js');
 
 const app = express();
-// app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
 app.use(bodyParser.json());
 
 // Routes
@@ -50,3 +50,5 @@ mongoose.connect(
 
 // Start listening to port 3000
 app.listen(3000);
+
+module.exports = app;
