@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 .env
 api/node_modules/
+=======
+.env
+>>>>>>> parent of 6a42210... adding node_modules to gitignore
