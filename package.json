@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjain0913/Alcohol-API.git"
+    "url": "git+https://github.com/sjain0913/Booooze-API.git"
   },
   "author": "Oblivion",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sjain0913/Alcohol-API/issues"
+    "url": "https://github.com/sjain0913/Booooze-API/issues"
   },
-  "homepage": "https://github.com/sjain0913/Alcohol-API#readme",
+  "homepage": "https://github.com/sjain0913/Booooze-API#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
