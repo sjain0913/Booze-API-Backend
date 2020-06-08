@@ -21,7 +21,7 @@ const tequilaRoute = require('./routes/tequila.js');
 const liqueurRoute = require('./routes/liqueur.js');
 
 const app = express();
-// app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+app.use(cors());    // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
 app.use(bodyParser.json());
 
 // Routes
@@ -43,10 +43,11 @@ app.get('/api', (req, res) => {
 })
 
 // Check if connected to MongoDB
+app.set('port', process.env.port || 9000)
 mongoose.connect(
     process.env.DB_CONNECTION, () => {
     console.log("Connection to MongoDB works!");
 });
 
 // Start listening to port 3000
-app.listen(3000);
+app.listen(9000);
