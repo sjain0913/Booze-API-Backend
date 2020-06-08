@@ -14,7 +14,7 @@ Through the Booooze API, you can access the following data for every product of 
 - **Calories** (Only for Beer): Calories per serving
 - **Carbohydrates** (Only for Beer): Carbohydrates per serving
 
-## Technologies Used
+## Technologies Used (MERN Stack)
 #### Backend
 - Server with `Node.js (Express, Mongoose, Router, body-parser, cors)`
 - Data scraped through `Python (Beautiful Soup, JSON, Pickle, CloudScraper)`
