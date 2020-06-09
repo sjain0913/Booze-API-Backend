@@ -25,9 +25,9 @@ class App extends Component {
       <div className="App">
         <header className = "App-Header">
           <img src = {logo} className = "App-logo" alt="Booze-API" />
-          <p className = "App-description">Simple JSON/plain-text API to obtain the current time in, and related data about, a timzone.</p>
         </header>
         <p className = "App-intro">{this.state.apiResponse}</p>
+        <p className = "App-description">Simple JSON/plain-text API to obtain data of alcoholic products sold in the United States.</p>
       </div>
       );
     }
