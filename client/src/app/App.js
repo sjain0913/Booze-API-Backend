@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from '../media/blacklogo.jpg';
 import './App.css';
 
 class App extends Component {
@@ -18,15 +18,14 @@ class App extends Component {
 
   componentWillMount() {
     this.callAPI();
-    
   }
 
   render() {
     return (
       <div className="App">
         <header className = "App-Header">
-          <img src = {logo} className = "App-logo" alt="logo" />
-          <h1 className = "App-title">Welcome to React!</h1>
+          <img src = {logo} className = "App-logo" alt="Booze-API" />
+          <p className = "App-description">Simple JSON/plain-text API to obtain the current time in, and related data about, a timzone.</p>
         </header>
         <p className = "App-intro">{this.state.apiResponse}</p>
       </div>
