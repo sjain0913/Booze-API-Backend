@@ -10,7 +10,8 @@ class Header extends Component {
         <header className = "App-Header">
           <img src = {logo} className = "App-logo" alt="Booze-API" />
         </header>
-        <p className = "App-description">Simple JSON/plain-text API to obtain data of alcoholic products sold in the United States.</p>
+        <p className = "App-description">Simple JSON/plain-text API to obtain data of</p>
+        <p className = "App-description"> alcoholic products sold in the United States.</p>
       </div>
 
       );

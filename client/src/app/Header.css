@@ -20,7 +20,7 @@
   
   .App-logo {
     pointer-events: none;
-    max-width:750px;
+    max-width:450px;
   }
   
   .App-header {
@@ -40,7 +40,7 @@
     color: white;
     font-family: abel-regular;
     font-weight: 500;
-    font-size: 2.5vmin;
+    font-size: 3.0vmin;
   }
   
   h1, h2, h3, h4, h5, h6 {
