@@ -1,6 +1,13 @@
 import React, { Component } from 'react';
-import './App.css';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import './styles/App.css';
 import Header from './Header'
+import Home from './Home'
 
 class App extends Component {
 
@@ -24,6 +31,15 @@ class App extends Component {
     return (
       <div className="App">
         <Header></Header>
+        <Router>
+      <div>
+        <Switch>
+          <Route exact path="/">
+            <Home />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
       </div>
 
       );
