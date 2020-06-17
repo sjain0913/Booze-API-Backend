@@ -1,4 +1,4 @@
-# Booze-API
+# Booze-API (Work in Progress)
 ## Copyright © 2020 Saumya Jain
 Through the Booooze API, you can access the following data for every product of Beer, Brandy, Gin, Liqueur, Rum, Tequila, Vodka and Whiskey sold in the United States:
 - **Name**: Name of product
