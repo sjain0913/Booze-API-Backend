@@ -12,3 +12,40 @@
     font-family: roboto-bold;
     src: url('../../fonts/Roboto-Bold.ttf')
   }
+  
+  .home {
+    text-align: left;
+    background-color: black;
+  }
+  
+  .text {
+    color: white;
+    font-family: abel-regular;
+    font-weight: 500;
+    font-size: 2.0vmin;
+  }
+
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: abel-regular;
+    font-size: 2.5vmin;
+    color: #FCD116
+   }
+  
+  p {
+    margin: .2vmin;
+  }
+
+  body {
+    font-family: roboto-regular;
+    color: white;
+  } 
+
+  hr {
+    color:yellow ;
+  }
+
+  .center {
+    margin: auto;
+    width: 55%;
+  }
