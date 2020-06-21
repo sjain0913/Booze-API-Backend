@@ -8,6 +8,8 @@ import {
 import './styles/App.css';
 import Header from './Header'
 import Home from './Home'
+import APIHome from './APIHome'
+import HeaderApp from './HeaderApp'
 
 class App extends Component {
 
@@ -30,16 +32,21 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header></Header>
-        <Router>
-      <div>
-        <Switch>
-          <Route exact path="/">
-            <Home />
-          </Route>
-        </Switch>
-      </div>
-    </Router>
+      <Router>
+        <div>
+          <Switch>
+            <Route exact path="/">
+              <HeaderApp />
+              <Home />  
+            </Route>
+            <Route path="/api">
+              <Header />
+              <APIHome />
+            </Route>
+            
+          </Switch>
+        </div>
+      </Router>
       </div>
 
       );
