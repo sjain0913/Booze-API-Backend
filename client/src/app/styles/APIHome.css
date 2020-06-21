@@ -26,10 +26,10 @@
   
   p {
     color: white;
-    text-align: center;
     font-family: abel-regular;
     font-weight: 500;
     font-size: 1.8vmin;
+    text-align: left;
   }
 
   body {
@@ -44,4 +44,9 @@
   .center {
     margin: auto;
     width: 55%;
+  }
+
+  ul {
+    list-style-type:square;
+    text-align: left;
   }
