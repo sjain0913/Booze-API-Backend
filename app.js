@@ -21,7 +21,7 @@ const tequilaRoute = require('./routes/tequila.js');
 const liqueurRoute = require('./routes/liqueur.js');
 
 const app = express();
-app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs) (find a workaround)
 app.use(bodyParser.json());
 
 // Routes
