@@ -11,6 +11,7 @@ try {
             const allBeers = await Beer.find();
             res.json(allBeers);
         } catch(e) {
+            // add status codes
             res.json({message: e});
         }
     })
