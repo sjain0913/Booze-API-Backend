@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Beer = require('../models/Beer');
 
+// change structure of try catch to be inside only
 // GETS
 // GET1: gets back all the beers
 try {
