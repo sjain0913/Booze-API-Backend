@@ -10,6 +10,7 @@ const cors = require('cors');
 
 require('dotenv/config');
 
+// figure out how to cache
 // Requiring routes
 const beerRoute = require('./routes/beer.js');
 const vodkaRoute = require('./routes/vodka.js');
