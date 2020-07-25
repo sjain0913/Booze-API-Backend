@@ -9,8 +9,10 @@ scrapers/Gin/ginDataScraper.py
 scrapers/Liqueur/liqueurData.json
 scrapers/Liqueur/liqueurDataScraper.py
 scrapers/Rum/rumData.json
+scrapers/Tequila/rumDataScraper.py
+scrapers/Rum/tequilaData.json
 scrapers/Tequila/tequilaDataScraper.py
 scrapers/Vodka/vodkaData.json
 scrapers/Vodka/vodkaDataScraper.py
-scrapers/Whiksey/whiskeyData.json
+scrapers/Whiskey/whiskeyData.json
 scrapers/Whiskey/whiskeyDataScraper.py
