@@ -1,5 +1,5 @@
 {
-  "name": "alcohol-api",
+  "name": "booze-api",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sjain0913/Booooze-API.git"
+    "url": "git+https://github.com/sjain0913/Booze-API-Backend.git"
+  },
+  "engines" : {
+    "node" : ">=12.16.3"
   },
   "author": "Oblivion",
   "license": "ISC",
