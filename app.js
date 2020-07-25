@@ -1,4 +1,4 @@
-// Link: http://localhost:3000/
+// Link: http://localhost:9000/
 
 // Requiring modules
 const express = require('express');
@@ -10,6 +10,7 @@ const cors = require('cors');
 
 require('dotenv/config');
 
+// figure out how to cache
 // Requiring routes
 const beerRoute = require('./routes/beer.js');
 const vodkaRoute = require('./routes/vodka.js');
@@ -21,7 +22,7 @@ const tequilaRoute = require('./routes/tequila.js');
 const liqueurRoute = require('./routes/liqueur.js');
 
 const app = express();
-app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs)
+app.use(cors());      // <== Uncomment when testing frontend (bypasses the crossdomain lock for accessing APIs) (find a workaround)
 app.use(bodyParser.json());
 
 // Routes
