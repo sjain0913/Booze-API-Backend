@@ -51,3 +51,5 @@ mongoose.connect(
 
 // Start listening to port 3000
 app.listen(9000);
+
+//"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
