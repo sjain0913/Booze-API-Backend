@@ -1,2 +1,16 @@
 .env
 node_modules/
+scrapers/Beer/beerData.json
+scrapers/Beer/beerDataScraper.py
+scrapers/Brandy/brandyData.json
+scrapers/Brandy/brandyDataScraper.py
+scrapers/Gin/ginData.json
+scrapers/Gin/ginDataScraper.py
+scrapers/Liqueur/liqueurData.json
+scrapers/Liqueur/liqueurDataScraper.py
+scrapers/Rum/rumData.json
+scrapers/Tequila/tequilaDataScraper.py
+scrapers/Vodka/vodkaData.json
+scrapers/Vodka/vodkaDataScraper.py
+scrapers/Whiksey/whiskeyData.json
+scrapers/Whiskey/whiskeyDataScraper.py
