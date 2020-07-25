@@ -63,4 +63,6 @@ const BeerSchema = mongoose.Schema({
     }
 });
 
+// fix the data discrepencies
+
 module.exports = mongoose.model('Beer', BeerSchema, 'Beer');
