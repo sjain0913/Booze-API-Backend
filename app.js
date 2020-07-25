@@ -44,13 +44,12 @@ app.get('/api', (req, res) => {
 })
 
 // Check if connected to MongoDB
-app.set('port', process.env.port || 9000)
 mongoose.connect(
     process.env.DB_CONNECTION, () => {
     console.log("Connection to MongoDB works!");
 });
 
-// Start listening to port 3000
-app.listen(9000);
+// Start listening to port 9000
+app.listen(process.env.PORT || 9000);
 
 //"heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
